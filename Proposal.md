@@ -11,5 +11,3 @@ With many general trends of housing rentals online in the United States, we want
 In terms of data, we have found many recent rental datas of various characteristics on the [Zillow website](https://www.zillow.com/research/data/) that is up to date to this year. We also found other sources of data from the [government](https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx). Given the wide topic of housing rental cost, we believe we are able to find more datasets if needed.
 
 After we finish the visualization aspect of the project using existing data, we hope to make use of the data to run some simple machine learning models to predict future rental housing prices based on certain assumptions. As we believe that this project can be scoped further to provide more information to the users in deciding where to rent. If time allows, we would want to add in some analysis to possible reasons as to why the prices have changed in value or even cost of living data to help the users.
-
-Each member of your group should submit the URL pointing to this document on your github repo.
