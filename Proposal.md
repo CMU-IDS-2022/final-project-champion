@@ -11,3 +11,27 @@ With many general trends of housing rentals online in the United States, we want
 In terms of data, we have found many recent rental datas of various characteristics on the [Zillow website](https://www.zillow.com/research/data/) that is up to date to this year. We also found other sources of data from the [government](https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx). Given the wide topic of housing rental cost, we believe we are able to find more datasets on other characteristics if needed.
 
 After we finish the visualization aspect of the project using existing data, we hope to make use of the data to run some simple machine learning models to predict future rental housing prices based on certain assumptions. As we believe that this project can be scoped further to provide more information to the users in deciding where to rent. If time allows, we would want to add in some analysis to possible reasons as to why the prices have changed in value or even cost of living data to help the users.
+
+
+### How to Estimate Rental Price for each zip code
+
+---
+**HOME VALUES**
+
+Zillow Home Value Index (ZHVI): A **smoothed, seasonally adjusted measure** of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. The raw version of that mid-tier ZHVI time series is also available.
+
+Zillow publishes top-tier ZHVI (\$, typical value for homes within the 65th to 95th percentile range for a given region) and bottom-tier ZHVI ($, typical value for homes that fall within the 5th to 35th percentile range for a given region).
+
+Zillow also publishes ZHVI for all single-family residences (\$, typical value for all single-family homes in a given region), for condo/coops (\$), for all homes with 1, 2, 3, 4 and 5+ bedrooms (\$), and the ZHVI per square foot (\$, typical value of all homes per square foot calculated by taking the estimated home value for each home in a given region and dividing it by the home’s square footage). Check out this overview of ZHVI and a deep-dive into its methodology. 
+
+Here’s a handy ZHVI User Guide for information about properly citing and making calculations with this metric.
+
+**HOME VALUES FORECASTS**
+
+The Zillow Home Value Forecast (ZHVF) is the month-ahead, quarter-ahead and year-ahead forecast of the Zillow Home Values Index (ZHVI). ZHVF is created using the all homes, mid-tier cut of ZHVI and is available both raw and smoothed, seasonally adjusted.
+
+**RENTALS**
+
+Zillow Observed Rent Index (ZORI): A **smoothed measure** of the typical observed market rate rent across a given region. ZORI is a repeat-rent index that is weighted to the rental housing stock to ensure representativeness across the entire market, not just those homes currently listed for-rent. The index is dollar-denominated by computing the mean of listed rents that fall into the 40th to 60th percentile range for all homes and apartments in a given region, which is once again weighted to reflect the rental housing stock. Details available in ZORI methodology.
+
+----------------
