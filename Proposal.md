@@ -12,15 +12,16 @@ In terms of data, we have found many recent rental datas of various characterist
 
 After we finish the visualization aspect of the project using existing data, we hope to make use of the data to run some simple machine learning models to predict future rental housing prices based on certain assumptions. As we believe that this project can be scoped further to provide more information to the users in deciding where to rent. If time allows, we would want to add in some analysis to possible reasons as to why the prices have changed in value or even cost of living data to help the users.
 
+----------------
+## Start of Data Processing
 
 ### How to Estimate Rental Price for each zip code  
 
 This is how Zillow makes their metrics according to housing price, index, and rental index. But the problem is that we do not have zipcode level of rental price for each room type(1 bed, 2 bed, studio, ...). So, we try to estimate rental price values by using Zillow's dataset like below. 
 
----
 This data and decription comes from Zillow research dataset [link](https://www.zillow.com/research/data/)  
 
-**HOME VALUES**
+### HOME VALUES
 
 Zillow Home Value Index (ZHVI): A **smoothed, seasonally adjusted measure** of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. The raw version of that mid-tier ZHVI time series is also available.
 
@@ -30,7 +31,7 @@ Zillow also publishes ZHVI for all single-family residences (\$, typical value f
 
 Here’s a handy ZHVI User Guide for information about properly citing and making calculations with this metric.
 
-**HOME VALUES FORECASTS**
+### HOME VALUES FORECASTS
 
 The Zillow Home Value Forecast (ZHVF) is the month-ahead, quarter-ahead and year-ahead forecast of the Zillow Home Values Index (ZHVI). ZHVF is created using the all homes, mid-tier cut of ZHVI and is available both raw and smoothed, seasonally adjusted.
 
@@ -38,9 +39,6 @@ The Zillow Home Value Forecast (ZHVF) is the month-ahead, quarter-ahead and year
 
 Zillow Observed Rent Index (ZORI): A **smoothed measure** of the typical observed market rate rent across a given region. ZORI is a repeat-rent index that is weighted to the rental housing stock to ensure representativeness across the entire market, not just those homes currently listed for-rent. The index is dollar-denominated by computing the mean of listed rents that fall into the 40th to 60th percentile range for all homes and apartments in a given region, which is once again weighted to reflect the rental housing stock. Details available in ZORI methodology.
 
-----------------
-
-**Our Approach**  
 We can gather the housing price's fluctuation but hard to archive historical changes of rent price over years.  
 So, we establish the housing price - rent price conversion rate based Zillow Value Index on Home Value and Rentals.  
 The problem is rental price was made of the weighted average price of all list in specific period, but we want to show each period each type's rental price.  
@@ -53,9 +51,12 @@ Here is the housing price and estimated rental data as we proceed the estimatioi
 
 ![image](https://user-images.githubusercontent.com/79838132/163627279-12d5db8d-4268-40a6-838f-62c769163744.png)
 
-![image](https://user-images.githubusercontent.com/79838132/163627292-d9858f0d-adfb-4b5a-95db-dca84cb06994.png)
-
-![image](https://user-images.githubusercontent.com/79838132/163627311-e39238d8-8748-4a4e-b8c0-f1ce5df4344f.png)
 
 Even this estimated value it not the exact value of rental price in that area, at least we can track the historical variation of rental price within the city and provide students to point out which place to start with for their next destination in detail.  
 
+----------------------------------------------------------------
+**Visualizations**
+
+TODO: add visualizations
+
+Ref: [powerpoint visualization](https://docs.google.com/presentation/d/1knz1n-LBvtL3ET3bLN5FyZnN-cmNViw0l_zkHrjORmM/edit?usp=sharing)
