@@ -57,6 +57,9 @@ Even this estimated value it not the exact value of rental price in that area, a
 ----------------------------------------------------------------
 **Visualizations**
 
+<img width="550" alt="WX20220415-225459@2x" src="https://user-images.githubusercontent.com/97925469/163658837-ad662ff5-04c1-4759-bdbb-4fd45e783e01.png">
+
+
 TODO: add visualizations
 
 Ref: [powerpoint visualization](https://docs.google.com/presentation/d/1knz1n-LBvtL3ET3bLN5FyZnN-cmNViw0l_zkHrjORmM/edit?usp=sharing)
