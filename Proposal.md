@@ -57,7 +57,9 @@ Even this estimated value it not the exact value of rental price in that area, a
 ----------------------------------------------------------------
 **Visualizations**
 The first page with a map shows the top 10 cities CMU students go to when they graduate.Its the start of exploration process.
+
 <img width="550" alt="WX20220415-225459@2x" src="https://user-images.githubusercontent.com/97925469/163658837-ad662ff5-04c1-4759-bdbb-4fd45e783e01.png">
+
 Then there is a nation map.Students could choose some virables and cites their want to know about.
 1.Show each room type rent YoY rate over year
 2.Show top N faller and riser city for rental price 
@@ -66,8 +68,11 @@ Then there is a nation map.Students could choose some virables and cites their w
 5.Show average income level change in selected cities.
 Next part is specific city analysis.
 This slides shows an example of price.Users can choose which part district of specific cities they want to know and the district information will show up. Neighbour breakdown for a city with name and current price with different colors. Then there is a menu of current time to choose.The second part have price / listings in current year and bed types for prices to vary accordingly. The third bar chart shows median price across neighborhoods with highlight accordingly based on the neighborhood selected.
+
 <img width="575" alt="WX20220415-230949@2x" src="https://user-images.githubusercontent.com/97925469/163659273-f1846302-c165-4c09-b4df-86c431f36d6e.png">
+
 This slide is very similar to the pervious slides but with additional option to select time frame based on pandemic. The chart highlight accordingly based on the neighborhood selected with and price fluctuates in percentage across time in each neighborhood.
+
 <img width="567" alt="WX20220415-233024@2x" src="https://user-images.githubusercontent.com/97925469/163659961-55200245-a76a-4aaa-8cf2-4693f6dd7960.png">
 
 Ref: [powerpoint visualization](https://docs.google.com/presentation/d/1knz1n-LBvtL3ET3bLN5FyZnN-cmNViw0l_zkHrjORmM/edit?usp=sharing)
