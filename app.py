@@ -226,8 +226,7 @@ if page_selection == "US National Wide":
         # show Map + median income graph
         st.write(graph_rentalprice | graph_medianincome)
         
-        
-        
+  
     elif metric_selection=="Crime":
         st.subheader("US City Average Crime Score at "+str(year_selection))
         # US states background
@@ -267,9 +266,7 @@ if page_selection == "US National Wide":
         )
         graph_crime = background+point+text
         st.write(graph_crime | graph_medianincome)
-        
-        
-        
+       
     # show selected city's room type graph
     city_list = list(top10_rental_sum['City'].unique())
     city_selection = st.selectbox(
@@ -277,8 +274,57 @@ if page_selection == "US National Wide":
     index=len(city_list)-4
     )
     
-    st.text(city_selection)
+    st.text("Add range selection for bottom two graph")
     
+    # room trend type of city
+    df = top10_rental[top10_rental['City']==city_selection]
+    df.rename(columns={"date":"YearMonth","rental_price":"RentalPrice","roomtype":"RoomType"},inplace=True)
+    lines = alt.Chart(df).mark_line(
+        point={
+            "filled":True,
+            # "fill":"white",
+            "size":20
+            }
+    ).encode(
+        x=alt.X('YearMonth:T',
+                axis=alt.Axis(title=None, grid=False)),
+        y=alt.Y('RentalPrice:Q',
+                scale=alt.Scale(zero=False),
+                axis=alt.Axis(title=None, grid=False)),
+        color=alt.Color('RoomType:O', scale=alt.Scale(scheme='tableau10'),
+                        legend=alt.Legend( title=None)),
+        tooltip=[
+            'City',
+            alt.Tooltip('yearmonth(YearMonth):O',title="YearMonth"),
+            'RoomType',
+            alt.Tooltip('RentalPrice:Q',format='$,d')    
+        ]
+    )
+    pandemic_location=pd.DataFrame({
+            'YearMonth':['2020-01','2021-01'],
+            'Color':['red','orange'],
+            'Text':['Pandemic Start','Pandemic End']
+        })
+    pandemic = alt.Chart(pandemic_location).mark_rule().encode(
+            x=alt.X('yearmonth(YearMonth):T'),
+            color=alt.Color('Color:N',scale=None)
+        
+    )
+    text = pandemic.mark_text(
+        dx=0,dy=-90, 
+        align='center',
+        fontStyle='bold',
+        color='black').encode(
+        alt.Text('Text:N',),
+        color=alt.Color()
+        # opacity=alt.condition(~hover, alt.value(0), alt.value(1))
+    )
+
+    graph = (lines+pandemic+text).properties(
+        width=900,
+        height=300
+    )
+    st.write(graph)
     
     df = top10_rental_graph[(top10_rental_graph['City']==city_selection)&(top10_rental_graph['Year']==year_selection)]
     main=alt.Chart(df).mark_bar().encode(
@@ -313,8 +359,8 @@ if page_selection == "US National Wide":
     bars=alt.Chart(df).mark_bar().encode(
         x=alt.X("CrimeType:N", sort='y',axis=alt.Axis(ticks=False, labelAngle=0, domain=False,offset=0,title=None,labelFontStyle='bold')),
         # y=alt.Y("CrimeType:N",sort='-x',axis=alt.Axis(title=None,)),
-        y=alt.Y("Rate",axis=None),
-        color=alt.Color("Rate:Q", sort='y',
+        y=alt.Y("mean(Rate):Q",axis=None),
+        color=alt.Color("mean(Rate):Q", sort='y',
                         scale=alt.Scale(scheme='goldred'),
                         legend=None),   
     ).properties(
@@ -344,13 +390,20 @@ if page_selection == "US National Wide":
     
     
     
-    city = 'New York'
-    room = '4beds'
-    df=top10_rental_graph[(top10_rental_graph['City']==city) & (top10_rental_graph['RoomType']==room)]
+    # last line chart
+    if roomtype_selection not in roomtypes:
+        rt_selection = '1bed'
+    else:
+        rt_selection = roomtype_selection
+    
+    df=top10_rental_graph[(top10_rental_graph['City']==city_selection) & (top10_rental_graph['RoomType']==rt_selection)]
 
     period_list = list(top10_rental_graph['Period'].unique())
     input_dropdown = alt.binding_select(options=period_list)
-    selection = alt.selection_single(fields=['Period'],bind=input_dropdown, name='Pandemic')
+    pandemic_selection=st.radio(
+        'Pandemic Period',
+        ['Post-Pandemic','Pandemic','Pre-Pandemic']
+        )
 
     graph_trend=alt.Chart(df).mark_line(
         point={
@@ -359,7 +412,7 @@ if page_selection == "US National Wide":
             }).encode(
         x=alt.X('Month',scale=alt.Scale(zero=False),axis=alt.Axis(title=None, labelAngle=0, labelFontStyle='bold')),
         y=alt.Y('RentalPrice',scale=alt.Scale(zero=False),axis=alt.Axis(title=None, grid=False, labelFontStyle='bold')),
-        color=alt.condition(selection, alt.Color('Year:N',legend=None),alt.value('lightgray')),
+        color=alt.condition(pandemic_selection, alt.Color('Period:O',legend=None),alt.value('lightgray')),
         tooltip=[
             'City',
             'Year',
@@ -367,13 +420,11 @@ if page_selection == "US National Wide":
             'RoomType',
             alt.Tooltip('RentalPrice:Q',format='$,d')
             ]
-        # emphosize pandemic
-    ).add_selection(
-        selection
     ).properties(
         width=400,
         height=150,
-        title="Average Price of "+room+" at " +city
+    ).add_selection(
+        pandemic_selection
     )
     st.write(graph_trend)
 # draw neighborhood level data
