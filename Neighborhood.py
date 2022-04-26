@@ -134,7 +134,7 @@ def showGeneralNeighborhoodPriceChart(df):
   # st.write(df)
   lineChart = alt.Chart(df).mark_line().encode(
     alt.X("Date:T"),
-    alt.Y("mean(MeanPrices):Q", scale=alt.Scale(zero=False)),
+    alt.Y("TotalMeanPrices:Q", scale=alt.Scale(zero=False)),
     # color = "Neighborhood",
   ).properties().interactive() # width=600
 
@@ -203,7 +203,7 @@ def visualizeCityBedroomType(city, bedroom):
   # second graph chart
   df['PriceChange'] = df.groupby('Neighborhood')['Prices'].pct_change()
   df['MeanPriceChange'] = df.groupby('Date')['PriceChange'].transform(np.mean)
-  df['MeanPrices'] = df.groupby('Date')['Prices'].transform(np.mean)
+  df['TotalMeanPrices'] = df.groupby('Date')['Prices'].transform(np.mean)
   # st.write(df)
   showGeneralNeighborhoodPriceChart(df)
   st.write("interesting trend where the housing rental prices in United States is always increasing.")
