@@ -137,7 +137,16 @@ def showGeneralNeighborhoodPriceChart(df):
     alt.Y("mean(MeanPrices):Q", scale=alt.Scale(zero=False)),
     # color = "Neighborhood",
   ).properties().interactive() # width=600
-  st.altair_chart(barChart + getCovidMarkings() | lineChart + getCovidMarkings())
+
+  band = alt.Chart(df).mark_area(
+    opacity=0.5, color='gray'
+  ).encode(
+    x=alt.X("Date:T"),
+    y=alt.Y("max(MeanPrices):Q", scale=alt.Scale(zero=False)),
+    y2="max(MeanPrices):Q", scale=alt.Scale(zero=False),
+  )
+
+  st.altair_chart(barChart + getCovidMarkings() | lineChart + band + getCovidMarkings() )
 
 
 ################## neighborhood level section ##################
@@ -219,14 +228,13 @@ def visualizeCityBedroomNeighborhood(df, neighborhoods):
 ################## Specific functions section to call other graphs ##################
 def loadNeighborhoodData():
 
+  citySelection = st.selectbox("Which city would you like to see?", top10cities)
   metric_selection = st.radio(
     'View Metric',
     ('Rental Price','Others')
   )
 
   if metric_selection == 'Rental Price':
-
-    citySelection = st.selectbox("Which city would you like to see?", top10cities)
     citySelection = citySelection.replace(' ', '')
     # visualizeCity(citySelection)
 
@@ -240,5 +248,5 @@ def loadNeighborhoodData():
     visualizeCityBedroomNeighborhood(df, neighborhoodSelections)
 
   elif metric_selection == 'Others':
-    NeighborhoodOthers.loadOthersNeighborhoodData()
+    NeighborhoodOthers.loadOthersNeighborhoodData(citySelection)
 

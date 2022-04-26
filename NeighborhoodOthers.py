@@ -3,5 +3,5 @@ import altair as alt
 import pprint
 import pandas as pd
 
-def loadOthersNeighborhoodData():
+def loadOthersNeighborhoodData(citySelection):
 	st.header("other neighborhood data")
