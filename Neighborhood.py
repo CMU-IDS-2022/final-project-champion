@@ -138,15 +138,16 @@ def showGeneralNeighborhoodPriceChart(df):
     # color = "Neighborhood",
   ).properties().interactive() # width=600
 
-  band = alt.Chart(df).mark_area(
-    opacity=0.5, color='gray'
-  ).encode(
-    x=alt.X("Date:T"),
-    y=alt.Y("max(MeanPrices):Q", scale=alt.Scale(zero=False)),
-    y2="max(MeanPrices):Q", scale=alt.Scale(zero=False),
-  )
+  # the band across lines are too huge to show any difference
+  # band = alt.Chart(df).mark_area(
+  #   opacity=0.5, color='gray'
+  # ).encode(
+  #   x=alt.X("Date:T"),
+  #   y=alt.Y("min(MeanPrices):Q", scale=alt.Scale(zero=False)),
+  #   y2="max(MeanPrices):Q",
+  # )
 
-  st.altair_chart(barChart + getCovidMarkings() | lineChart + band + getCovidMarkings() )
+  st.altair_chart(barChart + getCovidMarkings() | lineChart + getCovidMarkings() )
 
 
 ################## neighborhood level section ##################
@@ -199,9 +200,11 @@ def visualizeCityBedroomType(city, bedroom):
   # first graph chart
   showGeneralNeighborhoodChart(df, value)
   # TODO: add this to data preprocessing column
+  st.write(df.groupby('Date'))
+  st.write(df.groupby('Date')['Prices'].pct_change())
   # second graph chart
-  df['Price_change'] = df.groupby('Date')['Prices'].pct_change()
-  df['MeanPriceChange'] = df.groupby('Date')['Price_change'].transform(np.mean)
+  df['PriceChange'] = df.groupby('Neighborhood')['Prices'].pct_change()
+  df['MeanPriceChange'] = df.groupby('Date')['PriceChange'].transform(np.mean)
   # st.write(df)
   showGeneralNeighborhoodPriceChart(df)
   st.write("interesting trend where the housing rental prices in United States is always increasing.")
