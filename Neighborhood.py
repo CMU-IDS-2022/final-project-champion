@@ -200,8 +200,6 @@ def visualizeCityBedroomType(city, bedroom):
   # first graph chart
   showGeneralNeighborhoodChart(df, value)
   # TODO: add this to data preprocessing column
-  st.write(df.groupby('Date'))
-  st.write(df.groupby('Date')['Prices'].pct_change())
   # second graph chart
   df['PriceChange'] = df.groupby('Neighborhood')['Prices'].pct_change()
   df['MeanPriceChange'] = df.groupby('Date')['PriceChange'].transform(np.mean)
