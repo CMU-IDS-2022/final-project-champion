@@ -122,7 +122,6 @@ def filterByNeighborhood(df, neighborhood):
   return df[df['Neighborhood'] == neighborhood]
 
 
-
 def getTopNeighborhoods(df, num):
   return df.drop_duplicates(subset=['MeanPrices']).nlargest(num, ['MeanPrices'])['Neighborhood'].tolist()
 
@@ -165,7 +164,19 @@ def visualizeCityBedroomType(city, bedroom):
   df['Price_change'] = df['Prices'].pct_change()
   df['MeanPriceChange'] = df.groupby('Date')['Price_change'].transform('mean')
   showGeneralNeighborhoodPriceChart(df)
+  return df
 
+
+def visualizeCityBedroomNeighborhood(df):
+  line = alt.Chart(df).mark_line(color='blue').encode(
+    x="Date:T",
+    y=alt.Y('Prices:Q', scale=alt.Scale(zero=False)),
+  ).properties(
+      width=600, height=300,
+      title='General price trend for rents'
+  )
+
+  st.altair_chart(line + getCovidMarkings())
 
 # function to load all the data and interactions
 def loadNeighborhoodData():
@@ -175,7 +186,11 @@ def loadNeighborhoodData():
 
   st.subheader("General City Bedroom type visualizations")
   bedroomSelection = st.selectbox("Which bedroom type would you like to see?", bedroomTypes.keys())
-  visualizeCityBedroomType(citySelection, bedroomTypes[bedroomSelection])
+  df = visualizeCityBedroomType(citySelection, bedroomTypes[bedroomSelection])
 
   st.subheader("Specific neighborhood visualizations")
-  
+  neighborhoodSelection = st.selectbox("Which neighborhood would you like to see?", set(df['Neighborhood']))
+
+  visualizeCityBedroomNeighborhood(filterByNeighborhood(df, neighborhoodSelection))
+
+
