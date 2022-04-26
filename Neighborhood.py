@@ -195,18 +195,20 @@ def visualizeCity(city):
 
 
 def visualizeCityBedroomType(city, bedroom):
-  df = readCsv(f"data/{city}/{bedroom}Rental")
-  value = st.slider("Select the number of properties to view", 1, len(pd.unique(df['Neighborhood'])), 5)
-  # first graph chart
-  showGeneralNeighborhoodChart(df, value)
+  df = readCsv(f"data/{city}/{bedroom}Rental")  
   # TODO: add this to data preprocessing column
-  # second graph chart
+  # first graph chart
   df['PriceChange'] = df.groupby('Neighborhood')['Prices'].pct_change()
   df['MeanPriceChange'] = df.groupby('Date')['PriceChange'].transform(np.mean)
   df['TotalMeanPrices'] = df.groupby('Date')['Prices'].transform(np.mean)
   # st.write(df)
   showGeneralNeighborhoodPriceChart(df)
   st.write("interesting trend where the housing rental prices in United States is always increasing.")
+
+  # second graph chart
+  value = st.slider("Select the number of properties to view", 1, len(pd.unique(df['Neighborhood'])), 5)
+  
+  showGeneralNeighborhoodChart(df, value)
   return df
 
 
