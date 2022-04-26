@@ -1,6 +1,6 @@
 geocoder
 vega_datasets
 pyproj == 1.9.6
-pyarrow==3.0.0
 
+descartes
 geopandas

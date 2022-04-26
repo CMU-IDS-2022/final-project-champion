@@ -4,6 +4,9 @@ import pprint
 import pandas as pd
 import json
 import geopandas as gpd
+import pyproj
+import numpy as np
+import matplotlib.pyplot as plt
 
 from vega_datasets import data
 from altair import datum
@@ -23,6 +26,7 @@ def readCsv(fileName):
 city_neighborhood_mapping = {
 	"Boston": "Neighborhood_ID",
 	"SanFrancisco": "nhood",
+	"NewYork": "ntaname",
 }
 
 def addLatLonGeometry(df):
@@ -31,16 +35,19 @@ def addLatLonGeometry(df):
   return df
 
 
-@st.cache
 def readGeoFile(fileName):
   geoJson = gpd.read_file(fileName)
   return addLatLonGeometry(geoJson)
+  # return gpd.read_file(fileName)
 
 
 # geo json chart
 def showGraphChart(geoDf, labelName='nhood'):
   # chart object
-  graph1 = alt.Chart(geoDf).mark_geoshape().encode(
+  graph1 = alt.Chart(geoDf).mark_geoshape(
+  	fill='lightgray',
+	stroke='white'
+  ).encode(
       color=labelName,
       tooltip=labelName,
   ).properties( 
@@ -57,7 +64,7 @@ def showGraphChart(geoDf, labelName='nhood'):
       size=alt.value(8),
       opacity=alt.value(0.6)
   )
-  return graph1+labels
+  return graph1
 
 ################## city level section ##################
 # filter df by city
@@ -108,8 +115,26 @@ def visualizeCity(city):
 	st.write('showing city:', city)
 	# load geojson data from city
 	geoFileName = f"GeojsonData/{city}Neighborhoods.geojson"
+	# geoFileName = f"ShpData/{city}Neighborhoods.shp"
 	geoData = readGeoFile(geoFileName)
-	st.write(showGraphChart(geoData, city_neighborhood_mapping[city]))
+	st.write(geoData.sample(5))
+
+	geoData.plot("nhood", figsize = (20, 10)) # legend=True,
+	for _, row in geoData.iterrows():
+		plt.text(s=row['nhood'], x = row['lon'], y = row['lat'],
+		       horizontalalignment='center', fontdict = {'size': 10}) # 'weight': 'bold', 
+
+		# plt.text(s='Data: ' + f'{hue:,}', x=row['coords'][0],y = row['coords'][1] - 0.01 ,
+		#       horizontalalignment='center', fontdict = {'size': 8})
+	st.labels = False
+	st.pyplot()
+
+	df = pd.DataFrame(geoData, columns=['lat', 'lon'])
+	st.map(df)
+
+	# st.write(geoData.head())
+	# st.altair_chart(showGraphChart(geoData, city_neighborhood_mapping[city]))
+	# st.write('ab')
 
 
 
