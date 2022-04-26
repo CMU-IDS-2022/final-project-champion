@@ -100,7 +100,7 @@ def showGeneralNeighborhoodChart(df, value):
     color=alt.Color('Neighborhood'),
     tooltip=['Neighborhood', 'Prices']
   )
-
+  # TODO: change to luxury & cheapest
   topExNeighborhoods = topNeighborsChart.transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=mostExNeighborhoods)
   ).properties(
@@ -206,8 +206,9 @@ def visualizeCityBedroomType(city, bedroom):
   st.write("interesting trend where the housing rental prices in United States is always increasing.")
 
   # second graph chart
-  value = st.slider("Select the number of properties to view", 1, len(pd.unique(df['Neighborhood'])), 5)
-  
+  # TODO: show the same axis
+  value = st.slider("Select the number of neighborhoods to view", 1, len(pd.unique(df['Neighborhood'])), 5)
+
   showGeneralNeighborhoodChart(df, value)
   return df
 
@@ -226,7 +227,9 @@ def visualizeCityBedroomNeighborhood(df, neighborhoods):
       title='General price trend for rents'
   )
   # height = df
-
+  # TODO: add neighborhood names for world cloud
+    # check if it is possible to show world cloud for a specific neighborhood
+  # TODO: add world map graph
   st.altair_chart(line + getCovidMarkings() + getCovidText(4750))
 
 ################## Specific functions section to call other graphs ##################
