@@ -1,9 +1,6 @@
 geocoder
 vega_datasets
 pyproj == 1.9.6
+pyarrow==3.0.0
 
-# setuptools == 58.0.2
-# gdal >= 3.0.4
-# pipwin
-# fiona
-# geopandas
+geopandas
