@@ -74,7 +74,8 @@ if __name__ == "__main__":
   housing_df = reformateColumns(housing_df) # reformat column names and styles
 
   # create a meanPrices column
-  housing_df['MeanPrices'] = housing_df.groupby('Neighborhood')['Prices'].transform('mean')
+  # this is wrong data
+  housing_df['MeanPrices'] = housing_df.groupby('Date')['Prices'].transform('mean')
   housing_df
 
   # create separate year and month columns

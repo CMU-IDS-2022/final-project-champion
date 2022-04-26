@@ -203,6 +203,7 @@ def visualizeCityBedroomType(city, bedroom):
   # second graph chart
   df['PriceChange'] = df.groupby('Neighborhood')['Prices'].pct_change()
   df['MeanPriceChange'] = df.groupby('Date')['PriceChange'].transform(np.mean)
+  df['MeanPrices'] = df.groupby('Date')['Prices'].transform(np.mean)
   # st.write(df)
   showGeneralNeighborhoodPriceChart(df)
   st.write("interesting trend where the housing rental prices in United States is always increasing.")
