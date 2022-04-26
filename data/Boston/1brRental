@@ -1,0 +1,1275 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+0,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,4514.367100055152,4456.069091916995,2018,1
+1,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2799.327453503356,2899.828302435655,2018,1
+2,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2193.9432194360147,2373.9690600966665,2018,1
+3,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2889.600392552331,2962.631469313053,2018,1
+4,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2765.6267113823847,2828.6903289246115,2018,1
+5,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,3761.238899163774,3847.794124931328,2018,1
+6,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,1693.240291188842,1873.48450257392,2018,1
+7,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,3206.8497790577608,3230.3247926825275,2018,1
+8,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2007.874404807956,2113.2324871309106,2018,1
+9,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,1685.562326483261,1920.207924849148,2018,1
+10,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,3680.6798308354,3729.630857920866,2018,1
+11,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,1518.325642494138,1637.095155465328,2018,1
+12,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,1281.8519100633614,1305.8311222361867,2018,1
+13,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2212.834911155177,2307.590541787514,2018,1
+14,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2877.6177861394603,3017.250891558661,2018,1
+15,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2029.397613344405,2113.436988812832,2018,1
+16,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2053.23287472238,2226.008149203765,2018,1
+17,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,3334.250929662568,3380.800522796702,2018,1
+18,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2143.375862323588,2247.08353227888,2018,1
+19,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,3740.749887565806,2641.803040302388,2018,1
+20,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,5455.664997313492,5743.396591279594,2018,1
+21,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,4253.809032638181,3320.36622783838,2018,1
+22,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,3849.871201184688,3903.607896277668,2018,1
+23,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-01,2858.368727938938,3109.58092625612,2018,1
+354,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,4568.209695769529,4456.069091916995,2018,2
+355,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2285.264972102865,2527.063255856496,2018,2
+356,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2837.7183033993037,2899.828302435655,2018,2
+357,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2220.3361420372557,2373.9690600966665,2018,2
+358,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2915.190636161088,2962.631469313053,2018,2
+359,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2805.95377551216,2828.6903289246115,2018,2
+360,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,3800.686763533512,3847.794124931328,2018,2
+361,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,1718.9936354481135,1873.48450257392,2018,2
+362,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,3234.41542687876,3230.3247926825275,2018,2
+363,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2026.0126122091524,2113.2324871309106,2018,2
+364,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,1726.2267103853778,1920.207924849148,2018,2
+365,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,3724.412681137841,3729.630857920866,2018,2
+366,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,1537.938005128426,1637.095155465328,2018,2
+367,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,1300.1670063435772,1305.8311222361867,2018,2
+368,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2233.353498287302,2307.590541787514,2018,2
+369,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2907.080659819532,3017.250891558661,2018,2
+370,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2048.9046407944857,2113.436988812832,2018,2
+371,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2081.017750606316,2226.008149203765,2018,2
+372,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,3360.8253939111173,3380.800522796702,2018,2
+373,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2163.1959393513807,2247.08353227888,2018,2
+374,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,3764.0529818858895,2641.803040302388,2018,2
+375,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,5655.540204128556,5743.396591279594,2018,2
+376,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,4290.150251720414,3320.36622783838,2018,2
+377,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,3862.3748710180425,3903.607896277668,2018,2
+378,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-02,2881.0350541342914,3109.58092625612,2018,2
+709,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,4571.445185657576,4456.069091916995,2018,3
+710,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2314.2136393841965,2527.063255856496,2018,3
+711,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2854.451457256845,2899.828302435655,2018,3
+712,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2225.0642356463054,2373.9690600966665,2018,3
+713,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2909.449449023102,2962.631469313053,2018,3
+714,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2817.434721817589,2828.6903289246115,2018,3
+715,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,3797.651067549594,3847.794124931328,2018,3
+716,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,1724.7841644702455,1873.48450257392,2018,3
+717,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,3240.00505804347,3230.3247926825275,2018,3
+718,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2025.9675048121444,2113.2324871309106,2018,3
+719,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,1743.8683000187448,1920.207924849148,2018,3
+720,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,3729.407712583955,3729.630857920866,2018,3
+721,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,1534.9051251687165,1637.095155465328,2018,3
+722,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,1298.6889397521202,1305.8311222361867,2018,3
+723,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2241.8723312327884,2307.590541787514,2018,3
+724,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2904.98927570086,3017.250891558661,2018,3
+725,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2047.895338745491,2113.436988812832,2018,3
+726,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2086.3987986254947,2226.008149203765,2018,3
+727,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,3359.0241073636444,3380.800522796702,2018,3
+728,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2160.7350206628507,2247.08353227888,2018,3
+729,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,3750.784106906552,2641.803040302388,2018,3
+730,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,5684.655790452779,5743.396591279594,2018,3
+731,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,4268.83458985256,3320.36622783838,2018,3
+732,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,3850.97852167152,3903.607896277668,2018,3
+733,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-03,2881.9423437339333,3109.58092625612,2018,3
+1063,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,4552.024902748724,4456.069091916995,2018,4
+1064,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2354.238447296872,2527.063255856496,2018,4
+1065,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2882.4270591310483,2899.828302435655,2018,4
+1066,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2240.968499529862,2373.9690600966665,2018,4
+1067,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2918.350075941792,2962.631469313053,2018,4
+1068,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2836.6563574837305,2828.6903289246115,2018,4
+1069,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,3803.816576633221,3847.794124931328,2018,4
+1070,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,1730.458261679415,1873.48450257392,2018,4
+1071,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,3241.867555665993,3230.3247926825275,2018,4
+1072,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2036.4537654813664,2113.2324871309106,2018,4
+1073,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,1757.509733278678,1920.207924849148,2018,4
+1074,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,3734.866603667396,3729.630857920866,2018,4
+1075,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,1531.320385123835,1637.095155465328,2018,4
+1076,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,1296.5668948438663,1305.8311222361867,2018,4
+1077,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2243.9238835881547,2307.590541787514,2018,4
+1078,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2919.5311509577887,3017.250891558661,2018,4
+1079,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2055.518149871996,2113.436988812832,2018,4
+1080,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2100.1239556131245,2226.008149203765,2018,4
+1081,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,3374.6549028982613,3380.800522796702,2018,4
+1082,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2163.303379414035,2247.08353227888,2018,4
+1083,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,3746.812179742429,2641.803040302388,2018,4
+1084,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,5652.727494254864,5743.396591279594,2018,4
+1085,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,4267.957485773448,3320.36622783838,2018,4
+1086,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,3868.371224767826,3903.607896277668,2018,4
+1087,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-04,2892.0320573204995,3109.58092625612,2018,4
+1419,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,4528.848694619925,4456.069091916995,2018,5
+1420,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2431.066062533758,2527.063255856496,2018,5
+1421,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2909.225506142156,2899.828302435655,2018,5
+1422,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2261.60201716282,2373.9690600966665,2018,5
+1423,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2940.1117908911765,2962.631469313053,2018,5
+1424,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2862.3775264939823,2828.6903289246115,2018,5
+1425,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,3828.845999062895,3847.794124931328,2018,5
+1426,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,1743.4113989697785,1873.48450257392,2018,5
+1427,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,3260.71229084022,3230.3247926825275,2018,5
+1428,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2063.5149527493727,2113.2324871309106,2018,5
+1429,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,1774.7352124114664,1920.207924849148,2018,5
+1430,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,3746.655423907053,3729.630857920866,2018,5
+1431,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,1540.7221809001292,1637.095155465328,2018,5
+1432,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,1297.4238182444114,1305.8311222361867,2018,5
+1433,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2265.226483246519,2307.590541787514,2018,5
+1434,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2942.6019233272204,3017.250891558661,2018,5
+1435,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2075.4308576385542,2113.436988812832,2018,5
+1436,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2123.8669043934456,2226.008149203765,2018,5
+1437,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,3408.424138120164,3380.800522796702,2018,5
+1438,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2181.172359955244,2247.08353227888,2018,5
+1439,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,3764.464462175245,2641.803040302388,2018,5
+1440,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,5596.332279306962,5743.396591279594,2018,5
+1441,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,4273.7154509070015,3320.36622783838,2018,5
+1442,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,3913.16480020529,3903.607896277668,2018,5
+1443,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-05,2913.8762740975435,3109.58092625612,2018,5
+1775,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,4492.063351610711,4456.069091916995,2018,6
+1776,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2498.280115587506,2527.063255856496,2018,6
+1777,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2922.416188287528,2899.828302435655,2018,6
+1778,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2282.8587663956696,2373.9690600966665,2018,6
+1779,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2948.751699117697,2962.631469313053,2018,6
+1780,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2867.7056617933827,2828.6903289246115,2018,6
+1781,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,3831.441837467065,3847.794124931328,2018,6
+1782,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,1757.626921021014,1873.48450257392,2018,6
+1783,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,3253.6792538333366,3230.3247926825275,2018,6
+1784,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2075.9947046811226,2113.2324871309106,2018,6
+1785,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,1795.8379613199818,1920.207924849148,2018,6
+1786,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,3735.7199981640447,3729.630857920866,2018,6
+1787,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,1554.2105936683763,1637.095155465328,2018,6
+1788,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,1318.3078678915524,1305.8311222361867,2018,6
+1789,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2276.65392364732,2307.590541787514,2018,6
+1790,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2959.321513851625,3017.250891558661,2018,6
+1791,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2088.94933723659,2113.436988812832,2018,6
+1792,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2137.514371652152,2226.008149203765,2018,6
+1793,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,3417.0284835779357,3380.800522796702,2018,6
+1794,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2192.8238003593983,2247.08353227888,2018,6
+1795,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,3777.330213186021,2641.803040302388,2018,6
+1796,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,5719.213986255856,5743.396591279594,2018,6
+1797,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,4255.464604342986,3320.36622783838,2018,6
+1798,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,3915.3690800327854,3903.607896277668,2018,6
+1799,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-06,2910.055062429728,3109.58092625612,2018,6
+2131,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,4489.578710552438,4456.069091916995,2018,7
+2132,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2556.922542962881,2527.063255856496,2018,7
+2133,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2925.3404592236,2899.828302435655,2018,7
+2134,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2294.4286693278696,2373.9690600966665,2018,7
+2135,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2940.075243443311,2962.631469313053,2018,7
+2136,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2863.121557988381,2828.6903289246115,2018,7
+2137,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,3824.232078846344,3847.794124931328,2018,7
+2138,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,1770.0313869992551,1873.48450257392,2018,7
+2139,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,3247.7396850961263,3230.3247926825275,2018,7
+2140,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2073.0902021090787,2113.2324871309106,2018,7
+2141,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,1815.5132910770749,1920.207924849148,2018,7
+2142,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,3718.281196905118,3729.630857920866,2018,7
+2143,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,1558.8703882251175,1637.095155465328,2018,7
+2144,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,1334.1770065665023,1305.8311222361867,2018,7
+2145,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2290.6067507980206,2307.590541787514,2018,7
+2146,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2958.4333352580334,3017.250891558661,2018,7
+2147,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2092.886881235598,2113.436988812832,2018,7
+2148,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2133.124383061084,2226.008149203765,2018,7
+2149,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,3409.908197322612,3380.800522796702,2018,7
+2150,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2200.330029119658,2247.08353227888,2018,7
+2151,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,3778.809221262665,2641.803040302388,2018,7
+2152,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,5764.16170094144,5743.396591279594,2018,7
+2153,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,4226.719822226372,3320.36622783838,2018,7
+2154,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,3905.576676320116,3903.607896277668,2018,7
+2155,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-07,2908.4853690779187,3109.58092625612,2018,7
+2488,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,4483.401030772064,4456.069091916995,2018,8
+2489,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2536.7597779691373,2527.063255856496,2018,8
+2490,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2908.625923577211,2899.828302435655,2018,8
+2491,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2286.1934099565124,2373.9690600966665,2018,8
+2492,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2905.5785378984056,2962.631469313053,2018,8
+2493,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2835.9141312550005,2828.6903289246115,2018,8
+2494,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,3796.159718055517,3847.794124931328,2018,8
+2495,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,1769.4089181673462,1873.48450257392,2018,8
+2496,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,3213.906958018368,3230.3247926825275,2018,8
+2497,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2056.2194980491827,2113.2324871309106,2018,8
+2498,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,1810.2428226034149,1920.207924849148,2018,8
+2499,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,3688.192917592293,3729.630857920866,2018,8
+2500,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,1547.6624157628296,1637.095155465328,2018,8
+2501,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,1347.3167510049318,1305.8311222361867,2018,8
+2502,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2280.502829369564,2307.590541787514,2018,8
+2503,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2940.796317942121,3017.250891558661,2018,8
+2504,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2082.741858224056,2113.436988812832,2018,8
+2505,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2115.273896962716,2226.008149203765,2018,8
+2506,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,3377.8275887201794,3380.800522796702,2018,8
+2507,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2189.395038682628,2247.08353227888,2018,8
+2508,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,3758.6018861816538,2641.803040302388,2018,8
+2509,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,5823.442347905084,5743.396591279594,2018,8
+2510,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,4164.281780735354,3320.36622783838,2018,8
+2511,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,3873.6420251314585,3903.607896277668,2018,8
+2512,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-08,2894.261196319875,3109.58092625612,2018,8
+2845,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,4480.005498028178,4456.069091916995,2018,9
+2846,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2518.4131254382914,2527.063255856496,2018,9
+2847,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2887.1694989246494,2899.828302435655,2018,9
+2848,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2268.532508768132,2373.9690600966665,2018,9
+2849,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2877.039061126587,2962.631469313053,2018,9
+2850,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2814.321051375232,2828.6903289246115,2018,9
+2851,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,3776.100913516187,3847.794124931328,2018,9
+2852,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,1761.6520192969522,1873.48450257392,2018,9
+2853,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,3181.948890926772,3230.3247926825275,2018,9
+2854,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2048.3787415866123,2113.2324871309106,2018,9
+2855,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,1801.5251271528332,1920.207924849148,2018,9
+2856,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,3663.595572556345,3729.630857920866,2018,9
+2857,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,1538.0124533728404,1637.095155465328,2018,9
+2858,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,1344.342318998123,1305.8311222361867,2018,9
+2859,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2264.693383980527,2307.590541787514,2018,9
+2860,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2926.3306811674443,3017.250891558661,2018,9
+2861,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2075.336991468805,2113.436988812832,2018,9
+2862,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2093.6150223944087,2226.008149203765,2018,9
+2863,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,3352.573729529739,3380.800522796702,2018,9
+2864,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2182.2945861696367,2247.08353227888,2018,9
+2865,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,3735.50005947804,2641.803040302388,2018,9
+2866,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,5806.233265315555,5743.396591279594,2018,9
+2867,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,4106.117986604541,3320.36622783838,2018,9
+2868,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,3852.1609366090815,3903.607896277668,2018,9
+2869,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-09,2876.174203344764,3109.58092625612,2018,9
+3202,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,4470.748404042937,4456.069091916995,2018,10
+3203,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2518.022111736397,2527.063255856496,2018,10
+3204,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2879.7857664905914,2899.828302435655,2018,10
+3205,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2266.5065804008373,2373.9690600966665,2018,10
+3206,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2873.5051109554106,2962.631469313053,2018,10
+3207,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2802.618918332217,2828.6903289246115,2018,10
+3208,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,3772.249033425997,3847.794124931328,2018,10
+3209,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,1761.744918340208,1873.48450257392,2018,10
+3210,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,3166.9074597337203,3230.3247926825275,2018,10
+3211,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2060.165479330044,2113.2324871309106,2018,10
+3212,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,1803.10045755092,1920.207924849148,2018,10
+3213,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,3663.79989174357,3729.630857920866,2018,10
+3214,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,1547.7923360638813,1637.095155465328,2018,10
+3215,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,1367.2945018643957,1305.8311222361867,2018,10
+3216,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2264.523492346597,2307.590541787514,2018,10
+3217,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2929.6996193995765,3017.250891558661,2018,10
+3218,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2081.874244316384,2113.436988812832,2018,10
+3219,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2097.323394489604,2226.008149203765,2018,10
+3220,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,3349.1411535032303,3380.800522796702,2018,10
+3221,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2186.4203320565125,2247.08353227888,2018,10
+3222,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,3735.454070721987,2641.803040302388,2018,10
+3223,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,5852.124409146595,5743.396591279594,2018,10
+3224,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,4078.338937607033,3320.36622783838,2018,10
+3225,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,3850.751967435239,3903.607896277668,2018,10
+3226,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-10,2863.0583924521707,3109.58092625612,2018,10
+3559,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,4433.2421271599,4456.069091916995,2018,11
+3560,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2501.926660291939,2527.063255856496,2018,11
+3561,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2863.9792252840134,2899.828302435655,2018,11
+3562,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2263.6536412742,2373.9690600966665,2018,11
+3563,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2863.95315545546,2962.631469313053,2018,11
+3564,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2781.2544453164987,2828.6903289246115,2018,11
+3565,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,3748.210456212468,3847.794124931328,2018,11
+3566,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,1760.2139681024264,1873.48450257392,2018,11
+3567,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,3144.229882239385,3230.3247926825275,2018,11
+3568,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2059.37567869086,2113.2324871309106,2018,11
+3569,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,1796.758653769407,1920.207924849148,2018,11
+3570,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,3641.73606243227,3729.630857920866,2018,11
+3571,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,1550.0650801287293,1637.095155465328,2018,11
+3572,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,1378.728952906209,1305.8311222361867,2018,11
+3573,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2257.1570399985458,2307.590541787514,2018,11
+3574,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2918.9292099101094,3017.250891558661,2018,11
+3575,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2074.1781273438146,2113.436988812832,2018,11
+3576,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2094.001624976267,2226.008149203765,2018,11
+3577,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,3333.090148215895,3380.800522796702,2018,11
+3578,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2181.2677690778864,2247.08353227888,2018,11
+3579,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,3715.091346017481,2641.803040302388,2018,11
+3580,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,5844.313309370186,5743.396591279594,2018,11
+3581,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,4044.989384471067,3320.36622783838,2018,11
+3582,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,3834.866566325924,3903.607896277668,2018,11
+3583,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-11,2834.854012823498,3109.58092625612,2018,11
+3916,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,4407.891528838767,4456.069091916995,2018,12
+3917,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2488.5246973737267,2527.063255856496,2018,12
+3918,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2870.3979314766084,2899.828302435655,2018,12
+3919,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2275.8870104770463,2373.9690600966665,2018,12
+3920,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2872.818705730665,2962.631469313053,2018,12
+3921,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2784.40578281314,2828.6903289246115,2018,12
+3922,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,3742.235874600619,3847.794124931328,2018,12
+3923,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,1770.8041757918718,1873.48450257392,2018,12
+3924,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,3150.2914949069705,3230.3247926825275,2018,12
+3925,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2065.956425971999,2113.2324871309106,2018,12
+3926,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,1801.8525578374536,1920.207924849148,2018,12
+3927,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,3642.473945502784,3729.630857920866,2018,12
+3928,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,1557.7552175703083,1637.095155465328,2018,12
+3929,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,1397.093896592993,1305.8311222361867,2018,12
+3930,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2263.2937783898124,2307.590541787514,2018,12
+3931,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2920.4689137895543,3017.250891558661,2018,12
+3932,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2078.4923924317177,2113.436988812832,2018,12
+3933,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2111.810575713362,2226.008149203765,2018,12
+3934,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,3336.9878525392087,3380.800522796702,2018,12
+3935,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2184.6941016419587,2247.08353227888,2018,12
+3936,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,3723.5776919628975,2641.803040302388,2018,12
+3937,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,5850.641748459888,5743.396591279594,2018,12
+3938,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,4040.006725748038,3320.36622783838,2018,12
+3939,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,3839.264671476132,3903.607896277668,2018,12
+3940,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2018-12,2834.575678482704,3109.58092625612,2018,12
+4273,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,4429.324103817854,4456.069091916995,2019,1
+4274,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2498.1530085259506,2527.063255856496,2019,1
+4275,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2890.1516663573,2899.828302435655,2019,1
+4276,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2308.072663796272,2373.9690600966665,2019,1
+4277,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2903.8610009550603,2962.631469313053,2019,1
+4278,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2811.6173646354696,2828.6903289246115,2019,1
+4279,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,3779.896943715989,3847.794124931328,2019,1
+4280,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,1790.6556723115643,1873.48450257392,2019,1
+4281,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,3189.0393411632963,3230.3247926825275,2019,1
+4282,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2084.8071084394232,2113.2324871309106,2019,1
+4283,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,1819.87211467903,1920.207924849148,2019,1
+4284,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,3673.1239359131887,3729.630857920866,2019,1
+4285,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,1574.775705570457,1637.095155465328,2019,1
+4286,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,1423.1004216426318,1305.8311222361867,2019,1
+4287,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2288.9121865689576,2307.590541787514,2019,1
+4288,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2951.028891808473,3017.250891558661,2019,1
+4289,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2101.2709259088188,2113.436988812832,2019,1
+4290,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2144.385942155302,2226.008149203765,2019,1
+4291,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,3364.674420756992,3380.800522796702,2019,1
+4292,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2208.6642180224067,2247.08353227888,2019,1
+4293,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,3753.7871795491656,2641.803040302388,2019,1
+4294,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,5857.192304018832,5743.396591279594,2019,1
+4295,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,4080.535081873616,3320.36622783838,2019,1
+4296,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,3855.6504793326753,3903.607896277668,2019,1
+4297,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-01,2864.225884825033,3109.58092625612,2019,1
+4631,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,4419.3795076827455,4456.069091916995,2019,2
+4632,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2500.5946239057616,2527.063255856496,2019,2
+4633,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2894.467680373373,2899.828302435655,2019,2
+4634,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2318.6313353172486,2373.9690600966665,2019,2
+4635,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2917.27470699061,2962.631469313053,2019,2
+4636,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2820.937148125887,2828.6903289246115,2019,2
+4637,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,3797.960910963075,3847.794124931328,2019,2
+4638,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,1786.0663277705655,1873.48450257392,2019,2
+4639,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,3205.121325984084,3230.3247926825275,2019,2
+4640,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2084.8791884723973,2113.2324871309106,2019,2
+4641,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,1830.053200625888,1920.207924849148,2019,2
+4642,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,3683.9469789241743,3729.630857920866,2019,2
+4643,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,1584.136952901055,1637.095155465328,2019,2
+4644,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,1436.3550527983807,1305.8311222361867,2019,2
+4645,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2294.271331986358,2307.590541787514,2019,2
+4646,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2960.127323816165,3017.250891558661,2019,2
+4647,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2108.4706538391933,2113.436988812832,2019,2
+4648,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2158.282514436171,2226.008149203765,2019,2
+4649,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,3374.0883725866647,3380.800522796702,2019,2
+4650,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2213.346934498099,2247.08353227888,2019,2
+4651,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,3753.36980826012,2641.803040302388,2019,2
+4652,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,5851.981975111616,5743.396591279594,2019,2
+4653,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,4095.597113540569,3320.36622783838,2019,2
+4654,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,3841.497261563584,3903.607896277668,2019,2
+4655,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-02,2876.261281017061,3109.58092625612,2019,2
+4989,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,4492.302148834523,4456.069091916995,2019,3
+4990,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2504.260392862865,2527.063255856496,2019,3
+4991,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2917.692704482947,2899.828302435655,2019,3
+4992,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2352.2683632684507,2373.9690600966665,2019,3
+4993,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2956.7225572231946,2962.631469313053,2019,3
+4994,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2851.9236626807547,2828.6903289246115,2019,3
+4995,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,3852.547274612852,3847.794124931328,2019,3
+4996,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,1798.1606883041595,1873.48450257392,2019,3
+4997,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,3243.59977760584,3230.3247926825275,2019,3
+4998,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2105.976162790252,2113.2324871309106,2019,3
+4999,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,1858.231037971798,1920.207924849148,2019,3
+5000,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,3731.098943371346,3729.630857920866,2019,3
+5001,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,1603.3934898923978,1637.095155465328,2019,3
+5002,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,1448.237313956985,1305.8311222361867,2019,3
+5003,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2332.2287697754573,2307.590541787514,2019,3
+5004,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2998.8788878956198,3017.250891558661,2019,3
+5005,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2128.4642028566373,2113.436988812832,2019,3
+5006,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2186.408978026496,2226.008149203765,2019,3
+5007,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,3411.014330011993,3380.800522796702,2019,3
+5008,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2234.242476028434,2247.08353227888,2019,3
+5009,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,3791.1047186238634,2641.803040302388,2019,3
+5010,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,5932.548378920107,5743.396591279594,2019,3
+5011,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,4158.199506192343,3320.36622783838,2019,3
+5012,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,3867.0280872040566,3903.607896277668,2019,3
+5013,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-03,2917.337545199774,3109.58092625612,2019,3
+5347,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,4565.121721478961,4456.069091916995,2019,4
+5348,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2488.844421174263,2527.063255856496,2019,4
+5349,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2962.896566170047,2899.828302435655,2019,4
+5350,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2382.5229433690147,2373.9690600966665,2019,4
+5351,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2999.346227749823,2962.631469313053,2019,4
+5352,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2892.61709640767,2828.6903289246115,2019,4
+5353,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,3909.571351092203,3847.794124931328,2019,4
+5354,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,1827.559724368378,1873.48450257392,2019,4
+5355,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,3285.361384622681,3230.3247926825275,2019,4
+5356,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2127.978639545204,2113.2324871309106,2019,4
+5357,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,1884.3268382274864,1920.207924849148,2019,4
+5358,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,3782.454107524321,3729.630857920866,2019,4
+5359,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,1627.401837748151,1637.095155465328,2019,4
+5360,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,1449.6431541357158,1305.8311222361867,2019,4
+5361,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2357.45496853962,2307.590541787514,2019,4
+5362,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,3035.7089232417256,3017.250891558661,2019,4
+5363,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2145.7034153298214,2113.436988812832,2019,4
+5364,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2214.042454256532,2226.008149203765,2019,4
+5365,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,3464.777859285195,3380.800522796702,2019,4
+5366,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2245.30676284688,2247.08353227888,2019,4
+5367,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,3836.851395488889,2641.803040302388,2019,4
+5368,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,6006.590063354614,5743.396591279594,2019,4
+5369,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,4206.78339177871,3320.36622783838,2019,4
+5370,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,3925.540498977885,3903.607896277668,2019,4
+5371,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-04,2957.0100490971427,3109.58092625612,2019,4
+5705,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,4615.8928589585885,4456.069091916995,2019,5
+5706,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2456.043382211318,2527.063255856496,2019,5
+5707,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2983.1725461770666,2899.828302435655,2019,5
+5708,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2401.7896668124213,2373.9690600966665,2019,5
+5709,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,3025.1726204616525,2962.631469313053,2019,5
+5710,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2908.9286196204853,2828.6903289246115,2019,5
+5711,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,3938.5493651963134,3847.794124931328,2019,5
+5712,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,1847.8946850825812,1873.48450257392,2019,5
+5713,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,3313.738539321533,3230.3247926825275,2019,5
+5714,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2138.3390974407125,2113.2324871309106,2019,5
+5715,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,1903.8042979293584,1920.207924849148,2019,5
+5716,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,3808.650996875088,3729.630857920866,2019,5
+5717,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,1637.2156671646185,1637.095155465328,2019,5
+5718,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,1445.7939221897043,1305.8311222361867,2019,5
+5719,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2364.5455471650243,2307.590541787514,2019,5
+5720,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,3055.9668838202583,3017.250891558661,2019,5
+5721,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2153.3073245351543,2113.436988812832,2019,5
+5722,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2229.2560110872582,2226.008149203765,2019,5
+5723,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,3488.42757631492,3380.800522796702,2019,5
+5724,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2247.8183500193936,2247.08353227888,2019,5
+5725,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,3871.428512251596,2641.803040302388,2019,5
+5726,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,6004.83249238043,5743.396591279594,2019,5
+5727,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,4233.646577924389,3320.36622783838,2019,5
+5728,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,3966.8353511092782,3903.607896277668,2019,5
+5729,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-05,2972.998277923536,3109.58092625612,2019,5
+6065,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,4624.813882598573,4456.069091916995,2019,6
+6066,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2450.7596568914582,2527.063255856496,2019,6
+6067,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,3006.413164687377,2899.828302435655,2019,6
+6068,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2413.592707917805,2373.9690600966665,2019,6
+6069,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,3041.315694977223,2962.631469313053,2019,6
+6070,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2919.047972679888,2828.6903289246115,2019,6
+6071,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,3962.906882716287,3847.794124931328,2019,6
+6072,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,1870.1812136312217,1873.48450257392,2019,6
+6073,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,3333.1807560519624,3230.3247926825275,2019,6
+6074,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2154.6215942138606,2113.2324871309106,2019,6
+6075,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,1920.5481994035144,1920.207924849148,2019,6
+6076,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,3830.8575249026,3729.630857920866,2019,6
+6077,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,1653.782259845693,1637.095155465328,2019,6
+6078,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,1457.0445567474574,1305.8311222361867,2019,6
+6079,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2352.469733397425,2307.590541787514,2019,6
+6080,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,3074.955376385714,3017.250891558661,2019,6
+6081,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2164.4141163585005,2113.436988812832,2019,6
+6082,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2235.7922947257407,2226.008149203765,2019,6
+6083,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,3506.838807180618,3380.800522796702,2019,6
+6084,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2255.137833192695,2247.08353227888,2019,6
+6085,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,3899.1166842654607,2641.803040302388,2019,6
+6086,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,6027.006162719273,5743.396591279594,2019,6
+6087,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,4252.115606488867,3320.36622783838,2019,6
+6088,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,4009.850023892149,3903.607896277668,2019,6
+6089,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-06,2979.016964601789,3109.58092625612,2019,6
+6425,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,4611.0375207322695,4456.069091916995,2019,7
+6426,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2455.5104395069666,2527.063255856496,2019,7
+6427,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,3006.819092307614,2899.828302435655,2019,7
+6428,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2420.7468711480988,2373.9690600966665,2019,7
+6429,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,3037.696356090514,2962.631469313053,2019,7
+6430,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2912.1266303187736,2828.6903289246115,2019,7
+6431,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,3971.715821121168,3847.794124931328,2019,7
+6432,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,1876.8938012470576,1873.48450257392,2019,7
+6433,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,3329.0981416798154,3230.3247926825275,2019,7
+6434,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2162.9990620345125,2113.2324871309106,2019,7
+6435,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,1931.7666727493647,1920.207924849148,2019,7
+6436,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,3837.280292223943,3729.630857920866,2019,7
+6437,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,1660.9934574409383,1637.095155465328,2019,7
+6438,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,1466.153495535247,1305.8311222361867,2019,7
+6439,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2334.8983484052724,2307.590541787514,2019,7
+6440,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,3077.865768648583,3017.250891558661,2019,7
+6441,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2164.802832090869,2113.436988812832,2019,7
+6442,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2230.7060307862885,2226.008149203765,2019,7
+6443,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,3493.536379181101,3380.800522796702,2019,7
+6444,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2255.089722366305,2247.08353227888,2019,7
+6445,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,3910.311115626904,2641.803040302388,2019,7
+6446,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,6053.998906118668,5743.396591279594,2019,7
+6447,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,4253.918379423052,3320.36622783838,2019,7
+6448,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,4018.788753622201,3903.607896277668,2019,7
+6449,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-07,2972.8699534590405,3109.58092625612,2019,7
+6787,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,4599.290303544123,4456.069091916995,2019,8
+6788,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2468.340257444188,2527.063255856496,2019,8
+6789,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,3015.919959663355,2899.828302435655,2019,8
+6790,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2419.7428336512926,2373.9690600966665,2019,8
+6791,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,3031.335064688694,2962.631469313053,2019,8
+6792,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2916.4059768473703,2828.6903289246115,2019,8
+6793,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,3976.0639272879534,3847.794124931328,2019,8
+6794,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,1888.7872643025887,1873.48450257392,2019,8
+6795,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,3314.280553934539,3230.3247926825275,2019,8
+6796,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2175.887412870772,2113.2324871309106,2019,8
+6797,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,1934.862216364065,1920.207924849148,2019,8
+6798,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,3842.18607576486,3729.630857920866,2019,8
+6799,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,1666.6888491531968,1637.095155465328,2019,8
+6800,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,1472.7717739574368,1305.8311222361867,2019,8
+6801,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2325.8728126395945,2307.590541787514,2019,8
+6802,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,3078.9927441110603,3017.250891558661,2019,8
+6803,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2163.7311874461548,2113.436988812832,2019,8
+6804,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2232.3929778870047,2226.008149203765,2019,8
+6805,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,3479.752501283185,3380.800522796702,2019,8
+6806,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2249.4402705032617,2247.08353227888,2019,8
+6807,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,3899.378588420369,2641.803040302388,2019,8
+6808,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,6101.804162491625,5743.396591279594,2019,8
+6809,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,4258.542292139093,3320.36622783838,2019,8
+6810,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,4015.934368271496,3903.607896277668,2019,8
+6811,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-08,2967.6522707373115,3109.58092625612,2019,8
+7149,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,4546.79324338023,4456.069091916995,2019,9
+7150,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2468.382742730073,2527.063255856496,2019,9
+7151,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2983.380511522368,2899.828302435655,2019,9
+7152,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2402.0194371458965,2373.9690600966665,2019,9
+7153,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2996.3590718183955,2962.631469313053,2019,9
+7154,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2892.46523371222,2828.6903289246115,2019,9
+7155,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,3938.08623898011,3847.794124931328,2019,9
+7156,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,1877.577764218766,1873.48450257392,2019,9
+7157,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,3269.0722273798606,3230.3247926825275,2019,9
+7158,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2160.600787443001,2113.2324871309106,2019,9
+7159,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,1910.2610795089297,1920.207924849148,2019,9
+7160,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,3801.895773700019,3729.630857920866,2019,9
+7161,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,1648.042966201113,1637.095155465328,2019,9
+7162,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,1460.1234343277918,1305.8311222361867,2019,9
+7163,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2305.941056037119,2307.590541787514,2019,9
+7164,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,3045.130791269056,3017.250891558661,2019,9
+7165,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2135.678466035271,2113.436988812832,2019,9
+7166,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2217.280551186499,2226.008149203765,2019,9
+7167,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,3429.5423493111016,3380.800522796702,2019,9
+7168,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2217.803397090157,2247.08353227888,2019,9
+7169,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,3835.602995551514,2641.803040302388,2019,9
+7170,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,6045.318620069452,5743.396591279594,2019,9
+7171,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,4211.730713807468,3320.36622783838,2019,9
+7172,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,3958.4391050423233,3903.607896277668,2019,9
+7173,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-09,2930.3770080389704,3109.58092625612,2019,9
+7511,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,4521.2302956499225,4456.069091916995,2019,10
+7512,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2471.0914807652466,2527.063255856496,2019,10
+7513,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2957.753620059486,2899.828302435655,2019,10
+7514,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2388.3490217316757,2373.9690600966665,2019,10
+7515,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2979.809984613004,2962.631469313053,2019,10
+7516,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2876.152100697597,2828.6903289246115,2019,10
+7517,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,3913.76914087993,3847.794124931328,2019,10
+7518,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,1868.242750355183,1873.48450257392,2019,10
+7519,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,3237.013474770556,3230.3247926825275,2019,10
+7520,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2155.4999973620734,2113.2324871309106,2019,10
+7521,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,1900.3891311521104,1920.207924849148,2019,10
+7522,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,3780.268384699049,3729.630857920866,2019,10
+7523,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,1638.4001831299197,1637.095155465328,2019,10
+7524,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,1447.868665255987,1305.8311222361867,2019,10
+7525,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2299.290839776185,2307.590541787514,2019,10
+7526,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,3028.6865423965914,3017.250891558661,2019,10
+7527,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2118.8439308486386,2113.436988812832,2019,10
+7528,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2211.9954366499283,2226.008149203765,2019,10
+7529,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,3401.7575931456577,3380.800522796702,2019,10
+7530,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2197.595804679833,2247.08353227888,2019,10
+7531,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,3794.905937738121,2641.803040302388,2019,10
+7532,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,5982.027808085969,5743.396591279594,2019,10
+7533,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,4184.225916038872,3320.36622783838,2019,10
+7534,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,3926.8115412974553,3903.607896277668,2019,10
+7535,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-10,2902.112533701137,3109.58092625612,2019,10
+7873,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,4526.291140088654,4456.069091916995,2019,11
+7874,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2483.987255399441,2527.063255856496,2019,11
+7875,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2945.968624947697,2899.828302435655,2019,11
+7876,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2391.093423067005,2373.9690600966665,2019,11
+7877,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2978.971165648567,2962.631469313053,2019,11
+7878,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2873.0909500809057,2828.6903289246115,2019,11
+7879,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,3918.695341493007,3847.794124931328,2019,11
+7880,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,1874.2397063261703,1873.48450257392,2019,11
+7881,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,3235.0674126704253,3230.3247926825275,2019,11
+7882,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2154.0594088657995,2113.2324871309106,2019,11
+7883,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,1906.7273445198005,1920.207924849148,2019,11
+7884,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,3784.8369496898567,3729.630857920866,2019,11
+7885,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,1641.563393344131,1637.095155465328,2019,11
+7886,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,1454.220181104755,1305.8311222361867,2019,11
+7887,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2306.578951536595,2307.590541787514,2019,11
+7888,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,3033.751372392481,3017.250891558661,2019,11
+7889,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2116.5365661540045,2113.436988812832,2019,11
+7890,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2217.170196174213,2226.008149203765,2019,11
+7891,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,3403.429692485028,3380.800522796702,2019,11
+7892,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2190.5958067742517,2247.08353227888,2019,11
+7893,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,3785.4168925138006,2641.803040302388,2019,11
+7894,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,5948.733706457131,5743.396591279594,2019,11
+7895,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,4180.15199461655,3320.36622783838,2019,11
+7896,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,3931.302322880792,3903.607896277668,2019,11
+7897,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-11,2898.061011668836,3109.58092625612,2019,11
+8236,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,4531.015699710871,4456.069091916995,2019,12
+8237,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2485.9944469059683,2527.063255856496,2019,12
+8238,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2939.9315404684407,2899.828302435655,2019,12
+8239,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2387.960040313877,2373.9690600966665,2019,12
+8240,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2970.169795297493,2962.631469313053,2019,12
+8241,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2868.0092793410645,2828.6903289246115,2019,12
+8242,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,3922.260042693358,3847.794124931328,2019,12
+8243,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,1874.0723669334325,1873.48450257392,2019,12
+8244,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,3234.1757311296988,3230.3247926825275,2019,12
+8245,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2150.521694344027,2113.2324871309106,2019,12
+8246,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,1917.437179937334,1920.207924849148,2019,12
+8247,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,3794.757299182512,3729.630857920866,2019,12
+8248,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,1643.7367847839262,1637.095155465328,2019,12
+8249,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,1459.5854333380005,1305.8311222361867,2019,12
+8250,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2294.24151158514,2307.590541787514,2019,12
+8251,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,3031.7361183356657,3017.250891558661,2019,12
+8252,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2117.37727050146,2113.436988812832,2019,12
+8253,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2219.8522599705448,2226.008149203765,2019,12
+8254,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,3403.893832736117,3380.800522796702,2019,12
+8255,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2182.6955878630506,2247.08353227888,2019,12
+8256,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,3778.30708129631,2641.803040302388,2019,12
+8257,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,5906.192104686187,5743.396591279594,2019,12
+8258,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,4162.55576006269,3320.36622783838,2019,12
+8259,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,3945.7425389574114,3903.607896277668,2019,12
+8260,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2019-12,2892.267115472529,3109.58092625612,2019,12
+8600,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,4576.023082280951,4456.069091916995,2020,1
+8601,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2519.103605677414,2527.063255856496,2020,1
+8602,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2966.861760407118,2899.828302435655,2020,1
+8603,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2401.916516175675,2373.9690600966665,2020,1
+8604,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2987.2880641179795,2962.631469313053,2020,1
+8605,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2893.4453217143678,2828.6903289246115,2020,1
+8606,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,3965.226781073237,3847.794124931328,2020,1
+8607,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,1894.417855926561,1873.48450257392,2020,1
+8608,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,3265.838025657761,3230.3247926825275,2020,1
+8609,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2168.719409082631,2113.2324871309106,2020,1
+8610,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,1943.6194617827691,1920.207924849148,2020,1
+8611,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,3837.752630549597,3729.630857920866,2020,1
+8612,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,1663.6296401851062,1637.095155465328,2020,1
+8613,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,1481.7966664116286,1305.8311222361867,2020,1
+8614,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2309.699775434385,2307.590541787514,2020,1
+8615,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,3057.923328250259,3017.250891558661,2020,1
+8616,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2139.1174192234434,2113.436988812832,2020,1
+8617,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2239.3054004372643,2226.008149203765,2020,1
+8618,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,3436.524402177067,3380.800522796702,2020,1
+8619,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2203.1884544226427,2247.08353227888,2020,1
+8620,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,3797.3270538674738,2641.803040302388,2020,1
+8621,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,5945.340946832582,5743.396591279594,2020,1
+8622,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,4192.664447934754,3320.36622783838,2020,1
+8623,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,3996.7942072851984,3903.607896277668,2020,1
+8624,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-01,2926.3869109473485,3109.58092625612,2020,1
+8964,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,4644.322972594058,4456.069091916995,2020,2
+8965,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2561.057328379455,2527.063255856496,2020,2
+8966,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,3015.185896070756,2899.828302435655,2020,2
+8967,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2431.175320732608,2373.9690600966665,2020,2
+8968,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,3023.6756743200203,2962.631469313053,2020,2
+8969,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2936.5242616870373,2828.6903289246115,2020,2
+8970,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,4028.225785772516,3847.794124931328,2020,2
+8971,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,1924.716135517864,1873.48450257392,2020,2
+8972,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,3311.84205770592,3230.3247926825275,2020,2
+8973,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2204.249126969086,2113.2324871309106,2020,2
+8974,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,1972.429020694928,1920.207924849148,2020,2
+8975,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,3901.481184791629,3729.630857920866,2020,2
+8976,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,1689.9298542795843,1637.095155465328,2020,2
+8977,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,1508.0762633228278,1305.8311222361867,2020,2
+8978,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2331.3417149569364,2307.590541787514,2020,2
+8979,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,3100.5476612393527,3017.250891558661,2020,2
+8980,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2173.548939910262,2113.436988812832,2020,2
+8981,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2267.9362728467822,2226.008149203765,2020,2
+8982,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,3481.516103418937,3380.800522796702,2020,2
+8983,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2240.583389378756,2247.08353227888,2020,2
+8984,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,3837.6669960383742,2641.803040302388,2020,2
+8985,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,6018.280624550334,5743.396591279594,2020,2
+8986,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,4242.646541698474,3320.36622783838,2020,2
+8987,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,4064.571095388755,3903.607896277668,2020,2
+8988,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-02,2969.892349132585,3109.58092625612,2020,2
+9332,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,4660.513823926071,4456.069091916995,2020,3
+9333,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2582.126768839224,2527.063255856496,2020,3
+9334,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,3024.847647842172,2899.828302435655,2020,3
+9335,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2437.951673873401,2373.9690600966665,2020,3
+9336,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,3041.5197927832173,2962.631469313053,2020,3
+9337,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2948.00215644337,2828.6903289246115,2020,3
+9338,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,4054.155041047003,3847.794124931328,2020,3
+9339,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,1939.6054017724853,1873.48450257392,2020,3
+9340,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,3322.8905597581047,3230.3247926825275,2020,3
+9341,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2215.4279972124677,2113.2324871309106,2020,3
+9342,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,1979.9070103422723,1920.207924849148,2020,3
+9343,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,3925.082687918727,3729.630857920866,2020,3
+9344,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,1700.293532757923,1637.095155465328,2020,3
+9345,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,1527.9741772071657,1305.8311222361867,2020,3
+9346,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2335.3160265449137,2307.590541787514,2020,3
+9347,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,3119.216298540959,3017.250891558661,2020,3
+9348,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2186.7642863045435,2113.436988812832,2020,3
+9349,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2274.833220320271,2226.008149203765,2020,3
+9350,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,3495.3149105869134,3380.800522796702,2020,3
+9351,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2257.6471511235013,2247.08353227888,2020,3
+9352,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,3839.362332490983,2641.803040302388,2020,3
+9353,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,6047.70591146864,5743.396591279594,2020,3
+9354,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,4261.0344212783375,3320.36622783838,2020,3
+9355,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,4074.6346463342143,3903.607896277668,2020,3
+9356,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-03,2995.603699871335,3109.58092625612,2020,3
+9700,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,4626.644556947249,4456.069091916995,2020,4
+9701,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2579.2854333054474,2527.063255856496,2020,4
+9702,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2992.2031649828573,2899.828302435655,2020,4
+9703,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2424.482332690901,2373.9690600966665,2020,4
+9704,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,3021.703543723927,2962.631469313053,2020,4
+9705,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2920.931563504897,2828.6903289246115,2020,4
+9706,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,4020.759320024221,3847.794124931328,2020,4
+9707,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,1926.9494144945795,1873.48450257392,2020,4
+9708,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,3295.498802818917,3230.3247926825275,2020,4
+9709,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2198.774332894433,2113.2324871309106,2020,4
+9710,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,1957.8235585536468,1920.207924849148,2020,4
+9711,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,3893.09218931658,3729.630857920866,2020,4
+9712,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,1691.5374867745652,1637.095155465328,2020,4
+9713,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,1526.795111986775,1305.8311222361867,2020,4
+9714,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2318.2809692230508,2307.590541787514,2020,4
+9715,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,3099.0941476940047,3017.250891558661,2020,4
+9716,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2179.0052479198985,2113.436988812832,2020,4
+9717,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2255.63508145491,2226.008149203765,2020,4
+9718,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,3459.442094991457,3380.800522796702,2020,4
+9719,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2250.34252742103,2247.08353227888,2020,4
+9720,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,3809.79603642969,2641.803040302388,2020,4
+9721,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,5991.3244150730825,5743.396591279594,2020,4
+9722,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,4221.810695288496,3320.36622783838,2020,4
+9723,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,4037.315655031964,3903.607896277668,2020,4
+9724,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-04,2975.055727766573,3109.58092625612,2020,4
+10069,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,4595.38817317953,4456.069091916995,2020,5
+10070,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2585.7529428253933,2527.063255856496,2020,5
+10071,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2960.7247439501475,2899.828302435655,2020,5
+10072,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2424.978192672991,2373.9690600966665,2020,5
+10073,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,3013.584589798774,2962.631469313053,2020,5
+10074,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2901.75980433512,2828.6903289246115,2020,5
+10075,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,4000.463713900146,3847.794124931328,2020,5
+10076,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,1924.5352471201495,1873.48450257392,2020,5
+10077,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,3284.644200153537,3230.3247926825275,2020,5
+10078,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2195.4255749107288,2113.2324871309106,2020,5
+10079,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,1945.7337927383692,1920.207924849148,2020,5
+10080,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,3879.759784908613,3729.630857920866,2020,5
+10081,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,1690.1498851868091,1637.095155465328,2020,5
+10082,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,1529.58264269373,1305.8311222361867,2020,5
+10083,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2320.230510537831,2307.590541787514,2020,5
+10084,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,3092.1917675870977,3017.250891558661,2020,5
+10085,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2184.728008999834,2113.436988812832,2020,5
+10086,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2247.5973690468622,2226.008149203765,2020,5
+10087,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,3444.386872737201,3380.800522796702,2020,5
+10088,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2251.2287530850167,2247.08353227888,2020,5
+10089,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,3796.276177126196,2641.803040302388,2020,5
+10090,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,5979.791904537353,5743.396591279594,2020,5
+10091,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,4195.297023820925,3320.36622783838,2020,5
+10092,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,4018.407665703719,3903.607896277668,2020,5
+10093,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-05,2968.6427993716875,3109.58092625612,2020,5
+10438,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,4546.851027415572,4456.069091916995,2020,6
+10439,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2585.5901658637267,2527.063255856496,2020,6
+10440,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2926.4810591856867,2899.828302435655,2020,6
+10441,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2408.717895885638,2373.9690600966665,2020,6
+10442,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2987.5997953609176,2962.631469313053,2020,6
+10443,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2882.350024423347,2828.6903289246115,2020,6
+10444,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,3950.850877429127,3847.794124931328,2020,6
+10445,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,1917.9511981994792,1873.48450257392,2020,6
+10446,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,3268.008379361732,3230.3247926825275,2020,6
+10447,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2185.680201030441,2113.2324871309106,2020,6
+10448,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,1932.2354453689484,1920.207924849148,2020,6
+10449,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,3842.892212702373,3729.630857920866,2020,6
+10450,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,1686.9228106207677,1637.095155465328,2020,6
+10451,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,1524.6394023747869,1305.8311222361867,2020,6
+10452,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2327.385807660998,2307.590541787514,2020,6
+10453,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,3067.8058976129446,3017.250891558661,2020,6
+10454,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2184.249600495189,2113.436988812832,2020,6
+10455,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2236.2842952488613,2226.008149203765,2020,6
+10456,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,3421.430767562372,3380.800522796702,2020,6
+10457,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2248.806129591633,2247.08353227888,2020,6
+10458,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,3771.791910054951,2641.803040302388,2020,6
+10459,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,5907.781860554888,5743.396591279594,2020,6
+10460,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,4149.949131388347,3320.36622783838,2020,6
+10461,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,3989.60220143343,3903.607896277668,2020,6
+10462,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-06,2944.5457906593374,3109.58092625612,2020,6
+10812,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,4474.066522657866,4456.069091916995,2020,7
+10813,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2574.1557679605603,2527.063255856496,2020,7
+10814,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2880.283018277077,2899.828302435655,2020,7
+10815,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2375.890503168315,2373.9690600966665,2020,7
+10816,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2953.206070541441,2962.631469313053,2020,7
+10817,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2848.948810191814,2828.6903289246115,2020,7
+10818,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,3883.4618938200074,3847.794124931328,2020,7
+10819,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,1904.2418050937065,1873.48450257392,2020,7
+10820,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,3234.2078483720074,3230.3247926825275,2020,7
+10821,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2173.6708010576167,2113.2324871309106,2020,7
+10822,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,1907.6098020479255,1920.207924849148,2020,7
+10823,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,3789.287103585726,3729.630857920866,2020,7
+10824,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,1664.8450120027248,1637.095155465328,2020,7
+10825,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,1519.3217186836655,1305.8311222361867,2020,7
+10826,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2314.5886544520563,2307.590541787514,2020,7
+10827,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,3033.403135397028,3017.250891558661,2020,7
+10828,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2172.336514724316,2113.436988812832,2020,7
+10829,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2221.2585535497446,2226.008149203765,2020,7
+10830,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,3388.436283978491,3380.800522796702,2020,7
+10831,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2231.072014323701,2247.08353227888,2020,7
+10832,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,3727.092143856049,2641.803040302388,2020,7
+10833,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,5820.571260244907,5743.396591279594,2020,7
+10834,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,4087.2633708580856,3320.36622783838,2020,7
+10835,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,3939.631044302519,3903.607896277668,2020,7
+10836,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-07,2926.310516589136,3109.58092625612,2020,7
+11187,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,4335.519368392537,4456.069091916995,2020,8
+11188,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2523.946618009036,2527.063255856496,2020,8
+11189,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2800.3597617122537,2899.828302435655,2020,8
+11190,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2300.9316458352805,2373.9690600966665,2020,8
+11191,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2874.7937346688573,2962.631469313053,2020,8
+11192,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2773.350251794518,2828.6903289246115,2020,8
+11193,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,3751.984567295588,3847.794124931328,2020,8
+11194,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,1856.722508704553,1873.48450257392,2020,8
+11195,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,3150.1582186283117,3230.3247926825275,2020,8
+11196,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2113.1537279370486,2113.2324871309106,2020,8
+11197,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,1872.1185032510543,1920.207924849148,2020,8
+11198,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,3663.37542755388,3729.630857920866,2020,8
+11199,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,1626.6016928939507,1637.095155465328,2020,8
+11200,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,1492.3106391403253,1305.8311222361867,2020,8
+11201,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2260.127825656294,2307.590541787514,2020,8
+11202,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2949.785949379604,3017.250891558661,2020,8
+11203,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2113.002428770038,2113.436988812832,2020,8
+11204,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2175.384640492342,2226.008149203765,2020,8
+11205,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,3298.175758878665,3380.800522796702,2020,8
+11206,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2187.457270577264,2247.08353227888,2020,8
+11207,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,3615.8466202619006,2641.803040302388,2020,8
+11208,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,5624.12915660992,5743.396591279594,2020,8
+11209,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,3950.953406339954,3320.36622783838,2020,8
+11210,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,3818.9787950053897,3903.607896277668,2020,8
+11211,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-08,2867.307034508156,3109.58092625612,2020,8
+11566,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,4257.29159581803,4456.069091916995,2020,9
+11567,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2487.991826466353,2527.063255856496,2020,9
+11568,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2751.458681730453,2899.828302435655,2020,9
+11569,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2265.0755455016206,2373.9690600966665,2020,9
+11570,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2833.505705275224,2962.631469313053,2020,9
+11571,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2723.5299440765625,2828.6903289246115,2020,9
+11572,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,3665.484085899682,3847.794124931328,2020,9
+11573,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,1828.640708842437,1873.48450257392,2020,9
+11574,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,3093.1738047076674,3230.3247926825275,2020,9
+11575,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2065.068762557787,2113.2324871309106,2020,9
+11576,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,1849.856785588984,1920.207924849148,2020,9
+11577,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,3575.6564781214,3729.630857920866,2020,9
+11578,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,1597.9946971359138,1637.095155465328,2020,9
+11579,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,1475.6513667503878,1305.8311222361867,2020,9
+11580,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2223.6299497479404,2307.590541787514,2020,9
+11581,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2901.125593218376,3017.250891558661,2020,9
+11582,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2062.2514791163712,2113.436988812832,2020,9
+11583,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2145.3460845906206,2226.008149203765,2020,9
+11584,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,3238.85380244456,3380.800522796702,2020,9
+11585,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2159.681683907139,2247.08353227888,2020,9
+11586,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,3526.582858609373,2641.803040302388,2020,9
+11587,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,5490.051430055163,5743.396591279594,2020,9
+11588,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,3865.892611428122,3320.36622783838,2020,9
+11589,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,3741.5761655637702,3903.607896277668,2020,9
+11590,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-09,2838.591054447454,3109.58092625612,2020,9
+11945,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,4152.6005779803645,4456.069091916995,2020,10
+11946,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2433.601007642874,2527.063255856496,2020,10
+11947,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2693.391532860346,2899.828302435655,2020,10
+11948,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2222.418900935214,2373.9690600966665,2020,10
+11949,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2776.9167603656447,2962.631469313053,2020,10
+11950,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2659.756617445604,2828.6903289246115,2020,10
+11951,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,3564.512176374525,3847.794124931328,2020,10
+11952,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,1794.966556076328,1873.48450257392,2020,10
+11953,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,3024.248266050274,3230.3247926825275,2020,10
+11954,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2000.7006150658272,2113.2324871309106,2020,10
+11955,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,1822.9562093758725,1920.207924849148,2020,10
+11956,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,3473.906952015581,3729.630857920866,2020,10
+11957,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,1570.3590792903422,1637.095155465328,2020,10
+11958,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,1432.999251753737,1305.8311222361867,2020,10
+11959,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2177.9125418837807,2307.590541787514,2020,10
+11960,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2836.4064832320005,3017.250891558661,2020,10
+11961,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,1997.037357640856,2113.436988812832,2020,10
+11962,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2105.8701226459893,2226.008149203765,2020,10
+11963,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,3161.622884666657,3380.800522796702,2020,10
+11964,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2119.576523240094,2247.08353227888,2020,10
+11965,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,3418.1445812532334,2641.803040302388,2020,10
+11966,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,5288.156145762248,5743.396591279594,2020,10
+11967,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,3766.834426295276,3320.36622783838,2020,10
+11968,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,3648.594534551455,3903.607896277668,2020,10
+11969,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-10,2782.4979278018054,3109.58092625612,2020,10
+12328,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,4117.426340175564,4456.069091916995,2020,11
+12329,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2413.0881560032767,2527.063255856496,2020,11
+12330,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2667.543704070656,2899.828302435655,2020,11
+12331,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2211.967950749952,2373.9690600966665,2020,11
+12332,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2752.747266096384,2962.631469313053,2020,11
+12333,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2626.453794864742,2828.6903289246115,2020,11
+12334,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,3516.24980888791,3847.794124931328,2020,11
+12335,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,1786.129720900147,1873.48450257392,2020,11
+12336,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2986.7063947713023,3230.3247926825275,2020,11
+12337,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,1974.824912266496,2113.2324871309106,2020,11
+12338,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,1818.3765147536892,1920.207924849148,2020,11
+12339,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,3423.003962482995,3729.630857920866,2020,11
+12340,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,1552.796696440627,1637.095155465328,2020,11
+12341,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,1407.555079031347,1305.8311222361867,2020,11
+12342,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2157.5308586576384,2307.590541787514,2020,11
+12343,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2808.4996623931397,3017.250891558661,2020,11
+12344,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,1966.7049715505152,2113.436988812832,2020,11
+12345,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2093.707056855398,2226.008149203765,2020,11
+12346,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,3126.720770010163,3380.800522796702,2020,11
+12347,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2103.821794722765,2247.08353227888,2020,11
+12348,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,3359.228695891251,2641.803040302388,2020,11
+12349,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,5160.879977108019,5743.396591279594,2020,11
+12350,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,3727.4896055296513,3320.36622783838,2020,11
+12351,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,3603.389925812429,3903.607896277668,2020,11
+12352,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-11,2749.388629530061,3109.58092625612,2020,11
+12715,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,4122.768836005479,4456.069091916995,2020,12
+12716,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2413.956506362364,2527.063255856496,2020,12
+12717,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2672.8409943671004,2899.828302435655,2020,12
+12718,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2222.8250661978013,2373.9690600966665,2020,12
+12719,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2757.1379960850177,2962.631469313053,2020,12
+12720,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2620.1468755039373,2828.6903289246115,2020,12
+12721,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,3510.6376895064723,3847.794124931328,2020,12
+12722,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,1792.3085826400504,1873.48450257392,2020,12
+12723,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2989.6899837258275,3230.3247926825275,2020,12
+12724,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,1978.1647872912345,2113.2324871309106,2020,12
+12725,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,1834.675469513822,1920.207924849148,2020,12
+12726,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,3418.444820097418,3729.630857920866,2020,12
+12727,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,1552.6032397584686,1637.095155465328,2020,12
+12728,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,1400.1261242158528,1305.8311222361867,2020,12
+12729,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2164.0695221679325,2307.590541787514,2020,12
+12730,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2816.058542881634,3017.250891558661,2020,12
+12731,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,1965.153833830916,2113.436988812832,2020,12
+12732,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2109.6622863441235,2226.008149203765,2020,12
+12733,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,3128.064215734058,3380.800522796702,2020,12
+12734,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2110.530977380825,2247.08353227888,2020,12
+12735,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,3349.4202803487747,2641.803040302388,2020,12
+12736,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,5136.77392696384,5743.396591279594,2020,12
+12737,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,3718.667354195029,3320.36622783838,2020,12
+12738,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,3600.471989955543,3903.607896277668,2020,12
+12739,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2020-12,2745.7722172696253,3109.58092625612,2020,12
+13106,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,4190.193182292791,4456.069091916995,2021,1
+13107,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2446.9643904632626,2527.063255856496,2021,1
+13108,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2713.236855571221,2899.828302435655,2021,1
+13109,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2265.591322410283,2373.9690600966665,2021,1
+13110,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2800.1944497410145,2962.631469313053,2021,1
+13111,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2651.7722784230523,2828.6903289246115,2021,1
+13112,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,3564.392673450238,3847.794124931328,2021,1
+13113,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,1825.9416629327973,1873.48450257392,2021,1
+13114,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,3034.715399166473,3230.3247926825275,2021,1
+13115,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2005.7352991470705,2113.2324871309106,2021,1
+13116,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,1880.8960194707968,1920.207924849148,2021,1
+13117,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,3467.840030860302,3729.630857920866,2021,1
+13118,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,1570.1872267257263,1637.095155465328,2021,1
+13119,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,1418.6703561487982,1305.8311222361867,2021,1
+13120,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2203.1396003629225,2307.590541787514,2021,1
+13121,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2864.378611086456,3017.250891558661,2021,1
+13122,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,1995.5677066853964,2113.436988812832,2021,1
+13123,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2153.8169054748114,2226.008149203765,2021,1
+13124,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,3182.7229696267746,3380.800522796702,2021,1
+13125,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2153.017318106466,2247.08353227888,2021,1
+13126,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,3388.3156377814216,2641.803040302388,2021,1
+13127,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,5240.4413191652775,5743.396591279594,2021,1
+13128,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,3753.100228104212,3320.36622783838,2021,1
+13129,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,3654.188309205208,3903.607896277668,2021,1
+13130,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-01,2778.472326234302,3109.58092625612,2021,1
+13498,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,4233.923128339288,4456.069091916995,2021,2
+13499,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2464.9821866122784,2527.063255856496,2021,2
+13500,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2740.843509478937,2899.828302435655,2021,2
+13501,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2296.421289134555,2373.9690600966665,2021,2
+13502,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2829.682147603144,2962.631469313053,2021,2
+13503,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2671.696448655702,2828.6903289246115,2021,2
+13504,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,3602.1446364814883,3847.794124931328,2021,2
+13505,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,1844.709948899244,1873.48450257392,2021,2
+13506,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,3067.9626802124744,3230.3247926825275,2021,2
+13507,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2020.624692059277,2113.2324871309106,2021,2
+13508,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,1903.3764104257543,1920.207924849148,2021,2
+13509,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,3502.108436448335,3729.630857920866,2021,2
+13510,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,1581.2411256285693,1637.095155465328,2021,2
+13511,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,1426.5415053204806,1305.8311222361867,2021,2
+13512,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2231.5610672635667,2307.590541787514,2021,2
+13513,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2895.742286068199,3017.250891558661,2021,2
+13514,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2013.2758252839967,2113.436988812832,2021,2
+13515,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2182.2898033013885,2226.008149203765,2021,2
+13516,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,3224.429812515973,3380.800522796702,2021,2
+13517,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2181.5977352243126,2247.08353227888,2021,2
+13518,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,3410.1928337800064,2641.803040302388,2021,2
+13519,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,5326.509423574971,5743.396591279594,2021,2
+13520,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,3777.108408398921,3320.36622783838,2021,2
+13521,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,3688.434074206682,3903.607896277668,2021,2
+13522,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-02,2805.280524252433,3109.58092625612,2021,2
+13894,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,4254.441230573006,4456.069091916995,2021,3
+13895,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2476.8624671463726,2527.063255856496,2021,3
+13896,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2759.333526061168,2899.828302435655,2021,3
+13897,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2315.381623064633,2373.9690600966665,2021,3
+13898,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2850.7861529900106,2962.631469313053,2021,3
+13899,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2681.448019515032,2828.6903289246115,2021,3
+13900,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,3633.404288084148,3847.794124931328,2021,3
+13901,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,1856.312214996688,1873.48450257392,2021,3
+13902,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,3084.42260292371,3230.3247926825275,2021,3
+13903,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2026.1671433679007,2113.2324871309106,2021,3
+13904,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,1919.4264188776287,1920.207924849148,2021,3
+13905,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,3518.9266924288854,3729.630857920866,2021,3
+13906,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,1592.4257026416356,1637.095155465328,2021,3
+13907,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,1429.4647178376702,1305.8311222361867,2021,3
+13908,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2242.588804088189,2307.590541787514,2021,3
+13909,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2911.6023756818686,3017.250891558661,2021,3
+13910,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2026.0818471228915,2113.436988812832,2021,3
+13911,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2203.37761851465,2226.008149203765,2021,3
+13912,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,3252.6870071968037,3380.800522796702,2021,3
+13913,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2208.6057765911214,2247.08353227888,2021,3
+13914,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,3425.597548109832,2641.803040302388,2021,3
+13915,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,5382.589436774932,5743.396591279594,2021,3
+13916,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,3800.103255390005,3320.36622783838,2021,3
+13917,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,3704.390833636859,3903.607896277668,2021,3
+13918,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-03,2830.9873892954247,3109.58092625612,2021,3
+14292,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,4351.577166894719,4456.069091916995,2021,4
+14293,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2542.1497419574075,2527.063255856496,2021,4
+14294,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2821.63832353561,2899.828302435655,2021,4
+14295,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2375.419621754232,2373.9690600966665,2021,4
+14296,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2921.720496015323,2962.631469313053,2021,4
+14297,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2735.6426258113297,2828.6903289246115,2021,4
+14298,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,3720.121578476836,3847.794124931328,2021,4
+14299,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,1907.6789197731628,1873.48450257392,2021,4
+14300,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,3154.693456003964,3230.3247926825275,2021,4
+14301,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2076.393556077668,2113.2324871309106,2021,4
+14302,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,1967.583615110971,1920.207924849148,2021,4
+14303,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,3600.045534474943,3729.630857920866,2021,4
+14304,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,1638.0206156271274,1637.095155465328,2021,4
+14305,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,1470.8597477430428,1305.8311222361867,2021,4
+14306,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2294.4185459490595,2307.590541787514,2021,4
+14307,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2978.3279204147466,3017.250891558661,2021,4
+14308,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2073.839837683709,2113.436988812832,2021,4
+14309,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2266.5737851474587,2226.008149203765,2021,4
+14310,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,3324.9362209859787,3380.800522796702,2021,4
+14311,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2270.2659081266765,2247.08353227888,2021,4
+14312,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,3494.312362657594,2641.803040302388,2021,4
+14313,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,5487.248555559194,5743.396591279594,2021,4
+14314,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,3885.256906670933,3320.36622783838,2021,4
+14315,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,3780.1493445806186,3903.607896277668,2021,4
+14316,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-04,2902.2342914027845,3109.58092625612,2021,4
+14691,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,4401.589412332507,4456.069091916995,2021,5
+14692,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2580.3903460787446,2527.063255856496,2021,5
+14693,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2861.6755222365127,2899.828302435655,2021,5
+14694,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2419.4435210059587,2373.9690600966665,2021,5
+14695,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2965.817279663108,2962.631469313053,2021,5
+14696,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2767.698882178184,2828.6903289246115,2021,5
+14697,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,3768.757560785577,3847.794124931328,2021,5
+14698,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,1944.7819356189484,1873.48450257392,2021,5
+14699,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,3191.6856676311186,3230.3247926825275,2021,5
+14700,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2105.697563400578,2113.2324871309106,2021,5
+14701,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2008.112436665228,1920.207924849148,2021,5
+14702,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,3644.98230812493,3729.630857920866,2021,5
+14703,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,1675.1749454505025,1637.095155465328,2021,5
+14704,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,1502.3627506414598,1305.8311222361867,2021,5
+14705,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2328.430623607431,2307.590541787514,2021,5
+14706,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,3015.244187950951,3017.250891558661,2021,5
+14707,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2100.5968062966044,2113.436988812832,2021,5
+14708,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2302.1105089689854,2226.008149203765,2021,5
+14709,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,3357.390079605164,3380.800522796702,2021,5
+14710,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2304.6426891011315,2247.08353227888,2021,5
+14711,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,3531.7933362631525,2641.803040302388,2021,5
+14712,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,5562.851380573473,5743.396591279594,2021,5
+14713,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,3921.473500541757,3320.36622783838,2021,5
+14714,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,3824.855489832236,3903.607896277668,2021,5
+14715,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-05,2939.9339271008434,3109.58092625612,2021,5
+15093,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,4442.1411702394735,4456.069091916995,2021,6
+15094,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2615.7394475561537,2527.063255856496,2021,6
+15095,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2890.3563872518766,2899.828302435655,2021,6
+15096,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2452.593306083353,2373.9690600966665,2021,6
+15097,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3010.5445183182496,2962.631469313053,2021,6
+15098,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2793.5332228211946,2828.6903289246115,2021,6
+15099,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3818.595171626665,3847.794124931328,2021,6
+15100,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,1987.3999636357985,1873.48450257392,2021,6
+15101,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3230.211876166044,3230.3247926825275,2021,6
+15102,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2140.037108904295,2113.2324871309106,2021,6
+15103,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2049.390468164976,1920.207924849148,2021,6
+15104,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3698.150340254205,3729.630857920866,2021,6
+15105,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,1707.7118831994144,1637.095155465328,2021,6
+15106,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,1532.5532151580849,1305.8311222361867,2021,6
+15107,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2356.1630502844373,2307.590541787514,2021,6
+15108,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3059.1656518038662,3017.250891558661,2021,6
+15109,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2124.991327698532,2113.436988812832,2021,6
+15110,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2332.3003993818425,2226.008149203765,2021,6
+15111,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3386.8724058238254,3380.800522796702,2021,6
+15112,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2334.657851172439,2247.08353227888,2021,6
+15113,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3560.1817839049754,2641.803040302388,2021,6
+15114,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,5604.789244325919,5743.396591279594,2021,6
+15115,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3951.5083035805023,3320.36622783838,2021,6
+15116,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,3867.467766636611,3903.607896277668,2021,6
+15117,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-06,2956.4540966784493,3109.58092625612,2021,6
+15503,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,4408.907991345637,4456.069091916995,2021,7
+15504,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2630.356144407109,2527.063255856496,2021,7
+15505,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2917.380016132755,2899.828302435655,2021,7
+15506,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2480.658984012486,2373.9690600966665,2021,7
+15507,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3044.124523587945,2962.631469313053,2021,7
+15508,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2807.2767080131207,2828.6903289246115,2021,7
+15509,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3872.771045874966,3847.794124931328,2021,7
+15510,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2011.244622224134,1873.48450257392,2021,7
+15511,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3255.3373184416887,3230.3247926825275,2021,7
+15512,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2155.687497493529,2113.2324871309106,2021,7
+15513,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2084.394369493069,1920.207924849148,2021,7
+15514,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3736.685587086038,3729.630857920866,2021,7
+15515,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,1725.8091329887968,1637.095155465328,2021,7
+15516,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,1559.6706359560746,1305.8311222361867,2021,7
+15517,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2374.7580520841,2307.590541787514,2021,7
+15518,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3094.184869756029,3017.250891558661,2021,7
+15519,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2137.852381517907,2113.436988812832,2021,7
+15520,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2359.479074818048,2226.008149203765,2021,7
+15521,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3399.9642777745303,3380.800522796702,2021,7
+15522,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2362.1929998677147,2247.08353227888,2021,7
+15523,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3596.618652981998,2641.803040302388,2021,7
+15524,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,5617.309417433267,5743.396591279594,2021,7
+15525,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3983.5896520697065,3320.36622783838,2021,7
+15526,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,3924.209392746564,3903.607896277668,2021,7
+15527,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-07,2966.37267473285,3109.58092625612,2021,7
+15915,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,4376.758298068897,4456.069091916995,2021,8
+15916,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2641.574460797594,2527.063255856496,2021,8
+15917,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2929.390788688895,2899.828302435655,2021,8
+15918,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2502.3855941759493,2373.9690600966665,2021,8
+15919,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,3072.0801313088505,2962.631469313053,2021,8
+15920,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2819.7814730257846,2828.6903289246115,2021,8
+15921,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,3925.656926631024,3847.794124931328,2021,8
+15922,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2028.298468712917,1873.48450257392,2021,8
+15923,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,3282.3730776121897,3230.3247926825275,2021,8
+15924,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2173.822033591323,2113.2324871309106,2021,8
+15925,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2110.7870269812624,1920.207924849148,2021,8
+15926,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,3776.236306147248,3729.630857920866,2021,8
+15927,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,1738.123814091636,1637.095155465328,2021,8
+15928,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,1582.252165333028,1305.8311222361867,2021,8
+15929,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2388.9638265569747,2307.590541787514,2021,8
+15930,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,3133.8725218167915,3017.250891558661,2021,8
+15931,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2154.5482646882383,2113.436988812832,2021,8
+15932,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2390.6558995470946,2226.008149203765,2021,8
+15933,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,3415.317137354673,3380.800522796702,2021,8
+15934,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2392.5224675643203,2247.08353227888,2021,8
+15935,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,3630.321449389877,2641.803040302388,2021,8
+15936,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,5595.685378326522,5743.396591279594,2021,8
+15937,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,4021.7137951888935,3320.36622783838,2021,8
+15938,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,3978.111189324741,3903.607896277668,2021,8
+15939,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-08,2975.848767723875,3109.58092625612,2021,8
+16328,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,4334.258971982508,4456.069091916995,2021,9
+16329,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2651.0449436124386,2527.063255856496,2021,9
+16330,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2940.2678316067954,2899.828302435655,2021,9
+16331,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2528.8655042776645,2373.9690600966665,2021,9
+16332,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,3075.662901948225,2962.631469313053,2021,9
+16333,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2826.714450015601,2828.6903289246115,2021,9
+16334,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,3953.069119401391,3847.794124931328,2021,9
+16335,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2036.2229438468532,1873.48450257392,2021,9
+16336,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,3292.670476687298,3230.3247926825275,2021,9
+16337,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2172.7135554306865,2113.2324871309106,2021,9
+16338,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2120.404120186635,1920.207924849148,2021,9
+16339,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,3787.1797117592905,3729.630857920866,2021,9
+16340,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,1741.1234875376658,1637.095155465328,2021,9
+16341,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,1602.5853838260414,1305.8311222361867,2021,9
+16342,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2397.8845078740715,2307.590541787514,2021,9
+16343,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,3150.2394788521838,3017.250891558661,2021,9
+16344,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2161.013600414733,2113.436988812832,2021,9
+16345,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2412.381815771111,2226.008149203765,2021,9
+16346,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,3413.75969294104,3380.800522796702,2021,9
+16347,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2408.366603936091,2247.08353227888,2021,9
+16348,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,3648.343791010896,2641.803040302388,2021,9
+16349,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,5576.411287058007,5743.396591279594,2021,9
+16350,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,4043.419362931402,3320.36622783838,2021,9
+16351,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,4005.6976443276953,3903.607896277668,2021,9
+16352,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-09,2977.904459628568,3109.58092625612,2021,9
+16743,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,4329.656778753531,4456.069091916995,2021,10
+16744,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2637.098666939553,2527.063255856496,2021,10
+16745,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2926.21878136608,2899.828302435655,2021,10
+16746,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2533.454541705397,2373.9690600966665,2021,10
+16747,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,3062.3394126043117,2962.631469313053,2021,10
+16748,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2826.311926343229,2828.6903289246115,2021,10
+16749,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,3938.652192634729,3847.794124931328,2021,10
+16750,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2027.3228948525525,1873.48450257392,2021,10
+16751,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,3288.712727167341,3230.3247926825275,2021,10
+16752,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2161.0034022970585,2113.2324871309106,2021,10
+16753,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2109.3674057644694,1920.207924849148,2021,10
+16754,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,3771.1289225086152,3729.630857920866,2021,10
+16755,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,1737.2352367866831,1637.095155465328,2021,10
+16756,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,1613.0281511295834,1305.8311222361867,2021,10
+16757,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2389.1523189234963,2307.590541787514,2021,10
+16758,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,3147.993605555313,3017.250891558661,2021,10
+16759,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2154.448559949207,2113.436988812832,2021,10
+16760,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2410.0714629938907,2226.008149203765,2021,10
+16761,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,3401.075377503262,3380.800522796702,2021,10
+16762,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2405.4038623601405,2247.08353227888,2021,10
+16763,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,3632.190719133837,2641.803040302388,2021,10
+16764,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,5556.475532570284,5743.396591279594,2021,10
+16765,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,4046.804433287359,3320.36622783838,2021,10
+16766,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,3981.155002505835,3903.607896277668,2021,10
+16767,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-10,2968.583370717279,3109.58092625612,2021,10
+17162,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,4402.757656028178,4456.069091916995,2021,11
+17163,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2680.7823470939315,2527.063255856496,2021,11
+17164,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2971.4979490841506,2899.828302435655,2021,11
+17165,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2580.9492413351777,2373.9690600966665,2021,11
+17166,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,3110.304404965792,2962.631469313053,2021,11
+17167,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2874.752910408136,2828.6903289246115,2021,11
+17168,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,3994.409372804048,3847.794124931328,2021,11
+17169,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2061.900231657271,1873.48450257392,2021,11
+17170,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,3344.4630301050106,3230.3247926825275,2021,11
+17171,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2187.0803216003933,2113.2324871309106,2021,11
+17172,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2141.6878949716024,1920.207924849148,2021,11
+17173,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,3824.700651220313,3729.630857920866,2021,11
+17174,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,1764.8465339412903,1637.095155465328,2021,11
+17175,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,1668.1716786080651,1305.8311222361867,2021,11
+17176,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2423.349845741973,2307.590541787514,2021,11
+17177,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,3204.641615112259,3017.250891558661,2021,11
+17178,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2184.451145605125,2113.436988812832,2021,11
+17179,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2451.223430266765,2226.008149203765,2021,11
+17180,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,3448.771673646265,3380.800522796702,2021,11
+17181,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,2445.765325685211,2247.08353227888,2021,11
+17182,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,3680.365907414328,2641.803040302388,2021,11
+17183,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,5688.969988300973,5743.396591279594,2021,11
+17184,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,4121.408830941022,3320.36622783838,2021,11
+17185,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,4036.729928506128,3903.607896277668,2021,11
+17186,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-11,3007.167283377255,3109.58092625612,2021,11
+17586,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,4434.068109410943,4456.069091916995,2021,12
+17587,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2696.081058310376,2527.063255856496,2021,12
+17588,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2973.6000173094603,2899.828302435655,2021,12
+17589,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2593.2936728499226,2373.9690600966665,2021,12
+17590,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,3121.623734225758,2962.631469313053,2021,12
+17591,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2887.5097414888287,2828.6903289246115,2021,12
+17592,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,4002.961520473092,3847.794124931328,2021,12
+17593,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2066.1934725572387,1873.48450257392,2021,12
+17594,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,3354.8945470934523,3230.3247926825275,2021,12
+17595,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2184.9744226710823,2113.2324871309106,2021,12
+17596,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2150.774617529112,1920.207924849148,2021,12
+17597,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,3835.340584812597,3729.630857920866,2021,12
+17598,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,1775.5595757194778,1637.095155465328,2021,12
+17599,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,1697.487564515203,1305.8311222361867,2021,12
+17600,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2429.340838149221,2307.590541787514,2021,12
+17601,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,3222.6334602166776,3017.250891558661,2021,12
+17602,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2190.694082293601,2113.436988812832,2021,12
+17603,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2459.512713979558,2226.008149203765,2021,12
+17604,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,3451.666891448534,3380.800522796702,2021,12
+17605,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2457.5846784823902,2247.08353227888,2021,12
+17606,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,3686.881851530643,2641.803040302388,2021,12
+17607,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,5759.987250786644,5743.396591279594,2021,12
+17608,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,4134.755367549717,3320.36622783838,2021,12
+17609,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,4056.318157421188,3903.607896277668,2021,12
+17610,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2021-12,2998.814854800282,3109.58092625612,2021,12
+18011,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,4488.086975673204,4456.069091916995,2022,1
+18012,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2746.120890124754,2527.063255856496,2022,1
+18013,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,3004.4071165802834,2899.828302435655,2022,1
+18014,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2628.063971033936,2373.9690600966665,2022,1
+18015,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,3155.075878511482,2962.631469313053,2022,1
+18016,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2921.010048969632,2828.6903289246115,2022,1
+18017,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,4043.7014378181775,3847.794124931328,2022,1
+18018,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2092.6660071261085,1873.48450257392,2022,1
+18019,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,3390.9687473398785,3230.3247926825275,2022,1
+18020,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2206.2604231807613,2113.2324871309106,2022,1
+18021,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2189.493699816619,1920.207924849148,2022,1
+18022,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,3881.6770069290087,3729.630857920866,2022,1
+18023,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,1806.640042594321,1637.095155465328,2022,1
+18024,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,1736.436462221027,1305.8311222361867,2022,1
+18025,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2463.0537591278157,2307.590541787514,2022,1
+18026,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,3264.1269490836626,3017.250891558661,2022,1
+18027,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2219.90123862102,2113.436988812832,2022,1
+18028,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2486.648974456717,2226.008149203765,2022,1
+18029,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,3477.065952657195,3380.800522796702,2022,1
+18030,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,2487.883169137009,2247.08353227888,2022,1
+18031,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,3716.241024805669,2641.803040302388,2022,1
+18032,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,5861.416895556605,5743.396591279594,2022,1
+18033,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,4166.334039369992,3320.36622783838,2022,1
+18034,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,4108.537079756665,3903.607896277668,2022,1
+18035,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-01,3006.0832499670555,3109.58092625612,2022,1
+18445,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,4491.206027784337,4456.069091916995,2022,2
+18446,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2755.6099963014804,2527.063255856496,2022,2
+18447,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,3006.295692661474,2899.828302435655,2022,2
+18448,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2633.985657066532,2373.9690600966665,2022,2
+18449,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,3156.947358722304,2962.631469313053,2022,2
+18450,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2923.799784235223,2828.6903289246115,2022,2
+18451,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,4041.130304761439,3847.794124931328,2022,2
+18452,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2096.272713177927,1873.48450257392,2022,2
+18453,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,3389.480965472587,3230.3247926825275,2022,2
+18454,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2201.602882563217,2113.2324871309106,2022,2
+18455,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2193.904261028746,1920.207924849148,2022,2
+18456,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,3885.054367217236,3729.630857920866,2022,2
+18457,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,1813.217569963911,1637.095155465328,2022,2
+18458,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,1747.3575177799717,1305.8311222361867,2022,2
+18459,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2468.6735092209174,2307.590541787514,2022,2
+18460,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,3268.059502533276,3017.250891558661,2022,2
+18461,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2223.7110599378684,2113.436988812832,2022,2
+18462,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2491.9402170206586,2226.008149203765,2022,2
+18463,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,3466.440486567876,3380.800522796702,2022,2
+18464,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,2485.442836710359,2247.08353227888,2022,2
+18465,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,3711.504373998744,2641.803040302388,2022,2
+18466,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,5871.346772759855,5743.396591279594,2022,2
+18467,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,4155.851511094812,3320.36622783838,2022,2
+18468,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,4110.823651162958,3903.607896277668,2022,2
+18469,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-02,3008.8423240567186,3109.58092625612,2022,2
+18892,269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,4536.222054341255,4456.069091916995,2022,3
+18893,15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2792.155317087172,2527.063255856496,2022,3
+18894,46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,3037.4866912825823,2899.828302435655,2022,3
+18895,154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2670.8186626489405,2373.9690600966665,2022,3
+18896,154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,3201.1644468115137,2962.631469313053,2022,3
+18897,276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2958.3461525540174,2828.6903289246115,2022,3
+18898,272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,4080.8283423440575,3847.794124931328,2022,3
+18899,275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2126.876471642784,1873.48450257392,2022,3
+18900,155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,3425.762911519138,3230.3247926825275,2022,3
+18901,272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2228.022569314873,2113.2324871309106,2022,3
+18902,155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2232.65136185009,1920.207924849148,2022,3
+18903,275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,3936.202739848709,3729.630857920866,2022,3
+18904,155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,1839.1610377252568,1637.095155465328,2022,3
+18905,154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,1780.935982668001,1305.8311222361867,2022,3
+18906,54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2504.176761552213,2307.590541787514,2022,3
+18907,155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,3308.8939547483083,3017.250891558661,2022,3
+18908,37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2250.205332612994,2113.436988812832,2022,3
+18909,274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2526.3434153635526,2226.008149203765,2022,3
+18910,153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,3501.7674701542387,3380.800522796702,2022,3
+18911,154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,2512.628872283572,2247.08353227888,2022,3
+18912,416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,3745.702688828586,2641.803040302388,2022,3
+18913,154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,5947.128495467208,5743.396591279594,2022,3
+18914,270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,4186.130687605773,3320.36622783838,2022,3
+18915,153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,4149.154045613312,3903.607896277668,2022,3
+18916,273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,2022-03,3051.09383778402,3109.58092625612,2022,3

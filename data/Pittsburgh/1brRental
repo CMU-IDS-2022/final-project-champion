@@ -1,0 +1,418 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+230,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,803.7121625303579,946.2899826685152,2018,1
+231,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1201.1897417521527,2531.9543400307966,2018,1
+232,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1579.0526954233212,1793.9386559524314,2018,1
+233,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1866.3941078615276,1965.3309561635836,2018,1
+234,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,905.7826676550806,1076.1791510673647,2018,1
+235,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1147.2738957401964,1327.1755542507722,2018,1
+236,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1408.5126998428427,1579.711660921742,2018,1
+585,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,811.6332078452162,946.2899826685152,2018,2
+586,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1208.3742119700823,2531.9543400307966,2018,2
+587,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1593.0084729462908,1793.9386559524314,2018,2
+588,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1879.7278885604164,1965.3309561635836,2018,2
+589,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,918.8376160651056,1076.1791510673647,2018,2
+590,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1161.9174825535465,1327.1755542507722,2018,2
+591,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1425.3595002581394,1579.711660921742,2018,2
+940,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,821.2409312623331,946.2899826685152,2018,3
+941,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1214.1871670140451,2531.9543400307966,2018,3
+942,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1605.6675832482354,1793.9386559524314,2018,3
+943,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1890.1875934765785,1965.3309561635836,2018,3
+944,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,930.6177185334284,1076.1791510673647,2018,3
+945,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1199.9909270807111,1327.1755542507722,2018,3
+946,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1450.0775042792652,1579.711660921742,2018,3
+1294,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,835.1055784882873,946.2899826685152,2018,4
+1295,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1229.3602066784151,2531.9543400307966,2018,4
+1296,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1616.162275985376,1793.9386559524314,2018,4
+1297,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1900.839327869416,1965.3309561635836,2018,4
+1298,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,952.2516027510844,1076.1791510673647,2018,4
+1299,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1241.8138248121286,1327.1755542507722,2018,4
+1300,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1476.5872587201286,1579.711660921742,2018,4
+1650,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,845.7727155213349,946.2899826685152,2018,5
+1651,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1231.2617439970934,2531.9543400307966,2018,5
+1652,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1607.9300203954583,1793.9386559524314,2018,5
+1653,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1890.1674916396569,1965.3309561635836,2018,5
+1654,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,943.8027421261768,1076.1791510673647,2018,5
+1655,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1273.0694493206993,1327.1755542507722,2018,5
+1656,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1490.8844026287984,1579.711660921742,2018,5
+2006,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,869.3477791182614,946.2899826685152,2018,6
+2007,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1249.549968735336,2531.9543400307966,2018,6
+2008,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1626.786547020136,1793.9386559524314,2018,6
+2009,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1910.2593287142909,1965.3309561635836,2018,6
+2010,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,945.3629777962952,1076.1791510673647,2018,6
+2011,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1288.6798130921895,1327.1755542507722,2018,6
+2012,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1525.577173042078,1579.711660921742,2018,6
+2363,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,883.0360702656003,946.2899826685152,2018,7
+2364,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1252.3599096705927,2531.9543400307966,2018,7
+2365,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1635.4982694770392,1793.9386559524314,2018,7
+2366,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1912.4482327640037,1965.3309561635836,2018,7
+2367,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,929.3675683811372,1076.1791510673647,2018,7
+2368,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1291.6712100412442,1327.1755542507722,2018,7
+2369,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1542.130542970417,1579.711660921742,2018,7
+2720,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,883.0660906440517,946.2899826685152,2018,8
+2721,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1242.232413283556,2531.9543400307966,2018,8
+2722,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1629.657924297113,1793.9386559524314,2018,8
+2723,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1897.1853973944235,1965.3309561635836,2018,8
+2724,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,924.824207557656,1076.1791510673647,2018,8
+2725,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1267.16383398583,1327.1755542507722,2018,8
+2726,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1544.0484172570116,1579.711660921742,2018,8
+3077,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,865.8254475410839,946.2899826685152,2018,9
+3078,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1221.847991104898,2531.9543400307966,2018,9
+3079,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1595.8909838997392,1793.9386559524314,2018,9
+3080,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1873.625663633541,1965.3309561635836,2018,9
+3081,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,916.9068282637654,1076.1791510673647,2018,9
+3082,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1246.8744393784266,1327.1755542507722,2018,9
+3083,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1525.5145368052997,1579.711660921742,2018,9
+3434,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,848.4567078838917,946.2899826685152,2018,10
+3435,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1218.607457446488,2531.9543400307966,2018,10
+3436,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1579.6543507638,1793.9386559524314,2018,10
+3437,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1867.8616655893563,1965.3309561635836,2018,10
+3438,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,921.0169734323592,1076.1791510673647,2018,10
+3439,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1234.1878825642573,1327.1755542507722,2018,10
+3440,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1521.0248182618084,1579.711660921742,2018,10
+3791,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,835.8770755393676,946.2899826685152,2018,11
+3792,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1218.848193388651,2531.9543400307966,2018,11
+3793,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1580.1897999360892,1793.9386559524314,2018,11
+3794,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1871.2485455437425,1965.3309561635836,2018,11
+3795,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,911.919685667335,1076.1791510673647,2018,11
+3796,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1241.5739711522951,1327.1755542507722,2018,11
+3797,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1516.5367409319465,1579.711660921742,2018,11
+4148,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,815.5111377478963,946.2899826685152,2018,12
+4149,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1206.0262787844629,2531.9543400307966,2018,12
+4150,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1569.2337448829703,1793.9386559524314,2018,12
+4151,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1846.884572564083,1965.3309561635836,2018,12
+4152,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,892.0564144293128,1076.1791510673647,2018,12
+4153,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1228.1870469245537,1327.1755542507722,2018,12
+4154,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1492.5003752620933,1579.711660921742,2018,12
+4506,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,824.7958491905214,946.2899826685152,2019,1
+4507,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1218.363369501614,2531.9543400307966,2019,1
+4508,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1610.482397175463,1793.9386559524314,2019,1
+4509,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1871.76287859828,1965.3309561635836,2019,1
+4510,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,900.75549284598,1076.1791510673647,2019,1
+4511,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1247.6781014458318,1327.1755542507722,2019,1
+4512,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1512.7263881214797,1579.711660921742,2019,1
+4864,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,836.3296843413505,946.2899826685152,2019,2
+4865,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1232.5582958331556,2531.9543400307966,2019,2
+4866,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1648.275131323623,1793.9386559524314,2019,2
+4867,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1895.2276059280427,1965.3309561635836,2019,2
+4868,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,924.6321601797248,1076.1791510673647,2019,2
+4869,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1271.7176909489303,1327.1755542507722,2019,2
+4870,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1542.95857346943,1579.711660921742,2019,2
+5222,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,848.7930312143196,946.2899826685152,2019,3
+5223,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1230.991876499262,2531.9543400307966,2019,3
+5224,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1680.80518958494,1793.9386559524314,2019,3
+5225,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1895.8967013270887,1965.3309561635836,2019,3
+5226,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,951.810406299725,1076.1791510673647,2019,3
+5227,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1282.579470967562,1327.1755542507722,2019,3
+5228,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1556.1234797049783,1579.711660921742,2019,3
+5580,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,874.4938277029665,946.2899826685152,2019,4
+5581,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1248.907644736489,2531.9543400307966,2019,4
+5582,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1737.7870119508816,1793.9386559524314,2019,4
+5583,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1919.7525937226508,1965.3309561635836,2019,4
+5584,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,980.5319706688582,1076.1791510673647,2019,4
+5585,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1316.8115456827384,1327.1755542507722,2019,4
+5586,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1586.4347273146736,1579.711660921742,2019,4
+5939,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,887.1509315168104,946.2899826685152,2019,5
+5940,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1255.168881664055,2531.9543400307966,2019,5
+5941,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1752.330372225852,1793.9386559524314,2019,5
+5942,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1915.362450725802,1965.3309561635836,2019,5
+5943,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,992.8039644751552,1076.1791510673647,2019,5
+5944,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1340.9481134719986,1327.1755542507722,2019,5
+5945,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1597.924138265248,1579.711660921742,2019,5
+6299,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,887.1043251036791,946.2899826685152,2019,6
+6300,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1254.0597436285393,2531.9543400307966,2019,6
+6301,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1759.089146516536,1793.9386559524314,2019,6
+6302,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1907.5532682844305,1965.3309561635836,2019,6
+6303,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1000.9617838184774,1076.1791510673647,2019,6
+6304,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1368.6496663379287,1327.1755542507722,2019,6
+6305,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1598.0374953601104,1579.711660921742,2019,6
+6660,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,893.8282476621587,946.2899826685152,2019,7
+6661,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1256.608294845837,2531.9543400307966,2019,7
+6662,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1836.8065167982772,1935.7356866368732,2019,7
+6663,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1771.0877404044315,1793.9386559524314,2019,7
+6664,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1921.3919711939088,1965.3309561635836,2019,7
+6665,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1023.1228959885556,1076.1791510673647,2019,7
+6666,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1393.5353305513995,1327.1755542507722,2019,7
+6667,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1611.2270675918166,1579.711660921742,2019,7
+7022,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,899.2910620041259,946.2899826685152,2019,8
+7023,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1258.9817539135145,2531.9543400307966,2019,8
+7024,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1855.9480931149612,1935.7356866368732,2019,8
+7025,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1787.6272641596138,1793.9386559524314,2019,8
+7026,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1938.164683891736,1965.3309561635836,2019,8
+7027,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1043.533113450747,1076.1791510673647,2019,8
+7028,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1401.6246899124314,1327.1755542507722,2019,8
+7029,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1608.728521027411,1579.711660921742,2019,8
+7384,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,902.1269380051142,946.2899826685152,2019,9
+7385,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1258.3744783453249,2531.9543400307966,2019,9
+7386,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1873.5516715837016,1935.7356866368732,2019,9
+7387,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1793.0181423021393,1793.9386559524314,2019,9
+7388,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1948.628899615075,1965.3309561635836,2019,9
+7389,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1053.6939390615642,1076.1791510673647,2019,9
+7390,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1400.099826046949,1327.1755542507722,2019,9
+7391,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1604.2725877185935,1579.711660921742,2019,9
+7746,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,901.7307675780072,946.2899826685152,2019,10
+7747,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1251.980392356561,2531.9543400307966,2019,10
+7748,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1859.6793247513317,1935.7356866368732,2019,10
+7749,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1780.613564994629,1793.9386559524314,2019,10
+7750,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1932.2460245024176,1965.3309561635836,2019,10
+7751,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1044.1669651231755,1076.1791510673647,2019,10
+7752,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1397.500421490796,1327.1755542507722,2019,10
+7753,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1590.0327727902982,1579.711660921742,2019,10
+8108,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,911.1990675475612,946.2899826685152,2019,11
+8109,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1266.4430517645371,2531.9543400307966,2019,11
+8110,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1868.299722423994,1935.7356866368732,2019,11
+8111,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1784.3066410702995,1793.9386559524314,2019,11
+8112,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1937.207428753576,1965.3309561635836,2019,11
+8113,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1035.5796443814602,1076.1791510673647,2019,11
+8114,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1401.141803813584,1327.1755542507722,2019,11
+8115,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1592.7426642207,1579.711660921742,2019,11
+8472,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,928.3093836370272,946.2899826685152,2019,12
+8473,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1293.1063177580927,2531.9543400307966,2019,12
+8474,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1891.3639896035968,1935.7356866368732,2019,12
+8475,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1791.2389725800815,1793.9386559524314,2019,12
+8476,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1958.6410073583909,1965.3309561635836,2019,12
+8477,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1041.5754603906398,1076.1791510673647,2019,12
+8478,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1414.5471938767128,1327.1755542507722,2019,12
+8479,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1611.2166844020965,1579.711660921742,2019,12
+8836,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,916.5638214015552,946.2899826685152,2020,1
+8837,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1291.2817819079844,2531.9543400307966,2020,1
+8838,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1884.742014051144,1935.7356866368732,2020,1
+8839,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1772.407002198451,1793.9386559524314,2020,1
+8840,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1945.2434465669771,1965.3309561635836,2020,1
+8841,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1057.222345064574,1076.1791510673647,2020,1
+8842,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1385.7239335102972,1327.1755542507722,2020,1
+8843,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1591.8982747210323,1579.711660921742,2020,1
+9204,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,924.757981197717,946.2899826685152,2020,2
+9205,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1293.261432597589,2531.9543400307966,2020,2
+9206,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1906.8207368013989,1935.7356866368732,2020,2
+9207,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1792.4135158721415,1793.9386559524314,2020,2
+9208,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1954.2758220099968,1965.3309561635836,2020,2
+9209,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1094.5294682036726,1076.1791510673647,2020,2
+9210,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1394.3518001582315,1327.1755542507722,2020,2
+9211,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1609.9873394772262,1579.711660921742,2020,2
+9572,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,932.1006548642424,946.2899826685152,2020,3
+9573,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1294.959247734703,2531.9543400307966,2020,3
+9574,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1910.596666725506,1935.7356866368732,2020,3
+9575,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1831.1497907894768,1793.9386559524314,2020,3
+9576,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1952.8444903220009,1965.3309561635836,2020,3
+9577,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1123.1170989049026,1076.1791510673647,2020,3
+9578,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1394.2425528169315,1327.1755542507722,2020,3
+9579,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1621.0418182798735,1579.711660921742,2020,3
+9941,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,940.6467967980944,946.2899826685152,2020,4
+9942,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1298.9087258972368,2531.9543400307966,2020,4
+9943,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1894.3534061782289,1935.7356866368732,2020,4
+9944,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1862.835112010165,1793.9386559524314,2020,4
+9945,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1951.430305392412,1965.3309561635836,2020,4
+9946,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1129.5818178353095,1076.1791510673647,2020,4
+9947,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1396.535423473542,1327.1755542507722,2020,4
+9948,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1623.537039072069,1579.711660921742,2020,4
+10310,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,936.875317640476,946.2899826685152,2020,5
+10311,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1299.3032412691523,2531.9543400307966,2020,5
+10312,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1863.972264894407,1935.7356866368732,2020,5
+10313,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1877.91145024059,1793.9386559524314,2020,5
+10314,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1927.176591918053,1965.3309561635836,2020,5
+10315,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1128.8828158544875,1076.1791510673647,2020,5
+10316,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1370.9384537471194,1327.1755542507722,2020,5
+10317,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1597.9259324314344,1579.711660921742,2020,5
+10681,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,949.8747823626662,946.2899826685152,2020,6
+10682,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1303.456335032668,2531.9543400307966,2020,6
+10683,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1858.2441507410265,1935.7356866368732,2020,6
+10684,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1893.1638685363612,1793.9386559524314,2020,6
+10685,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1930.5132606538407,1965.3309561635836,2020,6
+10686,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1130.4836183467517,1076.1791510673647,2020,6
+10687,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1361.9603351579938,1327.1755542507722,2020,6
+10688,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1598.954056821023,1579.711660921742,2020,6
+11056,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,960.0083976012484,946.2899826685152,2020,7
+11057,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1305.00657333758,2531.9543400307966,2020,7
+11058,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1863.3875472077325,1935.7356866368732,2020,7
+11059,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1897.9320265092224,1793.9386559524314,2020,7
+11060,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1932.4765058107123,1965.3309561635836,2020,7
+11061,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1129.1669705184918,1076.1791510673647,2020,7
+11062,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1350.3154405163943,1327.1755542507722,2020,7
+11063,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1598.1789154833384,1579.711660921742,2020,7
+11432,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,963.2545988908648,946.2899826685152,2020,8
+11433,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1313.912356881029,2531.9543400307966,2020,8
+11434,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1863.1917182292864,1935.7356866368732,2020,8
+11435,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1909.903856209808,1793.9386559524314,2020,8
+11436,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1939.675831017231,1965.3309561635836,2020,8
+11437,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1130.8735318263953,1076.1791510673647,2020,8
+11438,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1340.3270664442105,1327.1755542507722,2020,8
+11439,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,3449.268790705468,3478.516711987953,2020,8
+11440,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1600.6734844410369,1579.711660921742,2020,8
+11809,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,954.3845160290462,946.2899826685152,2020,9
+11810,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1323.6217751710233,2531.9543400307966,2020,9
+11811,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1846.0003800975912,1935.7356866368732,2020,9
+11812,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1910.238650707661,1793.9386559524314,2020,9
+11813,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1923.9521403955052,1965.3309561635836,2020,9
+11814,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1123.780198202844,1076.1791510673647,2020,9
+11815,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1313.0954102653766,1327.1755542507722,2020,9
+11816,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,3428.5406313245826,3478.516711987953,2020,9
+11817,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1573.2798831098287,1579.711660921742,2020,9
+12192,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,962.5465505669168,946.2899826685152,2020,10
+12193,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1344.8016692467331,2531.9543400307966,2020,10
+12194,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1844.8040758847608,1935.7356866368732,2020,10
+12195,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1932.967500395633,1793.9386559524314,2020,10
+12196,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1928.9644613060225,1965.3309561635836,2020,10
+12197,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1140.4184322197375,1076.1791510673647,2020,10
+12198,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1304.4464703543226,1327.1755542507722,2020,10
+12199,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,3442.499495336532,3478.516711987953,2020,10
+12200,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1571.7634513142502,1579.711660921742,2020,10
+12579,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,985.2577974643968,946.2899826685152,2020,11
+12580,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1357.097060256643,2531.9543400307966,2020,11
+12581,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1866.311098407493,1935.7356866368732,2020,11
+12582,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1937.5638291273087,1793.9386559524314,2020,11
+12583,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1956.0150698718537,1965.3309561635836,2020,11
+12584,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1153.3729867019988,1076.1791510673647,2020,11
+12585,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1308.132659190352,1327.1755542507722,2020,11
+12586,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,3454.4551022175715,3478.516711987953,2020,11
+12587,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1570.0686054871417,1579.711660921742,2020,11
+12970,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,990.854724127184,946.2899826685152,2020,12
+12971,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1342.8946502114686,2531.9543400307966,2020,12
+12972,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1864.222006347254,1935.7356866368732,2020,12
+12973,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1899.376000631296,1793.9386559524314,2020,12
+12974,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1957.218889705824,1965.3309561635836,2020,12
+12975,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1147.883944303278,1076.1791510673647,2020,12
+12976,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1296.9048121768035,1327.1755542507722,2020,12
+12977,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,3397.670615275925,3478.516711987953,2020,12
+12978,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1558.1719182976344,1579.711660921742,2020,12
+13362,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1004.6922209305568,946.2899826685152,2021,1
+13363,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1352.636094837909,2531.9543400307966,2021,1
+13364,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1891.846258840441,1935.7356866368732,2021,1
+13365,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1853.8295340952925,1793.9386559524314,2021,1
+13366,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1978.5408457479969,1965.3309561635836,2021,1
+13367,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1152.474096833473,1076.1791510673647,2021,1
+13368,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1301.5414796596915,1327.1755542507722,2021,1
+13369,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,3389.830336473145,3478.516711987953,2021,1
+13370,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1558.7885551049376,1579.711660921742,2021,1
+13758,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1019.8771934251188,946.2899826685152,2021,2
+13759,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1381.9095360350111,2531.9543400307966,2021,2
+13760,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1920.7040898649143,1935.7356866368732,2021,2
+13761,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1836.801975799068,1793.9386559524314,2021,2
+13762,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2000.754703955591,1965.3309561635836,2021,2
+13763,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1165.9572306856262,1076.1791510673647,2021,2
+13764,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1311.5785499715628,1327.1755542507722,2021,2
+13765,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,3367.820818737979,3478.516711987953,2021,2
+13766,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1583.7887201268074,1579.711660921742,2021,2
+14156,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1017.7297522662872,946.2899826685152,2021,3
+14157,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1382.2864635300025,2531.9543400307966,2021,3
+14158,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1926.733117522732,1935.7356866368732,2021,3
+14159,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1797.1499255588012,1793.9386559524314,2021,3
+14160,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1994.9293810897195,1965.3309561635836,2021,3
+14161,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1157.2267873745134,1076.1791510673647,2021,3
+14162,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1294.0395379635663,1327.1755542507722,2021,3
+14163,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,3313.4104873588585,3478.516711987953,2021,3
+14164,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1577.844737941221,1579.711660921742,2021,3
+14555,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1023.5317548800324,946.2899826685152,2021,4
+14556,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1388.8239202262407,2531.9543400307966,2021,4
+14557,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1949.4657131059664,1935.7356866368732,2021,4
+14558,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1805.8715852799448,1793.9386559524314,2021,4
+14559,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2002.1111883375324,1965.3309561635836,2021,4
+14560,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1149.1124358005843,1076.1791510673647,2021,4
+14561,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1292.2102311227973,1327.1755542507722,2021,4
+14562,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,3316.1942794557594,3478.516711987953,2021,4
+14563,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1586.0733032053702,1579.711660921742,2021,4
+14956,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1056.3328377001833,946.2899826685152,2021,5
+14957,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1388.668535554349,2531.9543400307966,2021,5
+14958,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1994.563261257288,1935.7356866368732,2021,5
+14959,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1845.4810550561924,1793.9386559524314,2021,5
+14960,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2043.2249562318295,1965.3309561635836,2021,5
+14961,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1168.0865821886146,1076.1791510673647,2021,5
+14962,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1314.1746185120453,1327.1755542507722,2021,5
+14963,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,3417.2915515804893,3478.516711987953,2021,5
+14964,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1614.277948943899,1579.711660921742,2021,5
+15366,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1073.5468502400845,946.2899826685152,2021,6
+15367,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1377.0409614510777,2531.9543400307966,2021,6
+15368,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1994.699328413646,1935.7356866368732,2021,6
+15369,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1868.5868508301116,1793.9386559524314,2021,6
+15370,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2046.137717519276,1965.3309561635836,2021,6
+15371,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1178.3275003955405,1076.1791510673647,2021,6
+15372,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1321.4902089459847,1327.1755542507722,2021,6
+15373,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,3424.2194622998472,3478.516711987953,2021,6
+15374,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1613.2903155930724,1579.711660921742,2021,6
+15777,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1104.9544551700944,946.2899826685152,2021,7
+15778,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1378.6279397672245,2531.9543400307966,2021,7
+15779,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2026.7207312590288,1935.7356866368732,2021,7
+15780,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1918.4095902704996,1793.9386559524314,2021,7
+15781,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2091.8319408272187,1965.3309561635836,2021,7
+15782,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1208.3954755582265,1076.1791510673647,2021,7
+15783,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1349.347512409667,1327.1755542507722,2021,7
+15784,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,3467.8499735826717,3478.516711987953,2021,7
+15785,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1644.411999573868,1579.711660921742,2021,7
+16189,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1105.1295499259286,946.2899826685152,2021,8
+16190,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1388.7759407552555,2531.9543400307966,2021,8
+16191,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2054.454537710144,1935.7356866368732,2021,8
+16192,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1945.3597720065568,1793.9386559524314,2021,8
+16193,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2107.6921007312376,1965.3309561635836,2021,8
+16194,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1219.130806852008,1076.1791510673647,2021,8
+16195,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1364.013092881043,1327.1755542507722,2021,8
+16196,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,3486.8939838314736,3478.516711987953,2021,8
+16197,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1654.3835099422372,1579.711660921742,2021,8
+16604,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1109.6487247688017,946.2899826685152,2021,9
+16605,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1404.6436426993282,2531.9543400307966,2021,9
+16606,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2084.7087256007244,1935.7356866368732,2021,9
+16607,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1967.3258726479871,1793.9386559524314,2021,9
+16608,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2150.352675473253,1965.3309561635836,2021,9
+16609,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1243.6050073250954,1076.1791510673647,2021,9
+16610,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1388.486064962458,1327.1755542507722,2021,9
+16611,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,3559.215481903335,3478.516711987953,2021,9
+16612,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1679.374445709458,1579.711660921742,2021,9
+17023,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1093.005615348179,946.2899826685152,2021,10
+17024,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1404.2829364274826,2531.9543400307966,2021,10
+17025,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2067.595471652412,1935.7356866368732,2021,10
+17026,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1963.242176030673,1793.9386559524314,2021,10
+17027,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2137.141371589792,1965.3309561635836,2021,10
+17028,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1252.411776039218,1076.1791510673647,2021,10
+17029,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1387.1375814528265,1327.1755542507722,2021,10
+17030,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,3577.445915178995,3478.516711987953,2021,10
+17031,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1663.7797354261195,1579.711660921742,2021,10
+17442,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1100.9130776745858,946.2899826685152,2021,11
+17443,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1426.7013147151722,2531.9543400307966,2021,11
+17444,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2073.076487216527,1935.7356866368732,2021,11
+17445,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1997.3085336662236,1793.9386559524314,2021,11
+17446,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2161.324073751964,1965.3309561635836,2021,11
+17447,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1283.892423688086,1076.1791510673647,2021,11
+17448,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1406.602996697855,1327.1755542507722,2021,11
+17449,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,3644.244826012754,3478.516711987953,2021,11
+17450,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1675.997255871353,1579.711660921742,2021,11
+17866,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1095.6062747765532,946.2899826685152,2021,12
+17867,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1428.3571118435802,2531.9543400307966,2021,12
+17868,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2053.818264727526,1935.7356866368732,2021,12
+17869,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2015.205598676526,1793.9386559524314,2021,12
+17870,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2140.5453241544938,1965.3309561635836,2021,12
+17871,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1275.844869243214,1076.1791510673647,2021,12
+17872,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1406.3681417773334,1327.1755542507722,2021,12
+17873,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,3629.3829207650942,3478.516711987953,2021,12
+17874,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1660.8984749369213,1579.711660921742,2021,12
+18297,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1092.7561901647052,946.2899826685152,2022,1
+18298,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1425.6119580850134,2531.9543400307966,2022,1
+18299,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2047.5699055003183,1935.7356866368732,2022,1
+18300,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2015.124487039489,1793.9386559524314,2022,1
+18301,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2132.5660666630106,1965.3309561635836,2022,1
+18302,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1273.1451493623777,1076.1791510673647,2022,1
+18303,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1350.092301333621,1342.4844539226517,2022,1
+18304,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1408.5938072411277,1327.1755542507722,2022,1
+18305,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,3611.6403005420807,3478.516711987953,2022,1
+18306,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1342.3012732060006,1354.5550886467065,2022,1
+18307,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1656.9951742327833,1579.711660921742,2022,1
+18740,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1103.3369291963702,946.2899826685152,2022,2
+18741,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1430.179773756635,2531.9543400307966,2022,2
+18742,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2050.7294006657294,1935.7356866368732,2022,2
+18743,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2015.765730899334,1793.9386559524314,2022,2
+18744,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2135.9949793046385,1965.3309561635836,2022,2
+18745,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1281.1614362495916,1076.1791510673647,2022,2
+18746,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1339.2605680084555,1342.4844539226517,2022,2
+18747,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1423.8514690920283,1327.1755542507722,2022,2
+18748,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,3595.501876162837,3478.516711987953,2022,2
+18749,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1354.094934003626,1354.5550886467065,2022,2
+18750,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1667.5808710126837,1579.711660921742,2022,2
+19189,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1128.8637307910722,946.2899826685152,2022,3
+19190,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1438.5348225178614,2531.9543400307966,2022,3
+19191,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2090.296981837731,1935.7356866368732,2022,3
+19192,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2012.151919925132,1793.9386559524314,2022,3
+19193,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2160.279294482332,1965.3309561635836,2022,3
+19194,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2662.348268850826,2662.348268850826,2022,3
+19195,271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1301.1370995141924,1076.1791510673647,2022,3
+19196,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1338.1004924258782,1342.4844539226517,2022,3
+19197,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1440.3059850948796,1327.1755542507722,2022,3
+19198,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,3596.9573910136573,3478.516711987953,2022,3
+19199,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1367.2690587304933,1354.5550886467065,2022,3
+19200,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1681.1498702055578,1579.711660921742,2022,3

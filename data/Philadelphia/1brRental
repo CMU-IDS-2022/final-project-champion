@@ -1,0 +1,1065 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+211,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,951.3960681445652,1148.5044736559232,2018,1
+212,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1469.350000232649,1645.9093023412993,2018,1
+213,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1710.775088426772,1921.8954892643592,2018,1
+214,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1286.8030333571116,1437.869489166554,2018,1
+215,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1428.364630097933,1525.114649499571,2018,1
+216,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,2106.9938564159456,2257.255307926116,2018,1
+217,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,2274.2820933244984,2220.2257329526765,2018,1
+218,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,2013.8920523688105,2068.5207786001897,2018,1
+219,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1241.225169759546,2641.803040302388,2018,1
+220,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1642.86692260701,1858.2354321620896,2018,1
+221,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1678.268167761932,1804.2923346465825,2018,1
+222,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,2402.425676101663,2363.589050621973,2018,1
+223,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,2060.25082578597,2214.3073687729093,2018,1
+224,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1889.6034371137675,2011.0185452708329,2018,1
+225,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1942.141314420888,2020.197378840244,2018,1
+226,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,2316.5565844312423,2322.33585044503,2018,1
+227,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1808.717293815993,1939.1851073318312,2018,1
+228,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,1981.2921662492568,2072.3788916577005,2018,1
+229,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-01,972.8339020015112,1201.0712093336767,2018,1
+566,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,958.9304672894356,1148.5044736559232,2018,2
+567,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1486.3924189826514,1645.9093023412993,2018,2
+568,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1728.330795988142,1921.8954892643592,2018,2
+569,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1306.944864748456,1437.869489166554,2018,2
+570,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1437.3325712911176,1525.114649499571,2018,2
+571,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,2121.6513517245758,2257.255307926116,2018,2
+572,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,2258.455248312304,2220.2257329526765,2018,2
+573,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,2020.0336168708732,2068.5207786001897,2018,2
+574,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1242.963789867568,2641.803040302388,2018,2
+575,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1647.420706556858,1858.2354321620896,2018,2
+576,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1688.9170571398724,1804.2923346465825,2018,2
+577,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,2394.5732548077517,2363.589050621973,2018,2
+578,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,2077.299204211881,2214.3073687729093,2018,2
+579,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1896.6544599984309,2011.0185452708329,2018,2
+580,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1957.486675819301,2020.197378840244,2018,2
+581,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,2358.5827310564127,2322.33585044503,2018,2
+582,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1818.76852233766,1939.1851073318312,2018,2
+583,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,1975.1826402001564,2072.3788916577005,2018,2
+584,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-02,980.8041258687316,1201.0712093336767,2018,2
+921,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,972.6253158488483,1148.5044736559232,2018,3
+922,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1503.0741809522362,1645.9093023412993,2018,3
+923,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1742.4076271622005,1921.8954892643592,2018,3
+924,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1320.0644362178325,1437.869489166554,2018,3
+925,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1448.0534858059957,1525.114649499571,2018,3
+926,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,2125.309818830612,2257.255307926116,2018,3
+927,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,2243.125395924468,2220.2257329526765,2018,3
+928,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,2027.521699596544,2068.5207786001897,2018,3
+929,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1251.5814304864537,2641.803040302388,2018,3
+930,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1649.6435996402229,1858.2354321620896,2018,3
+931,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1670.8487747592055,1804.2923346465825,2018,3
+932,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,2381.3505625420016,2363.589050621973,2018,3
+933,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,2090.7425643825923,2214.3073687729093,2018,3
+934,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1896.3189853596248,2011.0185452708329,2018,3
+935,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1969.3374554295988,2020.197378840244,2018,3
+936,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,2411.5201706285657,2322.33585044503,2018,3
+937,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1815.9836335942389,1939.1851073318312,2018,3
+938,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,1982.7872371077244,2072.3788916577005,2018,3
+939,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-03,986.0625686199614,1201.0712093336767,2018,3
+1275,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,975.3383306616748,1148.5044736559232,2018,4
+1276,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1510.654570618521,1645.9093023412993,2018,4
+1277,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1754.693412946745,1921.8954892643592,2018,4
+1278,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1328.030839729829,1437.869489166554,2018,4
+1279,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1447.3434305532528,1525.114649499571,2018,4
+1280,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,2133.3440507659234,2257.255307926116,2018,4
+1281,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,2250.348975169866,2220.2257329526765,2018,4
+1282,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,2027.871221523115,2068.5207786001897,2018,4
+1283,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1262.611615205684,2641.803040302388,2018,4
+1284,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1656.380586540596,1858.2354321620896,2018,4
+1285,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1685.4072879359026,1804.2923346465825,2018,4
+1286,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,2373.060696259822,2363.589050621973,2018,4
+1287,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,2086.729189092412,2214.3073687729093,2018,4
+1288,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1903.1075484007015,2011.0185452708329,2018,4
+1289,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1965.1026949132383,2020.197378840244,2018,4
+1290,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,2414.8980647513818,2322.33585044503,2018,4
+1291,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1821.453578768696,1939.1851073318312,2018,4
+1292,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,1999.811245249483,2072.3788916577005,2018,4
+1293,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-04,987.5253041310408,1201.0712093336767,2018,4
+1631,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,980.5339845089836,1148.5044736559232,2018,5
+1632,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1511.2742992783817,1645.9093023412993,2018,5
+1633,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1774.6331080983134,1921.8954892643592,2018,5
+1634,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1337.4875465427529,1437.869489166554,2018,5
+1635,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1442.0340147325014,1525.114649499571,2018,5
+1636,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,2137.3681278670883,2257.255307926116,2018,5
+1637,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,2256.489856819197,2220.2257329526765,2018,5
+1638,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,2032.0857243885253,2068.5207786001897,2018,5
+1639,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1288.5104293982026,2641.803040302388,2018,5
+1640,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1659.4218149604965,1858.2354321620896,2018,5
+1641,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1697.5781886635857,1804.2923346465825,2018,5
+1642,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,2353.957625408912,2363.589050621973,2018,5
+1643,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,2081.424572437747,2214.3073687729093,2018,5
+1644,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1910.905871323632,2011.0185452708329,2018,5
+1645,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1954.375947281548,2020.197378840244,2018,5
+1646,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,2411.3481044569385,2322.33585044503,2018,5
+1647,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,1828.5871435519623,1939.1851073318312,2018,5
+1648,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,2017.859721051365,2072.3788916577005,2018,5
+1649,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-05,982.8602884304044,1201.0712093336767,2018,5
+1987,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,982.3419884441544,1148.5044736559232,2018,6
+1988,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1511.5442207116112,1645.9093023412993,2018,6
+1989,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1787.5810404712497,1921.8954892643592,2018,6
+1990,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1344.04627220842,1437.869489166554,2018,6
+1991,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1437.6886347942734,1525.114649499571,2018,6
+1992,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,2153.9937745771044,2257.255307926116,2018,6
+1993,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,2264.639222817272,2220.2257329526765,2018,6
+1994,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,2043.1038129370409,2068.5207786001897,2018,6
+1995,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1286.585623232834,2641.803040302388,2018,6
+1996,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1675.5562858726937,1858.2354321620896,2018,6
+1997,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1706.4590178749484,1804.2923346465825,2018,6
+1998,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,2352.0872459390907,2363.589050621973,2018,6
+1999,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,2082.8654535047617,2214.3073687729093,2018,6
+2000,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1915.4427398938465,2011.0185452708329,2018,6
+2001,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1953.361125600812,2020.197378840244,2018,6
+2002,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,2420.776702586829,2322.33585044503,2018,6
+2003,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,1839.2486027416048,1939.1851073318312,2018,6
+2004,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,2033.6994514025748,2072.3788916577005,2018,6
+2005,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-06,985.4266190274592,1201.0712093336767,2018,6
+2344,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,989.0214774172724,1148.5044736559232,2018,7
+2345,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1503.389650266199,1645.9093023412993,2018,7
+2346,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1793.1194274582072,1921.8954892643592,2018,7
+2347,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1340.8612083556022,1437.869489166554,2018,7
+2348,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1424.5849509773168,1525.114649499571,2018,7
+2349,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,2141.4464489263314,2257.255307926116,2018,7
+2350,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,2257.7721356700963,2220.2257329526765,2018,7
+2351,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,2027.1396325720264,2068.5207786001897,2018,7
+2352,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1271.2320562237696,2641.803040302388,2018,7
+2353,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1669.4245512742782,1858.2354321620896,2018,7
+2354,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1710.0519739723852,1804.2923346465825,2018,7
+2355,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,2333.9641791608537,2363.589050621973,2018,7
+2356,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,2073.842417556681,2214.3073687729093,2018,7
+2357,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1902.7509650158684,2011.0185452708329,2018,7
+2358,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1938.6656066809949,2020.197378840244,2018,7
+2359,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,2428.226050193185,2322.33585044503,2018,7
+2360,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,1830.1216339770983,1939.1851073318312,2018,7
+2361,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,2027.3208933809876,2072.3788916577005,2018,7
+2362,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-07,985.24625229271,1201.0712093336767,2018,7
+2701,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,997.4538459733428,1148.5044736559232,2018,8
+2702,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1506.7215782443195,1645.9093023412993,2018,8
+2703,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1804.90991793862,1921.8954892643592,2018,8
+2704,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1344.9809439882945,1437.869489166554,2018,8
+2705,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1421.148004655028,1525.114649499571,2018,8
+2706,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,2149.74227874058,2257.255307926116,2018,8
+2707,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,2277.3098850374395,2220.2257329526765,2018,8
+2708,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,2033.7181746444876,2068.5207786001897,2018,8
+2709,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1244.197772222422,2641.803040302388,2018,8
+2710,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1681.6413575210902,1858.2354321620896,2018,8
+2711,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1717.9576415891931,1804.2923346465825,2018,8
+2712,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,2353.7902872405675,2363.589050621973,2018,8
+2713,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,2072.6163929724794,2214.3073687729093,2018,8
+2714,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1909.396786664673,2011.0185452708329,2018,8
+2715,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1938.4372802576995,2020.197378840244,2018,8
+2716,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,2445.893898448317,2322.33585044503,2018,8
+2717,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,1839.7722972778529,1939.1851073318312,2018,8
+2718,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,2041.814919944917,2072.3788916577005,2018,8
+2719,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-08,992.139573516095,1201.0712093336767,2018,8
+3058,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,993.0083702568096,1148.5044736559232,2018,9
+3059,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1497.73782209997,1645.9093023412993,2018,9
+3060,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1801.768281128248,1921.8954892643592,2018,9
+3061,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1341.2713814067356,1437.869489166554,2018,9
+3062,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1412.4286359013083,1525.114649499571,2018,9
+3063,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,2136.376355541744,2257.255307926116,2018,9
+3064,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,2276.535148858669,2220.2257329526765,2018,9
+3065,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,2019.619812764461,2068.5207786001897,2018,9
+3066,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1228.4410988739585,2641.803040302388,2018,9
+3067,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1668.4307437424427,1858.2354321620896,2018,9
+3068,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1721.745878898059,1804.2923346465825,2018,9
+3069,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,2364.8263048632843,2363.589050621973,2018,9
+3070,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,2054.956154965014,2214.3073687729093,2018,9
+3071,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1906.603157118812,2011.0185452708329,2018,9
+3072,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1933.4098231869173,2020.197378840244,2018,9
+3073,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,2447.1100341963224,2322.33585044503,2018,9
+3074,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,1838.4402973043843,1939.1851073318312,2018,9
+3075,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,2034.3743508668367,2072.3788916577005,2018,9
+3076,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-09,991.815582334428,1201.0712093336767,2018,9
+3415,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,984.9013871733446,1148.5044736559232,2018,10
+3416,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1491.8761938673786,1645.9093023412993,2018,10
+3417,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1792.5345862172217,1921.8954892643592,2018,10
+3418,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1336.569944920635,1437.869489166554,2018,10
+3419,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1413.9085344604714,1525.114649499571,2018,10
+3420,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,2138.664862193637,2257.255307926116,2018,10
+3421,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,2278.8425975725004,2220.2257329526765,2018,10
+3422,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,2024.562689540007,2068.5207786001897,2018,10
+3423,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1216.4422697167324,2641.803040302388,2018,10
+3424,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1667.7073890652048,1858.2354321620896,2018,10
+3425,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1719.2602814067911,1804.2923346465825,2018,10
+3426,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,2388.387097365688,2363.589050621973,2018,10
+3427,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,2041.781935313151,2214.3073687729093,2018,10
+3428,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1903.0781969757568,2011.0185452708329,2018,10
+3429,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1938.6576485750645,2020.197378840244,2018,10
+3430,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,2453.6130082886,2322.33585044503,2018,10
+3431,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,1846.0425290280368,1939.1851073318312,2018,10
+3432,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,2034.5908033033063,2072.3788916577005,2018,10
+3433,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-10,985.4564488207596,1201.0712093336767,2018,10
+3772,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,980.492522497706,1148.5044736559232,2018,11
+3773,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1489.804340826781,1645.9093023412993,2018,11
+3774,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1778.7079226935618,1921.8954892643592,2018,11
+3775,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1330.216301690167,1437.869489166554,2018,11
+3776,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1416.72225354253,1525.114649499571,2018,11
+3777,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,2136.1007343089896,2257.255307926116,2018,11
+3778,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,2260.7622629451557,2220.2257329526765,2018,11
+3779,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,2020.8695469776203,2068.5207786001897,2018,11
+3780,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1208.1845050650666,2641.803040302388,2018,11
+3781,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1671.0295703242052,1858.2354321620896,2018,11
+3782,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1720.278946801199,1804.2923346465825,2018,11
+3783,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,2406.4799946373605,2363.589050621973,2018,11
+3784,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,2032.2935920861544,2214.3073687729093,2018,11
+3785,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1892.930026811383,2011.0185452708329,2018,11
+3786,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1944.4055020140224,2020.197378840244,2018,11
+3787,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,2466.7253203141104,2322.33585044503,2018,11
+3788,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,1845.105598145036,1939.1851073318312,2018,11
+3789,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,2024.6734849099053,2072.3788916577005,2018,11
+3790,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-11,982.3516818729706,1201.0712093336767,2018,11
+4129,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,982.3204739152472,1148.5044736559232,2018,12
+4130,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1494.272623252166,1645.9093023412993,2018,12
+4131,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1774.3060848290463,1921.8954892643592,2018,12
+4132,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1332.295348006906,1437.869489166554,2018,12
+4133,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1422.10959246501,1525.114649499571,2018,12
+4134,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,2139.649688065237,2257.255307926116,2018,12
+4135,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,2250.3471442836926,2220.2257329526765,2018,12
+4136,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,2025.482855366629,2068.5207786001897,2018,12
+4137,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1205.036184064778,2641.803040302388,2018,12
+4138,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1687.0603962913356,1858.2354321620896,2018,12
+4139,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1722.6062886493814,1804.2923346465825,2018,12
+4140,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,2413.943461886357,2363.589050621973,2018,12
+4141,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,2028.008804909196,2214.3073687729093,2018,12
+4142,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1889.2520055793373,2011.0185452708329,2018,12
+4143,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1951.5912229648009,2020.197378840244,2018,12
+4144,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,2477.3660985936926,2322.33585044503,2018,12
+4145,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,1849.3359161813808,1939.1851073318312,2018,12
+4146,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,2021.721320867096,2072.3788916577005,2018,12
+4147,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2018-12,983.6595315040776,1201.0712093336767,2018,12
+4487,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,989.3943877038764,1148.5044736559232,2019,1
+4488,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1511.7280068190942,1645.9093023412993,2019,1
+4489,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1778.692156274217,1921.8954892643592,2019,1
+4490,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1341.8251043126727,1437.869489166554,2019,1
+4491,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1433.5279266873308,1525.114649499571,2019,1
+4492,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,2159.1890694005247,2257.255307926116,2019,1
+4493,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,2224.7276616593795,2220.2257329526765,2019,1
+4494,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,2011.8049614066329,2068.5207786001897,2019,1
+4495,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1222.0743735589806,2641.803040302388,2019,1
+4496,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1704.460602192171,1858.2354321620896,2019,1
+4497,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1701.638132820406,1804.2923346465825,2019,1
+4498,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,2395.008519027678,2363.589050621973,2019,1
+4499,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,2045.0223169287704,2214.3073687729093,2019,1
+4500,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1897.077372688221,2011.0185452708329,2019,1
+4501,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1943.4438997760128,2020.197378840244,2019,1
+4502,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,2482.7245272141413,2322.33585044503,2019,1
+4503,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,1838.561425604904,1939.1851073318312,2019,1
+4504,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,2010.610136359406,2072.3788916577005,2019,1
+4505,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-01,987.047409932538,1201.0712093336767,2019,1
+4845,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1025.795310543081,1148.5044736559232,2019,2
+4846,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1563.0005103697642,1645.9093023412993,2019,2
+4847,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1840.9586775412693,1921.8954892643592,2019,2
+4848,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1385.9532975451962,1437.869489166554,2019,2
+4849,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1486.789006042872,1525.114649499571,2019,2
+4850,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,2232.538077097445,2257.255307926116,2019,2
+4851,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,2269.5841168837937,2220.2257329526765,2019,2
+4852,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,2053.810373639373,2068.5207786001897,2019,2
+4853,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1269.4727228885936,2641.803040302388,2019,2
+4854,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1756.0813595744428,1858.2354321620896,2019,2
+4855,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1724.2649063117597,1804.2923346465825,2019,2
+4856,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,2434.3976087159504,2363.589050621973,2019,2
+4857,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,2119.9702866024336,2214.3073687729093,2019,2
+4858,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1947.2371691355177,2011.0185452708329,2019,2
+4859,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1986.465338550446,2020.197378840244,2019,2
+4860,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,2563.69505969674,2322.33585044503,2019,2
+4861,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1878.851233131808,1939.1851073318312,2019,2
+4862,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,2048.8316066132456,2072.3788916577005,2019,2
+4863,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-02,1011.9688857413043,1201.0712093336767,2019,2
+5203,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1042.0213467196418,1148.5044736559232,2019,3
+5204,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1583.9142876227766,1645.9093023412993,2019,3
+5205,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1861.121000696998,1921.8954892643592,2019,3
+5206,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1395.010277830528,1437.869489166554,2019,3
+5207,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1510.0846313357597,1525.114649499571,2019,3
+5208,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,2261.0474876338394,2257.255307926116,2019,3
+5209,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,2260.7622107548323,2220.2257329526765,2019,3
+5210,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,2043.9264247646963,2068.5207786001897,2019,3
+5211,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1297.2617401103228,2641.803040302388,2019,3
+5212,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1772.818297415025,1858.2354321620896,2019,3
+5213,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1711.9275324625266,1804.2923346465825,2019,3
+5214,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,2426.311553385706,2363.589050621973,2019,3
+5215,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,2158.1386081467067,2214.3073687729093,2019,3
+5216,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1952.9104213890569,2011.0185452708329,2019,3
+5217,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1985.229122037452,2020.197378840244,2019,3
+5218,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,2576.6080922190044,2322.33585044503,2019,3
+5219,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1874.250076617521,1939.1851073318312,2019,3
+5220,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,2047.3941237161816,2072.3788916577005,2019,3
+5221,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-03,1014.1973417871573,1201.0712093336767,2019,3
+5561,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1050.440894421189,1148.5044736559232,2019,4
+5562,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1584.6442539051102,1645.9093023412993,2019,4
+5563,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1874.0887012844123,1921.8954892643592,2019,4
+5564,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1392.8794347444118,1437.869489166554,2019,4
+5565,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1521.06406604418,1525.114649499571,2019,4
+5566,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,2261.766256604541,2257.255307926116,2019,4
+5567,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,2260.557507785892,2220.2257329526765,2019,4
+5568,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,2051.094061185819,2068.5207786001897,2019,4
+5569,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1313.267420446665,2641.803040302388,2019,4
+5570,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1779.9780629987667,1858.2354321620896,2019,4
+5571,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1719.566069409874,1804.2923346465825,2019,4
+5572,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,2440.1712204012256,2363.589050621973,2019,4
+5573,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,2165.3399100558,2214.3073687729093,2019,4
+5574,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1941.3396684525023,2011.0185452708329,2019,4
+5575,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1990.6438965816008,2020.197378840244,2019,4
+5576,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,2584.635789737428,2322.33585044503,2019,4
+5577,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1880.4759845155884,1939.1851073318312,2019,4
+5578,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,2050.1525094744507,2072.3788916577005,2019,4
+5579,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-04,1017.333900461985,1201.0712093336767,2019,4
+5920,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1058.4696604472963,1148.5044736559232,2019,5
+5921,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1587.7617389428644,1645.9093023412993,2019,5
+5922,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1874.3084226595852,1921.8954892643592,2019,5
+5923,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1386.3114309756172,1437.869489166554,2019,5
+5924,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1518.4213598095848,1525.114649499571,2019,5
+5925,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,2263.335874032142,2257.255307926116,2019,5
+5926,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,2253.0820724393666,2220.2257329526765,2019,5
+5927,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,2052.63678969027,2068.5207786001897,2019,5
+5928,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1322.4605250275515,2641.803040302388,2019,5
+5929,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1793.1685385916912,1858.2354321620896,2019,5
+5930,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1722.6641112627058,1804.2923346465825,2019,5
+5931,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,2435.3605702325285,2363.589050621973,2019,5
+5932,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,2164.8879290871128,2214.3073687729093,2019,5
+5933,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1936.422797692745,2011.0185452708329,2019,5
+5934,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1990.2488951357143,2020.197378840244,2019,5
+5935,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,2576.254928346659,2322.33585044503,2019,5
+5936,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1883.830718555606,1939.1851073318312,2019,5
+5937,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,2052.0706678901724,2072.3788916577005,2019,5
+5938,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-05,1023.2110858637012,1201.0712093336767,2019,5
+6280,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1069.1891599687704,1148.5044736559232,2019,6
+6281,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1602.568322254317,1645.9093023412993,2019,6
+6282,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1883.4163971711596,1921.8954892643592,2019,6
+6283,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1395.3059320803482,1437.869489166554,2019,6
+6284,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1517.5788767276183,1525.114649499571,2019,6
+6285,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,2268.136185189268,2257.255307926116,2019,6
+6286,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,2254.987867075184,2220.2257329526765,2019,6
+6287,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,2066.261398535217,2068.5207786001897,2019,6
+6288,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1336.844020075529,2641.803040302388,2019,6
+6289,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1816.0072150350488,1858.2354321620896,2019,6
+6290,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1741.47869967619,1804.2923346465825,2019,6
+6291,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,2428.3468379559577,2363.589050621973,2019,6
+6292,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,2169.8252485782023,2214.3073687729093,2019,6
+6293,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1945.348182395354,2011.0185452708329,2019,6
+6294,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1995.080893935164,2020.197378840244,2019,6
+6295,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,2563.0818226498945,2322.33585044503,2019,6
+6296,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1892.7164270567312,1939.1851073318312,2019,6
+6297,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,2056.089089984516,2072.3788916577005,2019,6
+6298,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-06,1035.9463634881365,1201.0712093336767,2019,6
+6641,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1075.570683041134,1148.5044736559232,2019,7
+6642,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1617.8987249496497,1645.9093023412993,2019,7
+6643,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1887.1223315946277,1921.8954892643592,2019,7
+6644,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1403.0002616789602,1437.869489166554,2019,7
+6645,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1519.308889095777,1525.114649499571,2019,7
+6646,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,2271.7376311076105,2257.255307926116,2019,7
+6647,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,2253.269794420286,2220.2257329526765,2019,7
+6648,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,2070.121804223574,2068.5207786001897,2019,7
+6649,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1347.13828434258,2641.803040302388,2019,7
+6650,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1819.4306071214712,1858.2354321620896,2019,7
+6651,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1755.335590702455,1804.2923346465825,2019,7
+6652,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,2417.9370333585625,2363.589050621973,2019,7
+6653,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,2179.217643675446,2214.3073687729093,2019,7
+6654,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1954.7882269255635,2011.0185452708329,2019,7
+6655,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1991.342920452468,2020.197378840244,2019,7
+6656,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,2543.615182115697,2322.33585044503,2019,7
+6657,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1896.6080840749355,1939.1851073318312,2019,7
+6658,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,2054.462886752678,2072.3788916577005,2019,7
+6659,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-07,1046.0479734836342,1201.0712093336767,2019,7
+7003,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1077.9912906907084,1148.5044736559232,2019,8
+7004,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1627.4907270494975,1645.9093023412993,2019,8
+7005,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1878.491756529276,1921.8954892643592,2019,8
+7006,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1411.9456690881996,1437.869489166554,2019,8
+7007,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1510.7163388772854,1525.114649499571,2019,8
+7008,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,2265.918800481263,2257.255307926116,2019,8
+7009,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,2243.04921226486,2220.2257329526765,2019,8
+7010,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,2069.863173158852,2068.5207786001897,2019,8
+7011,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1355.1252850884089,2641.803040302388,2019,8
+7012,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1816.935259225096,1858.2354321620896,2019,8
+7013,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1767.1606547438903,1804.2923346465825,2019,8
+7014,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,2400.787736606823,2363.589050621973,2019,8
+7015,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,2180.792029704687,2214.3073687729093,2019,8
+7016,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1957.7405565472532,2011.0185452708329,2019,8
+7017,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1987.68187558802,2020.197378840244,2019,8
+7018,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,2524.932295619839,2322.33585044503,2019,8
+7019,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1892.0383381451204,1939.1851073318312,2019,8
+7020,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,2041.4140542002904,2072.3788916577005,2019,8
+7021,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-08,1046.7978211461784,1201.0712093336767,2019,8
+7365,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1084.0715955012352,1148.5044736559232,2019,9
+7366,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1632.5717244807947,1645.9093023412993,2019,9
+7367,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1867.425100958208,1921.8954892643592,2019,9
+7368,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1415.6690486923933,1437.869489166554,2019,9
+7369,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1503.2396221948152,1525.114649499571,2019,9
+7370,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,2265.290070265154,2257.255307926116,2019,9
+7371,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,2235.9244650844325,2220.2257329526765,2019,9
+7372,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,2065.084209811809,2068.5207786001897,2019,9
+7373,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1362.713507137512,2641.803040302388,2019,9
+7374,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1795.6352918327711,1858.2354321620896,2019,9
+7375,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1773.8319796676158,1804.2923346465825,2019,9
+7376,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,2398.188924153836,2363.589050621973,2019,9
+7377,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,2185.6845923272376,2214.3073687729093,2019,9
+7378,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1956.2560566298912,2011.0185452708329,2019,9
+7379,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1977.000387900255,2020.197378840244,2019,9
+7380,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,2508.3359308427644,2322.33585044503,2019,9
+7381,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1886.0774577002103,1939.1851073318312,2019,9
+7382,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,2033.1068848782888,2072.3788916577005,2019,9
+7383,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-09,1049.385098585334,1201.0712093336767,2019,9
+7727,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1087.7652834359835,1148.5044736559232,2019,10
+7728,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1630.5944561395645,1645.9093023412993,2019,10
+7729,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1854.6452056613275,1921.8954892643592,2019,10
+7730,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1421.1752207068466,1437.869489166554,2019,10
+7731,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1485.488853747139,1525.114649499571,2019,10
+7732,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,2255.808807507196,2257.255307926116,2019,10
+7733,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,2217.4547319084454,2220.2257329526765,2019,10
+7734,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,2052.391744298562,2068.5207786001897,2019,10
+7735,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1365.5884729587758,2641.803040302388,2019,10
+7736,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1790.4226131531443,1858.2354321620896,2019,10
+7737,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1778.658875825552,1804.2923346465825,2019,10
+7738,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,2387.2843416637816,2363.589050621973,2019,10
+7739,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,2182.3000807238323,2214.3073687729093,2019,10
+7740,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1946.0433970042304,2011.0185452708329,2019,10
+7741,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1970.1366235375249,2020.197378840244,2019,10
+7742,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,2506.521427146775,2322.33585044503,2019,10
+7743,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1873.360537905004,1939.1851073318312,2019,10
+7744,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,2021.7240907679236,2072.3788916577005,2019,10
+7745,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-10,1043.1229082265188,1201.0712093336767,2019,10
+8089,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1086.0921776843234,1148.5044736559232,2019,11
+8090,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1628.2367283579408,1645.9093023412993,2019,11
+8091,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1849.3552964065505,1921.8954892643592,2019,11
+8092,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1429.6631474082103,1437.869489166554,2019,11
+8093,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1482.239808136051,1525.114649499571,2019,11
+8094,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,2250.213137144656,2257.255307926116,2019,11
+8095,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,2206.8870419723103,2220.2257329526765,2019,11
+8096,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,2044.1463367795636,2068.5207786001897,2019,11
+8097,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1376.5181256610708,2641.803040302388,2019,11
+8098,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1786.3390850023818,1858.2354321620896,2019,11
+8099,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1775.866869899657,1804.2923346465825,2019,11
+8100,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,2392.8260227918668,2363.589050621973,2019,11
+8101,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,2189.764349655254,2214.3073687729093,2019,11
+8102,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1945.107795945312,2011.0185452708329,2019,11
+8103,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1964.9416356532795,2020.197378840244,2019,11
+8104,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,2504.701683199951,2322.33585044503,2019,11
+8105,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1870.9660809104885,1939.1851073318312,2019,11
+8106,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,2021.9998556827225,2072.3788916577005,2019,11
+8107,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-11,1042.2957147718678,1201.0712093336767,2019,11
+8453,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1073.845034738339,1148.5044736559232,2019,12
+8454,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1622.1027753428268,1645.9093023412993,2019,12
+8455,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1854.1629779074244,1921.8954892643592,2019,12
+8456,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1438.7405989623453,1437.869489166554,2019,12
+8457,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1484.5582832007535,1525.114649499571,2019,12
+8458,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,2233.0879627649447,2257.255307926116,2019,12
+8459,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,2194.507056022781,2220.2257329526765,2019,12
+8460,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,2032.9270573949848,2068.5207786001897,2019,12
+8461,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1386.998946141722,2641.803040302388,2019,12
+8462,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1786.66108673081,1858.2354321620896,2019,12
+8463,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1765.2316039102514,1804.2923346465825,2019,12
+8464,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,2383.656041845205,2363.589050621973,2019,12
+8465,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,2187.041679959417,2214.3073687729093,2019,12
+8466,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1943.453578224357,2011.0185452708329,2019,12
+8467,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1970.336769717627,2020.197378840244,2019,12
+8468,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,2514.564644153177,2322.33585044503,2019,12
+8469,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1868.9173825680891,1939.1851073318312,2019,12
+8470,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,2017.4084803813776,2072.3788916577005,2019,12
+8471,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2019-12,1036.727158825741,1201.0712093336767,2019,12
+8817,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1062.255309890409,1148.5044736559232,2020,1
+8818,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1612.083843282592,1645.9093023412993,2020,1
+8819,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1855.3542124504488,1921.8954892643592,2020,1
+8820,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1431.167036214964,1437.869489166554,2020,1
+8821,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1479.130815697535,1525.114649499571,2020,1
+8822,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,2224.6681779644964,2257.255307926116,2020,1
+8823,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,2189.5760525456917,2220.2257329526765,2020,1
+8824,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,2024.0676015271777,2068.5207786001897,2020,1
+8825,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1385.655618242526,2641.803040302388,2020,1
+8826,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1785.332154834408,1858.2354321620896,2020,1
+8827,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1756.8056110247414,1804.2923346465825,2020,1
+8828,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,2380.042796499339,2363.589050621973,2020,1
+8829,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,2180.551621697557,2214.3073687729093,2020,1
+8830,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1936.2691668271057,2011.0185452708329,2020,1
+8831,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1965.8142840682292,2020.197378840244,2020,1
+8832,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,2496.4326522977053,2322.33585044503,2020,1
+8833,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1867.9533819019773,1939.1851073318312,2020,1
+8834,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,2013.8624040260167,2072.3788916577005,2020,1
+8835,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-01,1035.8437656900103,1201.0712093336767,2020,1
+9185,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1069.5143217832194,1148.5044736559232,2020,2
+9186,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1627.4305524317326,1645.9093023412993,2020,2
+9187,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1885.0772401198349,1921.8954892643592,2020,2
+9188,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1441.7343727262437,1437.869489166554,2020,2
+9189,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1497.4243265950329,1525.114649499571,2020,2
+9190,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,2244.2888477718,2257.255307926116,2020,2
+9191,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,2204.950689603045,2220.2257329526765,2020,2
+9192,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,2034.5048893069145,2068.5207786001897,2020,2
+9193,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1394.6667487542843,2641.803040302388,2020,2
+9194,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1794.2136547671544,1858.2354321620896,2020,2
+9195,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1779.2891381656882,1804.2923346465825,2020,2
+9196,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,2380.903571352555,2363.589050621973,2020,2
+9197,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,2194.5947695682285,2214.3073687729093,2020,2
+9198,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1948.9137641859304,2011.0185452708329,2020,2
+9199,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1987.717507349742,2020.197378840244,2020,2
+9200,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,2510.277623341944,2322.33585044503,2020,2
+9201,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1881.0300240458128,1939.1851073318312,2020,2
+9202,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,2033.507749114764,2072.3788916577005,2020,2
+9203,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-02,1047.5316167628068,1201.0712093336767,2020,2
+9553,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1066.225210239665,1148.5044736559232,2020,3
+9554,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1616.7235720303447,1645.9093023412993,2020,3
+9555,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1885.5681541000688,1921.8954892643592,2020,3
+9556,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1419.8766283976497,1437.869489166554,2020,3
+9557,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1491.9905379177458,1525.114649499571,2020,3
+9558,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,2248.656908500337,2257.255307926116,2020,3
+9559,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,2194.526259827961,2220.2257329526765,2020,3
+9560,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,2021.908918005539,2068.5207786001897,2020,3
+9561,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1375.3512630875437,2641.803040302388,2020,3
+9562,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1777.8106981152746,1858.2354321620896,2020,3
+9563,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1776.0020368231187,1804.2923346465825,2020,3
+9564,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,2358.203647263443,2363.589050621973,2020,3
+9565,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,2185.237492191819,2214.3073687729093,2020,3
+9566,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1940.9713251815683,2011.0185452708329,2020,3
+9567,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1973.5272284403725,2020.197378840244,2020,3
+9568,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,2486.3537593172937,2322.33585044503,2020,3
+9569,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1879.302434623672,1939.1851073318312,2020,3
+9570,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,2031.8177980847065,2072.3788916577005,2020,3
+9571,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-03,1045.1607656906654,1201.0712093336767,2020,3
+9922,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1074.9525030139189,1148.5044736559232,2020,4
+9923,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1629.15911636841,1645.9093023412993,2020,4
+9924,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1907.5401440318792,1921.8954892643592,2020,4
+9925,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1428.5374638513103,1437.869489166554,2020,4
+9926,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1505.3498985713418,1525.114649499571,2020,4
+9927,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,2272.6375655319457,2257.255307926116,2020,4
+9928,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,2203.121760809384,2220.2257329526765,2020,4
+9929,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,2032.7503147884613,2068.5207786001897,2020,4
+9930,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1379.3160193617116,2641.803040302388,2020,4
+9931,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1795.2239292174922,1858.2354321620896,2020,4
+9932,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1801.988715961813,1804.2923346465825,2020,4
+9933,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,2362.142893500909,2363.589050621973,2020,4
+9934,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,2200.4625445436395,2214.3073687729093,2020,4
+9935,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1969.15613067718,2011.0185452708329,2020,4
+9936,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1983.0618859790247,2020.197378840244,2020,4
+9937,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,2506.9404621173658,2322.33585044503,2020,4
+9938,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1897.752930995273,1939.1851073318312,2020,4
+9939,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,2045.689671983975,2072.3788916577005,2020,4
+9940,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-04,1082.6447725045846,1201.0712093336767,2020,4
+10291,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1077.630801048417,1148.5044736559232,2020,5
+10292,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1619.245309932933,1645.9093023412993,2020,5
+10293,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1909.4778580423256,1921.8954892643592,2020,5
+10294,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1417.5993578932748,1437.869489166554,2020,5
+10295,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1500.438710639878,1525.114649499571,2020,5
+10296,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,2280.132936170556,2257.255307926116,2020,5
+10297,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,2204.621804617258,2220.2257329526765,2020,5
+10298,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,2039.526246699116,2068.5207786001897,2020,5
+10299,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1375.5608971486554,2641.803040302388,2020,5
+10300,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1798.8677218876712,1858.2354321620896,2020,5
+10301,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1802.716495883094,1804.2923346465825,2020,5
+10302,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,2359.7908949243088,2363.589050621973,2020,5
+10303,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,2197.7860191540067,2214.3073687729093,2020,5
+10304,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1980.8227241426653,2011.0185452708329,2020,5
+10305,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1973.7795973193915,2020.197378840244,2020,5
+10306,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,2512.802339203623,2322.33585044503,2020,5
+10307,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1903.490876271668,1939.1851073318312,2020,5
+10308,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,2043.057529237004,2072.3788916577005,2020,5
+10309,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-05,1122.5007672408476,1201.0712093336767,2020,5
+10662,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1087.985771074077,1148.5044736559232,2020,6
+10663,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1620.9875550388538,1645.9093023412993,2020,6
+10664,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1903.232281660244,1921.8954892643592,2020,6
+10665,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1426.3205499071812,1437.869489166554,2020,6
+10666,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1495.218925157852,1525.114649499571,2020,6
+10667,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,2273.626878211669,2257.255307926116,2020,6
+10668,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,2161.1672012549034,2220.2257329526765,2020,6
+10669,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,2031.25049518159,2068.5207786001897,2020,6
+10670,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1382.41465879953,2641.803040302388,2020,6
+10671,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1813.39847484336,1858.2354321620896,2020,6
+10672,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1817.605066217068,1804.2923346465825,2020,6
+10673,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,2327.18127256288,2363.589050621973,2020,6
+10674,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,2196.7899433515745,2214.3073687729093,2020,6
+10675,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1990.7319829080996,2011.0185452708329,2020,6
+10676,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1971.3309494318323,2020.197378840244,2020,6
+10677,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,2523.06409313023,2322.33585044503,2020,6
+10678,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1896.5550492942496,1939.1851073318312,2020,6
+10679,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,2033.994207020392,2072.3788916577005,2020,6
+10680,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-06,1163.684910740356,1201.0712093336767,2020,6
+11037,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1104.6428723774504,1148.5044736559232,2020,7
+11038,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1624.6272312826588,1645.9093023412993,2020,7
+11039,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1901.3707895590069,1921.8954892643592,2020,7
+11040,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1433.3972052222666,1437.869489166554,2020,7
+11041,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1496.792033707394,1525.114649499571,2020,7
+11042,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,2266.108603722824,2257.255307926116,2020,7
+11043,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,2119.771883267604,2220.2257329526765,2020,7
+11044,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,2030.745074857174,2068.5207786001897,2020,7
+11045,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1388.1337392786752,2641.803040302388,2020,7
+11046,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1799.4922739602891,1858.2354321620896,2020,7
+11047,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1821.3966743372955,1804.2923346465825,2020,7
+11048,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,2285.558256592416,2363.589050621973,2020,7
+11049,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,2193.816939033576,2214.3073687729093,2020,7
+11050,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1985.8257930879024,2011.0185452708329,2020,7
+11051,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1977.0198734581309,2020.197378840244,2020,7
+11052,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,2535.020348523136,2322.33585044503,2020,7
+11053,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1894.493600113632,1939.1851073318312,2020,7
+11054,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,2026.9265787345296,2072.3788916577005,2020,7
+11055,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-07,1193.1046992187132,1201.0712093336767,2020,7
+11412,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1121.693444503587,1148.5044736559232,2020,8
+11413,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1632.3225166551665,1645.9093023412993,2020,8
+11414,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1990.946612497777,2147.606581043368,2020,8
+11415,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1902.766255878753,1921.8954892643592,2020,8
+11416,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1434.4771145912289,1437.869489166554,2020,8
+11417,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1494.0561799272375,1525.114649499571,2020,8
+11418,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,2269.9649584725043,2257.255307926116,2020,8
+11419,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,2093.161063312487,2220.2257329526765,2020,8
+11420,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,2030.6017601243968,2068.5207786001897,2020,8
+11421,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1381.5008175999176,2641.803040302388,2020,8
+11422,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1816.2622830515247,1858.2354321620896,2020,8
+11423,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1814.007835883248,1804.2923346465825,2020,8
+11424,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,2257.3117934539687,2363.589050621973,2020,8
+11425,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,2194.5405336945014,2214.3073687729093,2020,8
+11426,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1983.15560276809,2011.0185452708329,2020,8
+11427,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1990.464893017376,2020.197378840244,2020,8
+11428,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,2540.472926960145,2322.33585044503,2020,8
+11429,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1902.2203071342988,1939.1851073318312,2020,8
+11430,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,2029.6961275012425,2072.3788916577005,2020,8
+11431,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-08,1204.2023571066886,1201.0712093336767,2020,8
+11789,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1170.953762304469,1148.5044736559232,2020,9
+11790,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1681.244648461704,1645.9093023412993,2020,9
+11791,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2085.0076656983656,2147.606581043368,2020,9
+11792,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1966.814070726358,1921.8954892643592,2020,9
+11793,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1460.9694406478782,1437.869489166554,2020,9
+11794,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1534.5377275380883,1525.114649499571,2020,9
+11795,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2335.2869646790778,2257.255307926116,2020,9
+11796,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2166.7914360020304,2220.2257329526765,2020,9
+11797,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2101.620909494828,2068.5207786001897,2020,9
+11798,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1409.2223109699485,2641.803040302388,2020,9
+11799,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1908.8369746247556,1858.2354321620896,2020,9
+11800,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1861.399393298416,1804.2923346465825,2020,9
+11801,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2308.830764526718,2363.589050621973,2020,9
+11802,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2253.678961453197,2214.3073687729093,2020,9
+11803,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2046.0459634562717,2011.0185452708329,2020,9
+11804,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2069.3774155591395,2020.197378840244,2020,9
+11805,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2625.191974862401,2322.33585044503,2020,9
+11806,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1986.1224097155064,1939.1851073318312,2020,9
+11807,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,2089.252115132258,2072.3788916577005,2020,9
+11808,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-09,1268.8364949547831,1201.0712093336767,2020,9
+12172,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1174.144183014415,1148.5044736559232,2020,10
+12173,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1662.1872315163978,1645.9093023412993,2020,10
+12174,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2095.8461564460763,2147.606581043368,2020,10
+12175,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1955.0958661465684,1921.8954892643592,2020,10
+12176,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1431.8349892033502,1437.869489166554,2020,10
+12177,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1516.3603253247454,1525.114649499571,2020,10
+12178,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2317.8605189563427,2257.255307926116,2020,10
+12179,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2161.5236802401764,2220.2257329526765,2020,10
+12180,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2088.247156748049,2068.5207786001897,2020,10
+12181,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1379.7503114742883,2641.803040302388,2020,10
+12182,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1938.0570361447049,1858.2354321620896,2020,10
+12183,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1840.0789863919315,1804.2923346465825,2020,10
+12184,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2273.202860211271,2363.589050621973,2020,10
+12185,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2236.8002757399995,2214.3073687729093,2020,10
+12186,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2037.181623991061,2011.0185452708329,2020,10
+12187,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2065.583920431551,2020.197378840244,2020,10
+12188,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2592.7493965490285,2322.33585044503,2020,10
+12189,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1994.4221227564776,1939.1851073318312,2020,10
+12190,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,2077.67352766278,2072.3788916577005,2020,10
+12191,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-10,1273.9949116533746,1201.0712093336767,2020,10
+12559,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1165.983871593903,1148.5044736559232,2020,11
+12560,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1637.2056119790043,1645.9093023412993,2020,11
+12561,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2111.146577926567,2147.606581043368,2020,11
+12562,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1945.148508682688,1921.8954892643592,2020,11
+12563,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1405.7080403619275,1437.869489166554,2020,11
+12564,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1502.8796284914404,1525.114649499571,2020,11
+12565,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2280.502953395052,2257.255307926116,2020,11
+12566,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2135.8389003727857,2220.2257329526765,2020,11
+12567,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2060.4461787297123,2068.5207786001897,2020,11
+12568,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1360.3145168595534,2641.803040302388,2020,11
+12569,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1940.9882188820563,1858.2354321620896,2020,11
+12570,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1830.615229231563,1804.2923346465825,2020,11
+12571,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2225.6547953909408,2363.589050621973,2020,11
+12572,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2211.450914399929,2214.3073687729093,2020,11
+12573,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2021.7880641666136,2011.0185452708329,2020,11
+12574,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2046.9315023743468,2020.197378840244,2020,11
+12575,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2553.922963349518,2322.33585044503,2020,11
+12576,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1995.5043055617195,1939.1851073318312,2020,11
+12577,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,2048.9239303210347,2072.3788916577005,2020,11
+12578,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-11,1286.03705362689,1201.0712093336767,2020,11
+12949,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1168.582836433777,1148.5044736559232,2020,12
+12950,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1620.6242066932778,1645.9093023412993,2020,12
+12951,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1434.1771925356854,1585.3953300074293,2020,12
+12952,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2089.769609764154,2147.606581043368,2020,12
+12953,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1947.71474183456,1921.8954892643592,2020,12
+12954,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1399.2416925839875,1437.869489166554,2020,12
+12955,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1496.3883711291517,1525.114649499571,2020,12
+12956,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2265.678152233167,2257.255307926116,2020,12
+12957,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2121.8886332114703,2220.2257329526765,2020,12
+12958,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2046.9815494922937,2068.5207786001897,2020,12
+12959,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1347.948246312141,2641.803040302388,2020,12
+12960,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1928.2854061255275,1858.2354321620896,2020,12
+12961,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1817.4729100160575,1804.2923346465825,2020,12
+12962,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2193.53158853153,2363.589050621973,2020,12
+12963,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2197.317977474506,2214.3073687729093,2020,12
+12964,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2008.0980085245203,2011.0185452708329,2020,12
+12965,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2031.0526029046,2020.197378840244,2020,12
+12966,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2531.9502035646065,2322.33585044503,2020,12
+12967,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1987.9598906488225,1939.1851073318312,2020,12
+12968,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,2039.7382931399663,2072.3788916577005,2020,12
+12969,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2020-12,1297.6620168034508,1201.0712093336767,2020,12
+13341,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,1253.8409857425806,1148.5044736559232,2021,1
+13342,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,1710.6819568399308,1645.9093023412993,2021,1
+13343,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,1546.2951984044605,1585.3953300074293,2021,1
+13344,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2207.825851757326,2147.606581043368,2021,1
+13345,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2076.0377231087755,1921.8954892643592,2021,1
+13346,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,1485.7980840812058,1437.869489166554,2021,1
+13347,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,1599.1274604729165,1525.114649499571,2021,1
+13348,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2394.378889612335,2257.255307926116,2021,1
+13349,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2236.638070824894,2220.2257329526765,2021,1
+13350,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2156.6369971191443,2068.5207786001897,2021,1
+13351,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,1429.1333958853504,2641.803040302388,2021,1
+13352,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2045.404608608464,1858.2354321620896,2021,1
+13353,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,1927.5525749686385,1804.2923346465825,2021,1
+13354,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2318.644101595577,2363.589050621973,2021,1
+13355,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2331.712477481118,2214.3073687729093,2021,1
+13356,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2127.686731827433,2011.0185452708329,2021,1
+13357,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2146.106042305947,2020.197378840244,2021,1
+13358,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2668.591279798171,2322.33585044503,2021,1
+13359,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2107.6766029564146,1939.1851073318312,2021,1
+13360,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,2154.7306445000263,2072.3788916577005,2021,1
+13361,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-01,1397.4353533702213,1201.0712093336767,2021,1
+13737,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,1269.9755913126198,1148.5044736559232,2021,2
+13738,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,1694.9931854348204,1645.9093023412993,2021,2
+13739,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,1567.6658370001803,1585.3953300074293,2021,2
+13740,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2180.650298897515,2147.606581043368,2021,2
+13741,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2072.8887111099257,1921.8954892643592,2021,2
+13742,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,1482.3703308083225,1437.869489166554,2021,2
+13743,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,1593.4884698061817,1525.114649499571,2021,2
+13744,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2381.502412774987,2257.255307926116,2021,2
+13745,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2216.7315950141287,2220.2257329526765,2021,2
+13746,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2132.3746196461134,2068.5207786001897,2021,2
+13747,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,1427.726980620156,2641.803040302388,2021,2
+13748,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2036.50108896053,1858.2354321620896,2021,2
+13749,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,1918.9435856990845,1804.2923346465825,2021,2
+13750,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2308.903143005666,2363.589050621973,2021,2
+13751,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2321.195289767937,2214.3073687729093,2021,2
+13752,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2121.7444545510634,2011.0185452708329,2021,2
+13753,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2114.835824875556,2020.197378840244,2021,2
+13754,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2672.4925911923383,2322.33585044503,2021,2
+13755,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2089.065332670879,1939.1851073318312,2021,2
+13756,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,2141.421013975929,2072.3788916577005,2021,2
+13757,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-02,1413.9683794456307,1201.0712093336767,2021,2
+14133,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1267.916525812304,1148.5044736559232,2021,3
+14134,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1674.5887005933544,1645.9093023412993,2021,3
+14135,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1572.1764569561506,1585.3953300074293,2021,3
+14136,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2156.584886851578,2147.606581043368,2021,3
+14137,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2052.719758295184,1921.8954892643592,2021,3
+14138,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1910.5436687362965,2044.934403665256,2021,3
+14139,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1467.0521614697902,1437.869489166554,2021,3
+14140,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1592.943025401122,1525.114649499571,2021,3
+14141,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2345.175806628891,2257.255307926116,2021,3
+14142,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2181.116041553832,2220.2257329526765,2021,3
+14143,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2099.173332111454,2068.5207786001897,2021,3
+14144,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1060.9030252596488,1093.546114471293,2021,3
+14145,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1419.8624592944632,2641.803040302388,2021,3
+14146,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2022.2027177258635,1858.2354321620896,2021,3
+14147,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1892.5278957383268,1804.2923346465825,2021,3
+14148,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2282.0883148044595,2363.589050621973,2021,3
+14149,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2310.2484531715368,2214.3073687729093,2021,3
+14150,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2109.3499838120997,2011.0185452708329,2021,3
+14151,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2078.296990139255,2020.197378840244,2021,3
+14152,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2608.787246366924,2322.33585044503,2021,3
+14153,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2059.131823738547,1939.1851073318312,2021,3
+14154,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,2115.4843868042394,2072.3788916577005,2021,3
+14155,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-03,1430.587978631247,1201.0712093336767,2021,3
+14532,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1280.6255905864043,1148.5044736559232,2021,4
+14533,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1688.1330911831476,1645.9093023412993,2021,4
+14534,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1577.5125000388969,1585.3953300074293,2021,4
+14535,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2161.5310272635934,2147.606581043368,2021,4
+14536,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2067.693174935497,1921.8954892643592,2021,4
+14537,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1924.2735005785603,2044.934403665256,2021,4
+14538,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1470.762850200539,1437.869489166554,2021,4
+14539,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1601.822790824062,1525.114649499571,2021,4
+14540,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2350.875912986253,2257.255307926116,2021,4
+14541,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2199.8962123204915,2220.2257329526765,2021,4
+14542,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2108.16919208034,2068.5207786001897,2021,4
+14543,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1069.568361263743,1093.546114471293,2021,4
+14544,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1421.8694841757672,2641.803040302388,2021,4
+14545,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2047.0979486251156,1858.2354321620896,2021,4
+14546,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1895.241440784361,1804.2923346465825,2021,4
+14547,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2292.5519986793383,2363.589050621973,2021,4
+14548,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2327.474903715895,2214.3073687729093,2021,4
+14549,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2126.712040114443,2011.0185452708329,2021,4
+14550,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2088.444278076988,2020.197378840244,2021,4
+14551,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2623.614903352653,2322.33585044503,2021,4
+14552,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2065.2316199775546,1939.1851073318312,2021,4
+14553,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,2131.5377270108834,2072.3788916577005,2021,4
+14554,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-04,1453.3630989279084,1201.0712093336767,2021,4
+14933,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1293.4705739899102,1148.5044736559232,2021,5
+14934,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1705.5262463468212,1645.9093023412993,2021,5
+14935,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1578.4714614303616,1585.3953300074293,2021,5
+14936,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2169.8725536929205,2147.606581043368,2021,5
+14937,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2071.7820410706468,1921.8954892643592,2021,5
+14938,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1929.1416261536745,2044.934403665256,2021,5
+14939,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1478.9291545348572,1437.869489166554,2021,5
+14940,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1616.4459726220869,1525.114649499571,2021,5
+14941,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2333.8602036857824,2257.255307926116,2021,5
+14942,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2197.5217477665115,2220.2257329526765,2021,5
+14943,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2104.7957126381484,2068.5207786001897,2021,5
+14944,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1076.1441326043164,1093.546114471293,2021,5
+14945,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1425.876815823839,2641.803040302388,2021,5
+14946,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2072.7650945919822,1858.2354321620896,2021,5
+14947,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1905.222827230582,1804.2923346465825,2021,5
+14948,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2269.688292693697,2363.589050621973,2021,5
+14949,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2345.1815949016936,2214.3073687729093,2021,5
+14950,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2128.571285220384,2011.0185452708329,2021,5
+14951,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2109.333383528022,2020.197378840244,2021,5
+14952,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2595.4696255490235,2322.33585044503,2021,5
+14953,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2065.4865923611665,1939.1851073318312,2021,5
+14954,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,2134.703976724345,2072.3788916577005,2021,5
+14955,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-05,1478.6622327178056,1201.0712093336767,2021,5
+15341,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1273.030104215396,1148.5044736559232,2021,6
+15342,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1666.4465750920112,1645.9093023412993,2021,6
+15343,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1526.193775679315,1585.3953300074293,2021,6
+15344,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2109.0973284720503,2147.606581043368,2021,6
+15345,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2014.0841308909296,1921.8954892643592,2021,6
+15346,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1872.9408375137089,2044.934403665256,2021,6
+15347,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1440.9948249607417,1437.869489166554,2021,6
+15348,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1557.1164921516604,1525.114649499571,2021,6
+15349,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2253.3824350621385,2257.255307926116,2021,6
+15350,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2137.630761842396,2220.2257329526765,2021,6
+15351,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2035.3870041127016,2068.5207786001897,2021,6
+15352,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1041.4264204277952,1093.546114471293,2021,6
+15353,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1366.099265676779,2641.803040302388,2021,6
+15354,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2018.4550766182117,1858.2354321620896,2021,6
+15355,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1865.1396086977288,1804.2923346465825,2021,6
+15356,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1205.2271412263476,1311.691936050039,2021,6
+15357,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2195.500327368009,2363.589050621973,2021,6
+15358,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2275.8642721242672,2214.3073687729093,2021,6
+15359,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2053.6170460484364,2011.0185452708329,2021,6
+15360,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2048.5123834630604,2020.197378840244,2021,6
+15361,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1510.2150529919218,1695.3994693933018,2021,6
+15362,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2514.604449796583,2322.33585044503,2021,6
+15363,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2007.7377936226248,1939.1851073318312,2021,6
+15364,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,2071.8157325628854,2072.3788916577005,2021,6
+15365,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-06,1431.6446383332286,1201.0712093336767,2021,6
+15752,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1355.2451794900023,1148.5044736559232,2021,7
+15753,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1767.495554392811,1645.9093023412993,2021,7
+15754,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1586.224637050674,1585.3953300074293,2021,7
+15755,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2177.1415190767234,2147.606581043368,2021,7
+15756,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2089.470725337572,1921.8954892643592,2021,7
+15757,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1985.1951639083984,2044.934403665256,2021,7
+15758,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1529.3308331064018,1437.869489166554,2021,7
+15759,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1624.2265516406146,1525.114649499571,2021,7
+15760,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2315.2876337079933,2257.255307926116,2021,7
+15761,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2208.229187247969,2220.2257329526765,2021,7
+15762,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2107.390918493482,2068.5207786001897,2021,7
+15763,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1070.3464981843058,1093.546114471293,2021,7
+15764,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1431.5001954422648,2641.803040302388,2021,7
+15765,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2088.9815721492505,1858.2354321620896,2021,7
+15766,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1934.276961075503,1804.2923346465825,2021,7
+15767,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1256.403184558121,1311.691936050039,2021,7
+15768,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2285.7004759928127,2363.589050621973,2021,7
+15769,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2373.1994050982303,2214.3073687729093,2021,7
+15770,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2139.5097744671334,2011.0185452708329,2021,7
+15771,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2119.434663211324,2020.197378840244,2021,7
+15772,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1598.103127313002,1695.3994693933018,2021,7
+15773,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2595.083257427425,2322.33585044503,2021,7
+15774,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2073.262568340783,1939.1851073318312,2021,7
+15775,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,2142.510795379263,2072.3788916577005,2021,7
+15776,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-07,1516.7979352002394,1201.0712093336767,2021,7
+16164,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1404.4913616257838,1148.5044736559232,2021,8
+16165,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1837.825403289539,1645.9093023412993,2021,8
+16166,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1605.586942670745,1585.3953300074293,2021,8
+16167,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2197.2061870206867,2147.606581043368,2021,8
+16168,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2121.4049500286287,1921.8954892643592,2021,8
+16169,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2064.1585138511973,2044.934403665256,2021,8
+16170,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1585.3955552352031,1437.869489166554,2021,8
+16171,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1665.86788320779,1525.114649499571,2021,8
+16172,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2346.135569523974,2257.255307926116,2021,8
+16173,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2239.4233027293794,2220.2257329526765,2021,8
+16174,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2147.2902950827715,2068.5207786001897,2021,8
+16175,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1078.3332862992158,1093.546114471293,2021,8
+16176,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1461.083163154849,2641.803040302388,2021,8
+16177,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2104.3026198400644,1858.2354321620896,2021,8
+16178,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1954.4185618079096,1804.2923346465825,2021,8
+16179,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1280.32217087476,1311.691936050039,2021,8
+16180,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2360.578446453552,2363.589050621973,2021,8
+16181,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2415.6905009128723,2214.3073687729093,2021,8
+16182,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2183.1929140791,2011.0185452708329,2021,8
+16183,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2149.2201034732675,2020.197378840244,2021,8
+16184,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1652.94566801348,1695.3994693933018,2021,8
+16185,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2636.5274080726235,2322.33585044503,2021,8
+16186,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2098.0835906805864,1939.1851073318312,2021,8
+16187,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,2182.0677607772204,2072.3788916577005,2021,8
+16188,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-08,1555.5346685144202,1201.0712093336767,2021,8
+16579,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1415.468549620343,1148.5044736559232,2021,9
+16580,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1854.77845082298,1645.9093023412993,2021,9
+16581,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1577.9989095684416,1585.3953300074293,2021,9
+16582,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2150.6476590635957,2147.606581043368,2021,9
+16583,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2088.6681314895645,1921.8954892643592,2021,9
+16584,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2086.804550886817,2044.934403665256,2021,9
+16585,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1595.211242589389,1437.869489166554,2021,9
+16586,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1668.4410205918134,1525.114649499571,2021,9
+16587,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2310.269182867922,2257.255307926116,2021,9
+16588,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2202.752272447422,2220.2257329526765,2021,9
+16589,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2120.5071654036624,2068.5207786001897,2021,9
+16590,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1059.8341051491832,1093.546114471293,2021,9
+16591,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1467.951380469672,2641.803040302388,2021,9
+16592,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2065.3768122958177,1858.2354321620896,2021,9
+16593,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1914.9769179685547,1804.2923346465825,2021,9
+16594,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1280.1698471884058,1311.691936050039,2021,9
+16595,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2366.300381211781,2363.589050621973,2021,9
+16596,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2391.1870904418283,2214.3073687729093,2021,9
+16597,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2171.6352900583743,2011.0185452708329,2021,9
+16598,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2116.491183588148,2020.197378840244,2021,9
+16599,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1669.9126303666767,1695.3994693933018,2021,9
+16600,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2599.2410798740143,2322.33585044503,2021,9
+16601,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2057.269205171688,1939.1851073318312,2021,9
+16602,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,2153.315811365684,2072.3788916577005,2021,9
+16603,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-09,1561.797448682564,1201.0712093336767,2021,9
+16997,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1428.878657269535,1148.5044736559232,2021,10
+16998,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1874.4169383922963,1645.9093023412993,2021,10
+16999,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1571.836874413233,1585.3953300074293,2021,10
+17000,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2147.228697011577,2147.606581043368,2021,10
+17001,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2082.684720747249,1921.8954892643592,2021,10
+17002,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2091.237245920124,2044.934403665256,2021,10
+17003,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1600.094693472322,1437.869489166554,2021,10
+17004,753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1877.1689202826003,1927.1157177394764,2021,10
+17005,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1667.245810474833,1525.114649499571,2021,10
+17006,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2316.168657966744,2257.255307926116,2021,10
+17007,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2202.4683535515437,2220.2257329526765,2021,10
+17008,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2120.736560568824,2068.5207786001897,2021,10
+17009,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1080.832265919832,1093.546114471293,2021,10
+17010,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1466.468384843866,2641.803040302388,2021,10
+17011,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2067.524680158556,1858.2354321620896,2021,10
+17012,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1919.1314712114497,1804.2923346465825,2021,10
+17013,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1287.3067768675692,1311.691936050039,2021,10
+17014,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2380.1125780294265,2363.589050621973,2021,10
+17015,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2393.7207491311065,2214.3073687729093,2021,10
+17016,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2173.8380858155715,2011.0185452708329,2021,10
+17017,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2111.383960460422,2020.197378840244,2021,10
+17018,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1686.2200014027198,1695.3994693933018,2021,10
+17019,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2591.732398476329,2322.33585044503,2021,10
+17020,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2062.4690342297517,1939.1851073318312,2021,10
+17021,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,2163.6854107716417,2072.3788916577005,2021,10
+17022,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-10,1572.5403885806795,1201.0712093336767,2021,10
+17416,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1454.1843382430477,1148.5044736559232,2021,11
+17417,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1894.874732812697,1645.9093023412993,2021,11
+17418,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1586.1791679456271,1585.3953300074293,2021,11
+17419,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2139.605285816937,2147.606581043368,2021,11
+17420,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2089.2754707157264,1921.8954892643592,2021,11
+17421,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2095.400520817934,2044.934403665256,2021,11
+17422,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1609.6562065760218,1437.869489166554,2021,11
+17423,753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1879.6456309676616,1927.1157177394764,2021,11
+17424,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1666.5078079792422,1525.114649499571,2021,11
+17425,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2321.6724001050657,2257.255307926116,2021,11
+17426,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2206.79986955184,2220.2257329526765,2021,11
+17427,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2124.619793919149,2068.5207786001897,2021,11
+17428,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1101.9591559450598,1093.546114471293,2021,11
+17429,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1472.6151708233276,2641.803040302388,2021,11
+17430,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2080.2062203939345,1858.2354321620896,2021,11
+17431,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1921.6161447362,1804.2923346465825,2021,11
+17432,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1307.1761755058517,1311.691936050039,2021,11
+17433,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2400.267929371124,2363.589050621973,2021,11
+17434,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2402.8780359487696,2214.3073687729093,2021,11
+17435,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2184.0815019000142,2011.0185452708329,2021,11
+17436,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2109.0844395690037,2020.197378840244,2021,11
+17437,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1711.673092198818,1695.3994693933018,2021,11
+17438,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2567.704526256025,2322.33585044503,2021,11
+17439,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2071.9026013349185,1939.1851073318312,2021,11
+17440,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,2172.102852779674,2072.3788916577005,2021,11
+17441,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-11,1597.4896297820908,1201.0712093336767,2021,11
+17840,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1465.3358452035116,1148.5044736559232,2021,12
+17841,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1916.7487689018428,1645.9093023412993,2021,12
+17842,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1596.6935708027604,1585.3953300074293,2021,12
+17843,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2143.976532264326,2147.606581043368,2021,12
+17844,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2100.5177853470104,1921.8954892643592,2021,12
+17845,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2103.2449111012997,2044.934403665256,2021,12
+17846,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1624.799090465854,1437.869489166554,2021,12
+17847,753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1894.53215832256,1927.1157177394764,2021,12
+17848,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1668.1526782923877,1525.114649499571,2021,12
+17849,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2328.9022987081,2257.255307926116,2021,12
+17850,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2200.8535791654685,2220.2257329526765,2021,12
+17851,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2135.143168638609,2068.5207786001897,2021,12
+17852,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1120.0074122864064,1093.546114471293,2021,12
+17853,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1476.0760936754143,2641.803040302388,2021,12
+17854,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2104.051130797297,1858.2354321620896,2021,12
+17855,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1924.215064347389,1804.2923346465825,2021,12
+17856,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1325.6495196143012,1311.691936050039,2021,12
+17857,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2412.6509986071565,2363.589050621973,2021,12
+17858,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2413.8918758783884,2214.3073687729093,2021,12
+17859,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2198.491004925892,2011.0185452708329,2021,12
+17860,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2118.233586840809,2020.197378840244,2021,12
+17861,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1736.2817479072403,1695.3994693933018,2021,12
+17862,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2563.617389334286,2322.33585044503,2021,12
+17863,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2078.833980827692,1939.1851073318312,2021,12
+17864,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,2188.942559482856,2072.3788916577005,2021,12
+17865,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2021-12,1622.0439222873567,1201.0712093336767,2021,12
+18270,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1509.4217671148883,1148.5044736559232,2022,1
+18271,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1958.6446741598884,1645.9093023412993,2022,1
+18272,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1656.1561204584373,1585.3953300074293,2022,1
+18273,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2189.571459164528,2147.606581043368,2022,1
+18274,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2163.1592755626884,1921.8954892643592,2022,1
+18275,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2146.2416677654323,2044.934403665256,2022,1
+18276,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1668.304861772028,1437.869489166554,2022,1
+18277,753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1950.3081488890464,1927.1157177394764,2022,1
+18278,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1704.830207177839,1525.114649499571,2022,1
+18279,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2383.167298392057,2257.255307926116,2022,1
+18280,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2251.9047878937035,2220.2257329526765,2022,1
+18281,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2186.248357632923,2068.5207786001897,2022,1
+18282,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1150.5268017016672,1093.546114471293,2022,1
+18283,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1502.588549679772,2641.803040302388,2022,1
+18284,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2155.124850431084,1858.2354321620896,2022,1
+18285,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1961.507432622179,1804.2923346465825,2022,1
+18286,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1370.2902672754635,1311.691936050039,2022,1
+18287,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2471.7977249557443,2363.589050621973,2022,1
+18288,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2467.143944239407,2214.3073687729093,2022,1
+18289,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2257.874862073857,2011.0185452708329,2022,1
+18290,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2161.9724535871155,2020.197378840244,2022,1
+18291,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1783.3402790770956,1695.3994693933018,2022,1
+18292,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2602.4200708733347,2322.33585044503,2022,1
+18293,753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,3328.230041110466,3358.2634053142924,2022,1
+18294,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2128.885295480237,1939.1851073318312,2022,1
+18295,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,2248.365900548359,2072.3788916577005,2022,1
+18296,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-01,1664.6508886593554,1201.0712093336767,2022,1
+18711,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1539.1605074514132,1148.5044736559232,2022,2
+18712,215792,357,Somerton,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1054.172830102059,1056.1950282606042,2022,2
+18713,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1978.5348320660007,1645.9093023412993,2022,2
+18714,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1686.2049931038182,1585.3953300074293,2022,2
+18715,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2228.4995087186,2147.606581043368,2022,2
+18716,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2204.769470353945,1921.8954892643592,2022,2
+18717,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2191.959191261368,2044.934403665256,2022,2
+18718,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1698.8619868055443,1437.869489166554,2022,2
+18719,753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1987.4618812570104,1927.1157177394764,2022,2
+18720,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1717.2562337077063,1525.114649499571,2022,2
+18721,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2425.296052658758,2257.255307926116,2022,2
+18722,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2286.317298286865,2220.2257329526765,2022,2
+18723,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2222.6235687359645,2068.5207786001897,2022,2
+18724,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1160.2244226582163,1093.546114471293,2022,2
+18725,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1506.875684416388,2641.803040302388,2022,2
+18726,753798,3082,East Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1804.2128461463813,1809.7333546117104,2022,2
+18727,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2189.813195789449,1858.2354321620896,2022,2
+18728,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1996.264842274474,1804.2923346465825,2022,2
+18729,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1401.678110466402,1311.691936050039,2022,2
+18730,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2516.705240736448,2363.589050621973,2022,2
+18731,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2504.924163553873,2214.3073687729093,2022,2
+18732,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2299.1640739010736,2011.0185452708329,2022,2
+18733,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2195.9519107278293,2020.197378840244,2022,2
+18734,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1807.161765094188,1695.3994693933018,2022,2
+18735,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2650.3919994718067,2322.33585044503,2022,2
+18736,753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,3376.636283412538,3358.2634053142924,2022,2
+18737,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2163.7254821274137,1939.1851073318312,2022,2
+18738,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,2281.2661796930965,2072.3788916577005,2022,2
+18739,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-02,1688.8181440526175,1201.0712093336767,2022,2
+19160,216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1549.1066344700694,1148.5044736559232,2022,3
+19161,215792,357,Somerton,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1058.2172264191497,1056.1950282606042,2022,3
+19162,272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1965.239757837984,1645.9093023412993,2022,3
+19163,210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1696.9516420600803,1585.3953300074293,2022,3
+19164,753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2219.9762034624614,2147.606581043368,2022,3
+19165,271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2208.79844221286,1921.8954892643592,2022,3
+19166,753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2183.005849153518,2044.934403665256,2022,3
+19167,273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1695.866634616308,1437.869489166554,2022,3
+19168,753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1973.57756671798,1927.1157177394764,2022,3
+19169,275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1702.070838254523,1525.114649499571,2022,3
+19170,260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2425.821776754804,2257.255307926116,2022,3
+19171,223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2282.5862303185377,2220.2257329526765,2022,3
+19172,753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2220.842753031649,2068.5207786001897,2022,3
+19173,213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1145.993600427424,1093.546114471293,2022,3
+19174,273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1492.467789519318,2641.803040302388,2022,3
+19175,753798,3082,East Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1815.2538630770396,1809.7333546117104,2022,3
+19176,753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2180.908653557501,1858.2354321620896,2022,3
+19177,147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1991.4911124339544,1804.2923346465825,2022,3
+19178,214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1402.6961669231669,1311.691936050039,2022,3
+19179,264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2510.073697053106,2363.589050621973,2022,3
+19180,753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2501.539276085984,2214.3073687729093,2022,3
+19181,753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2297.7472068147404,2011.0185452708329,2022,3
+19182,753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2187.578900661498,2020.197378840244,2022,3
+19183,212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1798.141329567877,1695.3994693933018,2022,3
+19184,753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2648.779883556309,2322.33585044503,2022,3
+19185,753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,3369.9238914198745,3358.2634053142924,2022,3
+19186,623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2164.640823830068,1939.1851073318312,2022,3
+19187,275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,2264.8401689730786,2072.3788916577005,2022,3
+19188,215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,2022-03,1677.8292961047357,1201.0712093336767,2022,3

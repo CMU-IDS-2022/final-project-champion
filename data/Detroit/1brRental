@@ -1,0 +1,62 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+8299,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,230753.0,45070.66941715852,2019,12
+8663,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,231660.0,45070.66941715852,2020,1
+9029,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,232794.0,45070.66941715852,2020,2
+9397,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,231991.0,45070.66941715852,2020,3
+9765,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,231051.0,45070.66941715852,2020,4
+10134,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,5511.470186655106,45070.66941715852,2020,5
+10505,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,5380.382023678475,45070.66941715852,2020,6
+10880,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,4608.6041887514775,45070.66941715852,2020,7
+11255,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,4863.042862074113,45070.66941715852,2020,8
+11632,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,4957.35137458073,45070.66941715852,2020,9
+12014,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,4746.766143151886,45070.66941715852,2020,10
+12398,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,4742.717331855606,45070.66941715852,2020,11
+12785,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,4481.063237467959,45070.66941715852,2020,12
+13176,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,4339.245472102134,45070.66941715852,2021,1
+13177,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,4015.6899822357327,4158.54143107953,2021,1
+13569,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,4572.313424257982,45070.66941715852,2021,2
+13570,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,4239.63495192614,4158.54143107953,2021,2
+13965,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,4571.011949799709,45070.66941715852,2021,3
+13966,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,4264.405067269406,4158.54143107953,2021,3
+14363,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,4484.154927594741,45070.66941715852,2021,4
+14364,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,4279.999107048401,4158.54143107953,2021,4
+14763,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,5438.011262999854,5245.272655724631,2021,5
+14764,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,4272.796399584601,45070.66941715852,2021,5
+14765,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,4248.472628601759,4158.54143107953,2021,5
+15166,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,5556.443348354189,5245.272655724631,2021,6
+15167,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,4419.57810137257,45070.66941715852,2021,6
+15168,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,4441.342623555508,4158.54143107953,2021,6
+15577,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,5778.919777617296,5245.272655724631,2021,7
+15578,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,4608.874919733416,45070.66941715852,2021,7
+15579,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,4602.2694216284135,4158.54143107953,2021,7
+15989,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,5823.955235264426,5245.272655724631,2021,8
+15990,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,4551.151969757055,45070.66941715852,2021,8
+15991,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,4479.677510274579,4158.54143107953,2021,8
+16402,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,5591.087801185449,5245.272655724631,2021,9
+16403,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,4276.5430893055045,45070.66941715852,2021,9
+16404,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,4227.585349721439,4158.54143107953,2021,9
+16817,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,5429.288490776819,5245.272655724631,2021,10
+16818,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,4092.134348308727,45070.66941715852,2021,10
+16819,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,4070.4495061964494,4158.54143107953,2021,10
+17236,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,5227.400306188554,5245.272655724631,2021,11
+17237,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,4013.5075418181727,45070.66941715852,2021,11
+17238,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,3974.1526382916513,4158.54143107953,2021,11
+17660,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,4965.297284913031,5245.272655724631,2021,12
+17661,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,3936.56932779317,45070.66941715852,2021,12
+17662,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,3864.139238332321,4158.54143107953,2021,12
+18086,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4822.08377295102,5245.272655724631,2022,1
+18087,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4053.49574368082,45070.66941715852,2022,1
+18088,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4282.011365900772,4967.243917909808,2022,1
+18089,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,5332.698951980691,5285.088043018562,2022,1
+18090,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,3898.2138214008496,4158.54143107953,2022,1
+18522,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4575.219101739324,5245.272655724631,2022,2
+18523,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4069.0504088738926,45070.66941715852,2022,2
+18524,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4247.707339867846,4967.243917909808,2022,2
+18525,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,5218.757660608626,5285.088043018562,2022,2
+18526,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,3841.962903111514,4158.54143107953,2022,2
+18970,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,7259.164334228638,3320.36622783838,2022,3
+18971,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4490.292830980971,5245.272655724631,2022,3
+18972,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4177.9187082406215,45070.66941715852,2022,3
+18973,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4317.794238393136,4967.243917909808,2022,3
+18974,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,5303.807516466369,5285.088043018562,2022,3
+18975,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,3930.126716598797,4158.54143107953,2022,3
