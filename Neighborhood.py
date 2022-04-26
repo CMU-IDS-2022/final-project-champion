@@ -7,6 +7,7 @@ import geopandas as gpd
 import pyproj
 import numpy as np
 import matplotlib.pyplot as plt
+import NeighborhoodOthers
 
 from vega_datasets import data
 from altair import datum
@@ -72,35 +73,52 @@ covidLine = alt.Chart(pd.DataFrame({'x': ['2020']})).mark_rule(color='purple').e
 postCovidLine = alt.Chart(pd.DataFrame({'x': ['2021']})).mark_rule(color='orange').encode(x='x:T')
 
 # text for pandemic
-prepandemicText = alt.Chart(pd.DataFrame({'x': ['2019-01'], 'y': ['5250']})).mark_text(text='Pre-pandemic').encode(x='x:T', y='y:Q')
-pandemicText = alt.Chart(pd.DataFrame({'x': ['2020-07'], 'y': ['5250']})).mark_text(text='Pandemic').encode(x='x:T', y='y:Q')
-postpandemicText = alt.Chart(pd.DataFrame({'x': ['2021-08'], 'y': ['5250']})).mark_text(text='Post-pandemic').encode(x='x:T', y='y:Q')
+def getPrepandemicText(height):
+  return alt.Chart(pd.DataFrame({'x': ['2019-01'], 'y': [height]})).mark_text(text='Pre-pandemic').encode(x='x:T', y='y:Q')
+
+def getPandemicText(height):
+  return alt.Chart(pd.DataFrame({'x': ['2020-07'], 'y': [height]})).mark_text(text='Pandemic').encode(x='x:T', y='y:Q')
+
+def getPostpandemicText(height):
+  return alt.Chart(pd.DataFrame({'x': ['2021-08'], 'y': [height]})).mark_text(text='Post-pandemic').encode(x='x:T', y='y:Q')
 
 
 def getCovidMarkings():
   return covidLine + postCovidLine
 
-def getCovidText():
-  return prepandemicText + pandemicText + postpandemicText
+def getCovidText(height):
+  return getPrepandemicText(height) + getPandemicText(height) + getPostpandemicText(height)
 
 
-def showGeneralNeighborhoodChart(df):
-  mostExNeighborhoods = getTopNeighborhoods(df, 5)
-  cheapestNeighborhoods = getBottomNeighborhoods(df, 5)
+def showGeneralNeighborhoodChart(df, value):
+  mostExNeighborhoods = getTopNeighborhoods(df, value)
+  cheapestNeighborhoods = getBottomNeighborhoods(df, value)
 
   topNeighborsChart = alt.Chart(df).mark_line().encode(
     x=alt.X('Date:T'),
     y=alt.Y('Prices:Q', scale=alt.Scale(zero=False)),
     color=alt.Color('Neighborhood'),
     tooltip=['Neighborhood', 'Prices']
-  ).transform_filter(
-      alt.FieldOneOfPredicate(field='Neighborhood', oneOf=cheapestNeighborhoods + mostExNeighborhoods)
-  ).properties(
-      width=600, height=300,
-      title='Top 5 most expensive and cheapest neighborhooods for rents'
   )
 
-  st.altair_chart(topNeighborsChart + getCovidMarkings() + getCovidText())
+  topExNeighborhoods = topNeighborsChart.transform_filter(
+      alt.FieldOneOfPredicate(field='Neighborhood', oneOf=mostExNeighborhoods)
+  ).properties(
+      title=f'Top {value} most expensive neighborhoods for rents'
+  )
+
+  topCheapNeighborhoods = topNeighborsChart.transform_filter(
+      alt.FieldOneOfPredicate(field='Neighborhood', oneOf=cheapestNeighborhoods)
+  ).properties(
+      title=f'Top {value} cheapest neighborhoods for rents'
+  )
+  # st.write(df)
+  highest = max(df['Prices']) * 1.05
+  lowest = min(df['Prices']) * 1.9
+
+  finalNeighborsChart = (topExNeighborhoods + getCovidMarkings() + getCovidText(highest)) | (topCheapNeighborhoods + getCovidMarkings() + getCovidText(lowest))
+
+  st.altair_chart(finalNeighborsChart)
 
 def showGeneralNeighborhoodPriceChart(df):
   barChart = alt.Chart(df).mark_bar().encode(
@@ -111,8 +129,15 @@ def showGeneralNeighborhoodPriceChart(df):
         alt.value("red"),  # The positive color
         alt.value("green")  # The negative color
     )
-  ).properties(width=600).interactive()
-  st.altair_chart(barChart + getCovidMarkings())
+  ).properties().interactive() # width=600
+
+  # st.write(df)
+  lineChart = alt.Chart(df).mark_line().encode(
+    alt.X("Date:T"),
+    alt.Y("mean(MeanPrices):Q", scale=alt.Scale(zero=False)),
+    # color = "Neighborhood",
+  ).properties().interactive() # width=600
+  st.altair_chart(barChart + getCovidMarkings() | lineChart + getCovidMarkings())
 
 
 ################## neighborhood level section ##################
@@ -121,6 +146,8 @@ def showGeneralNeighborhoodPriceChart(df):
 def filterByNeighborhood(df, neighborhood):
   return df[df['Neighborhood'] == neighborhood]
 
+def filterByNeighborhoods(df, neighborhoods):
+  return df[df['Neighborhood'].isin(neighborhoods)]
 
 def getTopNeighborhoods(df, num):
   return df.drop_duplicates(subset=['MeanPrices']).nlargest(num, ['MeanPrices'])['Neighborhood'].tolist()
@@ -159,38 +186,59 @@ def visualizeCity(city):
 
 def visualizeCityBedroomType(city, bedroom):
   df = readCsv(f"data/{city}/{bedroom}Rental")
-  showGeneralNeighborhoodChart(df)
+  value = st.slider("Select the number of properties to view", 1, len(pd.unique(df['Neighborhood'])), 5)
+  # first graph chart
+  showGeneralNeighborhoodChart(df, value)
   # TODO: add this to data preprocessing column
-  df['Price_change'] = df['Prices'].pct_change()
-  df['MeanPriceChange'] = df.groupby('Date')['Price_change'].transform('mean')
+  # second graph chart
+  df['Price_change'] = df.groupby('Date')['Prices'].pct_change()
+  df['MeanPriceChange'] = df.groupby('Date')['Price_change'].transform(np.mean)
+  # st.write(df)
   showGeneralNeighborhoodPriceChart(df)
+  st.write("interesting trend where the housing rental prices in United States is always increasing.")
   return df
 
 
-def visualizeCityBedroomNeighborhood(df):
+def visualizeCityBedroomNeighborhood(df, neighborhoods):
+  # st.write(df)
   line = alt.Chart(df).mark_line(color='blue').encode(
     x="Date:T",
     y=alt.Y('Prices:Q', scale=alt.Scale(zero=False)),
+    color='Neighborhood',
+    # strokeDash='Neighborhood',
+  ).transform_filter(
+      alt.FieldOneOfPredicate(field='Neighborhood', oneOf=neighborhoods)
   ).properties(
       width=600, height=300,
       title='General price trend for rents'
   )
+  # height = df
 
-  st.altair_chart(line + getCovidMarkings())
+  st.altair_chart(line + getCovidMarkings() + getCovidText(4750))
 
-# function to load all the data and interactions
+################## Specific functions section to call other graphs ##################
 def loadNeighborhoodData():
-  citySelection = st.selectbox("Which city would you like to see?", top10cities)
-  citySelection = citySelection.replace(' ', '')
-  # visualizeCity(citySelection)
 
-  st.subheader("General City Bedroom type visualizations")
-  bedroomSelection = st.selectbox("Which bedroom type would you like to see?", bedroomTypes.keys())
-  df = visualizeCityBedroomType(citySelection, bedroomTypes[bedroomSelection])
+  metric_selection = st.radio(
+    'View Metric',
+    ('Rental Price','Others')
+  )
 
-  st.subheader("Specific neighborhood visualizations")
-  neighborhoodSelection = st.selectbox("Which neighborhood would you like to see?", set(df['Neighborhood']))
+  if metric_selection == 'Rental Price':
 
-  visualizeCityBedroomNeighborhood(filterByNeighborhood(df, neighborhoodSelection))
+    citySelection = st.selectbox("Which city would you like to see?", top10cities)
+    citySelection = citySelection.replace(' ', '')
+    # visualizeCity(citySelection)
 
+    st.subheader("General City Bedroom type visualizations")
+    bedroomSelection = st.selectbox("Which bedroom type would you like to see?", bedroomTypes.keys())
+    df = visualizeCityBedroomType(citySelection, bedroomTypes[bedroomSelection])
+
+    st.subheader("Specific neighborhood visualizations")
+    neighborhoodSelections = st.multiselect("Which neighborhood would you like to see?", set(df['Neighborhood']))
+    # st.write(neighborhoodSelections)
+    visualizeCityBedroomNeighborhood(df, neighborhoodSelections)
+
+  elif metric_selection == 'Others':
+    NeighborhoodOthers.loadOthersNeighborhoodData()
 
