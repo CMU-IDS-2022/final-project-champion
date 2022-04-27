@@ -370,7 +370,7 @@ elif page_selection == "US National Wide":
     with col1:
         metric_selection = st.radio(
         'View Metric',
-        ('Rental Price','Crime')
+        ('Rental Price','Crime', 'Median Income')
         )
     with col2:
         year_list = list(top10_rental_sum['Year'].unique())
@@ -380,49 +380,49 @@ elif page_selection == "US National Wide":
         )
     
     
-    # median income for all cities
-    df = top10_stats_final[top10_stats_final['Year']==year_selection]
-    bars=alt.Chart(df).mark_bar().encode(
-        # y=alt.Y("City", sort='-x',axis=alt.Axis(ticks=False, domain=False,offset=5,title=None,labelFontStyle='bold')),
-        y=alt.Y("City",sort='-x',axis=None),
-        x=alt.X("MedianIncome",axis=None),
-        color=alt.Color("City", sort='x',
-                        scale=alt.Scale(scheme='greenblue'),
-                        legend=None),   
-    ).transform_window(
-        rank='rank()',
-        sort=[alt.SortField("MedianIncome", order='descending')]
-    # ).transform_filter(
-        # alt.datum.rank<=5
-    ).properties(
-        width=200,
-        height=350
-    )
-    text_city=bars.mark_text(
-        align='left',
-        baseline='middle',
-        fontStyle='bold',
-        # color='black',
-        dx=5
-    ).encode(
-        text='City',
-        color=alt.Color()
-    )
-    text_num = bars.mark_text(
-        align='right',
-        baseline='middle',
-        fontStyle='bold',
-        color='white',
-        dx=-5,
-    ).encode(
-        # x=alt.value(5),
-        # text='RentalPrice',
-        text='label:N',
-        color=alt.Color()
-    ).transform_calculate(label=f'format(datum.MedianIncome,"$,")')
+    # # median income for all cities
+    # df = top10_stats_final[top10_stats_final['Year']==year_selection]
+    # bars=alt.Chart(df).mark_bar().encode(
+    #     # y=alt.Y("City", sort='-x',axis=alt.Axis(ticks=False, domain=False,offset=5,title=None,labelFontStyle='bold')),
+    #     y=alt.Y("City",sort='-x',axis=None),
+    #     x=alt.X("MedianIncome",axis=None),
+    #     color=alt.Color("City", sort='x',
+    #                     scale=alt.Scale(scheme='greenblue'),
+    #                     legend=None),   
+    # ).transform_window(
+    #     rank='rank()',
+    #     sort=[alt.SortField("MedianIncome", order='descending')]
+    # # ).transform_filter(
+    #     # alt.datum.rank<=5
+    # ).properties(
+    #     width=200,
+    #     height=350
+    # )
+    # text_city=bars.mark_text(
+    #     align='left',
+    #     baseline='middle',
+    #     fontStyle='bold',
+    #     # color='black',
+    #     dx=5
+    # ).encode(
+    #     text='City',
+    #     color=alt.Color()
+    # )
+    # text_num = bars.mark_text(
+    #     align='right',
+    #     baseline='middle',
+    #     fontStyle='bold',
+    #     color='white',
+    #     dx=-5,
+    # ).encode(
+    #     # x=alt.value(5),
+    #     # text='RentalPrice',
+    #     text='label:N',
+    #     color=alt.Color()
+    # ).transform_calculate(label=f'format(datum.MedianIncome,"$,")')
     
-    graph_medianincome=bars+text_city+text_num
-    
+    # graph_medianincome=bars+text_city+text_num
+    g1,g2 = st.columns([3,1])
     if metric_selection=="Rental Price":
         with col3:
             roomtypes = list(top10_rental_sum['Room Type'].unique())
@@ -437,7 +437,7 @@ elif page_selection == "US National Wide":
             stroke='white'
         ).project('albersUsa')
         # background
-        cities = alt.Chart(df).encode(
+        cities = alt.Chart(data=df).encode(
             longitude='longitude:Q',
             latitude='latitude:Q',   
         )
@@ -448,12 +448,13 @@ elif page_selection == "US National Wide":
         point = cities.mark_point(filled=True).encode(
             size=alt.Size('RentalPrice:Q',
                         scale=alt.Scale(range=[0,1000]),
-                        legend=None
+                        
                         ),
             # size=alt.Size(10),
             color=alt.condition(city_selection,'RentalPrice:Q',alt.value('gray'),type="quantitative",
                             scale=alt.Scale(scheme='yelloworangered',),
-                            legend=None),
+                            legend=alt.Legend(orient="bottom-right", title=None),
+                            ),
             tooltip=[
             'City',
             'Year',
@@ -465,11 +466,53 @@ elif page_selection == "US National Wide":
             city_selection
         )
         graph_rentalprice=(background+point+text).properties(
-            width=550,
-            height=350,
+            width=800,
+            height=500,
             )
-        # show Map + median income graph
-        st.write(graph_rentalprice | graph_medianincome)
+        ################################## bar chart #########################
+        df = top10_rental_sum[(top10_rental_sum['Year']==year_selection)&(top10_rental_sum['Room Type']==roomtype_selection)]
+        main=alt.Chart(df).mark_bar().encode(
+            y=alt.Y("City",sort='x',axis=None),
+            x=alt.X('RentalPrice', axis=None),
+            color=alt.Color("City", sort='x',
+                            scale=alt.Scale(scheme='goldred'),
+                            legend=None)
+        ).properties(
+            width=300,
+            height=500
+        )
+        bars=main.configure_view(
+            strokeWidth=0,
+        )
+        text_city=main.mark_text(
+            align='left',
+            baseline='middle',
+            fontStyle='bold',
+            color='black',
+            dx=5
+        ).encode(
+            text='City',
+            color=alt.Color()
+        )
+        text_num = main.mark_text(
+            align='right',
+            baseline='middle',
+            fontStyle='bold',
+            color='white',
+            dx=-5,
+        ).encode(
+            text='label:N',
+            color=alt.Color()
+        ).transform_calculate(label=f'format(datum.RentalPrice,"$,")'
+        )
+        bar_rentalprice=main+text_city+text_num
+        
+        # show Map + bar chart side by side
+        with g1:
+            st.write(graph_rentalprice)
+        with g2:
+            st.write(bar_rentalprice)
+            
         
   
     elif metric_selection=="Crime":
@@ -481,8 +524,8 @@ elif page_selection == "US National Wide":
             fill='lightgray',
             stroke='white'
         ).properties(
-            width=600,
-            height=350,
+            width=900,
+            height=500,
         ).project('albersUsa')
         # background
         cities = alt.Chart(df).encode(
@@ -501,16 +544,102 @@ elif page_selection == "US National Wide":
             ],
             size=alt.Size('Crime Score',type="quantitative",
                         scale=alt.Scale(range=[0,1000]),
-                        legend=None),
+
+                        ),
+            
             # size=alt.Size(10),
             color=alt.condition(city_selection,'Crime Score',alt.value('gray'),
                             scale=alt.Scale(scheme='yelloworangered',),
-                            legend=None), 
+                            legend=alt.Legend(orient="bottom-right", title=None),
+                            ), 
+            
         ).add_selection(
             city_selection
         )
         graph_crime = background+point+text
-        st.write(graph_crime | graph_medianincome)
+        ############################# bar chart ###################################
+        # Crime Score dashboard
+        select = 'Crime Score'
+        city = 'New York'
+        year = 2019
+        # df = top10_stats_final[top10_stats_final['City']==city]
+        df = top10_stats_final[top10_stats_final['Year']==year]
+        bars=alt.Chart(df).mark_bar().encode(
+            # y=alt.Y("City", sort='-x',axis=alt.Axis(ticks=False, domain=False,offset=5,title=None,labelFontStyle='bold')),
+            y=alt.Y("City",sort='x',axis=None),
+            x=alt.X(select,axis=None),
+            color=alt.Color("City", sort='x',
+                            scale=alt.Scale(scheme='goldred'),
+                            legend=None),   
+        ).transform_window(
+            rank='rank()',
+            sort=[alt.SortField(select, order='descending')]
+        ).transform_filter(
+            alt.datum.rank<=5
+        ).properties(
+            width=200,
+            height=120
+        )
+        text_city=bars.mark_text(
+            align='left',
+            baseline='middle',
+            fontStyle='bold',
+            color='black',
+            dx=5
+        ).encode(
+            text='City',
+            color=alt.Color()
+        )
+        text_num = bars.mark_text(
+            align='right',
+            baseline='middle',
+            fontStyle='bold',
+            color='white',
+            dx=-5,
+        ).encode(
+            # x=alt.value(5),
+            text=select,
+            color=alt.Color()
+        )
+        bars+text_city+text_num
+
+        # show Map + bar chart side by side
+        with g1:
+            st.write(graph_crime)
+        with g2:
+            st.write(bar_rentalprice)
+    elif metric_selection=="Median Income":
+        st.subheader("US City Average Median Income at "+str(year_selection))
+
+        df = top10_stats_final[top10_stats_final['Year']==year_selection]
+        background = alt.Chart(states).mark_geoshape(
+            fill='lightgray',
+            stroke='white'
+        ).properties(
+            width=900,
+            height=500,
+        ).project('albersUsa')
+        # background
+        cities = alt.Chart(df).encode(
+            longitude='longitude:Q',
+            latitude='latitude:Q',   
+        )
+        text = cities.mark_text(dx=0,dy=20, align='center').encode(
+            alt.Text('City', type='nominal'),
+            # opacity=alt.condition(~hover, alt.value(0), alt.value(1))
+        )
+        point = cities.mark_point(filled=True).encode(
+            size=alt.Size("MedianIncome",type="quantitative",
+                        scale=alt.Scale(range=[0,1000])),
+            # size=alt.Size(10),
+            color=alt.Color("MedianIncome",type="quantitative",
+                            scale=alt.Scale(scheme='greenblue',),
+                            legend=alt.Legend(orient="bottom-right", title=None),),
+                            
+        )
+        graph_medianincome = background+point+text
+        st.write(graph_medianincome)
+        
        
     # show selected city's room type graph
     city_list = list(top10_rental_sum['City'].unique())
