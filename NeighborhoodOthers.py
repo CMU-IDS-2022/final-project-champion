@@ -3,13 +3,29 @@ import altair as alt
 import pprint
 import pandas as pd
 
-emoji = {'safety': '👮', 'Trans': '🚌', 'income': '💰'}
+emoji = {'crime': '👮', 'Trans': '🚌', 'income': '💰'}
 Year = [2019, 2020, 2021]
 
 def file(city):
     total = pd.read_csv('data/total.csv')
     df = total.loc[total['City'] == city]
     return df
+
+def safe(city):
+    total = pd.read_csv('data/crime rate.csv')
+    df = total.loc[total['City'] == city]
+    return df
+
+def Trans(city):
+    total = pd.read_csv('data/transportation.csv')
+    df = total.loc[total['City'] == city]
+    return df
+
+def income(city):
+    total = pd.read_csv('data/income.csv')
+    df = total.loc[total['City'] == city]
+    return df
+
 
 def cityyear(df,x,top):
     df = df.loc[df['Year'] == x]
@@ -49,37 +65,45 @@ def cityyear(df,x,top):
 
     return (trans & crime & Income)
 
-def n(df,name):
+def n(df1,df2,df3,name):
   #df = df.loc[df['Neighborhood'].isin(name)]
-  n1 = alt.Chart(df).mark_bar().encode(
-    x='Year:O',
-    y='Transportation',
-    color='Transportation',
-    column = 'Neighborhood'
+  df1['emoji'] =[{'Trans': '🚌',}[Type] for Type in df1['Type'] ]
+  n1 = alt.Chart(df1).mark_text(filled = True).encode(
+    alt.X('Year:O'),
+    alt.Y('Trans:O'),
+    #color='Trans',
+    column = 'Neighborhood',
+    #SizeValue = 60,
+    text = 'emoji',
 ).transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=name)
 ).properties(height=100, width=100)
 
-
-  n2 = alt.Chart(df).mark_bar().encode(
+  df2['emoji'] = [{'crime': '👮', }[Type] for Type in df2['Type']]
+  n2 = alt.Chart(df2).mark_text(filled = True).encode(
     x='Year:O',
-    y='Safety',
-    color='Safety',
-    column='Neighborhood'
+    y='crime',
+    #color='crime',
+    column='Neighborhood',
+    text='emoji',
 ).transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=name)
 ).properties(height=100, width=100)
 
-  n3 = alt.Chart(df).mark_bar().encode(
+  df3['emoji'] = [{'income': '💰' }[Type] for Type in df3['Type']]
+  n3 = alt.Chart(df3).mark_text(filled = True).encode(
     x='Year:O',
-    y='Income(k)',
-    color='Income(k)',
-    column='Neighborhood'
+    y='Income',
+    #color='Income',
+    column='Neighborhood',
+    text='emoji'
 ).transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=name)
 ).properties(height=100, width=100)
 
   return (n1 & n2 & n3)
+
+
 
 
 
@@ -91,18 +115,18 @@ def loadOthersNeighborhoodData(citySelection):
     topnumber = st.slider( 'Top N neighborhood you can check', 0, 20)
 
     df = file(citySelection)
+    safedata = safe(citySelection)
+    transdata = Trans(citySelection)
+    incomedata = income(citySelection)
+
+
+
     figure1 = cityyear(df,Yearselection,topnumber)
     st.write(figure1)
 
     st.subheader("Specific neighborhood visualizations")
     neighborhoodSelections = st.multiselect("Which neighborhood would you like to see?", set(df['Neighborhood']))
 
-    figure2 = n(df, neighborhoodSelections)
+    figure2 = n(transdata, safedata, incomedata, neighborhoodSelections)
     st.write(figure2)
-
-
-
-
-
-
 
