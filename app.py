@@ -347,10 +347,7 @@ if page_selection == "Data Processing":
         st.write(alt.vconcat(graph_housing_price, housing_index, graph_housing_unit_price)|alt.vconcat(graph_housing_unit_price2, rental_index, graph_rental_price))
         raw_data = st.checkbox("Show raw dataset")
         if raw_data:
-            rawdata_selection = st.radio(
-                'rawdata:',
-                ('Housing Price and Index', 'Estimated Rental Price')
-            )
+        
             raw_col1, raw_col2 = st.columns(2)
             with raw_col1:
                 st.write(top10_alldata_graph)
