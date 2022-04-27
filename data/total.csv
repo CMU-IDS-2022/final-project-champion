@@ -1,0 +1,1363 @@
+RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Transportation,Safety,Income(k),Year
+269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,77,2019
+15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,6,74,2019
+46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,76,2019
+154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,79,2019
+154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,78,2019
+276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,76,2019
+272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,79,2019
+275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,78,2019
+155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,6,77,2019
+272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,75,2019
+155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,76,2019
+275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,7,79,2019
+155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,77,2019
+154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,74,2019
+54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,76,2019
+155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,79,2019
+37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,78,2019
+274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,76,2019
+153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,79,2019
+154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,78,2019
+416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,77,2019
+154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,5,79,2019
+270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,8,5,77,2019
+153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,74,2019
+273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,76,2019
+403296,4315,Lathrop Homes,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,63,2019
+403298,4695,Goose Island,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,8,65,2019
+269615,511,West Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,6,66,2019
+269597,436,Near North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,67,2019
+269567,6098,Andersonville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,64,2019
+403145,392,Bronzeville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,64,2019
+403344,6905,Dearborn Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2019
+403343,8591,Printers Row,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,67,2019
+138129,2493,Dunning,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,64,2019
+403146,321,Back of the Yards,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,69,2019
+403345,9870,South Commons,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,66,2019
+403320,11090,Greektown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,67,2019
+269608,285,South Shore,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2019
+269578,271,Edgewater,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,66,2019
+273035,268,Bridgeport,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,67,2019
+269585,261,Humboldt Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,64,2019
+269607,259,South Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,64,2019
+275083,231,Portage Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,64,2019
+269588,224,Jefferson Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,69,2019
+403313,3686,Fulton River District,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,66,2019
+403297,8707,River West,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,67,2019
+33597,608,Ravenswood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,64,2019
+403299,662,Streeterville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,8,8,69,2019
+403262,1699,Budlong Woods,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,66,2019
+403307,1600,Wrightwood Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,67,2019
+403304,2522,Old Town Triangle,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,65,2019
+403306,1505,Sheffield Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,64,2019
+403292,1494,Roscoe Village,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,64,2019
+269602,1439,Norwood Park East,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,8,8,69,2019
+403301,1436,Old Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,66,2019
+269593,1282,The Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,67,2019
+269590,1026,Lincoln Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,64,2019
+269587,970,Irving Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,69,2019
+403303,968,Gold Coast,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,66,2019
+403322,2726,West Loop Gate,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,67,2019
+403280,15425,Schorsch Forest View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,64,2019
+403342,2830,New Eastside,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,69,2019
+269603,882,O'Hare,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,67,2019
+403141,782,University Village - Little Italy,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,5,67,2019
+269573,774,Avondale,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,68,2019
+403300,3091,River North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,64,2019
+137841,737,Clearing,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,69,2019
+269586,692,Hyde Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,67,2019
+137603,689,Bucktown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,67,2019
+269600,653,North Center,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,68,2019
+269599,889,Near West Side,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,67,2019
+403325,906,Galewood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,64,2019
+269566,154,Albany Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,69,2019
+269609,159,Uptown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,66,2019
+269592,53,Logan Square,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,67,2019
+269605,171,Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,64,2019
+403169,106,West Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,69,2019
+269589,163,Lake View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,69,2019
+269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,8,4,80,2019
+274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,5,5,79,2019
+269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,5,3,79,2019
+270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,5,5,78,2019
+276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,4,4,81,2019
+270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,4,4,79,2019
+268010,1374,Atwater Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,5,67,2019
+268551,456,Valley Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2019
+38888,488,Harbor City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,70,2019
+268097,493,Crenshaw,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,69,2019
+274359,440,Los Feliz,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2019
+27484,457,Tujunga,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,70,2019
+116206,368,Lincoln Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,69,2019
+403192,413,Harvard Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2019
+268548,131,Valley Glen,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,72,2019
+27431,1780,Toluca Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,8,70,2019
+114808,382,Eagle Rock,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,4,71,2019
+115836,379,Jefferson Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,73,2019
+27080,85,Sherman Oaks,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,68,2019
+113910,360,Brentwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,70,2019
+268316,2365,Montecito Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,69,2019
+21056,351,Venice,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,68,2019
+268103,1502,Cypress Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2019
+274514,62,Mid City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2019
+268134,529,Echo Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,69,2019
+13176,112,Panorama City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2019
+48570,83,Woodland Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2019
+268236,82,Koreatown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,70,2019
+116774,750,Mount Washington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2019
+40215,86,Pacoima,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2019
+27328,866,Sunland,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,70,2019
+54300,79,San Pedro,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2019
+276514,886,Playa Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,68,2019
+276023,99,Westlake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,73,2019
+40548,100,Reseda,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2019
+46795,78,North Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,70,2019
+113886,75,Boyle Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,69,2019
+268057,628,Central City East,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2019
+34213,74,Sylmar,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2019
+41131,68,Sun Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,69,2019
+41466,64,Van Nuys,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,73,2019
+275024,556,Pico-Robertson,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,68,2019
+273825,540,Glassell Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2019
+19810,538,Pacific Palisades,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,69,2019
+118887,1179,West Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,68,2019
+113749,1200,Beverly Crest,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,70,2019
+117954,338,Sawtelle,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2019
+268581,502,West Adams,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,68,2019
+274049,333,Hollywood Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2019
+268404,770,Pico-Union,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,69,2019
+115729,330,Park Mesa Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,68,2019
+114246,3269,Century City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,70,2019
+48516,155,Wilmington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,69,2019
+30731,157,Canoga Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,69,2019
+13327,3731,Playa Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,8,8,73,2019
+403184,331,Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,68,2019
+274517,258,Mid Wilshire,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,70,2019
+273930,255,Harbor Gateway,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,67,2019
+118849,253,Watts,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,68,2019
+116415,238,Mar Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,70,2019
+47950,283,Tarzana,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2019
+32059,18,Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,6,68,2019
+114914,219,El Sereno,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,70,2019
+117183,217,Palms,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,69,2019
+276450,208,Mid City West,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2019
+51906,201,Encino,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,72,2019
+32368,199,Lake Balboa,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,70,2019
+27987,195,Winnetka,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,70,2019
+268496,8,Southeast Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2019
+115609,181,Highland Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,69,2019
+118208,4,South Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,73,2019
+273197,165,Central City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,68,2019
+268588,288,West Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,5,70,2019
+118920,160,Westwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,67,2019
+403191,2819,Elysian Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,68,2019
+37835,304,Chatsworth,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2019
+13017,136,North Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,70,2019
+7877,301,Westchester,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,67,2019
+268118,312,Downtown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,8,4,68,2019
+268473,296,Silver Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,6,70,2019
+47880,298,Studio City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,69,2019
+270841,5608,DUMBO,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,69,2019
+35961,1012,Rockaway Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,65,2019
+199001,17,Williamsburg,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,67,2019
+270875,66,Lower East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,64,2019
+272902,16,Bedford Stuyvesant,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,7,69,2019
+18131,70,Flushing,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,66,2019
+270968,914,Windsor Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,67,2019
+270945,40,Sunset Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,65,2019
+272816,14,Astoria,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,3,3,66,2019
+195267,25,Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,67,2019
+194430,9,East New York,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,3,3,64,2019
+272869,887,Battery Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,64,2019
+196620,2810,New Springville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,3,3,64,2019
+10957,38,Corona,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,69,2019
+270885,828,Midtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,3,3,66,2019
+194379,35,East Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,3,3,69,2019
+273903,819,Greenwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,69,2019
+270957,5,Upper East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,65,2019
+343206,2659,Woodlawn,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,67,2019
+193587,34,Bushwick,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,64,2019
+198687,11,Washington Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,69,2019
+32192,1058,Jamaica Estates,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,66,2019
+343219,1112,Riverdale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,67,2019
+270811,1063,Carroll Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,65,2019
+403223,48,Elmhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,66,2019
+197623,1502,Rossville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,5,5,67,2019
+403131,54,Sheepshead Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,64,2019
+270928,1538,SoHo,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,64,2019
+275754,1466,Tottenville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,64,2019
+193285,45,Bensonhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,69,2019
+274627,1627,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,66,2019
+270825,1448,Downtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,5,64,2019
+343205,56,Soundview,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,69,2019
+193640,59,Canarsie,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,66,2019
+25294,24,Jamaica,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,69,2019
+193406,44,Borough Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,69,2019
+20239,1346,Roosevelt Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,65,2019
+270817,41,Concourse,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,67,2019
+5837,173,Maspeth,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,64,2019
+270800,1257,Bay Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,64,2019
+343222,29,Williamsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,64,2019
+403202,1237,St. George,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,5,5,69,2019
+403222,23,Crown Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,66,2019
+194737,20,Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,64,2019
+196350,1827,Midland Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,69,2019
+55801,1148,Glen Oaks,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,66,2019
+270828,30,East Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,69,2019
+270816,2238,Cobble Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,69,2019
+193189,174,Bay Ridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,64,2019
+272994,1273,Boerum Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,64,2019
+270958,3,Upper West Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,69,2019
+270815,491,Clinton Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,6,66,2019
+270850,189,Hamilton Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,64,2019
+199091,188,Woodside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,69,2019
+273478,497,Douglaston-Little Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,66,2019
+270907,498,Pelham Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,69,2019
+273860,143,Gramercy,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,69,2019
+270848,341,Greenpoint,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,64,2019
+195087,500,Great Kills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,5,5,64,2019
+274676,530,Kew Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,64,2019
+196338,369,Middle Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,69,2019
+275552,305,St. Albans,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,66,2019
+194318,300,Dyker Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,64,2019
+403217,153,Kensington,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,69,2019
+26254,539,Oakland Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,66,2019
+197044,109,Park Slope,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,7,69,2019
+195133,216,Greenwich Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,69,2019
+403206,465,Flatiron District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,64,2019
+8349,444,College Point,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,69,2019
+276254,203,Chelsea,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,66,2019
+193182,128,Bath Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,6,69,2019
+275620,212,Sunnyside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,69,2019
+403215,126,Gravesend,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,64,2019
+57348,229,Kew Gardens Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,64,2019
+343220,364,Kingsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,69,2019
+21970,464,Howard Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,66,2019
+37309,192,Bayside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,64,2019
+193476,404,Brighton Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,7,69,2019
+270835,405,Financial District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,7,7,66,2019
+403221,350,Prospect Lefferts Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,69,2019
+270797,427,Auburndale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,69,2019
+270886,121,Midwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,64,2019
+274117,113,Jackson Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,64,2019
+276128,135,Richmond Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,64,2019
+273653,542,Eltingville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,5,5,69,2019
+343210,310,Throggs Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,69,2019
+44302,387,Briarwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,64,2019
+270951,665,Tribeca,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,64,2019
+276060,279,Whitestone,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,64,2019
+273757,95,Forest Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,69,2019
+270846,690,Gowanus,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,66,2019
+196538,87,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,64,2019
+343213,175,University Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,69,2019
+270946,609,Sutton Place,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,66,2019
+275173,101,Ridgewood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,69,2019
+49994,254,Woodhaven,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,69,2019
+275115,168,Queens Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,64,2019
+403122,574,Brooklyn Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,69,2019
+270953,732,Turtle Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,64,2019
+343221,166,Bedford Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,64,2019
+270891,270,Morningside Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,69,2019
+193974,218,Coney Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,66,2019
+403220,758,Prospect Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,64,2019
+270829,107,East Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,69,2019
+6719,236,Rego Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,66,2019
+343211,244,Parkchester,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,66,2019
+270964,557,West Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,64,2019
+195576,247,Inwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,69,2019
+273766,278,Fort Greene,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,66,2019
+216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,46,2019
+215792,357,Somerton,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,7,7,52,2019
+272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,53,2019
+210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,7,7,53,2019
+753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,55,2019
+271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,7,7,55,2019
+753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,54,2019
+273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,55,2019
+753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,53,2019
+275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,49,2019
+260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,50,2019
+223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,49,2019
+753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,46,2019
+213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,50,2019
+273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,46,2019
+753798,3082,East Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,45,2019
+753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,44,2019
+147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,55,2019
+214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,55,2019
+264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,54,2019
+753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,55,2019
+753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,53,2019
+753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,49,2019
+212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,50,2019
+753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,49,2019
+753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,49,2019
+623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,51,2019
+275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,6,46,2019
+215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,7,7,51,2019
+9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,59,2019
+213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,61,2019
+208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,60,2019
+271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,57,2019
+271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,59,2019
+271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,59,2019
+271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,59,2019
+214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,60,2019
+274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,7,7,60,2019
+216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,61,2019
+271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,4,7,60,2019
+54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,7,57,2019
+268491,565,South of Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,5,115,2019
+268414,1046,Potrero Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,117,2019
+268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,117,2019
+207518,3403,South Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,119,2019
+268450,1078,Russian Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,119,2019
+268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,119,2019
+273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,118,2019
+417501,2951,Lower Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,120,2019
+268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,118,2019
+268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,122,2019
+274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,119,2019
+268110,6590,Diamond Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,119,2019
+274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,120,2019
+268114,6493,Downtown,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,8,4,121,2019
+118904,1013,Western Addition,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,115,2019
+268337,983,Nob Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,6,115,2019
+268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,114,2019
+417518,4055,Duboce Triangle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,114,2019
+268206,4223,Hayes Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,7,113,2019
+268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,115,2019
+275789,4274,Upper Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,115,2019
+417493,650,Tenderloin,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,115,2019
+268020,852,Bernal Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,117,2019
+268156,5937,Financial District,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,119,2019
+268218,5007,Hunters Point,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,119,2019
+268177,5090,Glen Park,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,119,2019
+417523,5184,Alamo Square,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,118,2019
+268305,2692,Mission Bay,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,120,2019
+417507,2657,Ingleside Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,118,2019
+268517,5469,Telegraph Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,6,122,2019
+415247,2359,Sunnyside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,119,2019
+268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,119,2019
+417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,120,2019
+268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,115,2019
+417522,2416,Panhandle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,117,2019
+417492,8424,North Waterfront,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,119,2019
+116918,1729,North Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,119,2019
+417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,119,2019
+118310,1583,Parkmerced,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,115,2019
+344008,2041,West Woodland,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,72,2019
+271957,2064,Olympic Hills,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,6,74,2019
+344022,2624,Gatewood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,75,2019
+271856,2178,East Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,75,2019
+56654,4263,Seaview,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,73,2019
+251170,2185,Loyal Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,75,2019
+271987,2226,South Lake Union,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,74,2019
+344018,8383,Waterfront,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2019
+271901,4130,Leschi,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,77,2019
+344012,4276,Madison Valley,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,78,2019
+343996,4453,View Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,80,2019
+271961,1686,Phinney Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,80,2019
+344001,2239,Wedgwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,81,2019
+250017,1688,Adams,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,80,2019
+272022,4627,Westlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,72,2019
+252248,821,Wallingford,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,74,2019
+344032,4723,North Delridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,75,2019
+271963,13557,Pioneer Square,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,75,2019
+271893,5657,International District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,73,2019
+344015,5073,Judkins Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,75,2019
+271857,5118,Eastlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,74,2019
+271814,1898,Bitter Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,77,2019
+250788,815,Greenwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2019
+343995,5323,Denny Triangle,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,78,2019
+271990,792,Magnolia,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,80,2019
+250801,1968,Haller Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,80,2019
+344020,2605,Genesee,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,74,2019
+343993,3117,Pinehurst,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,75,2019
+343999,2341,North College Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,75,2019
+271921,1370,Minor,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,73,2019
+272001,482,University District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,75,2019
+344000,1354,Maple Leaf,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,74,2019
+271942,1520,North Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2019
+250206,339,Capitol Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,77,2019
+251709,1278,Ravenna,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,78,2019
+250478,2797,Dunlap,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,80,2019
+271869,1270,First Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,80,2019
+271932,1187,North Beacon Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,6,81,2019
+272018,2470,West Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,80,2019
+343997,3055,Alki,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,8,8,75,2019
+271849,2329,Downtown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,5,74,2019
+251186,7822,Madison Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2019
+250780,1775,Green Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,7,77,2019
+344019,1166,Admiral,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,78,2019
+271906,3204,Lower Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,80,2019
+252056,3523,Sunset Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,6,80,2019
+272005,3478,Victory Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,74,2019
+271808,1563,Belltown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,75,2019
+271831,3323,Cedar Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,75,2019
+344021,3342,Fairmount Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,73,2019
+250692,1137,Fremont,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,75,2019
+344010,3328,Uptown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,74,2019
+121759,9324,McLean Gardens,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,70,2019
+121800,6215,Truxton Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,71,2019
+403488,10873,Penn Quarter,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,71,2019
+121680,6595,Brightwood Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,74,2019
+403484,8575,Stronghold,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,74,2019
+121797,5784,The Palisades,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,72,2019
+121740,8516,Judiciary Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,74,2019
+403483,11453,Pleasant Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,75,2019
+268815,7424,Kalorama,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,75,2019
+121727,6024,Garfield Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,73,2019
+121692,12518,Chinatown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,70,2019
+268832,6132,Wakefield,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,72,2019
+121713,9511,Fairfax Village,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,8,73,2019
+121754,777,Logan Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,72,2019
+121808,5016,West End,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,74,2019
+121755,1932,Manor Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,75,2019
+275465,1930,Southwest Waterfront,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,75,2019
+403487,1754,Near Northeast,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,73,2019
+121693,1631,Cleveland Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,70,2019
+272818,1625,American University Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,64,2019
+121745,1608,Kingman Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,69,2019
+121685,403,Capitol Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,66,2019
+121763,2099,Mount Vernon Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,64,2019
+121785,1317,Shaw,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,69,2019
+121762,1175,Mount Pleasant,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,66,2019
+121716,1174,Foggy Bottom,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,69,2019
+121689,1135,Chevy Chase,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,9,9,69,2019
+121704,1067,Dupont Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,78,2019
+121774,607,Petworth,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,77,2019
+403481,907,Sixteenth Street Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,75,2019
+121806,740,Washington Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,76,2019
+121729,1299,Georgetown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,79,2019
+121731,2216,Glover Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,77,2019
+121681,2235,Brookland,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,74,2019
+121668,764,Adams Morgan,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,73,2019
+403490,4893,NoMa,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,72,2019
+275794,4565,U Street Corridor,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,74,2019
+273489,4525,Downtown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,75,2019
+121687,4451,Cathedral Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,75,2019
+121807,4244,Wesley Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,73,2019
+121709,4081,Eckington,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,70,2019
+121815,3811,Woodley Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,64,2019
+403486,3755,Barney Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,69,2019
+403116,3753,Navy Yard,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,66,2019
+121771,3701,Park View,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,66,2019
+121710,3347,Edgewood,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,69,2019
+121677,3337,Bloomingdale,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,69,2019
+121717,3253,Forest Hills,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,78,2019
+121799,2873,Trinidad,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,77,2019
+121756,2830,Marshall Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,75,2019
+121698,2721,Congress Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,76,2019
+121697,343,Columbia Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,79,2019
+403507,5429,Carver,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,77,2019
+121777,2412,Randle Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,72,2019
+269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,6,80,2020
+15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,6,78,2020
+46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,79,2020
+154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,4,82,2020
+154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,81,2020
+276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,79,2020
+272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,83,2020
+275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,78,2020
+155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,5,78,2020
+272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,79,2020
+155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,4,78,2020
+275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,6,80,2020
+155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,80,2020
+154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,78,2020
+54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,5,79,2020
+155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,82,2020
+37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,4,81,2020
+274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,3,3,79,2020
+153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,83,2020
+154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,78,2020
+416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,78,2020
+154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,4,80,2020
+270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,8,4,80,2020
+153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,4,78,2020
+273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,79,2020
+403296,4315,Lathrop Homes,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2020
+403298,4695,Goose Island,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,6,66,2020
+269615,511,West Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2020
+269597,436,Near North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,66,2020
+269567,6098,Andersonville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,64,2020
+403145,392,Bronzeville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,63,2020
+403344,6905,Dearborn Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,66,2020
+403343,8591,Printers Row,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,66,2020
+138129,2493,Dunning,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2020
+403146,321,Back of the Yards,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,70,2020
+403345,9870,South Commons,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,67,2020
+403320,11090,Greektown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,66,2020
+269608,285,South Shore,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,66,2020
+269578,271,Edgewater,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,65,2020
+273035,268,Bridgeport,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,66,2020
+269585,261,Humboldt Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,64,2020
+269607,259,South Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,63,2020
+275083,231,Portage Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2020
+269588,224,Jefferson Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,70,2020
+403313,3686,Fulton River District,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,67,2020
+403297,8707,River West,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,66,2020
+33597,608,Ravenswood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2020
+403299,662,Streeterville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,70,2020
+403262,1699,Budlong Woods,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,67,2020
+403307,1600,Wrightwood Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,66,2020
+403304,2522,Old Town Triangle,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,66,2020
+403306,1505,Sheffield Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,63,2020
+403292,1494,Roscoe Village,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2020
+269602,1439,Norwood Park East,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,70,2020
+403301,1436,Old Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,67,2020
+269593,1282,The Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,66,2020
+269590,1026,Lincoln Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,65,2020
+269587,970,Irving Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,70,2020
+403303,968,Gold Coast,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,67,2020
+403322,2726,West Loop Gate,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,66,2020
+403280,15425,Schorsch Forest View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,65,2020
+403342,2830,New Eastside,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,70,2020
+269603,882,O'Hare,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,68,2020
+403141,782,University Village - Little Italy,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,4,66,2020
+269573,774,Avondale,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,67,2020
+403300,3091,River North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,65,2020
+137841,737,Clearing,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,70,2020
+269586,692,Hyde Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,68,2020
+137603,689,Bucktown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,66,2020
+269600,653,North Center,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,67,2020
+269599,889,Near West Side,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,66,2020
+403325,906,Galewood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,2,2,65,2020
+269566,154,Albany Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,70,2020
+269609,159,Uptown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,67,2020
+269592,53,Logan Square,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,66,2020
+269605,171,Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,65,2020
+403169,106,West Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,70,2020
+269589,163,Lake View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,70,2020
+269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,8,3,81,2020
+274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,4,4,80,2020
+269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,5,3,79,2020
+270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,5,5,79,2020
+276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,3,3,81,2020
+270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,3,3,78,2020
+268010,1374,Atwater Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,4,72,2020
+268551,456,Valley Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,3,72,2020
+38888,488,Harbor City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+268097,493,Crenshaw,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,2,2,68,2020
+274359,440,Los Feliz,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,69,2020
+27484,457,Tujunga,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,71,2020
+116206,368,Lincoln Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2020
+403192,413,Harvard Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+268548,131,Valley Glen,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,2,2,73,2020
+27431,1780,Toluca Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,7,70,2020
+114808,382,Eagle Rock,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,4,72,2020
+115836,379,Jefferson Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,74,2020
+27080,85,Sherman Oaks,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,72,2020
+113910,360,Brentwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,73,2020
+268316,2365,Montecito Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2020
+21056,351,Venice,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,69,2020
+268103,1502,Cypress Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,71,2020
+274514,62,Mid City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2020
+268134,529,Echo Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+13176,112,Panorama City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,74,2020
+48570,83,Woodland Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,72,2020
+268236,82,Koreatown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,73,2020
+116774,750,Mount Washington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2020
+40215,86,Pacoima,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,69,2020
+27328,866,Sunland,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,71,2020
+54300,79,San Pedro,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2020
+276514,886,Playa Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,69,2020
+276023,99,Westlake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,74,2020
+40548,100,Reseda,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,72,2020
+46795,78,North Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+113886,75,Boyle Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,68,2020
+268057,628,Central City East,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,69,2020
+34213,74,Sylmar,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,71,2020
+41131,68,Sun Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,70,2020
+41466,64,Van Nuys,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,74,2020
+275024,556,Pico-Robertson,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,72,2020
+273825,540,Glassell Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,73,2020
+19810,538,Pacific Palisades,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,68,2020
+118887,1179,West Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,69,2020
+113749,1200,Beverly Crest,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,71,2020
+117954,338,Sawtelle,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2020
+268581,502,West Adams,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,2,2,69,2020
+274049,333,Hollywood Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+268404,770,Pico-Union,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,68,2020
+115729,330,Park Mesa Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,69,2020
+114246,3269,Century City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,71,2020
+48516,155,Wilmington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,70,2020
+30731,157,Canoga Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,2,2,73,2020
+13327,3731,Playa Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,74,2020
+403184,331,Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,72,2020
+274517,258,Mid Wilshire,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+273930,255,Harbor Gateway,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,72,2020
+118849,253,Watts,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,72,2020
+116415,238,Mar Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,73,2020
+47950,283,Tarzana,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,68,2020
+32059,18,Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,69,2020
+114914,219,El Sereno,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,71,2020
+117183,217,Palms,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,70,2020
+276450,208,Mid City West,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+51906,201,Encino,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,73,2020
+32368,199,Lake Balboa,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2020
+27987,195,Winnetka,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,71,2020
+268496,8,Southeast Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,70,2020
+115609,181,Highland Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+118208,4,South Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,5,74,2020
+273197,165,Central City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,72,2020
+268588,288,West Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+118920,160,Westwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,72,2020
+403191,2819,Elysian Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,72,2020
+37835,304,Chatsworth,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+13017,136,North Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2020
+7877,301,Westchester,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,72,2020
+268118,312,Downtown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,8,3,72,2020
+268473,296,Silver Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,5,73,2020
+47880,298,Studio City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,68,2020
+270841,5608,DUMBO,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,68,2020
+35961,1012,Rockaway Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,66,2020
+199001,17,Williamsburg,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,3,3,66,2020
+270875,66,Lower East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,65,2020
+272902,16,Bedford Stuyvesant,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,70,2020
+18131,70,Flushing,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,67,2020
+270968,914,Windsor Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,66,2020
+270945,40,Sunset Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,3,3,66,2020
+272816,14,Astoria,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,3,3,65,2020
+195267,25,Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,3,3,66,2020
+194430,9,East New York,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,2,2,64,2020
+272869,887,Battery Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,63,2020
+196620,2810,New Springville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,2,2,65,2020
+10957,38,Corona,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,3,3,70,2020
+270885,828,Midtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,3,3,67,2020
+194379,35,East Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,2,2,68,2020
+273903,819,Greenwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,68,2020
+270957,5,Upper East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,66,2020
+343206,2659,Woodlawn,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,66,2020
+193587,34,Bushwick,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,3,65,2020
+198687,11,Washington Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,3,3,70,2020
+32192,1058,Jamaica Estates,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,67,2020
+343219,1112,Riverdale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,66,2020
+270811,1063,Carroll Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,66,2020
+403223,48,Elmhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,3,3,65,2020
+197623,1502,Rossville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,66,2020
+403131,54,Sheepshead Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,3,3,64,2020
+270928,1538,SoHo,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,63,2020
+275754,1466,Tottenville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,3,3,65,2020
+193285,45,Bensonhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,3,3,70,2020
+274627,1627,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,67,2020
+270825,1448,Downtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,4,65,2020
+343205,56,Soundview,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,70,2020
+193640,59,Canarsie,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,67,2020
+25294,24,Jamaica,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,68,2020
+193406,44,Borough Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,3,3,68,2020
+20239,1346,Roosevelt Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,3,3,66,2020
+270817,41,Concourse,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,3,3,66,2020
+5837,173,Maspeth,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,3,3,65,2020
+270800,1257,Bay Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,63,2020
+343222,29,Williamsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,65,2020
+403202,1237,St. George,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,70,2020
+403222,23,Crown Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,67,2020
+194737,20,Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,65,2020
+196350,1827,Midland Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,3,3,70,2020
+55801,1148,Glen Oaks,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,67,2020
+270828,30,East Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,68,2020
+270816,2238,Cobble Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,68,2020
+193189,174,Bay Ridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,63,2020
+272994,1273,Boerum Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,4,65,2020
+270958,3,Upper West Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,70,2020
+270815,491,Clinton Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,5,67,2020
+270850,189,Hamilton Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,65,2020
+199091,188,Woodside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,3,3,70,2020
+273478,497,Douglaston-Little Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,67,2020
+270907,498,Pelham Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,68,2020
+273860,143,Gramercy,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,68,2020
+270848,341,Greenpoint,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,65,2020
+195087,500,Great Kills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,63,2020
+274676,530,Kew Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,65,2020
+196338,369,Middle Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,70,2020
+275552,305,St. Albans,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,67,2020
+194318,300,Dyker Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,65,2020
+403217,153,Kensington,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,70,2020
+26254,539,Oakland Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,67,2020
+197044,109,Park Slope,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,68,2020
+195133,216,Greenwich Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,68,2020
+403206,465,Flatiron District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,63,2020
+8349,444,College Point,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,70,2020
+276254,203,Chelsea,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,67,2020
+193182,128,Bath Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,5,68,2020
+275620,212,Sunnyside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,68,2020
+403215,126,Gravesend,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,63,2020
+57348,229,Kew Gardens Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,65,2020
+343220,364,Kingsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,70,2020
+21970,464,Howard Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,67,2020
+37309,192,Bayside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,65,2020
+193476,404,Brighton Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,70,2020
+270835,405,Financial District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,67,2020
+403221,350,Prospect Lefferts Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,68,2020
+270797,427,Auburndale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,68,2020
+270886,121,Midwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,65,2020
+274117,113,Jackson Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,63,2020
+276128,135,Richmond Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,65,2020
+273653,542,Eltingville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,70,2020
+343210,310,Throggs Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,68,2020
+44302,387,Briarwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,65,2020
+270951,665,Tribeca,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,63,2020
+276060,279,Whitestone,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,65,2020
+273757,95,Forest Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,70,2020
+270846,690,Gowanus,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,67,2020
+196538,87,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,65,2020
+343213,175,University Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,70,2020
+270946,609,Sutton Place,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,67,2020
+275173,101,Ridgewood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,68,2020
+49994,254,Woodhaven,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,68,2020
+275115,168,Queens Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,63,2020
+403122,574,Brooklyn Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,70,2020
+270953,732,Turtle Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,63,2020
+343221,166,Bedford Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,3,3,65,2020
+270891,270,Morningside Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,3,3,70,2020
+193974,218,Coney Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,3,3,67,2020
+403220,758,Prospect Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,65,2020
+270829,107,East Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,70,2020
+6719,236,Rego Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,67,2020
+343211,244,Parkchester,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,67,2020
+270964,557,West Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,65,2020
+195576,247,Inwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,70,2020
+273766,278,Fort Greene,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,67,2020
+216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,47,2020
+215792,357,Somerton,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,53,2020
+272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,54,2020
+210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,53,2020
+753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,56,2020
+271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,55,2020
+753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,54,2020
+273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,54,2020
+753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,52,2020
+275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,50,2020
+260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,50,2020
+223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,50,2020
+753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,45,2020
+213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,51,2020
+273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,48,2020
+753798,3082,East Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,44,2020
+753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,43,2020
+147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,56,2020
+214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,55,2020
+264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,54,2020
+753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,54,2020
+753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,52,2020
+753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,50,2020
+212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,50,2020
+753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,50,2020
+753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,48,2020
+623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,52,2020
+275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,5,49,2020
+215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,50,2020
+9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,60,2020
+213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,60,2020
+208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,60,2020
+271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,4,4,59,2020
+271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,4,4,58,2020
+271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,4,4,60,2020
+271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,59,2020
+214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,4,4,61,2020
+274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,59,2020
+216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,60,2020
+271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,4,6,60,2020
+54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,5,59,2020
+268491,565,South of Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,116,2020
+268414,1046,Potrero Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,117,2020
+268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,118,2020
+207518,3403,South Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,120,2020
+268450,1078,Russian Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,121,2020
+268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,120,2020
+273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,119,2020
+417501,2951,Lower Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,120,2020
+268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,3,3,119,2020
+268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,122,2020
+274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,118,2020
+268110,6590,Diamond Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,121,2020
+274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,121,2020
+268114,6493,Downtown,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,8,3,120,2020
+118904,1013,Western Addition,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,116,2020
+268337,983,Nob Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,5,114,2020
+268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,115,2020
+417518,4055,Duboce Triangle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,115,2020
+268206,4223,Hayes Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,6,115,2020
+268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,115,2020
+275789,4274,Upper Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,114,2020
+417493,650,Tenderloin,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,116,2020
+268020,852,Bernal Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,118,2020
+268156,5937,Financial District,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,120,2020
+268218,5007,Hunters Point,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,121,2020
+268177,5090,Glen Park,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,120,2020
+417523,5184,Alamo Square,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,119,2020
+268305,2692,Mission Bay,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,120,2020
+417507,2657,Ingleside Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,119,2020
+268517,5469,Telegraph Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,6,122,2020
+415247,2359,Sunnyside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,118,2020
+268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,121,2020
+417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,121,2020
+268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,116,2020
+417522,2416,Panhandle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,118,2020
+417492,8424,North Waterfront,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,120,2020
+116918,1729,North Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,121,2020
+417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,120,2020
+118310,1583,Parkmerced,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,114,2020
+344008,2041,West Woodland,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,75,2020
+271957,2064,Olympic Hills,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,5,76,2020
+344022,2624,Gatewood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,76,2020
+271856,2178,East Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,77,2020
+56654,4263,Seaview,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,3,3,75,2020
+251170,2185,Loyal Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2020
+271987,2226,South Lake Union,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,3,3,76,2020
+344018,8383,Waterfront,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,78,2020
+271901,4130,Leschi,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,78,2020
+344012,4276,Madison Valley,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,79,2020
+343996,4453,View Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,80,2020
+271961,1686,Phinney Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,81,2020
+344001,2239,Wedgwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,82,2020
+250017,1688,Adams,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,82,2020
+272022,4627,Westlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,75,2020
+252248,821,Wallingford,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,76,2020
+344032,4723,North Delridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,3,3,76,2020
+271963,13557,Pioneer Square,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2020
+271893,5657,International District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,75,2020
+344015,5073,Judkins Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,77,2020
+271857,5118,Eastlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,76,2020
+271814,1898,Bitter Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,3,78,2020
+250788,815,Greenwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,78,2020
+343995,5323,Denny Triangle,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,79,2020
+271990,792,Magnolia,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,80,2020
+250801,1968,Haller Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,3,3,81,2020
+344020,2605,Genesee,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,76,2020
+343993,3117,Pinehurst,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,76,2020
+343999,2341,North College Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2020
+271921,1370,Minor,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,75,2020
+272001,482,University District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2020
+344000,1354,Maple Leaf,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,76,2020
+271942,1520,North Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,78,2020
+250206,339,Capitol Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,3,78,2020
+251709,1278,Ravenna,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,79,2020
+250478,2797,Dunlap,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,80,2020
+271869,1270,First Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,3,3,81,2020
+271932,1187,North Beacon Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,5,82,2020
+272018,2470,West Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,82,2020
+343997,3055,Alki,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,77,2020
+271849,2329,Downtown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,4,76,2020
+251186,7822,Madison Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,78,2020
+250780,1775,Green Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,6,78,2020
+344019,1166,Admiral,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,79,2020
+271906,3204,Lower Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,80,2020
+252056,3523,Sunset Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,6,81,2020
+272005,3478,Victory Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,76,2020
+271808,1563,Belltown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,3,3,76,2020
+271831,3323,Cedar Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,77,2020
+344021,3342,Fairmount Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,75,2020
+250692,1137,Fremont,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,77,2020
+344010,3328,Uptown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,76,2020
+121759,9324,McLean Gardens,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,74,2020
+121800,6215,Truxton Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,73,2020
+403488,10873,Penn Quarter,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,73,2020
+121680,6595,Brightwood Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,3,3,75,2020
+403484,8575,Stronghold,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,76,2020
+121797,5784,The Palisades,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,75,2020
+121740,8516,Judiciary Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,76,2020
+403483,11453,Pleasant Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,76,2020
+268815,7424,Kalorama,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,77,2020
+121727,6024,Garfield Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,75,2020
+121692,12518,Chinatown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,72,2020
+268832,6132,Wakefield,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,73,2020
+121713,9511,Fairfax Village,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,7,73,2020
+121754,777,Logan Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,75,2020
+121808,5016,West End,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,76,2020
+121755,1932,Manor Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,76,2020
+275465,1930,Southwest Waterfront,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,77,2020
+403487,1754,Near Northeast,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,75,2020
+121693,1631,Cleveland Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,72,2020
+272818,1625,American University Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,65,2020
+121745,1608,Kingman Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,70,2020
+121685,403,Capitol Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,67,2020
+121763,2099,Mount Vernon Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,65,2020
+121785,1317,Shaw,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,3,3,70,2020
+121762,1175,Mount Pleasant,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,67,2020
+121716,1174,Foggy Bottom,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,68,2020
+121689,1135,Chevy Chase,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,68,2020
+121704,1067,Dupont Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,78,2020
+121774,607,Petworth,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,78,2020
+403481,907,Sixteenth Street Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,79,2020
+121806,740,Washington Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,78,2020
+121729,1299,Georgetown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,80,2020
+121731,2216,Glover Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,80,2020
+121681,2235,Brookland,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,78,2020
+121668,764,Adams Morgan,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,73,2020
+403490,4893,NoMa,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,75,2020
+275794,4565,U Street Corridor,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,3,3,76,2020
+273489,4525,Downtown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,76,2020
+121687,4451,Cathedral Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,77,2020
+121807,4244,Wesley Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,75,2020
+121709,4081,Eckington,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,72,2020
+121815,3811,Woodley Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,65,2020
+403486,3755,Barney Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,70,2020
+403116,3753,Navy Yard,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,67,2020
+121771,3701,Park View,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,67,2020
+121710,3347,Edgewood,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,68,2020
+121677,3337,Bloomingdale,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,68,2020
+121717,3253,Forest Hills,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,78,2020
+121799,2873,Trinidad,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,78,2020
+121756,2830,Marshall Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,79,2020
+121698,2721,Congress Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,78,2020
+121697,343,Columbia Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,80,2020
+403507,5429,Carver,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,80,2020
+121777,2412,Randle Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,75,2020
+269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,85,2021
+15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,6,80,2021
+46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,81,2021
+154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,86,2021
+154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,83,2021
+276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,82,2021
+272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,84,2021
+275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,7,83,2021
+155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,6,80,2021
+272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,82,2021
+155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,5,82,2021
+275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,7,83,2021
+155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,85,2021
+154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,7,80,2021
+54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,81,2021
+155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,7,86,2021
+37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,83,2021
+274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,4,4,82,2021
+153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,84,2021
+154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,83,2021
+416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,80,2021
+154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,7,5,83,2021
+270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,8,5,85,2021
+153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,5,5,80,2021
+273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,6,6,81,2021
+403296,4315,Lathrop Homes,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,71,2021
+403298,4695,Goose Island,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,7,73,2021
+269615,511,West Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,6,72,2021
+269597,436,Near North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,69,2021
+269567,6098,Andersonville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,68,2021
+403145,392,Bronzeville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,68,2021
+403344,6905,Dearborn Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,70,2021
+403343,8591,Printers Row,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,72,2021
+138129,2493,Dunning,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,73,2021
+403146,321,Back of the Yards,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,74,2021
+403345,9870,South Commons,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,71,2021
+403320,11090,Greektown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,69,2021
+269608,285,South Shore,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,73,2021
+269578,271,Edgewater,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,72,2021
+273035,268,Bridgeport,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,69,2021
+269585,261,Humboldt Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,3,3,68,2021
+269607,259,South Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,68,2021
+275083,231,Portage Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,73,2021
+269588,224,Jefferson Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,74,2021
+403313,3686,Fulton River District,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,71,2021
+403297,8707,River West,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,69,2021
+33597,608,Ravenswood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,73,2021
+403299,662,Streeterville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,8,8,74,2021
+403262,1699,Budlong Woods,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,71,2021
+403307,1600,Wrightwood Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,69,2021
+403304,2522,Old Town Triangle,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,73,2021
+403306,1505,Sheffield Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,68,2021
+403292,1494,Roscoe Village,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,73,2021
+269602,1439,Norwood Park East,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,74,2021
+403301,1436,Old Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,71,2021
+269593,1282,The Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,69,2021
+269590,1026,Lincoln Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,73,2021
+269587,970,Irving Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,74,2021
+403303,968,Gold Coast,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,71,2021
+403322,2726,West Loop Gate,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,69,2021
+403280,15425,Schorsch Forest View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,73,2021
+403342,2830,New Eastside,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,74,2021
+269603,882,O'Hare,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,72,2021
+403141,782,University Village - Little Italy,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,5,70,2021
+269573,774,Avondale,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,72,2021
+403300,3091,River North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,73,2021
+137841,737,Clearing,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,74,2021
+269586,692,Hyde Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,72,2021
+137603,689,Bucktown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,70,2021
+269600,653,North Center,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,72,2021
+269599,889,Near West Side,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,69,2021
+403325,906,Galewood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,73,2021
+269566,154,Albany Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,7,7,74,2021
+269609,159,Uptown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,4,4,71,2021
+269592,53,Logan Square,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,6,6,69,2021
+269605,171,Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,73,2021
+403169,106,West Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,74,2021
+269589,163,Lake View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,5,5,74,2021
+269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,8,4,82,2021
+274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,5,5,83,2021
+269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,5,4,81,2021
+270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,5,6,81,2021
+276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,4,4,83,2021
+270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,4,4,80,2021
+268010,1374,Atwater Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,5,75,2021
+268551,456,Valley Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,74,2021
+38888,488,Harbor City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,77,2021
+268097,493,Crenshaw,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,72,2021
+274359,440,Los Feliz,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,71,2021
+27484,457,Tujunga,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,75,2021
+116206,368,Lincoln Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,73,2021
+403192,413,Harvard Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,76,2021
+268548,131,Valley Glen,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,75,2021
+27431,1780,Toluca Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,8,74,2021
+114808,382,Eagle Rock,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,73,2021
+115836,379,Jefferson Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,76,2021
+27080,85,Sherman Oaks,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,74,2021
+113910,360,Brentwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,77,2021
+268316,2365,Montecito Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,72,2021
+21056,351,Venice,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,71,2021
+268103,1502,Cypress Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,75,2021
+274514,62,Mid City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,73,2021
+268134,529,Echo Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,76,2021
+13176,112,Panorama City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,76,2021
+48570,83,Woodland Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,74,2021
+268236,82,Koreatown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,77,2021
+116774,750,Mount Washington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,72,2021
+40215,86,Pacoima,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,71,2021
+27328,866,Sunland,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,75,2021
+54300,79,San Pedro,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,73,2021
+276514,886,Playa Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,71,2021
+276023,99,Westlake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,76,2021
+40548,100,Reseda,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,74,2021
+46795,78,North Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,77,2021
+113886,75,Boyle Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,72,2021
+268057,628,Central City East,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,71,2021
+34213,74,Sylmar,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,75,2021
+41131,68,Sun Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,73,2021
+41466,64,Van Nuys,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,76,2021
+275024,556,Pico-Robertson,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,74,2021
+273825,540,Glassell Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,77,2021
+19810,538,Pacific Palisades,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,72,2021
+118887,1179,West Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,71,2021
+113749,1200,Beverly Crest,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,75,2021
+117954,338,Sawtelle,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,73,2021
+268581,502,West Adams,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,71,2021
+274049,333,Hollywood Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,5,77,2021
+268404,770,Pico-Union,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,72,2021
+115729,330,Park Mesa Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,71,2021
+114246,3269,Century City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,75,2021
+48516,155,Wilmington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,73,2021
+30731,157,Canoga Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,3,3,76,2021
+13327,3731,Playa Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,76,2021
+403184,331,Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,74,2021
+274517,258,Mid Wilshire,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,77,2021
+273930,255,Harbor Gateway,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,75,2021
+118849,253,Watts,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,74,2021
+116415,238,Mar Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,77,2021
+47950,283,Tarzana,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,72,2021
+32059,18,Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,6,71,2021
+114914,219,El Sereno,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,75,2021
+117183,217,Palms,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,73,2021
+276450,208,Mid City West,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,76,2021
+51906,201,Encino,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,75,2021
+32368,199,Lake Balboa,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,74,2021
+27987,195,Winnetka,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,75,2021
+268496,8,Southeast Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,73,2021
+115609,181,Highland Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,76,2021
+118208,4,South Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,5,76,2021
+273197,165,Central City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,74,2021
+268588,288,West Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,6,77,2021
+118920,160,Westwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,6,6,75,2021
+403191,2819,Elysian Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,74,2021
+37835,304,Chatsworth,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,4,77,2021
+13017,136,North Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,77,2021
+7877,301,Westchester,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,5,5,75,2021
+268118,312,Downtown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,8,4,74,2021
+268473,296,Silver Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,4,6,77,2021
+47880,298,Studio City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,7,7,72,2021
+270841,5608,DUMBO,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,72,2021
+35961,1012,Rockaway Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,70,2021
+199001,17,Williamsburg,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,72,2021
+270875,66,Lower East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,73,2021
+272902,16,Bedford Stuyvesant,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,7,74,2021
+18131,70,Flushing,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,71,2021
+270968,914,Windsor Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,7,69,2021
+270945,40,Sunset Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,73,2021
+272816,14,Astoria,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,3,3,72,2021
+195267,25,Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,69,2021
+194430,9,East New York,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,68,2021
+272869,887,Battery Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,68,2021
+196620,2810,New Springville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,73,2021
+10957,38,Corona,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,74,2021
+270885,828,Midtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,71,2021
+194379,35,East Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,72,2021
+273903,819,Greenwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,72,2021
+270957,5,Upper East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,5,70,2021
+343206,2659,Woodlawn,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,72,2021
+193587,34,Bushwick,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,5,73,2021
+198687,11,Washington Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,74,2021
+32192,1058,Jamaica Estates,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,71,2021
+343219,1112,Riverdale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,69,2021
+270811,1063,Carroll Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,73,2021
+403223,48,Elmhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,72,2021
+197623,1502,Rossville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,5,5,69,2021
+403131,54,Sheepshead Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,68,2021
+270928,1538,SoHo,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,68,2021
+275754,1466,Tottenville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,73,2021
+193285,45,Bensonhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,74,2021
+274627,1627,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,71,2021
+270825,1448,Downtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,5,73,2021
+343205,56,Soundview,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,74,2021
+193640,59,Canarsie,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,71,2021
+25294,24,Jamaica,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,72,2021
+193406,44,Borough Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,72,2021
+20239,1346,Roosevelt Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,70,2021
+270817,41,Concourse,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,72,2021
+5837,173,Maspeth,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,73,2021
+270800,1257,Bay Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,68,2021
+343222,29,Williamsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,73,2021
+403202,1237,St. George,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,5,5,74,2021
+403222,23,Crown Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,71,2021
+194737,20,Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,73,2021
+196350,1827,Midland Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,4,4,74,2021
+55801,1148,Glen Oaks,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,71,2021
+270828,30,East Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,72,2021
+270816,2238,Cobble Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,5,72,2021
+193189,174,Bay Ridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,68,2021
+272994,1273,Boerum Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,73,2021
+270958,3,Upper West Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,74,2021
+270815,491,Clinton Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,6,71,2021
+270850,189,Hamilton Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,73,2021
+199091,188,Woodside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,4,4,74,2021
+273478,497,Douglaston-Little Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,71,2021
+270907,498,Pelham Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,72,2021
+273860,143,Gramercy,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,72,2021
+270848,341,Greenpoint,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,73,2021
+195087,500,Great Kills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,5,5,68,2021
+274676,530,Kew Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,73,2021
+196338,369,Middle Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,74,2021
+275552,305,St. Albans,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,71,2021
+194318,300,Dyker Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,73,2021
+403217,153,Kensington,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,74,2021
+26254,539,Oakland Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,71,2021
+197044,109,Park Slope,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,7,72,2021
+195133,216,Greenwich Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,72,2021
+403206,465,Flatiron District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,68,2021
+8349,444,College Point,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,74,2021
+276254,203,Chelsea,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,71,2021
+193182,128,Bath Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,6,72,2021
+275620,212,Sunnyside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,72,2021
+403215,126,Gravesend,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,68,2021
+57348,229,Kew Gardens Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,73,2021
+343220,364,Kingsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,6,6,74,2021
+21970,464,Howard Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,71,2021
+37309,192,Bayside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,7,7,73,2021
+193476,404,Brighton Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,74,2021
+270835,405,Financial District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,7,7,71,2021
+403221,350,Prospect Lefferts Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,7,7,72,2021
+270797,427,Auburndale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,72,2021
+270886,121,Midwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,73,2021
+274117,113,Jackson Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,68,2021
+276128,135,Richmond Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,73,2021
+273653,542,Eltingville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,5,5,74,2021
+343210,310,Throggs Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,72,2021
+44302,387,Briarwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,73,2021
+270951,665,Tribeca,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,68,2021
+276060,279,Whitestone,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,73,2021
+273757,95,Forest Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,74,2021
+270846,690,Gowanus,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,6,6,71,2021
+196538,87,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,73,2021
+343213,175,University Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,74,2021
+270946,609,Sutton Place,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,71,2021
+275173,101,Ridgewood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,72,2021
+49994,254,Woodhaven,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,72,2021
+275115,168,Queens Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,5,5,68,2021
+403122,574,Brooklyn Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,74,2021
+270953,732,Turtle Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,68,2021
+343221,166,Bedford Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,4,4,73,2021
+270891,270,Morningside Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,4,4,74,2021
+193974,218,Coney Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,4,4,71,2021
+403220,758,Prospect Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,73,2021
+270829,107,East Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,74,2021
+6719,236,Rego Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,6,6,71,2021
+343211,244,Parkchester,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,5,5,71,2021
+270964,557,West Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,6,6,73,2021
+195576,247,Inwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,5,5,74,2021
+273766,278,Fort Greene,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,5,5,71,2021
+216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,55,2021
+215792,357,Somerton,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,7,7,54,2021
+272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,55,2021
+210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,7,7,54,2021
+753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,57,2021
+271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,57,2021
+753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,56,2021
+273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,56,2021
+753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,54,2021
+275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,56,2021
+260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,55,2021
+223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,54,2021
+753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,54,2021
+213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,56,2021
+273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,53,2021
+753798,3082,East Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,52,2021
+753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,52,2021
+147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,3,3,57,2021
+214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,57,2021
+264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,56,2021
+753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,56,2021
+753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,54,2021
+753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,56,2021
+212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,4,55,2021
+753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,54,2021
+753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,5,5,55,2021
+623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,6,6,56,2021
+275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,4,6,53,2021
+215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,7,7,54,2021
+9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,64,2021
+213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,64,2021
+208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,65,2021
+271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,63,2021
+271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,63,2021
+271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,5,5,62,2021
+271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,62,2021
+214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,65,2021
+274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,65,2021
+216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,7,7,64,2021
+271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,4,7,65,2021
+54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,6,6,63,2021
+268491,565,South of Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,5,121,2021
+268414,1046,Potrero Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,120,2021
+268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,122,2021
+207518,3403,South Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,123,2021
+268450,1078,Russian Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,124,2021
+268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,124,2021
+273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,123,2021
+417501,2951,Lower Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,125,2021
+268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,4,125,2021
+268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,124,2021
+274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,123,2021
+268110,6590,Diamond Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,125,2021
+274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,125,2021
+268114,6493,Downtown,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,8,4,126,2021
+118904,1013,Western Addition,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,119,2021
+268337,983,Nob Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,6,119,2021
+268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,119,2021
+417518,4055,Duboce Triangle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,118,2021
+268206,4223,Hayes Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,7,119,2021
+268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,118,2021
+275789,4274,Upper Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,119,2021
+417493,650,Tenderloin,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,120,2021
+268020,852,Bernal Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,122,2021
+268156,5937,Financial District,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,123,2021
+268218,5007,Hunters Point,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,124,2021
+268177,5090,Glen Park,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,124,2021
+417523,5184,Alamo Square,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,123,2021
+268305,2692,Mission Bay,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,125,2021
+417507,2657,Ingleside Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,125,2021
+268517,5469,Telegraph Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,4,7,124,2021
+415247,2359,Sunnyside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,123,2021
+268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,125,2021
+417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,125,2021
+268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,120,2021
+417522,2416,Panhandle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,122,2021
+417492,8424,North Waterfront,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,5,5,123,2021
+116918,1729,North Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,124,2021
+417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,7,7,124,2021
+118310,1583,Parkmerced,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,6,6,119,2021
+344008,2041,West Woodland,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,80,2021
+271957,2064,Olympic Hills,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,6,80,2021
+344022,2624,Gatewood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,81,2021
+271856,2178,East Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,81,2021
+56654,4263,Seaview,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,82,2021
+251170,2185,Loyal Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,83,2021
+271987,2226,South Lake Union,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,85,2021
+344018,8383,Waterfront,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,84,2021
+271901,4130,Leschi,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,81,2021
+344012,4276,Madison Valley,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,82,2021
+343996,4453,View Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,82,2021
+271961,1686,Phinney Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,83,2021
+344001,2239,Wedgwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,85,2021
+250017,1688,Adams,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,86,2021
+272022,4627,Westlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,80,2021
+252248,821,Wallingford,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,80,2021
+344032,4723,North Delridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,81,2021
+271963,13557,Pioneer Square,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,81,2021
+271893,5657,International District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,82,2021
+344015,5073,Judkins Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,83,2021
+271857,5118,Eastlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,85,2021
+271814,1898,Bitter Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,84,2021
+250788,815,Greenwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,81,2021
+343995,5323,Denny Triangle,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,82,2021
+271990,792,Magnolia,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,82,2021
+250801,1968,Haller Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,83,2021
+344020,2605,Genesee,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,80,2021
+343993,3117,Pinehurst,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,81,2021
+343999,2341,North College Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,81,2021
+271921,1370,Minor,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,82,2021
+272001,482,University District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,83,2021
+344000,1354,Maple Leaf,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,85,2021
+271942,1520,North Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,5,84,2021
+250206,339,Capitol Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,81,2021
+251709,1278,Ravenna,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,82,2021
+250478,2797,Dunlap,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,82,2021
+271869,1270,First Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,83,2021
+271932,1187,North Beacon Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,6,85,2021
+272018,2470,West Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,86,2021
+343997,3055,Alki,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,8,8,83,2021
+271849,2329,Downtown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,5,85,2021
+251186,7822,Madison Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,84,2021
+250780,1775,Green Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,7,81,2021
+344019,1166,Admiral,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,82,2021
+271906,3204,Lower Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,82,2021
+252056,3523,Sunset Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,5,6,83,2021
+272005,3478,Victory Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,80,2021
+271808,1563,Belltown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,4,4,81,2021
+271831,3323,Cedar Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,81,2021
+344021,3342,Fairmount Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,82,2021
+250692,1137,Fremont,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,7,7,83,2021
+344010,3328,Uptown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,6,6,85,2021
+121759,9324,McLean Gardens,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,78,2021
+121800,6215,Truxton Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,79,2021
+403488,10873,Penn Quarter,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,80,2021
+121680,6595,Brightwood Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,79,2021
+403484,8575,Stronghold,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,79,2021
+121797,5784,The Palisades,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,80,2021
+121740,8516,Judiciary Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,80,2021
+403483,11453,Pleasant Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,81,2021
+268815,7424,Kalorama,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,81,2021
+121727,6024,Garfield Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,82,2021
+121692,12518,Chinatown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,76,2021
+268832,6132,Wakefield,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,75,2021
+121713,9511,Fairfax Village,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,8,76,2021
+121754,777,Logan Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,80,2021
+121808,5016,West End,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,80,2021
+121755,1932,Manor Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,81,2021
+275465,1930,Southwest Waterfront,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,81,2021
+403487,1754,Near Northeast,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,82,2021
+121693,1631,Cleveland Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,76,2021
+272818,1625,American University Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,73,2021
+121745,1608,Kingman Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,74,2021
+121685,403,Capitol Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,71,2021
+121763,2099,Mount Vernon Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,73,2021
+121785,1317,Shaw,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,74,2021
+121762,1175,Mount Pleasant,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,71,2021
+121716,1174,Foggy Bottom,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,72,2021
+121689,1135,Chevy Chase,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,9,9,72,2021
+121704,1067,Dupont Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,83,2021
+121774,607,Petworth,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,80,2021
+403481,907,Sixteenth Street Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,82,2021
+121806,740,Washington Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,82,2021
+121729,1299,Georgetown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,83,2021
+121731,2216,Glover Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,85,2021
+121681,2235,Brookland,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,80,2021
+121668,764,Adams Morgan,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,76,2021
+403490,4893,NoMa,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,80,2021
+275794,4565,U Street Corridor,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,4,4,80,2021
+273489,4525,Downtown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,81,2021
+121687,4451,Cathedral Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,81,2021
+121807,4244,Wesley Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,82,2021
+121709,4081,Eckington,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,76,2021
+121815,3811,Woodley Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,73,2021
+403486,3755,Barney Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,74,2021
+403116,3753,Navy Yard,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,71,2021
+121771,3701,Park View,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,71,2021
+121710,3347,Edgewood,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,72,2021
+121677,3337,Bloomingdale,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,72,2021
+121717,3253,Forest Hills,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,83,2021
+121799,2873,Trinidad,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,80,2021
+121756,2830,Marshall Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,82,2021
+121698,2721,Congress Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,8,8,82,2021
+121697,343,Columbia Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,7,7,83,2021
+403507,5429,Carver,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,6,6,85,2021
+121777,2412,Randle Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,5,5,80,2021

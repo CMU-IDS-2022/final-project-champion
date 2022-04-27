@@ -1,0 +1,1363 @@
+RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Income,Year,Type
+269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,77,2019,income
+15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,74,2019,income
+46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,76,2019,income
+154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2019,income
+154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2019,income
+276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,76,2019,income
+272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2019,income
+275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2019,income
+155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,77,2019,income
+272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,75,2019,income
+155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,76,2019,income
+275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2019,income
+155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,77,2019,income
+154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,74,2019,income
+54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,76,2019,income
+155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2019,income
+37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2019,income
+274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,76,2019,income
+153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2019,income
+154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2019,income
+416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,77,2019,income
+154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2019,income
+270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,77,2019,income
+153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,74,2019,income
+273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,76,2019,income
+403296,4315,Lathrop Homes,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,63,2019,income
+403298,4695,Goose Island,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2019,income
+269615,511,West Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2019,income
+269597,436,Near North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+269567,6098,Andersonville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+403145,392,Bronzeville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+403344,6905,Dearborn Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2019,income
+403343,8591,Printers Row,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+138129,2493,Dunning,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+403146,321,Back of the Yards,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+403345,9870,South Commons,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2019,income
+403320,11090,Greektown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+269608,285,South Shore,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2019,income
+269578,271,Edgewater,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2019,income
+273035,268,Bridgeport,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+269585,261,Humboldt Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+269607,259,South Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+275083,231,Portage Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+269588,224,Jefferson Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+403313,3686,Fulton River District,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2019,income
+403297,8707,River West,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+33597,608,Ravenswood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+403299,662,Streeterville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+403262,1699,Budlong Woods,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2019,income
+403307,1600,Wrightwood Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+403304,2522,Old Town Triangle,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2019,income
+403306,1505,Sheffield Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+403292,1494,Roscoe Village,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+269602,1439,Norwood Park East,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+403301,1436,Old Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2019,income
+269593,1282,The Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+269590,1026,Lincoln Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+269587,970,Irving Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+403303,968,Gold Coast,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2019,income
+403322,2726,West Loop Gate,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+403280,15425,Schorsch Forest View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+403342,2830,New Eastside,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+269603,882,O'Hare,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+403141,782,University Village - Little Italy,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+269573,774,Avondale,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2019,income
+403300,3091,River North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+137841,737,Clearing,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+269586,692,Hyde Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+137603,689,Bucktown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+269600,653,North Center,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2019,income
+269599,889,Near West Side,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+403325,906,Galewood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+269566,154,Albany Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+269609,159,Uptown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2019,income
+269592,53,Logan Square,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2019,income
+269605,171,Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2019,income
+403169,106,West Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+269589,163,Lake View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2019,income
+269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,80,2019,income
+274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,79,2019,income
+269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,79,2019,income
+270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,78,2019,income
+276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,81,2019,income
+270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,79,2019,income
+268010,1374,Atwater Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,67,2019,income
+268551,456,Valley Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+38888,488,Harbor City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+268097,493,Crenshaw,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+274359,440,Los Feliz,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+27484,457,Tujunga,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+116206,368,Lincoln Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+403192,413,Harvard Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+268548,131,Valley Glen,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2019,income
+27431,1780,Toluca Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+114808,382,Eagle Rock,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2019,income
+115836,379,Jefferson Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2019,income
+27080,85,Sherman Oaks,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+113910,360,Brentwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+268316,2365,Montecito Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+21056,351,Venice,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+268103,1502,Cypress Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+274514,62,Mid City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+268134,529,Echo Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+13176,112,Panorama City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2019,income
+48570,83,Woodland Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+268236,82,Koreatown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+116774,750,Mount Washington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+40215,86,Pacoima,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+27328,866,Sunland,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+54300,79,San Pedro,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+276514,886,Playa Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+276023,99,Westlake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2019,income
+40548,100,Reseda,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+46795,78,North Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+113886,75,Boyle Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+268057,628,Central City East,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+34213,74,Sylmar,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+41131,68,Sun Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+41466,64,Van Nuys,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2019,income
+275024,556,Pico-Robertson,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+273825,540,Glassell Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+19810,538,Pacific Palisades,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+118887,1179,West Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+113749,1200,Beverly Crest,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+117954,338,Sawtelle,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+268581,502,West Adams,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+274049,333,Hollywood Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+268404,770,Pico-Union,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+115729,330,Park Mesa Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+114246,3269,Century City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+48516,155,Wilmington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+30731,157,Canoga Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+13327,3731,Playa Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2019,income
+403184,331,Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+274517,258,Mid Wilshire,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+273930,255,Harbor Gateway,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,67,2019,income
+118849,253,Watts,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+116415,238,Mar Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+47950,283,Tarzana,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+32059,18,Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+114914,219,El Sereno,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+117183,217,Palms,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+276450,208,Mid City West,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+51906,201,Encino,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2019,income
+32368,199,Lake Balboa,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+27987,195,Winnetka,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+268496,8,Southeast Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+115609,181,Highland Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+118208,4,South Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2019,income
+273197,165,Central City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+268588,288,West Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+118920,160,Westwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,67,2019,income
+403191,2819,Elysian Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+37835,304,Chatsworth,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+13017,136,North Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+7877,301,Westchester,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,67,2019,income
+268118,312,Downtown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2019,income
+268473,296,Silver Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2019,income
+47880,298,Studio City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2019,income
+270841,5608,DUMBO,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+35961,1012,Rockaway Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2019,income
+199001,17,Williamsburg,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,67,2019,income
+270875,66,Lower East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,64,2019,income
+272902,16,Bedford Stuyvesant,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+18131,70,Flushing,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+270968,914,Windsor Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,67,2019,income
+270945,40,Sunset Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2019,income
+272816,14,Astoria,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+195267,25,Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,67,2019,income
+194430,9,East New York,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+272869,887,Battery Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,64,2019,income
+196620,2810,New Springville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,64,2019,income
+10957,38,Corona,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+270885,828,Midtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,66,2019,income
+194379,35,East Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+273903,819,Greenwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+270957,5,Upper East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,65,2019,income
+343206,2659,Woodlawn,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,67,2019,income
+193587,34,Bushwick,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+198687,11,Washington Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+32192,1058,Jamaica Estates,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+343219,1112,Riverdale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,67,2019,income
+270811,1063,Carroll Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2019,income
+403223,48,Elmhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+197623,1502,Rossville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,67,2019,income
+403131,54,Sheepshead Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+270928,1538,SoHo,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,64,2019,income
+275754,1466,Tottenville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,64,2019,income
+193285,45,Bensonhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+274627,1627,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,66,2019,income
+270825,1448,Downtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+343205,56,Soundview,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,69,2019,income
+193640,59,Canarsie,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2019,income
+25294,24,Jamaica,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+193406,44,Borough Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+20239,1346,Roosevelt Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,65,2019,income
+270817,41,Concourse,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,67,2019,income
+5837,173,Maspeth,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+270800,1257,Bay Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+343222,29,Williamsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,64,2019,income
+403202,1237,St. George,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,69,2019,income
+403222,23,Crown Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2019,income
+194737,20,Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+196350,1827,Midland Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,69,2019,income
+55801,1148,Glen Oaks,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+270828,30,East Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+270816,2238,Cobble Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+193189,174,Bay Ridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+272994,1273,Boerum Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+270958,3,Upper West Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+270815,491,Clinton Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2019,income
+270850,189,Hamilton Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,64,2019,income
+199091,188,Woodside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+273478,497,Douglaston-Little Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+270907,498,Pelham Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,69,2019,income
+273860,143,Gramercy,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+270848,341,Greenpoint,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+195087,500,Great Kills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,64,2019,income
+274676,530,Kew Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+196338,369,Middle Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+275552,305,St. Albans,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+194318,300,Dyker Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+403217,153,Kensington,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+26254,539,Oakland Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+197044,109,Park Slope,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+195133,216,Greenwich Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+403206,465,Flatiron District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,64,2019,income
+8349,444,College Point,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+276254,203,Chelsea,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,66,2019,income
+193182,128,Bath Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+275620,212,Sunnyside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+403215,126,Gravesend,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+57348,229,Kew Gardens Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+343220,364,Kingsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,69,2019,income
+21970,464,Howard Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+37309,192,Bayside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+193476,404,Brighton Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+270835,405,Financial District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,66,2019,income
+403221,350,Prospect Lefferts Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2019,income
+270797,427,Auburndale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+270886,121,Midwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+274117,113,Jackson Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+276128,135,Richmond Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+273653,542,Eltingville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,69,2019,income
+343210,310,Throggs Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,69,2019,income
+44302,387,Briarwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+270951,665,Tribeca,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,64,2019,income
+276060,279,Whitestone,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+273757,95,Forest Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+270846,690,Gowanus,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2019,income
+196538,87,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+343213,175,University Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,69,2019,income
+270946,609,Sutton Place,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,66,2019,income
+275173,101,Ridgewood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+49994,254,Woodhaven,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,69,2019,income
+275115,168,Queens Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,64,2019,income
+403122,574,Brooklyn Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+270953,732,Turtle Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,64,2019,income
+343221,166,Bedford Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,64,2019,income
+270891,270,Morningside Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+193974,218,Coney Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2019,income
+403220,758,Prospect Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2019,income
+270829,107,East Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+6719,236,Rego Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2019,income
+343211,244,Parkchester,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,66,2019,income
+270964,557,West Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,64,2019,income
+195576,247,Inwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2019,income
+273766,278,Fort Greene,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2019,income
+216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,46,2019,income
+215792,357,Somerton,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,52,2019,income
+272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,53,2019,income
+210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,53,2019,income
+753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2019,income
+271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2019,income
+753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2019,income
+273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2019,income
+753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,53,2019,income
+275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,49,2019,income
+260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2019,income
+223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,49,2019,income
+753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,46,2019,income
+213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2019,income
+273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,46,2019,income
+753798,3082,East Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,45,2019,income
+753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,44,2019,income
+147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2019,income
+214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2019,income
+264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2019,income
+753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2019,income
+753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,53,2019,income
+753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,49,2019,income
+212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2019,income
+753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,49,2019,income
+753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,49,2019,income
+623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,51,2019,income
+275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,46,2019,income
+215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,51,2019,income
+9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,59,2019,income
+213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,61,2019,income
+208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2019,income
+271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,57,2019,income
+271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,59,2019,income
+271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,59,2019,income
+271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,59,2019,income
+214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2019,income
+274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2019,income
+216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,61,2019,income
+271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2019,income
+54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,57,2019,income
+268491,565,South of Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2019,income
+268414,1046,Potrero Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,117,2019,income
+268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,117,2019,income
+207518,3403,South Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+268450,1078,Russian Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2019,income
+417501,2951,Lower Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2019,income
+268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2019,income
+268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,122,2019,income
+274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+268110,6590,Diamond Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2019,income
+268114,6493,Downtown,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2019,income
+118904,1013,Western Addition,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2019,income
+268337,983,Nob Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2019,income
+268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,114,2019,income
+417518,4055,Duboce Triangle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,114,2019,income
+268206,4223,Hayes Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,113,2019,income
+268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2019,income
+275789,4274,Upper Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2019,income
+417493,650,Tenderloin,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2019,income
+268020,852,Bernal Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,117,2019,income
+268156,5937,Financial District,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+268218,5007,Hunters Point,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+268177,5090,Glen Park,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+417523,5184,Alamo Square,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2019,income
+268305,2692,Mission Bay,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2019,income
+417507,2657,Ingleside Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2019,income
+268517,5469,Telegraph Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,122,2019,income
+415247,2359,Sunnyside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2019,income
+268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2019,income
+417522,2416,Panhandle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,117,2019,income
+417492,8424,North Waterfront,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+116918,1729,North Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2019,income
+118310,1583,Parkmerced,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2019,income
+344008,2041,West Woodland,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,72,2019,income
+271957,2064,Olympic Hills,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+344022,2624,Gatewood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+271856,2178,East Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+56654,4263,Seaview,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,73,2019,income
+251170,2185,Loyal Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+271987,2226,South Lake Union,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+344018,8383,Waterfront,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2019,income
+271901,4130,Leschi,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2019,income
+344012,4276,Madison Valley,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2019,income
+343996,4453,View Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+271961,1686,Phinney Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+344001,2239,Wedgwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2019,income
+250017,1688,Adams,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+272022,4627,Westlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,72,2019,income
+252248,821,Wallingford,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+344032,4723,North Delridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+271963,13557,Pioneer Square,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+271893,5657,International District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,73,2019,income
+344015,5073,Judkins Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+271857,5118,Eastlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+271814,1898,Bitter Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2019,income
+250788,815,Greenwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2019,income
+343995,5323,Denny Triangle,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2019,income
+271990,792,Magnolia,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+250801,1968,Haller Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+344020,2605,Genesee,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+343993,3117,Pinehurst,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+343999,2341,North College Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+271921,1370,Minor,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,73,2019,income
+272001,482,University District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+344000,1354,Maple Leaf,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+271942,1520,North Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2019,income
+250206,339,Capitol Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2019,income
+251709,1278,Ravenna,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2019,income
+250478,2797,Dunlap,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+271869,1270,First Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+271932,1187,North Beacon Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2019,income
+272018,2470,West Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+343997,3055,Alki,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+271849,2329,Downtown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+251186,7822,Madison Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2019,income
+250780,1775,Green Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2019,income
+344019,1166,Admiral,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2019,income
+271906,3204,Lower Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+252056,3523,Sunset Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2019,income
+272005,3478,Victory Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+271808,1563,Belltown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+271831,3323,Cedar Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+344021,3342,Fairmount Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,73,2019,income
+250692,1137,Fremont,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2019,income
+344010,3328,Uptown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,74,2019,income
+121759,9324,McLean Gardens,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,70,2019,income
+121800,6215,Truxton Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,71,2019,income
+403488,10873,Penn Quarter,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,71,2019,income
+121680,6595,Brightwood Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2019,income
+403484,8575,Stronghold,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2019,income
+121797,5784,The Palisades,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2019,income
+121740,8516,Judiciary Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2019,income
+403483,11453,Pleasant Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2019,income
+268815,7424,Kalorama,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2019,income
+121727,6024,Garfield Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2019,income
+121692,12518,Chinatown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,70,2019,income
+268832,6132,Wakefield,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2019,income
+121713,9511,Fairfax Village,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2019,income
+121754,777,Logan Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2019,income
+121808,5016,West End,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2019,income
+121755,1932,Manor Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2019,income
+275465,1930,Southwest Waterfront,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2019,income
+403487,1754,Near Northeast,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2019,income
+121693,1631,Cleveland Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,70,2019,income
+272818,1625,American University Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,64,2019,income
+121745,1608,Kingman Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,69,2019,income
+121685,403,Capitol Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,66,2019,income
+121763,2099,Mount Vernon Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,64,2019,income
+121785,1317,Shaw,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,69,2019,income
+121762,1175,Mount Pleasant,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,66,2019,income
+121716,1174,Foggy Bottom,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,69,2019,income
+121689,1135,Chevy Chase,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,69,2019,income
+121704,1067,Dupont Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2019,income
+121774,607,Petworth,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,77,2019,income
+403481,907,Sixteenth Street Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2019,income
+121806,740,Washington Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2019,income
+121729,1299,Georgetown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,79,2019,income
+121731,2216,Glover Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,77,2019,income
+121681,2235,Brookland,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2019,income
+121668,764,Adams Morgan,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2019,income
+403490,4893,NoMa,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2019,income
+275794,4565,U Street Corridor,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2019,income
+273489,4525,Downtown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2019,income
+121687,4451,Cathedral Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2019,income
+121807,4244,Wesley Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2019,income
+121709,4081,Eckington,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,70,2019,income
+121815,3811,Woodley Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,64,2019,income
+403486,3755,Barney Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,69,2019,income
+403116,3753,Navy Yard,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,66,2019,income
+121771,3701,Park View,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,66,2019,income
+121710,3347,Edgewood,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,69,2019,income
+121677,3337,Bloomingdale,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,69,2019,income
+121717,3253,Forest Hills,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2019,income
+121799,2873,Trinidad,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,77,2019,income
+121756,2830,Marshall Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2019,income
+121698,2721,Congress Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2019,income
+121697,343,Columbia Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,79,2019,income
+403507,5429,Carver,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,77,2019,income
+121777,2412,Randle Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2019,income
+269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2020,income
+15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2020,income
+46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2020,income
+154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,82,2020,income
+154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,81,2020,income
+276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2020,income
+272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,83,2020,income
+275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2020,income
+155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2020,income
+272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2020,income
+155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2020,income
+275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2020,income
+155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2020,income
+154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2020,income
+54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2020,income
+155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,82,2020,income
+37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,81,2020,income
+274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2020,income
+153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,83,2020,income
+154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2020,income
+416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2020,income
+154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2020,income
+270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2020,income
+153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,78,2020,income
+273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,79,2020,income
+403296,4315,Lathrop Homes,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+403298,4695,Goose Island,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269615,511,West Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+269597,436,Near North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269567,6098,Andersonville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2020,income
+403145,392,Bronzeville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,63,2020,income
+403344,6905,Dearborn Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+403343,8591,Printers Row,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+138129,2493,Dunning,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+403146,321,Back of the Yards,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+403345,9870,South Commons,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2020,income
+403320,11090,Greektown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269608,285,South Shore,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269578,271,Edgewater,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+273035,268,Bridgeport,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269585,261,Humboldt Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,64,2020,income
+269607,259,South Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,63,2020,income
+275083,231,Portage Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+269588,224,Jefferson Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+403313,3686,Fulton River District,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2020,income
+403297,8707,River West,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+33597,608,Ravenswood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+403299,662,Streeterville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+403262,1699,Budlong Woods,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2020,income
+403307,1600,Wrightwood Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+403304,2522,Old Town Triangle,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+403306,1505,Sheffield Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,63,2020,income
+403292,1494,Roscoe Village,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+269602,1439,Norwood Park East,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+403301,1436,Old Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2020,income
+269593,1282,The Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269590,1026,Lincoln Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+269587,970,Irving Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+403303,968,Gold Coast,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2020,income
+403322,2726,West Loop Gate,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+403280,15425,Schorsch Forest View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+403342,2830,New Eastside,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+269603,882,O'Hare,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2020,income
+403141,782,University Village - Little Italy,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269573,774,Avondale,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2020,income
+403300,3091,River North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+137841,737,Clearing,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+269586,692,Hyde Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2020,income
+137603,689,Bucktown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269600,653,North Center,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2020,income
+269599,889,Near West Side,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+403325,906,Galewood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+269566,154,Albany Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+269609,159,Uptown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,67,2020,income
+269592,53,Logan Square,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,66,2020,income
+269605,171,Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,65,2020,income
+403169,106,West Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+269589,163,Lake View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2020,income
+269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,81,2020,income
+274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,80,2020,income
+269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,79,2020,income
+270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,79,2020,income
+276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,81,2020,income
+270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,78,2020,income
+268010,1374,Atwater Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+268551,456,Valley Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+38888,488,Harbor City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+268097,493,Crenshaw,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2020,income
+274359,440,Los Feliz,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+27484,457,Tujunga,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2020,income
+116206,368,Lincoln Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+403192,413,Harvard Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+268548,131,Valley Glen,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+27431,1780,Toluca Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+114808,382,Eagle Rock,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+115836,379,Jefferson Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2020,income
+27080,85,Sherman Oaks,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+113910,360,Brentwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+268316,2365,Montecito Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2020,income
+21056,351,Venice,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+268103,1502,Cypress Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2020,income
+274514,62,Mid City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+268134,529,Echo Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+13176,112,Panorama City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2020,income
+48570,83,Woodland Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+268236,82,Koreatown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+116774,750,Mount Washington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2020,income
+40215,86,Pacoima,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+27328,866,Sunland,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2020,income
+54300,79,San Pedro,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+276514,886,Playa Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+276023,99,Westlake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2020,income
+40548,100,Reseda,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+46795,78,North Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+113886,75,Boyle Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2020,income
+268057,628,Central City East,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+34213,74,Sylmar,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2020,income
+41131,68,Sun Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+41466,64,Van Nuys,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2020,income
+275024,556,Pico-Robertson,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+273825,540,Glassell Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+19810,538,Pacific Palisades,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2020,income
+118887,1179,West Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+113749,1200,Beverly Crest,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2020,income
+117954,338,Sawtelle,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+268581,502,West Adams,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+274049,333,Hollywood Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+268404,770,Pico-Union,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2020,income
+115729,330,Park Mesa Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+114246,3269,Century City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2020,income
+48516,155,Wilmington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+30731,157,Canoga Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+13327,3731,Playa Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2020,income
+403184,331,Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+274517,258,Mid Wilshire,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+273930,255,Harbor Gateway,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+118849,253,Watts,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+116415,238,Mar Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+47950,283,Tarzana,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2020,income
+32059,18,Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,69,2020,income
+114914,219,El Sereno,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2020,income
+117183,217,Palms,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+276450,208,Mid City West,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+51906,201,Encino,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+32368,199,Lake Balboa,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+27987,195,Winnetka,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2020,income
+268496,8,Southeast Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,70,2020,income
+115609,181,Highland Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+118208,4,South Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2020,income
+273197,165,Central City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+268588,288,West Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+118920,160,Westwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+403191,2819,Elysian Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+37835,304,Chatsworth,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+13017,136,North Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+7877,301,Westchester,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+268118,312,Downtown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2020,income
+268473,296,Silver Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2020,income
+47880,298,Studio City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,68,2020,income
+270841,5608,DUMBO,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2020,income
+35961,1012,Rockaway Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,66,2020,income
+199001,17,Williamsburg,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2020,income
+270875,66,Lower East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,65,2020,income
+272902,16,Bedford Stuyvesant,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,70,2020,income
+18131,70,Flushing,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,67,2020,income
+270968,914,Windsor Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2020,income
+270945,40,Sunset Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2020,income
+272816,14,Astoria,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+195267,25,Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,66,2020,income
+194430,9,East New York,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2020,income
+272869,887,Battery Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,63,2020,income
+196620,2810,New Springville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,65,2020,income
+10957,38,Corona,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,70,2020,income
+270885,828,Midtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,67,2020,income
+194379,35,East Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2020,income
+273903,819,Greenwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2020,income
+270957,5,Upper East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,66,2020,income
+343206,2659,Woodlawn,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,66,2020,income
+193587,34,Bushwick,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2020,income
+198687,11,Washington Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,70,2020,income
+32192,1058,Jamaica Estates,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,67,2020,income
+343219,1112,Riverdale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,66,2020,income
+270811,1063,Carroll Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,66,2020,income
+403223,48,Elmhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+197623,1502,Rossville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,66,2020,income
+403131,54,Sheepshead Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,64,2020,income
+270928,1538,SoHo,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,63,2020,income
+275754,1466,Tottenville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,65,2020,income
+193285,45,Bensonhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,70,2020,income
+274627,1627,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,67,2020,income
+270825,1448,Downtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2020,income
+343205,56,Soundview,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,70,2020,income
+193640,59,Canarsie,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,67,2020,income
+25294,24,Jamaica,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,68,2020,income
+193406,44,Borough Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2020,income
+20239,1346,Roosevelt Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,66,2020,income
+270817,41,Concourse,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,66,2020,income
+5837,173,Maspeth,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+270800,1257,Bay Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,63,2020,income
+343222,29,Williamsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,65,2020,income
+403202,1237,St. George,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,70,2020,income
+403222,23,Crown Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,67,2020,income
+194737,20,Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2020,income
+196350,1827,Midland Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,70,2020,income
+55801,1148,Glen Oaks,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,67,2020,income
+270828,30,East Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,68,2020,income
+270816,2238,Cobble Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2020,income
+193189,174,Bay Ridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,63,2020,income
+272994,1273,Boerum Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2020,income
+270958,3,Upper West Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,70,2020,income
+270815,491,Clinton Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,67,2020,income
+270850,189,Hamilton Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,65,2020,income
+199091,188,Woodside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,70,2020,income
+273478,497,Douglaston-Little Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,67,2020,income
+270907,498,Pelham Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,68,2020,income
+273860,143,Gramercy,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,68,2020,income
+270848,341,Greenpoint,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2020,income
+195087,500,Great Kills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,63,2020,income
+274676,530,Kew Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+196338,369,Middle Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,70,2020,income
+275552,305,St. Albans,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,67,2020,income
+194318,300,Dyker Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2020,income
+403217,153,Kensington,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,70,2020,income
+26254,539,Oakland Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,67,2020,income
+197044,109,Park Slope,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2020,income
+195133,216,Greenwich Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,68,2020,income
+403206,465,Flatiron District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,63,2020,income
+8349,444,College Point,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,70,2020,income
+276254,203,Chelsea,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,67,2020,income
+193182,128,Bath Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2020,income
+275620,212,Sunnyside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,68,2020,income
+403215,126,Gravesend,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,63,2020,income
+57348,229,Kew Gardens Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+343220,364,Kingsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,70,2020,income
+21970,464,Howard Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,67,2020,income
+37309,192,Bayside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+193476,404,Brighton Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,70,2020,income
+270835,405,Financial District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,67,2020,income
+403221,350,Prospect Lefferts Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2020,income
+270797,427,Auburndale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,68,2020,income
+270886,121,Midwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2020,income
+274117,113,Jackson Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,63,2020,income
+276128,135,Richmond Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+273653,542,Eltingville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,70,2020,income
+343210,310,Throggs Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,68,2020,income
+44302,387,Briarwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+270951,665,Tribeca,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,63,2020,income
+276060,279,Whitestone,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+273757,95,Forest Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,70,2020,income
+270846,690,Gowanus,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,67,2020,income
+196538,87,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,65,2020,income
+343213,175,University Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,70,2020,income
+270946,609,Sutton Place,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,67,2020,income
+275173,101,Ridgewood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,68,2020,income
+49994,254,Woodhaven,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,68,2020,income
+275115,168,Queens Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,63,2020,income
+403122,574,Brooklyn Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,70,2020,income
+270953,732,Turtle Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,63,2020,income
+343221,166,Bedford Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,65,2020,income
+270891,270,Morningside Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,70,2020,income
+193974,218,Coney Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,67,2020,income
+403220,758,Prospect Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,65,2020,income
+270829,107,East Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,70,2020,income
+6719,236,Rego Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,67,2020,income
+343211,244,Parkchester,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,67,2020,income
+270964,557,West Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,65,2020,income
+195576,247,Inwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,70,2020,income
+273766,278,Fort Greene,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,67,2020,income
+216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,47,2020,income
+215792,357,Somerton,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,53,2020,income
+272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2020,income
+210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,53,2020,income
+753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2020,income
+271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2020,income
+753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2020,income
+273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2020,income
+753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,52,2020,income
+275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2020,income
+260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2020,income
+223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2020,income
+753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,45,2020,income
+213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,51,2020,income
+273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,48,2020,income
+753798,3082,East Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,44,2020,income
+753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,43,2020,income
+147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2020,income
+214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2020,income
+264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2020,income
+753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2020,income
+753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,52,2020,income
+753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2020,income
+212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2020,income
+753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2020,income
+753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,48,2020,income
+623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,52,2020,income
+275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,49,2020,income
+215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,50,2020,income
+9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2020,income
+213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2020,income
+208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2020,income
+271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,59,2020,income
+271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,58,2020,income
+271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2020,income
+271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,59,2020,income
+214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,61,2020,income
+274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,59,2020,income
+216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2020,income
+271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,60,2020,income
+54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,59,2020,income
+268491,565,South of Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,116,2020,income
+268414,1046,Potrero Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,117,2020,income
+268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2020,income
+207518,3403,South Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+268450,1078,Russian Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2020,income
+268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2020,income
+417501,2951,Lower Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2020,income
+268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,122,2020,income
+274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2020,income
+268110,6590,Diamond Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2020,income
+274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2020,income
+268114,6493,Downtown,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+118904,1013,Western Addition,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,116,2020,income
+268337,983,Nob Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,114,2020,income
+268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2020,income
+417518,4055,Duboce Triangle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2020,income
+268206,4223,Hayes Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2020,income
+268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,115,2020,income
+275789,4274,Upper Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,114,2020,income
+417493,650,Tenderloin,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,116,2020,income
+268020,852,Bernal Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2020,income
+268156,5937,Financial District,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+268218,5007,Hunters Point,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2020,income
+268177,5090,Glen Park,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+417523,5184,Alamo Square,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2020,income
+268305,2692,Mission Bay,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+417507,2657,Ingleside Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2020,income
+268517,5469,Telegraph Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,122,2020,income
+415247,2359,Sunnyside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2020,income
+268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2020,income
+417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2020,income
+268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,116,2020,income
+417522,2416,Panhandle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2020,income
+417492,8424,North Waterfront,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+116918,1729,North Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2020,income
+417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2020,income
+118310,1583,Parkmerced,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,114,2020,income
+344008,2041,West Woodland,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2020,income
+271957,2064,Olympic Hills,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+344022,2624,Gatewood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+271856,2178,East Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+56654,4263,Seaview,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2020,income
+251170,2185,Loyal Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+271987,2226,South Lake Union,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+344018,8383,Waterfront,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2020,income
+271901,4130,Leschi,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2020,income
+344012,4276,Madison Valley,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,79,2020,income
+343996,4453,View Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2020,income
+271961,1686,Phinney Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2020,income
+344001,2239,Wedgwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2020,income
+250017,1688,Adams,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2020,income
+272022,4627,Westlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2020,income
+252248,821,Wallingford,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+344032,4723,North Delridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+271963,13557,Pioneer Square,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+271893,5657,International District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2020,income
+344015,5073,Judkins Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+271857,5118,Eastlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+271814,1898,Bitter Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2020,income
+250788,815,Greenwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2020,income
+343995,5323,Denny Triangle,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,79,2020,income
+271990,792,Magnolia,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2020,income
+250801,1968,Haller Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2020,income
+344020,2605,Genesee,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+343993,3117,Pinehurst,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+343999,2341,North College Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+271921,1370,Minor,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2020,income
+272001,482,University District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+344000,1354,Maple Leaf,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+271942,1520,North Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2020,income
+250206,339,Capitol Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2020,income
+251709,1278,Ravenna,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,79,2020,income
+250478,2797,Dunlap,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2020,income
+271869,1270,First Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2020,income
+271932,1187,North Beacon Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2020,income
+272018,2470,West Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2020,income
+343997,3055,Alki,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+271849,2329,Downtown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+251186,7822,Madison Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2020,income
+250780,1775,Green Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,78,2020,income
+344019,1166,Admiral,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,79,2020,income
+271906,3204,Lower Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2020,income
+252056,3523,Sunset Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2020,income
+272005,3478,Victory Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+271808,1563,Belltown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+271831,3323,Cedar Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+344021,3342,Fairmount Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,75,2020,income
+250692,1137,Fremont,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,77,2020,income
+344010,3328,Uptown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,76,2020,income
+121759,9324,McLean Gardens,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2020,income
+121800,6215,Truxton Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2020,income
+403488,10873,Penn Quarter,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2020,income
+121680,6595,Brightwood Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2020,income
+403484,8575,Stronghold,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2020,income
+121797,5784,The Palisades,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2020,income
+121740,8516,Judiciary Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2020,income
+403483,11453,Pleasant Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2020,income
+268815,7424,Kalorama,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,77,2020,income
+121727,6024,Garfield Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2020,income
+121692,12518,Chinatown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2020,income
+268832,6132,Wakefield,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2020,income
+121713,9511,Fairfax Village,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2020,income
+121754,777,Logan Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2020,income
+121808,5016,West End,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2020,income
+121755,1932,Manor Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2020,income
+275465,1930,Southwest Waterfront,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,77,2020,income
+403487,1754,Near Northeast,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2020,income
+121693,1631,Cleveland Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2020,income
+272818,1625,American University Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,65,2020,income
+121745,1608,Kingman Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,70,2020,income
+121685,403,Capitol Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,67,2020,income
+121763,2099,Mount Vernon Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,65,2020,income
+121785,1317,Shaw,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,70,2020,income
+121762,1175,Mount Pleasant,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,67,2020,income
+121716,1174,Foggy Bottom,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,68,2020,income
+121689,1135,Chevy Chase,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,68,2020,income
+121704,1067,Dupont Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2020,income
+121774,607,Petworth,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2020,income
+403481,907,Sixteenth Street Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,79,2020,income
+121806,740,Washington Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2020,income
+121729,1299,Georgetown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2020,income
+121731,2216,Glover Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2020,income
+121681,2235,Brookland,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2020,income
+121668,764,Adams Morgan,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2020,income
+403490,4893,NoMa,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2020,income
+275794,4565,U Street Corridor,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2020,income
+273489,4525,Downtown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2020,income
+121687,4451,Cathedral Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,77,2020,income
+121807,4244,Wesley Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2020,income
+121709,4081,Eckington,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2020,income
+121815,3811,Woodley Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,65,2020,income
+403486,3755,Barney Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,70,2020,income
+403116,3753,Navy Yard,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,67,2020,income
+121771,3701,Park View,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,67,2020,income
+121710,3347,Edgewood,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,68,2020,income
+121677,3337,Bloomingdale,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,68,2020,income
+121717,3253,Forest Hills,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2020,income
+121799,2873,Trinidad,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2020,income
+121756,2830,Marshall Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,79,2020,income
+121698,2721,Congress Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2020,income
+121697,343,Columbia Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2020,income
+403507,5429,Carver,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2020,income
+121777,2412,Randle Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2020,income
+269750,16259,Leather District,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,85,2021,income
+15856,938,Mission Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2021,income
+46015,890,Kenmore,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,81,2021,income
+154399,222,East Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,86,2021,income
+154235,769,Charlestown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,83,2021,income
+276331,581,Fenway,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,82,2021,income
+272836,549,Back Bay,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,84,2021,income
+275424,108,South Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,83,2021,income
+155173,1521,North End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2021,income
+272755,516,Allston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,82,2021,income
+155506,399,Roslindale,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,82,2021,income
+275429,390,South End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,83,2021,income
+155995,361,West Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,85,2021,income
+154775,322,Hyde Park,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2021,income
+54232,148,Roxbury,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,81,2021,income
+155633,292,South Boston,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,86,2021,income
+37575,235,Brighton,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,83,2021,income
+274702,429,North Dorchester,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,82,2021,income
+153989,1739,Beacon Hill,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,84,2021,income
+154795,214,Jamaica Plain,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,83,2021,income
+416396,2254,Chinatown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2021,income
+154380,13048,Downtown Crossing,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,83,2021,income
+270824,5321,Downtown,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,85,2021,income
+153980,6106,Bay Village,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,80,2021,income
+273181,2948,West End,Neighborhood,MA,MA,Boston,Boston-Cambridge-Newton,Suffolk County,81,2021,income
+403296,4315,Lathrop Homes,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,71,2021,income
+403298,4695,Goose Island,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+269615,511,West Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,72,2021,income
+269597,436,Near North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+269567,6098,Andersonville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2021,income
+403145,392,Bronzeville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2021,income
+403344,6905,Dearborn Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2021,income
+403343,8591,Printers Row,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,72,2021,income
+138129,2493,Dunning,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+403146,321,Back of the Yards,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+403345,9870,South Commons,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,71,2021,income
+403320,11090,Greektown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+269608,285,South Shore,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+269578,271,Edgewater,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,72,2021,income
+273035,268,Bridgeport,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+269585,261,Humboldt Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2021,income
+269607,259,South Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2021,income
+275083,231,Portage Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+269588,224,Jefferson Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+403313,3686,Fulton River District,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,71,2021,income
+403297,8707,River West,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+33597,608,Ravenswood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+403299,662,Streeterville,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+403262,1699,Budlong Woods,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,71,2021,income
+403307,1600,Wrightwood Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+403304,2522,Old Town Triangle,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+403306,1505,Sheffield Neighbors,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,68,2021,income
+403292,1494,Roscoe Village,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+269602,1439,Norwood Park East,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+403301,1436,Old Town,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,71,2021,income
+269593,1282,The Loop,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+269590,1026,Lincoln Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+269587,970,Irving Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+403303,968,Gold Coast,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,71,2021,income
+403322,2726,West Loop Gate,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+403280,15425,Schorsch Forest View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+403342,2830,New Eastside,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+269603,882,O'Hare,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,72,2021,income
+403141,782,University Village - Little Italy,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2021,income
+269573,774,Avondale,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,72,2021,income
+403300,3091,River North,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+137841,737,Clearing,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+269586,692,Hyde Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,72,2021,income
+137603,689,Bucktown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,70,2021,income
+269600,653,North Center,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,72,2021,income
+269599,889,Near West Side,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+403325,906,Galewood,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+269566,154,Albany Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+269609,159,Uptown,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,71,2021,income
+269592,53,Logan Square,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,69,2021,income
+269605,171,Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,73,2021,income
+403169,106,West Rogers Park,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+269589,163,Lake View,Neighborhood,IL,IL,Chicago,Chicago-Naperville-Elgin,Cook County,74,2021,income
+269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,82,2021,income
+274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,83,2021,income
+269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,81,2021,income
+270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,81,2021,income
+276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,83,2021,income
+270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,80,2021,income
+268010,1374,Atwater Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+268551,456,Valley Village,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+38888,488,Harbor City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+268097,493,Crenshaw,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2021,income
+274359,440,Los Feliz,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+27484,457,Tujunga,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+116206,368,Lincoln Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+403192,413,Harvard Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+268548,131,Valley Glen,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+27431,1780,Toluca Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+114808,382,Eagle Rock,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+115836,379,Jefferson Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+27080,85,Sherman Oaks,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+113910,360,Brentwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+268316,2365,Montecito Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2021,income
+21056,351,Venice,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+268103,1502,Cypress Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+274514,62,Mid City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+268134,529,Echo Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+13176,112,Panorama City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+48570,83,Woodland Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+268236,82,Koreatown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+116774,750,Mount Washington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2021,income
+40215,86,Pacoima,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+27328,866,Sunland,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+54300,79,San Pedro,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+276514,886,Playa Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+276023,99,Westlake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+40548,100,Reseda,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+46795,78,North Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+113886,75,Boyle Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2021,income
+268057,628,Central City East,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+34213,74,Sylmar,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+41131,68,Sun Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+41466,64,Van Nuys,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+275024,556,Pico-Robertson,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+273825,540,Glassell Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+19810,538,Pacific Palisades,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2021,income
+118887,1179,West Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+113749,1200,Beverly Crest,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+117954,338,Sawtelle,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+268581,502,West Adams,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+274049,333,Hollywood Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+268404,770,Pico-Union,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2021,income
+115729,330,Park Mesa Heights,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+114246,3269,Century City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+48516,155,Wilmington,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+30731,157,Canoga Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+13327,3731,Playa Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+403184,331,Del Rey,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+274517,258,Mid Wilshire,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+273930,255,Harbor Gateway,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+118849,253,Watts,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+116415,238,Mar Vista,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+47950,283,Tarzana,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2021,income
+32059,18,Hollywood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,71,2021,income
+114914,219,El Sereno,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+117183,217,Palms,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+276450,208,Mid City West,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+51906,201,Encino,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+32368,199,Lake Balboa,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+27987,195,Winnetka,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+268496,8,Southeast Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,73,2021,income
+115609,181,Highland Park,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+118208,4,South Los Angeles,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,76,2021,income
+273197,165,Central City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+268588,288,West Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+118920,160,Westwood,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+403191,2819,Elysian Valley,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+37835,304,Chatsworth,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+13017,136,North Hills,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+7877,301,Westchester,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,75,2021,income
+268118,312,Downtown,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,74,2021,income
+268473,296,Silver Lake,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,77,2021,income
+47880,298,Studio City,Neighborhood,CA,CA,Los Angeles,Los Angeles-Long Beach-Anaheim,Los Angeles County,72,2021,income
+270841,5608,DUMBO,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+35961,1012,Rockaway Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,70,2021,income
+199001,17,Williamsburg,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+270875,66,Lower East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,73,2021,income
+272902,16,Bedford Stuyvesant,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,74,2021,income
+18131,70,Flushing,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,71,2021,income
+270968,914,Windsor Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,69,2021,income
+270945,40,Sunset Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+272816,14,Astoria,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,72,2021,income
+195267,25,Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,69,2021,income
+194430,9,East New York,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2021,income
+272869,887,Battery Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,68,2021,income
+196620,2810,New Springville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,73,2021,income
+10957,38,Corona,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,74,2021,income
+270885,828,Midtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,71,2021,income
+194379,35,East Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+273903,819,Greenwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+270957,5,Upper East Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,70,2021,income
+343206,2659,Woodlawn,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,72,2021,income
+193587,34,Bushwick,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+198687,11,Washington Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,74,2021,income
+32192,1058,Jamaica Estates,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,71,2021,income
+343219,1112,Riverdale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,69,2021,income
+270811,1063,Carroll Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+403223,48,Elmhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,72,2021,income
+197623,1502,Rossville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,69,2021,income
+403131,54,Sheepshead Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2021,income
+270928,1538,SoHo,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,68,2021,income
+275754,1466,Tottenville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,73,2021,income
+193285,45,Bensonhurst,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,74,2021,income
+274627,1627,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,71,2021,income
+270825,1448,Downtown,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+343205,56,Soundview,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,74,2021,income
+193640,59,Canarsie,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,71,2021,income
+25294,24,Jamaica,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,72,2021,income
+193406,44,Borough Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+20239,1346,Roosevelt Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,70,2021,income
+270817,41,Concourse,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,72,2021,income
+5837,173,Maspeth,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,73,2021,income
+270800,1257,Bay Terrace,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,68,2021,income
+343222,29,Williamsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,73,2021,income
+403202,1237,St. George,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,74,2021,income
+403222,23,Crown Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,71,2021,income
+194737,20,Flatbush,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+196350,1827,Midland Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,74,2021,income
+55801,1148,Glen Oaks,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,71,2021,income
+270828,30,East Harlem,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,72,2021,income
+270816,2238,Cobble Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+193189,174,Bay Ridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2021,income
+272994,1273,Boerum Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+270958,3,Upper West Side,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,74,2021,income
+270815,491,Clinton Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,71,2021,income
+270850,189,Hamilton Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,73,2021,income
+199091,188,Woodside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,74,2021,income
+273478,497,Douglaston-Little Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,71,2021,income
+270907,498,Pelham Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,72,2021,income
+273860,143,Gramercy,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,72,2021,income
+270848,341,Greenpoint,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+195087,500,Great Kills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,68,2021,income
+274676,530,Kew Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,73,2021,income
+196338,369,Middle Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,74,2021,income
+275552,305,St. Albans,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,71,2021,income
+194318,300,Dyker Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+403217,153,Kensington,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,74,2021,income
+26254,539,Oakland Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,71,2021,income
+197044,109,Park Slope,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+195133,216,Greenwich Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,72,2021,income
+403206,465,Flatiron District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,68,2021,income
+8349,444,College Point,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,74,2021,income
+276254,203,Chelsea,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,71,2021,income
+193182,128,Bath Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+275620,212,Sunnyside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,72,2021,income
+403215,126,Gravesend,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,68,2021,income
+57348,229,Kew Gardens Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,73,2021,income
+343220,364,Kingsbridge,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,74,2021,income
+21970,464,Howard Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,71,2021,income
+37309,192,Bayside,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,73,2021,income
+193476,404,Brighton Beach,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,74,2021,income
+270835,405,Financial District,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,71,2021,income
+403221,350,Prospect Lefferts Gardens,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,72,2021,income
+270797,427,Auburndale,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,72,2021,income
+270886,121,Midwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+274117,113,Jackson Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,68,2021,income
+276128,135,Richmond Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,73,2021,income
+273653,542,Eltingville,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Richmond County,74,2021,income
+343210,310,Throggs Neck,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,72,2021,income
+44302,387,Briarwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,73,2021,income
+270951,665,Tribeca,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,68,2021,income
+276060,279,Whitestone,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,73,2021,income
+273757,95,Forest Hills,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,74,2021,income
+270846,690,Gowanus,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,71,2021,income
+196538,87,Murray Hill,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,73,2021,income
+343213,175,University Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,74,2021,income
+270946,609,Sutton Place,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,71,2021,income
+275173,101,Ridgewood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,72,2021,income
+49994,254,Woodhaven,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,72,2021,income
+275115,168,Queens Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,68,2021,income
+403122,574,Brooklyn Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,74,2021,income
+270953,732,Turtle Bay,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,68,2021,income
+343221,166,Bedford Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,73,2021,income
+270891,270,Morningside Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,74,2021,income
+193974,218,Coney Island,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,71,2021,income
+403220,758,Prospect Heights,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,73,2021,income
+270829,107,East Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,74,2021,income
+6719,236,Rego Park,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Queens County,71,2021,income
+343211,244,Parkchester,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Bronx County,71,2021,income
+270964,557,West Village,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,73,2021,income
+195576,247,Inwood,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,New York County,74,2021,income
+273766,278,Fort Greene,Neighborhood,NY,NY,New York,New York-Newark-Jersey City,Kings County,71,2021,income
+216392,1574,Torresdale,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2021,income
+215792,357,Somerton,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2021,income
+272494,2351,Spring Garden,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2021,income
+210059,1738,East Falls,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2021,income
+753719,4751,Old Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,57,2021,income
+271178,780,Fishtown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,57,2021,income
+753817,1636,Passyunk Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2021,income
+273683,1885,Fairmount,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2021,income
+753716,2399,Pennsport,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2021,income
+275065,854,Point Breeze,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2021,income
+260641,3259,Bella Vista,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2021,income
+223246,4104,Society Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2021,income
+753815,1132,Washington Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2021,income
+213529,1136,Mount Airy West,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2021,income
+273240,12575,Chinatown,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,53,2021,income
+753798,3082,East Kensington,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,52,2021,income
+753814,7473,Callow Hill,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,52,2021,income
+147615,3681,Francisville,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,57,2021,income
+214976,434,Richmond,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,57,2021,income
+264505,6264,Hawthorne,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2021,income
+753810,1232,Graduate Hospital,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2021,income
+753838,2763,Northern Liberties,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2021,income
+753808,583,Rittenhouse,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2021,income
+212919,3875,Manayunk,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2021,income
+753807,1308,Logan Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2021,income
+753809,7573,Fitler Square,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,55,2021,income
+623394,2651,Old City,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,56,2021,income
+275001,2533,Queen Village,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,53,2021,income
+215211,992,Roxborough,Neighborhood,PA,PA,Philadelphia,Philadelphia-Camden-Wilmington,Philadelphia County,54,2021,income
+9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,64,2021,income
+213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,64,2021,income
+208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,65,2021,income
+271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,63,2021,income
+271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,63,2021,income
+271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,62,2021,income
+271218,3986,Southside Slopes,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,62,2021,income
+214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,65,2021,income
+274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,65,2021,income
+216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,64,2021,income
+271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,65,2021,income
+54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,63,2021,income
+268491,565,South of Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,121,2021,income
+268414,1046,Potrero Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2021,income
+268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,122,2021,income
+207518,3403,South Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,123,2021,income
+268450,1078,Russian Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,124,2021,income
+268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,124,2021,income
+273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,123,2021,income
+417501,2951,Lower Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,125,2021,income
+268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,125,2021,income
+268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,124,2021,income
+274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,123,2021,income
+268110,6590,Diamond Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,125,2021,income
+274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,125,2021,income
+268114,6493,Downtown,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,126,2021,income
+118904,1013,Western Addition,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2021,income
+268337,983,Nob Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2021,income
+268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2021,income
+417518,4055,Duboce Triangle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2021,income
+268206,4223,Hayes Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2021,income
+268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,118,2021,income
+275789,4274,Upper Market,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2021,income
+417493,650,Tenderloin,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2021,income
+268020,852,Bernal Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,122,2021,income
+268156,5937,Financial District,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,123,2021,income
+268218,5007,Hunters Point,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,124,2021,income
+268177,5090,Glen Park,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,124,2021,income
+417523,5184,Alamo Square,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,123,2021,income
+268305,2692,Mission Bay,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,125,2021,income
+417507,2657,Ingleside Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,125,2021,income
+268517,5469,Telegraph Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,124,2021,income
+415247,2359,Sunnyside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,123,2021,income
+268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,125,2021,income
+417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,125,2021,income
+268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,120,2021,income
+417522,2416,Panhandle,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,122,2021,income
+417492,8424,North Waterfront,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,123,2021,income
+116918,1729,North Beach,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,124,2021,income
+417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,124,2021,income
+118310,1583,Parkmerced,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,119,2021,income
+344008,2041,West Woodland,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2021,income
+271957,2064,Olympic Hills,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2021,income
+344022,2624,Gatewood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+271856,2178,East Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+56654,4263,Seaview,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+251170,2185,Loyal Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+271987,2226,South Lake Union,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,85,2021,income
+344018,8383,Waterfront,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,84,2021,income
+271901,4130,Leschi,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+344012,4276,Madison Valley,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+343996,4453,View Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+271961,1686,Phinney Ridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+344001,2239,Wedgwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,85,2021,income
+250017,1688,Adams,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,86,2021,income
+272022,4627,Westlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2021,income
+252248,821,Wallingford,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2021,income
+344032,4723,North Delridge,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+271963,13557,Pioneer Square,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+271893,5657,International District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+344015,5073,Judkins Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+271857,5118,Eastlake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,85,2021,income
+271814,1898,Bitter Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,84,2021,income
+250788,815,Greenwood,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+343995,5323,Denny Triangle,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+271990,792,Magnolia,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+250801,1968,Haller Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+344020,2605,Genesee,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2021,income
+343993,3117,Pinehurst,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+343999,2341,North College Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+271921,1370,Minor,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+272001,482,University District,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+344000,1354,Maple Leaf,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,85,2021,income
+271942,1520,North Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,84,2021,income
+250206,339,Capitol Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+251709,1278,Ravenna,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+250478,2797,Dunlap,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+271869,1270,First Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+271932,1187,North Beacon Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,85,2021,income
+272018,2470,West Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,86,2021,income
+343997,3055,Alki,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+271849,2329,Downtown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,85,2021,income
+251186,7822,Madison Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,84,2021,income
+250780,1775,Green Lake,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+344019,1166,Admiral,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+271906,3204,Lower Queen Anne,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+252056,3523,Sunset Hill,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+272005,3478,Victory Heights,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,80,2021,income
+271808,1563,Belltown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+271831,3323,Cedar Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,81,2021,income
+344021,3342,Fairmount Park,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,82,2021,income
+250692,1137,Fremont,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,83,2021,income
+344010,3328,Uptown,Neighborhood,WA,WA,Seattle,Seattle-Tacoma-Bellevue,King County,85,2021,income
+121759,9324,McLean Gardens,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,78,2021,income
+121800,6215,Truxton Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,79,2021,income
+403488,10873,Penn Quarter,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+121680,6595,Brightwood Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,79,2021,income
+403484,8575,Stronghold,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,79,2021,income
+121797,5784,The Palisades,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+121740,8516,Judiciary Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+403483,11453,Pleasant Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,81,2021,income
+268815,7424,Kalorama,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,81,2021,income
+121727,6024,Garfield Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,82,2021,income
+121692,12518,Chinatown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2021,income
+268832,6132,Wakefield,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,75,2021,income
+121713,9511,Fairfax Village,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2021,income
+121754,777,Logan Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+121808,5016,West End,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+121755,1932,Manor Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,81,2021,income
+275465,1930,Southwest Waterfront,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,81,2021,income
+403487,1754,Near Northeast,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,82,2021,income
+121693,1631,Cleveland Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2021,income
+272818,1625,American University Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2021,income
+121745,1608,Kingman Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2021,income
+121685,403,Capitol Hill,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,71,2021,income
+121763,2099,Mount Vernon Square,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2021,income
+121785,1317,Shaw,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2021,income
+121762,1175,Mount Pleasant,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,71,2021,income
+121716,1174,Foggy Bottom,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2021,income
+121689,1135,Chevy Chase,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2021,income
+121704,1067,Dupont Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,83,2021,income
+121774,607,Petworth,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+403481,907,Sixteenth Street Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,82,2021,income
+121806,740,Washington Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,82,2021,income
+121729,1299,Georgetown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,83,2021,income
+121731,2216,Glover Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,85,2021,income
+121681,2235,Brookland,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+121668,764,Adams Morgan,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2021,income
+403490,4893,NoMa,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+275794,4565,U Street Corridor,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+273489,4525,Downtown,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,81,2021,income
+121687,4451,Cathedral Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,81,2021,income
+121807,4244,Wesley Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,82,2021,income
+121709,4081,Eckington,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,76,2021,income
+121815,3811,Woodley Park,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,73,2021,income
+403486,3755,Barney Circle,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,74,2021,income
+403116,3753,Navy Yard,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,71,2021,income
+121771,3701,Park View,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,71,2021,income
+121710,3347,Edgewood,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2021,income
+121677,3337,Bloomingdale,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,72,2021,income
+121717,3253,Forest Hills,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,83,2021,income
+121799,2873,Trinidad,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
+121756,2830,Marshall Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,82,2021,income
+121698,2721,Congress Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,82,2021,income
+121697,343,Columbia Heights,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,83,2021,income
+403507,5429,Carver,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,85,2021,income
+121777,2412,Randle Highlands,Neighborhood,DC,DC,Washington,Washington-Arlington-Alexandria,District of Columbia,80,2021,income
