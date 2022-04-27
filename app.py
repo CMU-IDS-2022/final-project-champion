@@ -162,7 +162,7 @@ if page_selection == "Data Processing":
     st.latex(r'''
              \widehat{\text{Rental Price}} = \text{House Price} * \frac{\text{Index}_{\text{rental}}}{\text{Index}_{\text{housing(fcst)}}}
              
-             \widehat{\text{Rental Price}} = \frac{\text{House Price}}{\text{Index}_{\text{rental}}} * \text{housing(fcst)}
+             \widehat{\text{Rental Price}} = \frac{\text{House Price}}{\text{Index}_{\text{rental}}} * \text{Index}_{\text{housing(fcst)}}
 
              ''')
     show_data = st.checkbox("Show data validation process")
