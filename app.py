@@ -1,4 +1,6 @@
 from multiprocessing.spawn import import_main_path
+
+from colorama import Style
 import streamlit as st
 import altair as alt
 import pandas as pd
@@ -25,9 +27,14 @@ def load_dateset(url, encode="utf-8"):
 
 url_city_statistics = "https://raw.githubusercontent.com/CMU-IDS-2022/final-project-champion/main/data/top10_cities_statistics.csv"
 url_city_rental_price="https://raw.githubusercontent.com/CMU-IDS-2022/final-project-champion/main/data/top10_cities_rental_price.csv"
+url_city_housing_price="https://raw.githubusercontent.com/CMU-IDS-2022/final-project-champion/main/data/top10_cities_housing_price.csv"
+url_city_index="https://raw.githubusercontent.com/CMU-IDS-2022/final-project-champion/main/data/top10_cities_all_index.csv"
 
 top10_stats = load_dateset(url_city_statistics)
 top10_rental = load_dateset(url_city_rental_price)
+top10_housing = load_dateset(url_city_housing_price)
+top10_indices = load_dateset(url_city_index)
+
 
 # we can get any city's coordinate by using MS Bing geocoder API, but in here API key is muted
 # therefore we will import pre-process city's coordinates insteam of below code
@@ -40,7 +47,7 @@ top10_rental = load_dateset(url_city_rental_price)
 #     if city=="Washington":
 #         city="Washington D.C."
 #     # because of privacy issue, API is muted
-#     g=geocoder.bing(city, key='Right Down Your API Key')
+#     g=geocoder.bing(city, key='USE Your Bing Map API Key')
 #     results = g.json
 #     lats[idx]=results['lat']
 #     lngs[idx]=results['lng']
@@ -94,7 +101,8 @@ top10_rental_graph['Year']=top10_rental_graph['Year'].astype('int64')
 top10_rental_graph['Month']=top10_rental_graph['date'].apply(lambda x:x[5:])
 top10_rental_graph['Period']=top10_rental_graph['Year'].apply(lambda x:period_for_pandemic(int(x)))
 
-
+top10_alldata_graph = pd.merge(left=top10_housing,right=top10_indices,how="left", on=['City','date'])
+top10_alldata_graph['housing_price_over_housing_index']=top10_alldata_graph['housing_price']/top10_alldata_graph['housing_p_index']
 
 # =========================== Part 1 =============================== 
 # visualization streamlit page configuration
@@ -115,11 +123,199 @@ st.title("Find Your Next Destination after CMU")
 st.sidebar.header("Select View Level")
 page_selection = st.sidebar.radio(
     'View Level',
-    ('US National Wide', 'City Wide')
+    ('Data Processing', 'US National Wide', 'City Wide')
 )
 
+# Data process and validate the assumption
+if page_selection == "Data Processing":
+    st.subheader("How to estimate rental price for each roomtype and neighborhood")
+    st.markdown('''
+    **HOME VALUES**  
+    Zillow Home Value Index (ZHVI): A **smoothed, seasonally adjusted measure** of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. The raw version of that mid-tier ZHVI time series is also available.  
+    Zillow publishes top-tier ZHVI (\$, typical value for homes within the 65th to 95th percentile range for a given region) and bottom-tier ZHVI (\$, typical value for homes that fall within the 5th to 35th percentile range for a given region).  
+    Zillow also publishes ZHVI for all single-family residences (\$, typical value for all single-family homes in a given region), for condo/coops (\$), for all homes with 1, 2, 3, 4 and 5+ bedrooms (\$), and the ZHVI per square foot (\$, typical value of all homes per square foot calculated by taking the estimated home value for each home in a given region and dividing it by the home’s square footage). Check out this overview of ZHVI and a deep-dive into its methodology.   
+
+    Here’s a handy ZHVI User Guide for information about properly citing and making calculations with this metric.   
+    '''
+    )
+    st.markdown(
+        '''
+        **HOME VALUES FORECASTS**
+
+        The Zillow Home Value Forecast (ZHVF) is the month-ahead, quarter-ahead and year-ahead forecast of the Zillow Home Values Index (ZHVI).  
+        ZHVF is created using the all homes, mid-tier cut of ZHVI and is available both raw and smoothed, seasonally adjusted.
+        
+        **RENTALS**
+
+        Zillow Observed Rent Index (ZORI): A **smoothed measure** of the typical observed market rate rent across a given region.  
+        ZORI is a repeat-rent index that is weighted to the rental housing stock to ensure representativeness across the entire market, not just those homes currently listed for-rent.  
+        The index is dollar-denominated by computing the mean of listed rents that fall into the 40th to 60th percentile range for all homes and apartments in a given region, which is once again weighted to reflect the rental housing stock. Details available in ZORI methodology.
+        
+        **Our Approach**  
+        We can gather the housing price's fluctuation but hard to archive historical changes of rent price over years. 
+        So, we establish the housing price - rent price conversion rate based Zillow Value Index on Home Value and Rentals.
+        The problem is rental price was made of the weighted average price of all list in specific period, but we want to show each period each type's rental price.  
+        To do this, we calculate Rental Price Index for each housing type(1bed, 2bed, etc.) with weighted average housing price index(forecast, all home) and weighted average rental price index(all home).
+        
+        '''        
+    )
+    st.latex(r'''
+             \widehat{\text{Rental Price}} = \text{House Price} * \frac{\text{Index}_{\text{rental}}}{\text{Index}_{\text{housing(fcst)}}}
+
+             ''')
+    show_data = st.checkbox("Show data validation process")
+    if show_data:
+        # show selected city's room type graph
+        city_list = list(top10_rental_sum['City'].unique())
+        city_selection = st.selectbox(
+        'City', city_list,
+        index=len(city_list)-3
+        )
+
+        shared_width=500
+        big_height=250
+        small_height=100
+        highlight = alt.selection(type='single', on='mouseover',
+                          fields=['roomtype'], nearest=True)
+        
+        df=top10_alldata_graph[top10_alldata_graph['City']==city_selection]
+        price_base=alt.Chart(df).encode(
+            x=alt.X("date:T", axis=alt.Axis(title=None)),
+            y=alt.Y("housing_price:Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            color=alt.Color("roomtype:N"),
+        )
+        price_points = price_base.mark_circle().encode(
+            opacity=alt.value(0),
+            tooltip=[
+            'City',
+            alt.Tooltip('yearmonth(date):T'),
+            alt.Tooltip('roomtype',title="Room Type"),
+            alt.Tooltip('housing_price:Q',format='$,d',title="Housing Price")
+            ],
+        ).properties(
+            width=shared_width,
+            height=big_height,
+            title="Housing Price for each Room Type"
+        ).add_selection(
+            highlight
+        )
+
+        price_lines = price_base.mark_line().encode(
+            size=alt.condition(~highlight, alt.value(1), alt.value(3))
+        )
+        graph_housing_price=price_points+price_lines
+
+        housing_index=alt.Chart(df).mark_line(
+            color="black",
+            strokeDash=[5, 5],
+            point={
+                "filled":True,
+                "fill":"black",
+                "size":20
+                }
+            ).encode(
+            x=alt.X("date:T", axis=alt.Axis(title=None)),
+            y=alt.Y("mean(housing_p_index):Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            tooltip=[
+            'City',
+            alt.Tooltip('yearmonth(date):T'),
+            alt.Tooltip('housing_p_index:Q',format='.2f',title="Housing Price Index")
+            ],
+            
+        ).properties(
+            width=shared_width,
+            height=small_height,
+            title="Housing Price Index"
+        )
+
+        price_over_index_base=alt.Chart(df).encode(
+            x=alt.X("date:T", axis=alt.Axis(title=None)),
+            y=alt.Y("housing_price_over_housing_index:Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            color=alt.Color("roomtype:N")
+        )
+
+        price_over_index_points = price_over_index_base.mark_circle().encode(
+            opacity=alt.value(0),
+            tooltip=[
+            'City',
+            alt.Tooltip('yearmonth(date):T'),
+            alt.Tooltip('roomtype',title="Room Type"),
+            alt.Tooltip('housing_price_over_housing_index:Q',format='.2f',title="Unit Housing Price")
+            ],
+        ).properties(
+            width=shared_width,
+            height=big_height,
+            title="Housing unit Price for each Room Type"
+        ).add_selection(
+            highlight
+        )
+
+        price_over_index_lines = price_over_index_base.mark_line().encode(
+            size=alt.condition(~highlight, alt.value(1), alt.value(3))
+        )
+        graph_housing_unit_price=price_over_index_points+price_over_index_lines
+
+
+
+
+        highlight2 = alt.selection(type='single', on='mouseover',
+                                fields=['roomtype'], nearest=True)
+        city_selection = "San Francisco"
+
+        df2 = top10_rental[top10_rental['City']==city_selection]
+        rental_base=alt.Chart(df2).encode(
+            x=alt.X("date:T", axis=alt.Axis(title=None)),
+            y=alt.Y("rental_price:Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            color=alt.Color("roomtype:N"),
+        )
+        rental_points = rental_base.mark_circle().encode(
+            opacity=alt.value(0),
+            tooltip=[
+            'City',
+            alt.Tooltip('yearmonth(date):T'),
+            alt.Tooltip('roomtype',title="Room Type"),
+            alt.Tooltip('rental_price:Q',format='$,d',title="Rental Price")
+            ],
+        ).properties(
+            width=shared_width,
+            height=big_height,
+            title="Rental Price for each Room Type"
+        ).add_selection(
+            highlight
+        )
+        rental_lines = rental_base.mark_line().encode(
+            size=alt.condition(~highlight, alt.value(1), alt.value(3))
+        )
+        graph_rental_price=rental_points+rental_lines
+
+        rental_index=alt.Chart(df).mark_line(
+            color="red",
+            strokeDash=[5, 5],
+            point={
+                "filled":True,
+                "fill":"red",
+                "size":20
+                }
+            ).encode(
+            x=alt.X("date:T", axis=alt.Axis(title=None)),
+            y=alt.Y("mean(rental_p_index):Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            tooltip=[
+            'City',
+            alt.Tooltip('yearmonth(date):T'),
+            alt.Tooltip('rental_p_index:Q',format='.2f',title="Rental Price Index")
+            ],
+            
+        ).properties(
+            width=shared_width,
+            height=small_height,
+            title="Rental Price Index"
+        )
+
+        st.write(alt.vconcat(graph_housing_price, housing_index, graph_housing_unit_price)|alt.vconcat(graph_housing_unit_price, rental_index, graph_rental_price))
+    
+    
 # Visualization Dashboard
-if page_selection == "US National Wide":
+elif page_selection == "US National Wide":
     st.subheader("Select Metrics to view")
     
     col1, col2, col3 = st.columns(3)
@@ -272,7 +468,7 @@ if page_selection == "US National Wide":
     city_list = list(top10_rental_sum['City'].unique())
     city_selection = st.selectbox(
     'City', city_list,
-    index=len(city_list)-4
+    index=len(city_list)-3
     )
     
     st.text("Add range selection for bottom two graph")
@@ -312,7 +508,7 @@ if page_selection == "US National Wide":
         
     )
     text = pandemic.mark_text(
-        dx=0,dy=-90, 
+        dx=0,dy=-100, 
         align='center',
         fontStyle='bold',
         color='black').encode(
@@ -323,19 +519,19 @@ if page_selection == "US National Wide":
 
     graph = (lines+pandemic+text).properties(
         width=900,
-        height=300
+        height=250
     )
     st.write(graph)
     
     df = top10_rental_graph[(top10_rental_graph['City']==city_selection)&(top10_rental_graph['Year']==year_selection)]
     main=alt.Chart(df).mark_bar().encode(
-        x=alt.X("RoomType:O", sort='y',axis=alt.Axis(ticks=False, domain=False,
+        x=alt.X("RoomType:O", axis=alt.Axis(ticks=False, domain=False,
                                                      labelAngle=-45,
                                                      offset=5,title=None,labelFontStyle='bold')),
         # y=alt.Y("CrimeType:N",sort='-x',axis=alt.Axis(title=None,)),
         y=alt.Y("mean(RentalPrice)",axis=None),
-        color=alt.Color("mean(RentalPrice):Q", sort='y',
-                        scale=alt.Scale(scheme='goldred'),
+        color=alt.Color("mean(RentalPrice):Q", 
+                        scale=alt.Scale(scheme='lightgreyteal'),
                         legend=None),   
     )
     bars=main
@@ -365,7 +561,7 @@ if page_selection == "US National Wide":
                         scale=alt.Scale(scheme='goldred'),
                         legend=None),   
     ).properties(
-        width=250,
+        width=300,
         height=200,
     ).add_selection(
         # city_selection, year_selection
@@ -392,11 +588,11 @@ if page_selection == "US National Wide":
     
     
     # last line chart
-    if roomtype_selection not in roomtypes:
-        rt_selection = '1bed'
-    else:
-        rt_selection = roomtype_selection
-    
+    # if roomtype_selection not in roomtypes:
+    #     rt_selection = '1bed'
+    # else:
+    #     rt_selection = roomtype_selection
+    rt_selection = '1bed'
     df=top10_rental_graph[(top10_rental_graph['City']==city_selection) & (top10_rental_graph['RoomType']==rt_selection)]
 
     period_list = list(top10_rental_graph['Period'].unique())
@@ -405,7 +601,7 @@ if page_selection == "US National Wide":
         'Pandemic Period',
         ['Post-Pandemic','Pandemic','Pre-Pandemic']
         )
-
+    st.write(pandemic_selection)
     graph_trend=alt.Chart(df).mark_line(
         point={
             "filled":False,
@@ -413,7 +609,7 @@ if page_selection == "US National Wide":
             }).encode(
         x=alt.X('Month',scale=alt.Scale(zero=False),axis=alt.Axis(title=None, labelAngle=0, labelFontStyle='bold')),
         y=alt.Y('RentalPrice',scale=alt.Scale(zero=False),axis=alt.Axis(title=None, grid=False, labelFontStyle='bold')),
-        color=alt.condition(pandemic_selection, alt.Color('Period:O',legend=None),alt.value('lightgray')),
+        # color=alt.condition(pandemic_selection, alt.Color('Period:O',legend=None),alt.value('lightgray')),
         tooltip=[
             'City',
             'Year',
@@ -424,8 +620,8 @@ if page_selection == "US National Wide":
     ).properties(
         width=400,
         height=150,
-    ).add_selection(
-        pandemic_selection
+    # ).add_selection(
+    #     pandemic_selection
     )
     st.write(graph_trend)
 # draw neighborhood level data
