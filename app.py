@@ -351,7 +351,7 @@ if page_selection == "Data Processing":
                 'rawdata:',
                 ('Housing Price and Index', 'Estimated Rental Price')
             )
-            raw_col1, raw_col2, col3 = st.columns(2)
+            raw_col1, raw_col2 = st.columns(2)
             with raw_col1:
                 st.write(top10_alldata_graph)
             with raw_col2:
