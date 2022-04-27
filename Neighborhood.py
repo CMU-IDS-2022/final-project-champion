@@ -3,11 +3,12 @@ import altair as alt
 import pprint
 import pandas as pd
 import json
-import geopandas as gpd
 import pyproj
 import numpy as np
 import matplotlib.pyplot as plt
+
 import NeighborhoodOthers
+import DrawGeoGraph
 
 from vega_datasets import data
 from altair import datum
@@ -244,6 +245,7 @@ def loadNeighborhoodData():
   if metric_selection == 'Rental Price':
     citySelection = citySelection.replace(' ', '')
     # visualizeCity(citySelection)
+    DrawGeoGraph.drawGeoGraph(citySelection)
 
     st.subheader("General City Bedroom type visualizations")
     bedroomSelection = st.selectbox("Which bedroom type would you like to see?", bedroomTypes.keys())
