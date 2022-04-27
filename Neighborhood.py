@@ -25,11 +25,6 @@ def readCsv(fileName):
 
 
 ################## geoJson section ##################
-city_neighborhood_mapping = {
-  "Boston": "Neighborhood_ID",
-  "SanFrancisco": "nhood",
-  "NewYork": "ntaname",
-}
 
 def addLatLonGeometry(df):
   df.loc[:, 'lon'] = df.geometry.centroid.x
@@ -41,7 +36,6 @@ def readGeoFile(fileName):
   geoJson = gpd.read_file(fileName)
   return addLatLonGeometry(geoJson)
   # return gpd.read_file(fileName)
-
 
 # geo json chart
 def showGraphChart(geoDf, labelName='nhood'):

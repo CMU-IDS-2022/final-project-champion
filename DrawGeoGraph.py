@@ -14,6 +14,13 @@ def addLatLonGeometry(df):
   return df
 
 
+city_neighborhood_mapping = {
+  "Boston": "Neighborhood_ID",
+  "SanFrancisco": "nhood",
+  "NewYork": "ntaname",
+  "Detroit": "name",
+}
+
 # def readGeoFile(fileName):
 #   geoJson = gpd.read_file(fileName)
 #   return addLatLonGeometry(geoJson)
@@ -21,6 +28,8 @@ def addLatLonGeometry(df):
 
 def drawGeoGraph(city):
   st.write(city)
+  featureName = city_neighborhood_mapping[city]
+  st.write(featureName)
 
   # url json file (not working...)
   # url_geojson = "https://data.sfgov.org/api/views/6ia5-2f8k/rows.json"
@@ -46,10 +55,10 @@ def drawGeoGraph(city):
   with open(geoFileName) as f:
     gj = geojson.load(f)
   # geoData = geojson.load(geoFileName)
-  
+
   neighborhoods = []
   for row in gj['features']:
-    neighborhoods.append(row['properties']['nhood'])
+    neighborhoods.append(row['properties'][featureName])
   st.write(neighborhoods)
 
   df2 = pd.DataFrame(neighborhoods, columns = ['Neighborhood'])
@@ -74,8 +83,13 @@ def drawGeoGraph(city):
   st.write(len(set(df1['Neighborhood'])))
   st.write(df1['Neighborhood'])
 
-  st.write(sorted(set(df1['Neighborhood']).difference(set(neighborhoods))))
-  st.write(sorted(set(neighborhoods).difference(set(df1['Neighborhood']))))
+
+  missingGeoListA = sorted(set(df1['Neighborhood']).difference(set(neighborhoods)))
+  missingGeoListB = sorted(set(neighborhoods).difference(set(df1['Neighborhood'])))
+  st.write('more important set:', missingGeoListA)
+  st.write('b set:', missingGeoListB)
+
+  # st.map(pd.DataFrame(list(missingGeoListA) + list(missingGeoListB), columns=['Neighborhood']))
 
 
   # with urlopen('https://github.com/CMU-IDS-2022/final-project-champion/blob/main/GeojsonData/SanFranciscoNeighborhoods.geojson') as response:
@@ -85,7 +99,7 @@ def drawGeoGraph(city):
     df1,
     geojson=gj, 
     locations='Neighborhood',
-    featureidkey="properties.nhood",
+    featureidkey=f"properties.{featureName}",
     scope='usa',
     # color=condition_selection,
     # color_continuous_scale='fall',
