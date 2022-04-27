@@ -27,43 +27,22 @@ city_neighborhood_mapping = {
 
 
 def drawGeoGraph(city):
-  st.write(city)
+  # st.write(city)
   featureName = city_neighborhood_mapping[city]
-  st.write(featureName)
-
-  # url json file (not working...)
-  # url_geojson = "https://data.sfgov.org/api/views/6ia5-2f8k/rows.json"
-  # url_geojson = "https://data.sfgov.org/resource/6ia5-2f8k.json"
-  # geoData = alt.Data(url=url_geojson, format=alt.DataFormat(property='data', type='json'))
-
-  # with urlopen("https://data.sfgov.org/resource/6ia5-2f8k.json") as response:
-  #   counties = json.load(response)
-
-  # fig = px.choropleth(df, geojson=counties, locations='fip', color=condition_selection,
-  #   color_continuous_scale='fall',
-  #   range_color=(1, 133),
-  #   scope='usa',
-  #   hover_name='counties',
-  #   labels={'counties':'County Name:'}
-  # )
+  # st.write(featureName)
 
   geoFileName = f"GeojsonData/{city}Neighborhoods.geojson"
-  # geoFileName = "https://github.com/CMU-IDS-2022/final-project-champion/blob/main/GeojsonData/SanFranciscoNeighborhoods.geojson"
-  # geoFileName = f"ShpData/{city}Neighborhoods.shp"
-  # geoData = readGeoFile(geoFileName)
 
   with open(geoFileName) as f:
-    gj = geojson.load(f)
-  # geoData = geojson.load(geoFileName)
+    geoJson = geojson.load(f)
 
   neighborhoods = []
-  for row in gj['features']:
+  for row in geoJson['features']:
     neighborhoods.append(row['properties'][featureName])
-  st.write(neighborhoods)
 
   df2 = pd.DataFrame(neighborhoods, columns = ['Neighborhood'])
   
-  st.write(len(neighborhoods))
+  # st.write(len(neighborhoods))
 
   # geoData.plot("nhood", figsize = (20, 10)) # legend=True,
   # for _, row in geoData.iterrows():
@@ -75,19 +54,18 @@ def drawGeoGraph(city):
   # st.labels = False
   # st.pyplot()
 
-  # df = pd.DataFrame(geoData, columns=['lat', 'lon'])
-  # st.map(df)
+  # st.write(neighborhoods)
 
   df1 = pd.read_csv(f'data/{city}/1brRental')
   # neighborhoods = findNeighborhoods(sfHousingData)
-  st.write(len(set(df1['Neighborhood'])))
-  st.write(df1['Neighborhood'])
+  # st.write(len(set(df1['Neighborhood'])))
+  # st.write(df1['Neighborhood'])
 
 
-  missingGeoListA = sorted(set(df1['Neighborhood']).difference(set(neighborhoods)))
-  missingGeoListB = sorted(set(neighborhoods).difference(set(df1['Neighborhood'])))
-  st.write('more important set:', missingGeoListA)
-  st.write('b set:', missingGeoListB)
+  # missingGeoListA = sorted(set(df1['Neighborhood']).difference(set(neighborhoods)))
+  # missingGeoListB = sorted(set(neighborhoods).difference(set(df1['Neighborhood'])))
+  # st.write('more important set:', missingGeoListA)
+  # st.write('b set:', missingGeoListB)
 
   # st.map(pd.DataFrame(list(missingGeoListA) + list(missingGeoListB), columns=['Neighborhood']))
 
@@ -95,20 +73,28 @@ def drawGeoGraph(city):
   # with urlopen('https://github.com/CMU-IDS-2022/final-project-champion/blob/main/GeojsonData/SanFranciscoNeighborhoods.geojson') as response:
   #   counties = json.load(response)
 
+  # mapbox_style="carto-positron", zoom=9, # used for choropleth_mapbox
+  df1 = df1[df1['Date'] == '2022-03']
+  # st.write(df1)
+
+  st.subheader(f'Price distribution for neighborhoods in {city} on March 2022')
   fig = px.choropleth(
     df1,
-    geojson=gj, 
+    geojson=geoJson, 
     locations='Neighborhood',
     featureidkey=f"properties.{featureName}",
-    scope='usa',
+    # scope='usa',
+    projection='mercator',
+    color='Prices',
     # color=condition_selection,
     # color_continuous_scale='fall',
-    # range_color=(1, 133),
+    # range_color=(1, 133), # shows the limit of what to show based on the rent
     hover_name='Neighborhood',
-    # labels={'counties':'County Name:'}
+    # hover_data=["Year"],
+    labels={'Prices' : 'Rental cost'}
   )
   fig.update_layout(margin={'r':0,'t':0,'l':0,'b':0})
-  fig.update_geos(fitbounds='locations', visible=True)
+  fig.update_geos(fitbounds='locations', visible=False)
   st.write(fig)
 
   # fig=px.choropleth(df1,
