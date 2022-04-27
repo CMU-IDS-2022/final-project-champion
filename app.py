@@ -173,9 +173,9 @@ if page_selection == "Data Processing":
         )
 
         ###################################################################
-        shared_width=500
-        big_height=250
-        small_height=100
+        shared_width=600
+        big_height=400
+        small_height=150
 
         ####################################################################
         highlight = alt.selection(type='single', on='mouseover',fields=['roomtype'], nearest=True)
@@ -360,11 +360,13 @@ elif page_selection == "US National Wide":
     
     col1, col2, col3 = st.columns(3)
     with col1:
+        st.write("Housing Price and Index Data")
         metric_selection = st.radio(
         'View Metric',
         ('Rental Price','Crime')
         )
     with col2:
+        st.write("Estimated Rental Price Data")
         year_list = list(top10_rental_sum['Year'].unique())
         year_selection = st.selectbox(
         'Year', year_list,
