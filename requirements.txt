@@ -3,5 +3,5 @@ vega_datasets
 pyproj == 1.9.6
 click < 8.1
 descartes
-geopandas
+plotly
 colorama
