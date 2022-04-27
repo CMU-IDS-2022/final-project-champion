@@ -68,7 +68,7 @@ def cityyear(df,x,top):
 def n(df1,df2,df3,name):
   #df = df.loc[df['Neighborhood'].isin(name)]
   df1['emoji'] =[{'Trans': '🚌',}[Type] for Type in df1['Type'] ]
-  n1 = alt.Chart(df1).mark_text(filled = True).encode(
+  n1 = alt.Chart(df1).mark_text(filled = True,size=30).encode(
     alt.X('Year:O'),
     alt.Y('Trans:O'),
     #color='Trans',
@@ -77,10 +77,10 @@ def n(df1,df2,df3,name):
     text = 'emoji',
 ).transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=name)
-).properties(height=100, width=100)
+).properties(height=150, width=150)
 
   df2['emoji'] = [{'crime': '👮', }[Type] for Type in df2['Type']]
-  n2 = alt.Chart(df2).mark_text(filled = True).encode(
+  n2 = alt.Chart(df2).mark_text(filled = True,size=30).encode(
     x='Year:O',
     y='crime',
     #color='crime',
@@ -88,10 +88,10 @@ def n(df1,df2,df3,name):
     text='emoji',
 ).transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=name)
-).properties(height=100, width=100)
+).properties(height=150, width=150)
 
   df3['emoji'] = [{'income': '💰' }[Type] for Type in df3['Type']]
-  n3 = alt.Chart(df3).mark_text(filled = True).encode(
+  n3 = alt.Chart(df3).mark_text(filled = True,size=30).encode(
     x='Year:O',
     y='Income',
     #color='Income',
@@ -99,7 +99,7 @@ def n(df1,df2,df3,name):
     text='emoji'
 ).transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=name)
-).properties(height=100, width=100)
+).properties(height=150, width=150)
 
   return (n1 & n2 & n3)
 
@@ -129,4 +129,7 @@ def loadOthersNeighborhoodData(citySelection):
 
     figure2 = n(transdata, safedata, incomedata, neighborhoodSelections)
     st.write(figure2)
+
+
+
 
