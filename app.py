@@ -343,15 +343,21 @@ if page_selection == "Data Processing":
             size=alt.condition(~highlight2, alt.value(1), alt.value(3))
         )
         graph_rental_price=rental_points+rental_lines
+        graph_col1, graph_col2 = st.columns(2)
+        with graph_col1:
+            st.write(alt.vconcat(graph_housing_price, housing_index, graph_housing_unit_price))
+        with graph_col2:
+            st.write(alt.vconcat(graph_housing_unit_price2, rental_index, graph_rental_price))
 
-        st.write(alt.vconcat(graph_housing_price, housing_index, graph_housing_unit_price)|alt.vconcat(graph_housing_unit_price2, rental_index, graph_rental_price))
         raw_data = st.checkbox("Show raw dataset")
         if raw_data:
         
             raw_col1, raw_col2 = st.columns(2)
             with raw_col1:
+                st.write("Housing Price and Index Data")
                 st.write(top10_alldata_graph)
             with raw_col2:
+                st.write("Estimated Rental Price Data")
                 st.write(top10_rental)
     
 # Visualization Dashboard
@@ -360,13 +366,11 @@ elif page_selection == "US National Wide":
     
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.write("Housing Price and Index Data")
         metric_selection = st.radio(
         'View Metric',
         ('Rental Price','Crime')
         )
     with col2:
-        st.write("Estimated Rental Price Data")
         year_list = list(top10_rental_sum['Year'].unique())
         year_selection = st.selectbox(
         'Year', year_list,
