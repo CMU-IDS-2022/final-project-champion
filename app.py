@@ -172,17 +172,20 @@ if page_selection == "Data Processing":
         index=len(city_list)-3
         )
 
+        ###################################################################
         shared_width=500
         big_height=250
         small_height=100
-        highlight = alt.selection(type='single', on='mouseover',
-                          fields=['roomtype'], nearest=True)
-        
+
+        ####################################################################
+        highlight = alt.selection(type='single', on='mouseover',fields=['roomtype'], nearest=True)
+        brush = alt.selection(type='interval', encodings=['x'])
         df=top10_alldata_graph[top10_alldata_graph['City']==city_selection]
         price_base=alt.Chart(df).encode(
             x=alt.X("date:T", axis=alt.Axis(title=None)),
             y=alt.Y("housing_price:Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
-            color=alt.Color("roomtype:N"),
+            color=alt.condition(brush, alt.Color("roomtype:N"),alt.value("lightgray")) ,
+            # color="roomtype:N"
         )
         price_points = price_base.mark_circle().encode(
             opacity=alt.value(0),
@@ -197,16 +200,17 @@ if page_selection == "Data Processing":
             height=big_height,
             title="Housing Price for each Room Type"
         ).add_selection(
-            highlight
+            highlight,
+            brush
         )
 
         price_lines = price_base.mark_line().encode(
-            size=alt.condition(~highlight, alt.value(1), alt.value(3))
-        )
+            size=alt.condition(~highlight, alt.value(1), alt.value(3)),
+            # color=alt.condition(brush, alt.Color("roomtype:N"),alt.value("lightgray"))
+        ).transform_filter(brush)
         graph_housing_price=price_points+price_lines
 
         housing_index=alt.Chart(df).mark_line(
-            color="black",
             strokeDash=[5, 5],
             point={
                 "filled":True,
@@ -216,6 +220,7 @@ if page_selection == "Data Processing":
             ).encode(
             x=alt.X("date:T", axis=alt.Axis(title=None)),
             y=alt.Y("mean(housing_p_index):Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            color=alt.condition(brush,alt.value("black"),alt.value("lightgray")),
             tooltip=[
             'City',
             alt.Tooltip('yearmonth(date):T'),
@@ -226,13 +231,14 @@ if page_selection == "Data Processing":
             width=shared_width,
             height=small_height,
             title="Housing Price Index"
-        )
+        ).transform_filter(brush)
 
         price_over_index_base=alt.Chart(df).encode(
             x=alt.X("date:T", axis=alt.Axis(title=None)),
             y=alt.Y("housing_price_over_housing_index:Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            # color=alt.condition(brush, alt.Color("roomtype:N"),alt.value("lightgray")) ,
             color=alt.Color("roomtype:N")
-        )
+        ).transform_filter(brush)
 
         price_over_index_points = price_over_index_base.mark_circle().encode(
             opacity=alt.value(0),
@@ -251,42 +257,44 @@ if page_selection == "Data Processing":
         )
 
         price_over_index_lines = price_over_index_base.mark_line().encode(
-            size=alt.condition(~highlight, alt.value(1), alt.value(3))
+            size=alt.condition(~highlight, alt.value(1), alt.value(3)),
         )
         graph_housing_unit_price=price_over_index_points+price_over_index_lines
 
-
+        ##############################################
 
 
         highlight2 = alt.selection(type='single', on='mouseover',
                                 fields=['roomtype'], nearest=True)
+        brush2 = alt.selection(type='interval', encodings=['x'])
         city_selection = "San Francisco"
-
-        df2 = top10_rental[top10_rental['City']==city_selection]
-        rental_base=alt.Chart(df2).encode(
+        price_over_index_base2=alt.Chart(df).encode(
             x=alt.X("date:T", axis=alt.Axis(title=None)),
-            y=alt.Y("rental_price:Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
-            color=alt.Color("roomtype:N"),
+            y=alt.Y("housing_price_over_housing_index:Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            color=alt.condition(brush2, alt.Color("roomtype:N"),alt.value("lightgray")) ,
+            # color=alt.Color("roomtype:N")
         )
-        rental_points = rental_base.mark_circle().encode(
+
+        price_over_index_points2 = price_over_index_base2.mark_circle().encode(
             opacity=alt.value(0),
             tooltip=[
             'City',
             alt.Tooltip('yearmonth(date):T'),
             alt.Tooltip('roomtype',title="Room Type"),
-            alt.Tooltip('rental_price:Q',format='$,d',title="Rental Price")
+            alt.Tooltip('housing_price_over_housing_index:Q',format='.2f',title="Unit Housing Price")
             ],
         ).properties(
             width=shared_width,
             height=big_height,
-            title="Rental Price for each Room Type"
+            title="Housing unit Price for each Room Type-1"
         ).add_selection(
-            highlight
+            highlight2,
+            brush2
         )
-        rental_lines = rental_base.mark_line().encode(
-            size=alt.condition(~highlight, alt.value(1), alt.value(3))
-        )
-        graph_rental_price=rental_points+rental_lines
+        price_over_index_lines2 = price_over_index_base2.mark_line().encode(
+            size=alt.condition(~highlight2, alt.value(1), alt.value(3)),
+        ).transform_filter(brush2)
+        graph_housing_unit_price2=price_over_index_points2+price_over_index_lines2
 
         rental_index=alt.Chart(df).mark_line(
             color="red",
@@ -304,15 +312,50 @@ if page_selection == "Data Processing":
             alt.Tooltip('yearmonth(date):T'),
             alt.Tooltip('rental_p_index:Q',format='.2f',title="Rental Price Index")
             ],
-            
         ).properties(
             width=shared_width,
             height=small_height,
             title="Rental Price Index"
+        ).transform_filter(brush2)
+
+
+        df2 = top10_rental[top10_rental['City']==city_selection]
+        rental_base=alt.Chart(df2).encode(
+            x=alt.X("date:T", axis=alt.Axis(title=None)),
+            y=alt.Y("rental_price:Q",scale=alt.Scale(zero=False),axis=alt.Axis(title=None)),
+            color=alt.Color("roomtype:N"),
+        ).transform_filter(brush2)
+        rental_points = rental_base.mark_circle().encode(
+            opacity=alt.value(0),
+            tooltip=[
+            'City',
+            alt.Tooltip('yearmonth(date):T'),
+            alt.Tooltip('roomtype',title="Room Type"),
+            alt.Tooltip('rental_price:Q',format='$,d',title="Rental Price")
+            ],
+        ).properties(
+            width=shared_width,
+            height=big_height,
+            title="Rental Price for each Room Type"
         )
 
-        st.write(alt.vconcat(graph_housing_price, housing_index, graph_housing_unit_price)|alt.vconcat(graph_housing_unit_price, rental_index, graph_rental_price))
-    
+        rental_lines = rental_base.mark_line().encode(
+            size=alt.condition(~highlight2, alt.value(1), alt.value(3))
+        )
+        graph_rental_price=rental_points+rental_lines
+
+        st.write(alt.vconcat(graph_housing_price, housing_index, graph_housing_unit_price)|alt.vconcat(graph_housing_unit_price2, rental_index, graph_rental_price))
+        raw_data = st.checkbox("Show raw dataset")
+        if raw_data:
+            rawdata_selection = st.radio(
+                'rawdata:',
+                ('Housing Price and Index', 'Estimated Rental Price')
+            )
+            raw_col1, raw_col2, col3 = st.columns(2)
+            with raw_col1:
+                st.write(top10_alldata_graph)
+            with raw_col2:
+                st.write(top10_rental)
     
 # Visualization Dashboard
 elif page_selection == "US National Wide":
