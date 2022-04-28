@@ -262,9 +262,6 @@ def visualizeCityBedroomNeighborhood(df, neighborhoods):
       title='General price trend for rents'
   )
   # height = df
-  # TODO: add neighborhood names for world cloud
-    # check if it is possible to show world cloud for a specific neighborhood
-  # TODO: add world map graph
   st.altair_chart(line + getCovidMarkings() + getCovidText(4750))
 
 def visualizeWordTrend(df, mask):
@@ -274,26 +271,16 @@ def visualizeWordTrend(df, mask):
   for column in df.columns[2:]:
     freq[column] = df[column].iloc[-1]
   # st.write(freq)
-  wc = WordCloud(mask=mask, background_color="white", contour_width=3, contour_color='steelblue')
+  wc = WordCloud(width=100, height=100, mask=mask, background_color="white", contour_width=3, contour_color='steelblue')
   wordcloud = wc.generate_from_frequencies(freq)
   # Generate plot
   plt.figure()
-  plt.imshow(wordcloud, interpolation="bilinear")
+  plt.imshow(wordcloud)
   plt.axis("off")
-  st.pyplot(plt)
-
-  # show graph of all counts --> not useful at the moment cos there are too many
-  # neighborhoods = list(df.columns[2:])
-  # # st.write(neighborhoods)
-  # lineChart = alt.Chart(df).transform_fold(neighborhoods
-  #   ).mark_line().encode(
-  #   x=alt.X("date:T", title='Date (Jan 2018 to Mar 2022)', scale=alt.Scale(zero=False)),
-  #   y='value:Q',#alt.Y("TotalMeanPrices:Q", axis=alt.Axis(title='Average Price ($)'), scale=alt.Scale(zero=False)), # format='$', labelFlush=False,
-  #   color = "key:N",
-  # ).properties(
-  #   title=f"Searches of neighborhoods on Google from 2018 to March 2022"
-  # )
-  # st.altair_chart(lineChart)
+  col1, _, _ = st.columns(3)
+  # plt.subplot(1,3,1)
+  with col1:
+    st.pyplot(plt)
 
 ################## Specific functions section to call other graphs ##################
 def loadNeighborhoodData():
@@ -311,7 +298,6 @@ def loadNeighborhoodData():
     bedroomSelection = st.selectbox(
       'Wich bedroom type would you like to see?', bedroomTypes.keys()
     )
-    
 
   if metric_selection == 'Rental Price':
     trimmedCitySelection = citySelection.replace(' ', '')
@@ -333,17 +319,38 @@ def loadNeighborhoodData():
     # st.write(set(df['Neighborhood']))
 
     st.subheader("Specific neighborhood visualizations")
-    neighborhoodSelections = st.multiselect("Which neighborhood would you like to find out more?", set(df['Neighborhood']))
+    neighborhoodSelections = st.multiselect("Which neighborhood rental price would you like to find out more?", set(df['Neighborhood']))
     # st.write(neighborhoodSelections)
     visualizeCityBedroomNeighborhood(df, neighborhoodSelections)
 
-    if trimmedCitySelection == 'SanFrancisco':
-      st.subheader("Running out of ideas? Find out popular neighborhood based on Google trends")
+    # if trimmedCitySelection == 'SanFrancisco':
+    st.subheader("Running out of ideas? Find out popular neighborhood based on Google trends")
 
-      word_trend_df = pd.read_csv(f"data/{trimmedCitySelection}/googleTrends.csv")
-      mask = np.array(Image.open(f"data/generalMask.jpeg"))
-      # mask = np.array(Image.open(f"data/{trimmedCitySelection}/map.png"))
-      visualizeWordTrend(word_trend_df, mask)
+    word_trend_df = pd.read_csv(f"data/{trimmedCitySelection}/googleTrends.csv")
+    mapImage = Image.open(f"data/generalMask.jpeg")
+    # mapImage.resize((200,300), Image.NEAREST)
+    mask = np.array(mapImage)
+    # mask = np.array(Image.open(f"data/{trimmedCitySelection}/map.png"))
+    visualizeWordTrend(word_trend_df, mask)
+    neighborCheck = st.checkbox("Check popularity of neighborhood over time")
+    if neighborCheck:
+      # show graph of all counts --> not useful at the moment cos there are too many
+      neighborhoods = list(word_trend_df.columns[2:])
+
+      newNeighborhoodSelections = st.multiselect("Which neighborhood popularity would you like to find out more?", neighborhoods, default=neighborhoodSelections)
+      # st.write(neighborhoods)
+      lineChart = alt.Chart(word_trend_df).transform_fold(neighborhoods
+        ).mark_line().encode(
+        x=alt.X("date:T", title='Date (Jan 2018 to Mar 2022)', scale=alt.Scale(zero=False)),
+        y='value:Q',#alt.Y("TotalMeanPrices:Q", axis=alt.Axis(title='Average Price ($)'), scale=alt.Scale(zero=False)), # format='$', labelFlush=False,
+        color = "key:N",
+      ).transform_filter(
+        alt.FieldOneOfPredicate(field='key', oneOf=newNeighborhoodSelections)
+      ).properties(
+        title=f"Searches of neighborhoods on Google from 2018 to March 2022",
+        width=600, height=350
+      )
+      st.altair_chart(lineChart)
 
 
   elif metric_selection == 'Others':
