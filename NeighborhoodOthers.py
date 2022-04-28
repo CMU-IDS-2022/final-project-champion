@@ -109,7 +109,7 @@ def n(df1,df2,df3,name):
 
 
 
-def loadOthersNeighborhoodData(citySelection):
+def loadOthersNeighborhoodData(citySelection, multiNeighbors):
     st.header("other neighborhood data")
     Yearselection = st.selectbox("Which year would you like to see?", Year)
     topnumber = st.slider( 'Top N neighborhood you can check', 0, 20, 10)
@@ -125,7 +125,7 @@ def loadOthersNeighborhoodData(citySelection):
     st.write(figure1)
 
     st.subheader("Specific neighborhood visualizations")
-    neighborhoodSelections = st.multiselect("Which neighborhood would you like to see?", set(df['Neighborhood']))
+    neighborhoodSelections = st.multiselect("Which neighborhood would you like to see?", set(df['Neighborhood']), multiNeighbors)
 
     figure2 = n(transdata, safedata, incomedata, neighborhoodSelections)
     st.write(figure2)

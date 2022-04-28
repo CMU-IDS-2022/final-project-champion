@@ -289,7 +289,7 @@ def loadNeighborhoodData():
   with col1:
     metric_selection = st.radio(
       'View Metric',
-      ('Rental Price','Others')
+      ('Rental Price','Other Factors')
     )
   with col2:
     citySelection = st.selectbox("Which city would you like to see?", top10cities, index=list(top10cities).index('Pittsburgh'))
@@ -358,6 +358,7 @@ def loadNeighborhoodData():
       st.altair_chart(lineChart)
 
 
-  elif metric_selection == 'Others':
-    NeighborhoodOthers.loadOthersNeighborhoodData(citySelection)
+  elif metric_selection == 'Other Factors':
+    defaultNeighbors = ["Noe Valley", "Diamond Heights", "Crocker Amazon"] if citySelection == 'San Francisco' else []
+    NeighborhoodOthers.loadOthersNeighborhoodData(citySelection, defaultNeighbors)
 
