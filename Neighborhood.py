@@ -20,6 +20,8 @@ top10cities = set(["Boston", "Chicago", "Detroit", "Los Angeles", "New York", "P
 
 bedroomTypes = {"1 bedroom": "1br", "2 bedrooms" : "2br", "3 bedrooms" :"3br", "4 bedrooms" : "4br", "5 bedrooms" : "5br", "Condominium" : "condo"}
 
+pandemicYearData = ["All data from 2018 to 2022", "Pre-pandemic", "Pandemic", "Post-pandemic"]
+
 def readCsv(fileName):
   return pd.read_csv(fileName)
 
@@ -85,17 +87,10 @@ def getCovidText(height):
   return getPrepandemicText(height) + getPandemicText(height) + getPostpandemicText(height)
 
 
-def showGeneralNeighborhoodChart(df, value):
-  mostExNeighborhoods = getTopNeighborhoods(df, value)
+def showGeneralNeighborhoodChart(df, value, cost, topNeighborsChart):
   cheapestNeighborhoods = getBottomNeighborhoods(df, value)
+  mostExNeighborhoods = getTopNeighborhoods(df, value)
 
-  topNeighborsChart = alt.Chart(df).mark_line().encode(
-    x=alt.X('Date:T'),
-    y=alt.Y('Prices:Q', scale=alt.Scale(zero=False)),
-    color=alt.Color('Neighborhood'),
-    tooltip=['Neighborhood', 'Prices']
-  )
-  # TODO: change to luxury & cheapest
   topExNeighborhoods = topNeighborsChart.transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=mostExNeighborhoods)
   ).properties(
@@ -107,31 +102,42 @@ def showGeneralNeighborhoodChart(df, value):
   ).properties(
       title=f'Top {value} cheapest neighborhoods for rents'
   )
+
   # st.write(df)
   highest = max(df['Prices']) * 1.05
   lowest = min(df['Prices']) * 1.9
 
-  finalNeighborsChart = (topExNeighborhoods + getCovidMarkings() + getCovidText(highest)) | (topCheapNeighborhoods + getCovidMarkings() + getCovidText(lowest))
+  if cost == 'Cheapest':
+    st.altair_chart((topCheapNeighborhoods + getCovidMarkings() + getCovidText(lowest)).properties(width=800, height=450))
 
-  st.altair_chart(finalNeighborsChart)
+  elif cost == 'Most expensive':
+    st.altair_chart((topExNeighborhoods + getCovidMarkings() + getCovidText(highest)).properties(width=800, height=450))
 
-def showGeneralNeighborhoodPriceChart(df):
+  else:
+    finalNeighborsChart = (topExNeighborhoods + getCovidMarkings() + getCovidText(highest)) | (topCheapNeighborhoods + getCovidMarkings() + getCovidText(lowest))
+    st.altair_chart(finalNeighborsChart)
+
+def showGeneralNeighborhoodPriceChart(df, city):
   barChart = alt.Chart(df).mark_bar().encode(
-    alt.X("Date:T"),
-    alt.Y("MeanPriceChange:Q", axis=alt.Axis(format='.0%')),
+    alt.X("Date:T", title='Date (Jan 2018 to Mar 2022)'),
+    alt.Y("MeanPriceChange:Q", axis=alt.Axis(format='.0%', title='Average Price Changes (%)')),
     color=alt.condition(
         alt.datum.MeanPriceChange > 0,
         alt.value("red"),  # The positive color
         alt.value("green")  # The negative color
     )
-  ).properties().interactive() # width=600
+  ).properties(
+    title=f"Average price changes for {city} from 2018 to March 2022"
+  ).interactive() # width=600
 
   # st.write(df)
   lineChart = alt.Chart(df).mark_line().encode(
-    alt.X("Date:T"),
-    alt.Y("TotalMeanPrices:Q", scale=alt.Scale(zero=False)),
+    alt.X("Date:T", title='Date (Jan 2018 to Mar 2022)'),
+    alt.Y("TotalMeanPrices:Q", axis=alt.Axis(title='Average Price ($)'), scale=alt.Scale(zero=False)), # format='$', labelFlush=False,
     # color = "Neighborhood",
-  ).properties().interactive() # width=600
+  ).properties(
+    title=f"Average price for {city} from 2018 to March 2022"
+  ).interactive() # width=600
 
   # the band across lines are too huge to show any difference
   # band = alt.Chart(df).mark_area(
@@ -190,22 +196,38 @@ def visualizeCity(city):
 
 
 def visualizeCityBedroomType(city, bedroom):
-  df = readCsv(f"data/{city}/{bedroom}Rental")  
+  df = readCsv(f"data/{city}/{bedroom}Rental")
   # TODO: add this to data preprocessing column
   # first graph chart
   df['PriceChange'] = df.groupby('Neighborhood')['Prices'].pct_change()
   df['MeanPriceChange'] = df.groupby('Date')['PriceChange'].transform(np.mean)
   df['TotalMeanPrices'] = df.groupby('Date')['Prices'].transform(np.mean)
   # st.write(df)
-  showGeneralNeighborhoodPriceChart(df)
+  showGeneralNeighborhoodPriceChart(df, city)
   st.write("interesting trend where the housing rental prices in United States is always increasing.")
+  return df
+
+def visualizeTopCitiesGraph(df):
+  legendSelection = alt.selection_multi(fields=['Neighborhood'], bind='legend')
 
   # second graph chart
-  # TODO: show the same axis
-  value = st.slider("Select the number of neighborhoods to view", 1, len(pd.unique(df['Neighborhood'])), 5)
+  topNeighborsChart = alt.Chart(df).mark_line().encode(
+    x=alt.X('Date:T'),
+    y=alt.Y('Prices:Q', scale=alt.Scale(zero=False)),
+    color=alt.Color('Neighborhood'),
+    tooltip=['Neighborhood', 'Prices'],
+    opacity=alt.condition(legendSelection, alt.value(1), alt.value(0.2))
+  ).add_selection(legendSelection)
 
-  showGeneralNeighborhoodChart(df, value)
-  return df
+  col1, col2 = st.columns(2)
+  with col1:
+    sliderValue = st.slider("Select the number of neighborhoods to view", 1, len(pd.unique(df['Neighborhood'])), 10)
+
+  with col2:
+    cost = st.radio("Show top xx neighborhoods",
+      ("Cheapest", "Most expensive", "Both cheapest and most expensive"))
+
+  showGeneralNeighborhoodChart(df, sliderValue, cost, topNeighborsChart)
 
 
 def visualizeCityBedroomNeighborhood(df, neighborhoods):
@@ -230,20 +252,36 @@ def visualizeCityBedroomNeighborhood(df, neighborhoods):
 ################## Specific functions section to call other graphs ##################
 def loadNeighborhoodData():
 
-  citySelection = st.selectbox("Which city would you like to see?", top10cities)
-  metric_selection = st.radio(
-    'View Metric',
-    ('Rental Price','Others')
-  )
+  col1, col2, col3 = st.columns(3)
+  with col1:
+    metric_selection = st.radio(
+      'View Metric',
+      ('Rental Price','Others')
+    )
+  with col2:
+    citySelection = st.selectbox("Which city would you like to see?", top10cities, index=list(top10cities).index('San Francisco'))
+  
+  with col3:
+    bedroomSelection = st.selectbox(
+      'Wich bedroom type would you like to see?', bedroomTypes.keys()
+    )
+    
 
   if metric_selection == 'Rental Price':
-    citySelection = citySelection.replace(' ', '')
-    # visualizeCity(citySelection)
-    DrawGeoGraph.drawGeoGraph(citySelection)
+    trimmedCitySelection = citySelection.replace(' ', '')
 
-    st.subheader("General City Bedroom type visualizations")
-    bedroomSelection = st.selectbox("Which bedroom type would you like to see?", bedroomTypes.keys())
-    df = visualizeCityBedroomType(citySelection, bedroomTypes[bedroomSelection])
+    # bedroomCol, yearCol = st.columns(2)
+    # with bedroomCol:
+    #   bedroomSelection = st.selectbox("Which bedroom type would you like to see?", bedroomTypes)
+    # with yearCol:
+    #   yearTypeSelection = st.selectbox("What type of data year data would you like to see?", pandemicYearData)
+
+    # visualizeCity(trimmedCitySelection)
+    DrawGeoGraph.drawGeoGraph(trimmedCitySelection, bedroomSelection)
+
+    st.subheader(f"City level visualizations in {citySelection} based on {bedroomSelection}")
+    df = visualizeCityBedroomType(trimmedCitySelection, bedroomTypes[bedroomSelection])
+    visualizeTopCitiesGraph(df)
 
     st.subheader("Specific neighborhood visualizations")
     neighborhoodSelections = st.multiselect("Which neighborhood would you like to see?", set(df['Neighborhood']))
@@ -251,5 +289,5 @@ def loadNeighborhoodData():
     visualizeCityBedroomNeighborhood(df, neighborhoodSelections)
 
   elif metric_selection == 'Others':
-    NeighborhoodOthers.loadOthersNeighborhoodData(citySelection)
+    NeighborhoodOthers.loadOthersNeighborhoodData(trimmedCitySelection)
 

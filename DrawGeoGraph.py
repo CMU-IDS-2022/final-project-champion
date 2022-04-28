@@ -7,18 +7,24 @@ import plotly.express as px
 import geojson
 
 from urllib.request import urlopen
+import Neighborhood
 
 def addLatLonGeometry(df):
   df.loc[:, 'lon'] = df.geometry.centroid.x
   df.loc[:, 'lat'] = df.geometry.centroid.y
   return df
 
-
 city_neighborhood_mapping = {
   "Boston": "Neighborhood_ID",
   "SanFrancisco": "nhood",
   "NewYork": "ntaname",
   "Detroit": "name",
+  "Chicago": "pri_neigh",
+  "Philadelphia": "name",
+  "Los Angeles": "name",
+  "Pittsburgh": "hood",
+  "Seattle": "S_HOOD",
+  "Washington": "NBH_NAMES"
 }
 
 # def readGeoFile(fileName):
@@ -26,9 +32,9 @@ city_neighborhood_mapping = {
 #   return addLatLonGeometry(geoJson)
 
 
-def drawGeoGraph(city):
+def drawGeoGraph(city, bedroomSelection):
   # st.write(city)
-  featureName = city_neighborhood_mapping[city]
+  featureName = city_neighborhood_mapping.get(city, '')
   # st.write(featureName)
 
   geoFileName = f"GeojsonData/{city}Neighborhoods.geojson"
@@ -56,7 +62,7 @@ def drawGeoGraph(city):
 
   # st.write(neighborhoods)
 
-  df1 = pd.read_csv(f'data/{city}/1brRental')
+  df1 = pd.read_csv(f'data/{city}/{Neighborhood.bedroomTypes[bedroomSelection]}Rental')
   # neighborhoods = findNeighborhoods(sfHousingData)
   # st.write(len(set(df1['Neighborhood'])))
   # st.write(df1['Neighborhood'])
