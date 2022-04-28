@@ -67,6 +67,7 @@ def drawGeoGraph(city, bedroomSelection):
   # st.write(len(set(df1['Neighborhood'])))
   # st.write(df1['Neighborhood'])
 
+  # code to check mappings
 
   # missingGeoListA = sorted(set(df1['Neighborhood']).difference(set(neighborhoods)))
   # missingGeoListB = sorted(set(neighborhoods).difference(set(df1['Neighborhood'])))
