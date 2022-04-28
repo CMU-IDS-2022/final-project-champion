@@ -354,5 +354,5 @@ def loadNeighborhoodData():
 
 
   elif metric_selection == 'Others':
-    NeighborhoodOthers.loadOthersNeighborhoodData(trimmedCitySelection)
+    NeighborhoodOthers.loadOthersNeighborhoodData(citySelection)
 
