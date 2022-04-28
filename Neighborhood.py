@@ -337,6 +337,10 @@ def loadNeighborhoodData():
       # show graph of all counts --> not useful at the moment cos there are too many
       neighborhoods = list(word_trend_df.columns[2:])
 
+      for neigh in neighborhoodSelections:
+        if neigh not in neighborhoods:
+          neighborhoodSelections.remove(neigh)
+
       newNeighborhoodSelections = st.multiselect("Which neighborhood popularity would you like to find out more?", neighborhoods, default=neighborhoodSelections)
       # st.write(neighborhoods)
       lineChart = alt.Chart(word_trend_df).transform_fold(neighborhoods
@@ -348,7 +352,7 @@ def loadNeighborhoodData():
         alt.FieldOneOfPredicate(field='key', oneOf=newNeighborhoodSelections)
       ).properties(
         title=f"Searches of neighborhoods on Google from 2018 to March 2022",
-        width=600, height=350
+        width=800, height=350
       )
       st.altair_chart(lineChart)
 
