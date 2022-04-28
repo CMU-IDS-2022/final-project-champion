@@ -161,10 +161,27 @@ if page_selection == "Data Processing":
     )
     st.latex(r'''
              \widehat{\text{Rental Price}} = \text{House Price} * \frac{\text{Index}_{\text{rental}}}{\text{Index}_{\text{housing(fcst)}}}  \\
-             \\
-             \widehat{\text{Rental Price}} = \frac{\text{House Price}}{\text{Index}_{\text{rental}}} * \text{Index}_{\text{housing(fcst)}}
+            ''')
+    st.markdown(
+        '''
+        We define **House Price** / **Index_{housing(fcst)}**  as **Unit Housing Price** according to room type.
+        
+        '''
+    )
+    st.latex(r'''
+             \widehat{\text{Rental Price}} = {\text{Unit Housing Price}} * \text{Index}_{\text{housing(fcst)}}
+             
+             '''
+             )
+            # \\
+            # \text{We define } \frac{\text{House Price}}{\text{Index}_{\text{rental}}} \text{as Unit Housing Price according to room type} \\
+            # \text{So,}
+            # {\text{House Unit Price}} = \frac{\text{House Price}}{\text{Index}_{\text{rental}}} \\
+            # \text{Finally,}
+            # \\
+            #  \widehat{\text{Rental Price}} = {\text{House Unit Price}} * \text{Index}_{\text{housing(fcst)}}
 
-             ''')
+            #  ''')
     show_data = st.checkbox("Show data validation process")
     if show_data:
         # show selected city's room type graph
@@ -253,7 +270,7 @@ if page_selection == "Data Processing":
         ).properties(
             width=shared_width,
             height=big_height,
-            title="Housing unit Price for each Room Type"
+            title="Unit Housing Price for each Room Type"
         ).add_selection(
             highlight
         )
@@ -288,7 +305,7 @@ if page_selection == "Data Processing":
         ).properties(
             width=shared_width,
             height=big_height,
-            title="Housing unit Price for each Room Type-1"
+            title="Unit Housing Price for each Room Type"
         ).add_selection(
             highlight2,
             brush2
@@ -483,11 +500,12 @@ elif page_selection == "US National Wide":
                 index=len(city_list)-3
                 )
             with s2:
-                roomtypes = list(top10_rental_sum['Room Type'].unique())
-                roomtype_select = st.selectbox(
-                    'Room', roomtypes,
-                    index=0
-                )
+                st.write("")
+                # roomtypes = list(top10_rental_sum['Room Type'].unique())
+                # roomtype_select = st.selectbox(
+                #     'Room', roomtypes,
+                #     index=0
+                # )
 
             # room trend type of city
             df = top10_rental[top10_rental['City']==city_selection]
