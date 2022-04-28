@@ -6,3 +6,4 @@ descartes
 plotly
 colorama
 geojson
+wordcloud
