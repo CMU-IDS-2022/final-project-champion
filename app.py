@@ -169,7 +169,7 @@ if page_selection == "Data Processing":
         '''
     )
     st.latex(r'''
-             \widehat{\text{Rental Price}} = {\text{Unit Housing Price}} * \text{Index}_{\text{housing(fcst)}}
+             \widehat{\text{Rental Price}} = {\text{Unit Housing Price}} * \text{Index}_{\text{rental}}
              
              '''
              )
