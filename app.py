@@ -121,11 +121,14 @@ st.title("Find Your Next Destination after CMU")
 # =========================== Part 2 =============================== 
 # visualization for national wide view
 # side bar
-st.sidebar.header("Select View Level")
+st.sidebar.header("Select Level")
 page_selection = st.sidebar.radio(
-    'View Level',
+    'Select Page',
     ('Introduction', 'Data Processing', 'US National Wide', 'City Wide')
 )
+
+def setPageSelection(selection):
+    page_selection = selection
 
 # Data process and validate the assumption
 if page_selection == "Data Processing":
@@ -745,7 +748,14 @@ elif page_selection == "US National Wide":
             st.write(bar_medianincome)
 
 elif page_selection == "Introduction":
-    IntroStory.showStory()
+  IntroStory.showStory()
+  col1, col2, col3 = st.columns([1,5,1])
+  with col1:
+    st.write("")
+  with col2:
+    st.write("Head to the next tab to find out more!")
+  with col3:
+    st.write("")
 
 # draw neighborhood level data
 elif page_selection == "City Wide":
