@@ -13,6 +13,8 @@ import DrawGeoGraph
 from vega_datasets import data
 from altair import datum
 from collections import defaultdict
+from wordcloud import WordCloud
+from PIL import Image
 
 alt.data_transformers.enable('default', max_rows=None)
 
@@ -256,7 +258,7 @@ def visualizeCityBedroomNeighborhood(df, neighborhoods):
   ).transform_filter(
       alt.FieldOneOfPredicate(field='Neighborhood', oneOf=neighborhoods)
   ).properties(
-      width=600, height=300,
+      width=800, height=450,
       title='General price trend for rents'
   )
   # height = df
@@ -264,6 +266,34 @@ def visualizeCityBedroomNeighborhood(df, neighborhoods):
     # check if it is possible to show world cloud for a specific neighborhood
   # TODO: add world map graph
   st.altair_chart(line + getCovidMarkings() + getCovidText(4750))
+
+def visualizeWordTrend(df, mask):
+  # st.write(df)
+
+  freq = {}
+  for column in df.columns[2:]:
+    freq[column] = df[column].iloc[-1]
+  # st.write(freq)
+  wc = WordCloud(mask=mask, background_color="white", contour_width=3, contour_color='steelblue')
+  wordcloud = wc.generate_from_frequencies(freq)
+  # Generate plot
+  plt.figure()
+  plt.imshow(wordcloud, interpolation="bilinear")
+  plt.axis("off")
+  st.pyplot(plt)
+
+  # show graph of all counts --> not useful at the moment cos there are too many
+  # neighborhoods = list(df.columns[2:])
+  # # st.write(neighborhoods)
+  # lineChart = alt.Chart(df).transform_fold(neighborhoods
+  #   ).mark_line().encode(
+  #   x=alt.X("date:T", title='Date (Jan 2018 to Mar 2022)', scale=alt.Scale(zero=False)),
+  #   y='value:Q',#alt.Y("TotalMeanPrices:Q", axis=alt.Axis(title='Average Price ($)'), scale=alt.Scale(zero=False)), # format='$', labelFlush=False,
+  #   color = "key:N",
+  # ).properties(
+  #   title=f"Searches of neighborhoods on Google from 2018 to March 2022"
+  # )
+  # st.altair_chart(lineChart)
 
 ################## Specific functions section to call other graphs ##################
 def loadNeighborhoodData():
@@ -307,8 +337,14 @@ def loadNeighborhoodData():
     # st.write(neighborhoodSelections)
     visualizeCityBedroomNeighborhood(df, neighborhoodSelections)
 
-    st.subheader("Find out popular neighborhood based on Google trends")
-    
+    if trimmedCitySelection == 'SanFrancisco':
+      st.subheader("Running out of ideas? Find out popular neighborhood based on Google trends")
+
+      word_trend_df = pd.read_csv(f"data/{trimmedCitySelection}/googleTrends.csv")
+      mask = np.array(Image.open(f"data/generalMask.jpeg"))
+      # mask = np.array(Image.open(f"data/{trimmedCitySelection}/map.png"))
+      visualizeWordTrend(word_trend_df, mask)
+
 
   elif metric_selection == 'Others':
     NeighborhoodOthers.loadOthersNeighborhoodData(trimmedCitySelection)
