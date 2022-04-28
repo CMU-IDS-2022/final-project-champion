@@ -112,7 +112,7 @@ def n(df1,df2,df3,name):
 def loadOthersNeighborhoodData(citySelection):
     st.header("other neighborhood data")
     Yearselection = st.selectbox("Which year would you like to see?", Year)
-    topnumber = st.slider( 'Top N neighborhood you can check', 0, 20)
+    topnumber = st.slider( 'Top N neighborhood you can check', 0, 20, 10)
 
     df = file(citySelection)
     safedata = safe(citySelection)

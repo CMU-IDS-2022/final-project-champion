@@ -292,7 +292,7 @@ def loadNeighborhoodData():
       ('Rental Price','Others')
     )
   with col2:
-    citySelection = st.selectbox("Which city would you like to see?", top10cities, index=list(top10cities).index('San Francisco'))
+    citySelection = st.selectbox("Which city would you like to see?", top10cities, index=list(top10cities).index('Pittsburgh'))
   
   with col3:
     bedroomSelection = st.selectbox(
