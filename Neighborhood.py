@@ -118,9 +118,12 @@ def showGeneralNeighborhoodChart(df, value, cost, topNeighborsChart):
     st.altair_chart(finalNeighborsChart)
 
 def showGeneralNeighborhoodPriceChart(df, city):
+
+  brush = alt.selection(type='interval', encodings=['x'])
+
   barChart = alt.Chart(df).mark_bar().encode(
-    alt.X("Date:T", title='Date (Jan 2018 to Mar 2022)'),
-    alt.Y("MeanPriceChange:Q", axis=alt.Axis(format='.0%', title='Average Price Changes (%)')),
+    x=alt.X("Date:T", title='Date (Jan 2018 to Mar 2022)'),
+    y=alt.Y("MeanPriceChange:Q", axis=alt.Axis(format='.0%', title='Average Price Changes (%)')),
     color=alt.condition(
         alt.datum.MeanPriceChange > 0,
         alt.value("red"),  # The positive color
@@ -128,16 +131,18 @@ def showGeneralNeighborhoodPriceChart(df, city):
     )
   ).properties(
     title=f"Average price changes for {city} month by month"
-  ).interactive() # width=600
+  ).add_selection(brush)
+  # .interactive() # width=600
 
   # st.write(df)
   lineChart = alt.Chart(df).mark_line().encode(
-    alt.X("Date:T", title='Date (Jan 2018 to Mar 2022)'),
-    alt.Y("TotalMeanPrices:Q", axis=alt.Axis(title='Average Price ($)'), scale=alt.Scale(zero=False)), # format='$', labelFlush=False,
+    x=alt.X("Date:T", title='Date (Jan 2018 to Mar 2022)', scale=alt.Scale(domain=brush)),
+    y=alt.Y("TotalMeanPrices:Q", axis=alt.Axis(title='Average Price ($)'), scale=alt.Scale(zero=False)), # format='$', labelFlush=False,
     # color = "Neighborhood",
   ).properties(
     title=f"Average price for {city} from 2018 to March 2022"
-  ).interactive() # width=600
+  )
+  # .interactive() # width=600
 
   # the band across lines are too huge to show any difference
   # band = alt.Chart(df).mark_area(
@@ -148,7 +153,18 @@ def showGeneralNeighborhoodPriceChart(df, city):
   #   y2="max(MeanPrices):Q",
   # )
 
-  st.altair_chart(barChart + getCovidMarkings() | lineChart + getCovidMarkings() )
+  interactData = st.checkbox("Select area to zoom in price graph")
+  if interactData:
+    st.altair_chart(barChart.add_selection(brush) + getCovidMarkings() + getCovidText(0.025) | lineChart)
+  else:
+    st.altair_chart(barChart.add_selection(brush) + getCovidMarkings() + getCovidText(0.025) | getCovidMarkings() + lineChart)
+
+  # st.altair_chart(barChart.add_selection(brush)
+  #   + getCovidMarkings() | 
+  #   lineChart + getCovidMarkings())
+
+
+  # st.altair_chart(barChart + getCovidMarkings() | lineChart + getCovidMarkings() )
 
 
 ################## neighborhood level section ##################
@@ -205,7 +221,6 @@ def visualizeCityBedroomType(city, bedroom):
   df['TotalMeanPrices'] = df.groupby('Date')['Prices'].transform(np.mean)
   # st.write(df)
   showGeneralNeighborhoodPriceChart(df, city)
-  st.write("interesting trend where the housing rental prices in United States is always increasing.")
   return df
 
 def visualizeTopCitiesGraph(df):
@@ -291,6 +306,9 @@ def loadNeighborhoodData():
     neighborhoodSelections = st.multiselect("Which neighborhood would you like to find out more?", set(df['Neighborhood']))
     # st.write(neighborhoodSelections)
     visualizeCityBedroomNeighborhood(df, neighborhoodSelections)
+
+    st.subheader("Find out popular neighborhood based on Google trends")
+    
 
   elif metric_selection == 'Others':
     NeighborhoodOthers.loadOthersNeighborhoodData(trimmedCitySelection)
