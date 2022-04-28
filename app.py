@@ -115,7 +115,7 @@ st.set_page_config(
     
 )
 
-st.title("Find Your Next Destination after CMU")
+st.title("City Explorer for Your Next Home After Graduation")
 
 
 # =========================== Part 2 =============================== 
