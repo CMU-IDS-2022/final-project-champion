@@ -1,0 +1,438 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+435,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-01,343181.0,97723.04761266774,2018,01
+641,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-01,308730.0,197101.38084454372,2018,01
+643,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-01,282110.0,169910.4642305369,2018,01
+644,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-01,182868.0,103313.84413799549,2018,01
+1090,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,331176.0,97723.04761266774,2018,02
+1138,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,207847.0,119721.10465260656,2018,02
+1296,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,310992.0,197101.38084454372,2018,02
+1298,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,281082.0,169910.4642305369,2018,02
+1299,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,178760.0,103313.84413799549,2018,02
+1745,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,337835.0,97723.04761266774,2018,03
+1793,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,209288.0,119721.10465260656,2018,03
+1951,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,318719.0,197101.38084454372,2018,03
+1953,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,292215.0,169910.4642305369,2018,03
+1954,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,180496.0,103313.84413799549,2018,03
+2400,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,348732.0,97723.04761266774,2018,04
+2448,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,209651.0,119721.10465260656,2018,04
+2606,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,325005.0,197101.38084454372,2018,04
+2608,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,298626.0,169910.4642305369,2018,04
+2609,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,183051.0,103313.84413799549,2018,04
+3055,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,358857.0,97723.04761266774,2018,05
+3103,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,209850.0,119721.10465260656,2018,05
+3261,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,334313.0,197101.38084454372,2018,05
+3263,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,310114.0,169910.4642305369,2018,05
+3264,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,188737.0,103313.84413799549,2018,05
+3710,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,361033.0,97723.04761266774,2018,06
+3758,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,210198.0,119721.10465260656,2018,06
+3916,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,337596.0,197101.38084454372,2018,06
+3918,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,315365.0,169910.4642305369,2018,06
+3919,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,196612.0,103313.84413799549,2018,06
+4365,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,363369.0,97723.04761266774,2018,07
+4413,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,210002.0,119721.10465260656,2018,07
+4571,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,340747.0,197101.38084454372,2018,07
+4573,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,317192.0,169910.4642305369,2018,07
+4574,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,202947.0,103313.84413799549,2018,07
+5020,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,360504.0,97723.04761266774,2018,08
+5068,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,209185.0,119721.10465260656,2018,08
+5226,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,344906.0,197101.38084454372,2018,08
+5228,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,313037.0,169910.4642305369,2018,08
+5229,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,202235.0,103313.84413799549,2018,08
+5675,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,359568.0,97723.04761266774,2018,09
+5723,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,209936.0,119721.10465260656,2018,09
+5735,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,179429.0,83077.3948892166,2018,09
+5881,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,354025.0,197101.38084454372,2018,09
+5883,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,311060.0,169910.4642305369,2018,09
+5884,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,197699.0,103313.84413799549,2018,09
+6330,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,361037.0,97723.04761266774,2018,10
+6378,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,214345.0,119721.10465260656,2018,10
+6390,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,181513.0,83077.3948892166,2018,10
+6536,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,360410.0,197101.38084454372,2018,10
+6538,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,311754.0,169910.4642305369,2018,10
+6539,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,195075.0,103313.84413799549,2018,10
+6985,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,361208.0,97723.04761266774,2018,11
+7033,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,217638.0,119721.10465260656,2018,11
+7045,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,179156.0,83077.3948892166,2018,11
+7191,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,361673.0,197101.38084454372,2018,11
+7193,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,310295.0,169910.4642305369,2018,11
+7194,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,191893.0,103313.84413799549,2018,11
+7640,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,356133.0,97723.04761266774,2018,12
+7688,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,218802.0,119721.10465260656,2018,12
+7700,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,174307.0,83077.3948892166,2018,12
+7846,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,356901.0,197101.38084454372,2018,12
+7848,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,305939.0,169910.4642305369,2018,12
+7849,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,187527.0,103313.84413799549,2018,12
+8295,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,348392.0,97723.04761266774,2019,01
+8343,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,217389.0,119721.10465260656,2019,01
+8355,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,167781.0,83077.3948892166,2019,01
+8501,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,352626.0,197101.38084454372,2019,01
+8503,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,300400.0,169910.4642305369,2019,01
+8504,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,182902.0,103313.84413799549,2019,01
+8950,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,350048.0,97723.04761266774,2019,02
+8998,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,219122.0,119721.10465260656,2019,02
+9010,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,162955.0,83077.3948892166,2019,02
+9156,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,351947.0,197101.38084454372,2019,02
+9158,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,299668.0,169910.4642305369,2019,02
+9159,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,185137.0,103313.84413799549,2019,02
+9605,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,346343.0,97723.04761266774,2019,03
+9653,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,221104.0,119721.10465260656,2019,03
+9665,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,162502.0,83077.3948892166,2019,03
+9811,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,351711.0,197101.38084454372,2019,03
+9813,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,300636.0,169910.4642305369,2019,03
+9814,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,187244.0,103313.84413799549,2019,03
+10260,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,337305.0,97723.04761266774,2019,04
+10308,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,222085.0,119721.10465260656,2019,04
+10320,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,161340.0,83077.3948892166,2019,04
+10466,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,355041.0,197101.38084454372,2019,04
+10468,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,303641.0,169910.4642305369,2019,04
+10469,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,187255.0,103313.84413799549,2019,04
+10915,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,326687.0,97723.04761266774,2019,05
+10963,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,219243.0,119721.10465260656,2019,05
+10975,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,162278.0,83077.3948892166,2019,05
+11121,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,357026.0,197101.38084454372,2019,05
+11123,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,309410.0,169910.4642305369,2019,05
+11124,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,185822.0,103313.84413799549,2019,05
+11570,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,324810.0,97723.04761266774,2019,06
+11618,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,220189.0,119721.10465260656,2019,06
+11630,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,161546.0,83077.3948892166,2019,06
+11776,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,361550.0,197101.38084454372,2019,06
+11778,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,308501.0,169910.4642305369,2019,06
+11779,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,185357.0,103313.84413799549,2019,06
+12225,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,326862.0,97723.04761266774,2019,07
+12273,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,222133.0,119721.10465260656,2019,07
+12285,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,164534.0,83077.3948892166,2019,07
+12431,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,361355.0,197101.38084454372,2019,07
+12433,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,308183.0,169910.4642305369,2019,07
+12434,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,183989.0,103313.84413799549,2019,07
+12880,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,327798.0,97723.04761266774,2019,08
+12928,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,226884.0,119721.10465260656,2019,08
+12940,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,166759.0,83077.3948892166,2019,08
+13086,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,360550.0,197101.38084454372,2019,08
+13088,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,303744.0,169910.4642305369,2019,08
+13089,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,179500.0,103313.84413799549,2019,08
+13535,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,323327.0,97723.04761266774,2019,09
+13583,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,229516.0,119721.10465260656,2019,09
+13595,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,168554.0,83077.3948892166,2019,09
+13741,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,358502.0,197101.38084454372,2019,09
+13743,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,306557.0,169910.4642305369,2019,09
+13744,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,174247.0,103313.84413799549,2019,09
+14190,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,317562.0,97723.04761266774,2019,10
+14238,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,233199.0,119721.10465260656,2019,10
+14250,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,167376.0,83077.3948892166,2019,10
+14268,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,135176.0,36106.74681763096,2019,10
+14359,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,230573.0,60853.971074326866,2019,10
+14396,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,356182.0,197101.38084454372,2019,10
+14398,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,308551.0,169910.4642305369,2019,10
+14399,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,170342.0,103313.84413799549,2019,10
+14845,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,310009.0,97723.04761266774,2019,11
+14893,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,229954.0,119721.10465260656,2019,11
+14905,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,170517.0,83077.3948892166,2019,11
+14923,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,138599.0,36106.74681763096,2019,11
+15014,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,238672.0,60853.971074326866,2019,11
+15051,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,362264.0,197101.38084454372,2019,11
+15053,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,309836.0,169910.4642305369,2019,11
+15054,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,171699.0,103313.84413799549,2019,11
+15500,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,306168.0,97723.04761266774,2019,12
+15548,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,224237.0,119721.10465260656,2019,12
+15560,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,175873.0,83077.3948892166,2019,12
+15577,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,357972.0,9925.011951405695,2019,12
+15578,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,140532.0,36106.74681763096,2019,12
+15669,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,242444.0,60853.971074326866,2019,12
+15706,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,366148.0,197101.38084454372,2019,12
+15708,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,306651.0,169910.4642305369,2019,12
+15709,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,172272.0,103313.84413799549,2019,12
+16155,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,304569.0,97723.04761266774,2020,01
+16203,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,216828.0,119721.10465260656,2020,01
+16215,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,183559.0,83077.3948892166,2020,01
+16232,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,351144.0,9925.011951405695,2020,01
+16233,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,143446.0,36106.74681763096,2020,01
+16324,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,248525.0,60853.971074326866,2020,01
+16361,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,373969.0,197101.38084454372,2020,01
+16363,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,305241.0,169910.4642305369,2020,01
+16364,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,176257.0,103313.84413799549,2020,01
+16367,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,403103.0,66511.43937220243,2020,01
+16810,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,304422.0,97723.04761266774,2020,02
+16858,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,215213.0,119721.10465260656,2020,02
+16870,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,189207.0,83077.3948892166,2020,02
+16887,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,352385.0,9925.011951405695,2020,02
+16888,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,147054.0,36106.74681763096,2020,02
+16979,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,249434.0,60853.971074326866,2020,02
+17016,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,373695.0,197101.38084454372,2020,02
+17018,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,305901.0,169910.4642305369,2020,02
+17019,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,178111.0,103313.84413799549,2020,02
+17022,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,401679.0,66511.43937220243,2020,02
+17465,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,304408.0,97723.04761266774,2020,03
+17513,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,214077.0,119721.10465260656,2020,03
+17525,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,192561.0,83077.3948892166,2020,03
+17542,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,361922.0,9925.011951405695,2020,03
+17543,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,149910.0,36106.74681763096,2020,03
+17634,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,249514.0,60853.971074326866,2020,03
+17671,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,375424.0,197101.38084454372,2020,03
+17673,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,304551.0,169910.4642305369,2020,03
+17674,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,179867.0,103313.84413799549,2020,03
+17677,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,401290.0,66511.43937220243,2020,03
+18120,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,306134.0,97723.04761266774,2020,04
+18168,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,215251.0,119721.10465260656,2020,04
+18180,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,194739.0,83077.3948892166,2020,04
+18197,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,368185.0,9925.011951405695,2020,04
+18198,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,153175.0,36106.74681763096,2020,04
+18289,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,250192.0,60853.971074326866,2020,04
+18326,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,380596.0,197101.38084454372,2020,04
+18328,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,303463.0,169910.4642305369,2020,04
+18329,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,180754.0,103313.84413799549,2020,04
+18332,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,398993.0,66511.43937220243,2020,04
+18775,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,7536.419662449541,97723.04761266774,2020,05
+18823,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,5314.9309728279995,119721.10465260656,2020,05
+18835,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,4760.559558962966,83077.3948892166,2020,05
+18852,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,9228.580310459727,9925.011951405695,2020,05
+18853,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,3749.2320320754193,36106.74681763096,2020,05
+18944,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,5999.913580581365,60853.971074326866,2020,05
+18981,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,9338.614932408633,197101.38084454372,2020,05
+18983,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,7263.529894617071,169910.4642305369,2020,05
+18984,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,4428.332132311109,103313.84413799549,2020,05
+18987,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,9619.364316094598,66511.43937220243,2020,05
+19430,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,7559.627909474061,97723.04761266774,2020,06
+19478,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,5397.287712421797,119721.10465260656,2020,06
+19490,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,4839.302263147993,83077.3948892166,2020,06
+19507,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,9564.295685790199,9925.011951405695,2020,06
+19508,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,3779.471932132397,36106.74681763096,2020,06
+19599,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,5879.393003839015,60853.971074326866,2020,06
+19636,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,9466.843673655645,197101.38084454372,2020,06
+19638,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,7189.19299846974,169910.4642305369,2020,06
+19639,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,4562.386104324937,103313.84413799549,2020,06
+19642,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,9556.575746999897,66511.43937220243,2020,06
+20085,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,6480.201700008278,97723.04761266774,2020,07
+20133,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,4769.883537977379,119721.10465260656,2020,07
+20145,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,4386.292174404488,83077.3948892166,2020,07
+20162,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,8565.073287397274,9925.011951405695,2020,07
+20163,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,3298.0606161321975,36106.74681763096,2020,07
+20254,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,5005.97574988481,60853.971074326866,2020,07
+20291,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,8235.560692954323,197101.38084454372,2020,07
+20293,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,6165.723981607352,169910.4642305369,2020,07
+20294,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,4090.996150755903,103313.84413799549,2020,07
+20297,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,8298.103225400706,66511.43937220243,2020,07
+20740,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,6785.068335652136,97723.04761266774,2020,08
+20788,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,5093.904182889306,119721.10465260656,2020,08
+20800,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,4873.417137943836,83077.3948892166,2020,08
+20817,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,9215.972250268376,9925.011951405695,2020,08
+20818,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,3517.5307189706814,36106.74681763096,2020,08
+20909,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,5276.374671455035,60853.971074326866,2020,08
+20946,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,8864.863640963214,197101.38084454372,2020,08
+20948,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,6490.883512774999,169910.4642305369,2020,08
+20949,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,4482.248554284593,103313.84413799549,2020,08
+20952,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,8946.577904794212,66511.43937220243,2020,08
+21395,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,6839.963707154263,97723.04761266774,2020,09
+21443,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,5203.1819378085565,119721.10465260656,2020,09
+21455,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,5132.000671748335,83077.3948892166,2020,09
+21472,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,9234.584435899123,9925.011951405695,2020,09
+21473,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,3580.5270522520095,36106.74681763096,2020,09
+21564,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,5391.18341868656,60853.971074326866,2020,09
+21601,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,9179.694656789306,197101.38084454372,2020,09
+21603,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,6638.359404305083,169910.4642305369,2020,09
+21604,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,4630.883647272521,103313.84413799549,2020,09
+21607,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,9254.20257612891,66511.43937220243,2020,09
+22050,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,6612.117478111857,97723.04761266774,2020,10
+22098,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,5044.098861800357,119721.10465260656,2020,10
+22110,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,4976.776596606113,83077.3948892166,2020,10
+22127,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,8757.096650289344,9925.011951405695,2020,10
+22128,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,3461.7851930742354,36106.74681763096,2020,10
+22219,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,5186.459223232209,60853.971074326866,2020,10
+22256,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,8981.18361872161,197101.38084454372,2020,10
+22258,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,6368.139840417655,169910.4642305369,2020,10
+22259,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,4477.520798131533,103313.84413799549,2020,10
+22262,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,8974.997839159932,66511.43937220243,2020,10
+22705,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,6650.187516985899,97723.04761266774,2020,11
+22753,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,5129.854346029979,119721.10465260656,2020,11
+22765,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,4956.422196734403,83077.3948892166,2020,11
+22782,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,8727.601148383445,9925.011951405695,2020,11
+22783,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,3464.042258792932,36106.74681763096,2020,11
+22874,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,5241.013146269966,60853.971074326866,2020,11
+22911,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,9183.814482518641,197101.38084454372,2020,11
+22913,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,6382.516777137709,169910.4642305369,2020,11
+22914,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,4517.477942589412,103313.84413799549,2020,11
+22917,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,8987.836589902518,66511.43937220243,2020,11
+23360,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,6345.760370456494,97723.04761266774,2020,12
+23408,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,4948.45832878944,119721.10465260656,2020,12
+23420,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,4736.694292901424,83077.3948892166,2020,12
+23437,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,8343.761538050632,9925.011951405695,2020,12
+23438,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,3260.4193053829044,36106.74681763096,2020,12
+23529,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,4981.7997257779125,60853.971074326866,2020,12
+23566,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,8846.36514459194,197101.38084454372,2020,12
+23568,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,6020.061086890331,169910.4642305369,2020,12
+23569,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,4324.143234903135,103313.84413799549,2020,12
+23572,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,8501.132931836224,66511.43937220243,2020,12
+24015,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,6237.40322398164,97723.04761266774,2021,01
+24063,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,4864.066510589125,119721.10465260656,2021,01
+24075,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,4615.530890401153,83077.3948892166,2021,01
+24092,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,8215.570243337477,9925.011951405695,2021,01
+24093,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,3186.495799997784,36106.74681763096,2021,01
+24184,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,4840.411596726557,60853.971074326866,2021,01
+24221,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,8658.155669514012,197101.38084454372,2021,01
+24223,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,5826.105893956099,169910.4642305369,2021,01
+24224,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,4358.070012797808,103313.84413799549,2021,01
+24227,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,8358.414118141185,66511.43937220243,2021,01
+24670,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,6597.341805781208,97723.04761266774,2021,02
+24718,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,5128.631661163832,119721.10465260656,2021,02
+24730,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,4835.577113584645,83077.3948892166,2021,02
+24747,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,8702.18052154598,9925.011951405695,2021,02
+24748,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,3367.471119239524,36106.74681763096,2021,02
+24839,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,5087.570275418571,60853.971074326866,2021,02
+24876,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,9019.213585103247,197101.38084454372,2021,02
+24878,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,6126.81290753542,169910.4642305369,2021,02
+24879,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,4598.396049804946,103313.84413799549,2021,02
+24882,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,8828.697921663163,66511.43937220243,2021,02
+25325,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,6575.307943458776,97723.04761266774,2021,03
+25373,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,5081.6341176383685,119721.10465260656,2021,03
+25385,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,4689.626440775914,83077.3948892166,2021,03
+25402,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,8708.668141412041,9925.011951405695,2021,03
+25403,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,3347.002196485404,36106.74681763096,2021,03
+25494,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,5074.483235387427,60853.971074326866,2021,03
+25531,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,8814.04632885212,197101.38084454372,2021,03
+25533,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,5857.310190342839,169910.4642305369,2021,03
+25534,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,4541.588835437673,103313.84413799549,2021,03
+25537,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,8565.220214080135,66511.43937220243,2021,03
+25980,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,6393.8975285644265,97723.04761266774,2021,04
+26028,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,4895.438382968503,119721.10465260656,2021,04
+26040,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,4468.494248389837,83077.3948892166,2021,04
+26057,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,8572.393807874467,9925.011951405695,2021,04
+26058,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,3183.7515627050457,36106.74681763096,2021,04
+26149,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,4978.8837997556875,60853.971074326866,2021,04
+26186,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,8583.4403543798,197101.38084454372,2021,04
+26188,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,5493.809278182135,169910.4642305369,2021,04
+26189,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,4339.806869455148,103313.84413799549,2021,04
+26192,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,8036.900246397382,66511.43937220243,2021,04
+26635,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,6067.993268236939,97723.04761266774,2021,05
+26683,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,4665.438476812901,119721.10465260656,2021,05
+26695,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,4204.514006343611,83077.3948892166,2021,05
+26712,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,8218.394120827721,9925.011951405695,2021,05
+26713,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,2999.2967966734436,36106.74681763096,2021,05
+26804,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,4749.197968307281,60853.971074326866,2021,05
+26841,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,8241.197656124135,197101.38084454372,2021,05
+26843,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,5081.048934171084,169910.4642305369,2021,05
+26844,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,4131.231319820757,103313.84413799549,2021,05
+26847,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,7460.694001838107,66511.43937220243,2021,05
+27290,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,6227.506790673369,97723.04761266774,2021,06
+27338,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,4854.215795865608,119721.10465260656,2021,06
+27350,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,4322.31847567932,83077.3948892166,2021,06
+27367,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,8444.783806789344,9925.011951405695,2021,06
+27368,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,3073.516071763686,36106.74681763096,2021,06
+27459,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,4903.843382436987,60853.971074326866,2021,06
+27496,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,8613.137141618294,197101.38084454372,2021,06
+27498,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,5308.100265759496,169910.4642305369,2021,06
+27499,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,4374.109459485678,103313.84413799549,2021,06
+27502,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,7693.133817467186,66511.43937220243,2021,06
+27945,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,6493.088411445032,97723.04761266774,2021,07
+27993,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,5156.143343377259,119721.10465260656,2021,07
+28005,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,4524.0107344019825,83077.3948892166,2021,07
+28022,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,8660.214805865067,9925.011951405695,2021,07
+28023,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,3214.5918035987543,36106.74681763096,2021,07
+28114,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,5167.552840104083,60853.971074326866,2021,07
+28142,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,6568.596422041227,6149.989143751194,2021,07
+28151,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,8997.28891884208,197101.38084454372,2021,07
+28153,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,5589.21994494194,169910.4642305369,2021,07
+28154,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,4526.490217561632,103313.84413799549,2021,07
+28157,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,8100.975127591044,66511.43937220243,2021,07
+28161,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,5229.404322360022,4877.005036660672,2021,07
+28600,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,6429.62533418289,97723.04761266774,2021,08
+28648,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,5153.077349600789,119721.10465260656,2021,08
+28660,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,4621.021549636075,83077.3948892166,2021,08
+28677,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,8299.673080690582,9925.011951405695,2021,08
+28678,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,3208.7848157237036,36106.74681763096,2021,08
+28769,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,5153.000926762529,60853.971074326866,2021,08
+28797,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,6546.437642462991,6149.989143751194,2021,08
+28806,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,8856.871994442768,197101.38084454372,2021,08
+28808,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,5597.055828471086,169910.4642305369,2021,08
+28809,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,4421.080299038879,103313.84413799549,2021,08
+28812,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,8112.513549792337,66511.43937220243,2021,08
+28816,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,5082.004110019177,4877.005036660672,2021,08
+29255,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,6119.735825538008,97723.04761266774,2021,09
+29303,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,4920.510113616774,119721.10465260656,2021,09
+29315,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,4535.24357734037,83077.3948892166,2021,09
+29332,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,7967.081883522013,9925.011951405695,2021,09
+29333,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,3151.7463733735585,36106.74681763096,2021,09
+29424,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,4976.21240666456,60853.971074326866,2021,09
+29452,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,6333.06219231422,6149.989143751194,2021,09
+29461,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,8428.5416586556,197101.38084454372,2021,09
+29463,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,5349.29464063457,169910.4642305369,2021,09
+29464,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,4074.408638222497,103313.84413799549,2021,09
+29467,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,7884.401376619345,66511.43937220243,2021,09
+29471,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,4903.860071551023,4877.005036660672,2021,09
+29910,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,5903.159734220451,97723.04761266774,2021,10
+29958,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,4744.690126839787,119721.10465260656,2021,10
+29970,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,4499.497032128196,83077.3948892166,2021,10
+29987,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,7931.625925186828,9925.011951405695,2021,10
+29988,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,3181.245322395392,36106.74681763096,2021,10
+30079,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,4834.660680371853,60853.971074326866,2021,10
+30107,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,6181.275014721708,6149.989143751194,2021,10
+30116,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,8215.162416216155,197101.38084454372,2021,10
+30118,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,5175.6404617648295,169910.4642305369,2021,10
+30119,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,3956.568183050514,103313.84413799549,2021,10
+30122,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,7769.994866926108,66511.43937220243,2021,10
+30126,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,4874.817130541692,4877.005036660672,2021,10
+30565,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,5840.154022964527,97723.04761266774,2021,11
+30613,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,4600.04833548713,119721.10465260656,2021,11
+30625,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,4469.782894437026,83077.3948892166,2021,11
+30642,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,8242.898751176232,9925.011951405695,2021,11
+30643,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,3157.8225410443292,36106.74681763096,2021,11
+30734,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,4758.12504861419,60853.971074326866,2021,11
+30762,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,6097.807876918845,6149.989143751194,2021,11
+30771,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,8171.36375505492,197101.38084454372,2021,11
+30773,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,4967.597560841318,169910.4642305369,2021,11
+30774,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,3970.387638495793,103313.84413799549,2021,11
+30777,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,7688.7866821640555,66511.43937220243,2021,11
+30781,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,4877.450678936706,4877.005036660672,2021,11
+31220,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,5746.614676985713,97723.04761266774,2021,12
+31268,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,4446.924737964706,119721.10465260656,2021,12
+31280,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,4370.477459538281,83077.3948892166,2021,12
+31297,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,8216.89279118987,9925.011951405695,2021,12
+31298,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,3031.5983766599747,36106.74681763096,2021,12
+31389,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,4603.491660695955,60853.971074326866,2021,12
+31417,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,5913.905597728067,6149.989143751194,2021,12
+31426,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,8031.205558746796,197101.38084454372,2021,12
+31428,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,4729.955527916934,169910.4642305369,2021,12
+31429,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,4033.2749625910533,103313.84413799549,2021,12
+31432,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,7427.972050045006,66511.43937220243,2021,12
+31436,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,4738.903687029094,4877.005036660672,2021,12
+31872,269987,2296,Elmwood Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,3213.9560350919837,3213.7125979008583,2022,01
+31875,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,5909.457889019903,97723.04761266774,2022,01
+31923,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4477.307039075637,119721.10465260656,2022,01
+31935,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4402.662318751464,83077.3948892166,2022,01
+31952,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,8504.568255613352,9925.011951405695,2022,01
+31953,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,3016.8312614190936,36106.74681763096,2022,01
+32044,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4685.4238357414215,60853.971074326866,2022,01
+32051,270084,7603,Woodbridge,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4498.75106491439,4529.261797164355,2022,01
+32072,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,5916.652350978802,6149.989143751194,2022,01
+32081,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,8213.079316247104,197101.38084454372,2022,01
+32083,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4694.743538278978,169910.4642305369,2022,01
+32084,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4295.982209704735,103313.84413799549,2022,01
+32087,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,7517.150126760362,66511.43937220243,2022,01
+32091,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,4739.234230392849,4877.005036660672,2022,01
+32527,269987,2296,Elmwood Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,3191.5575806054035,3213.7125979008583,2022,02
+32530,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,5931.396271692163,97723.04761266774,2022,02
+32578,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4476.870441691728,119721.10465260656,2022,02
+32590,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4268.964902864415,83077.3948892166,2022,02
+32607,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,8546.041927002543,9925.011951405695,2022,02
+32608,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,2988.010793507249,36106.74681763096,2022,02
+32699,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4702.5223268449,60853.971074326866,2022,02
+32706,270084,7603,Woodbridge,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4494.616788017587,4529.261797164355,2022,02
+32727,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,5875.701110708474,6149.989143751194,2022,02
+32736,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,8237.936988306126,197101.38084454372,2022,02
+32738,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4639.752842618252,169910.4642305369,2022,02
+32739,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4525.093456854003,103313.84413799549,2022,02
+32742,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,7504.352153635245,66511.43937220243,2022,02
+32746,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,4745.072046105731,4877.005036660672,2022,02
+33182,269987,2296,Elmwood Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,3235.6241780051887,3213.7125979008583,2022,03
+33185,270028,2346,Midtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,6028.853768577354,97723.04761266774,2022,03
+33233,270010,3251,Jefferson Chalmers,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4522.63631709119,119721.10465260656,2022,03
+33245,274112,3468,Islandview,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4352.793699591823,83077.3948892166,2022,03
+33262,269977,3813,Downtown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,8759.842679773721,9925.011951405695,2022,03
+33263,270015,3849,Lafayette Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,3091.1705855291316,36106.74681763096,2022,03
+33354,269950,7419,Art Center,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4787.639726247096,60853.971074326866,2022,03
+33361,270084,7603,Woodbridge,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4594.417538561088,4529.261797164355,2022,03
+33382,270009,9657,Jefferies,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,5916.464085886413,6149.989143751194,2022,03
+33390,273341,11304,Conner Creek Ind,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,5678.684421387298,5678.684421387298,2022,03
+33391,276225,11412,Brush Park,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,8389.840887021754,197101.38084454372,2022,03
+33393,270055,11639,Rivertown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4755.8204457464435,169910.4642305369,2022,03
+33394,270079,11689,West Side Industrial,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4690.574320875801,103313.84413799549,2022,03
+33397,269972,12652,Corktown,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,7655.86566602783,66511.43937220243,2022,03
+33401,270020,14297,Marina District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,4702.29905300976,4877.005036660672,2022,03

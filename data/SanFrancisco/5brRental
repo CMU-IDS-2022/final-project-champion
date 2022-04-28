@@ -1,0 +1,1084 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+72,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,6301.382732690363,6657.376165793178,2018,01
+150,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,8362.660742235546,8702.152530318146,2018,01
+167,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,12822.395938746295,12204.419296307711,2018,01
+180,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,6626.173010519227,6794.279390141023,2018,01
+199,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,4921.0029431978155,5161.47985303341,2018,01
+200,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,33645.13103796326,34694.26066118544,2018,01
+254,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,4801.166821498475,5130.118489540027,2018,01
+257,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,3801.9721334400356,4160.814595644426,2018,01
+260,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,12046.723404408378,14162.954052046553,2018,01
+276,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,4107.077570499109,4380.643298492428,2018,01
+294,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,8115.362494038741,8321.673803046002,2018,01
+300,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,25010.002777542944,23045.198939202462,2018,01
+302,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,5608.790281827519,5665.282721728305,2018,01
+327,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,4086.341131684687,4482.301030447333,2018,01
+336,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,5033.140139066742,5088.154303591814,2018,01
+440,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,30705.108533909864,31316.909021919077,2018,01
+513,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-01,19349.0854714738,22027.504395836302,2018,01
+594,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,6284.706031234693,6657.376165793178,2018,02
+672,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,8440.676454962279,8702.152530318146,2018,02
+689,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,12746.360697891234,12204.419296307711,2018,02
+702,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,6616.2490546794415,6794.279390141023,2018,02
+721,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,4909.484590671809,5161.47985303341,2018,02
+722,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,33275.25703015453,34694.26066118544,2018,02
+776,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,4793.509341158233,5130.118489540027,2018,02
+779,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,3822.1885933967387,4160.814595644426,2018,02
+782,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,11930.919108705411,14162.954052046553,2018,02
+798,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,4058.137845741984,4380.643298492428,2018,02
+816,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,8064.098042436973,8321.673803046002,2018,02
+822,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,24737.010234011555,23045.198939202462,2018,02
+824,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,5604.062720489431,5665.282721728305,2018,02
+849,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,4099.539386750207,4482.301030447333,2018,02
+858,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,5001.995672663925,5088.154303591814,2018,02
+962,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,30371.33348222468,31316.909021919077,2018,02
+1035,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-02,19167.571699809665,22027.504395836302,2018,02
+1116,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,6353.692600556226,6657.376165793178,2018,03
+1194,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,8521.57957664772,8702.152530318146,2018,03
+1211,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,12741.06183774153,12204.419296307711,2018,03
+1224,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,6682.938941191953,6794.279390141023,2018,03
+1243,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,4947.180975567408,5161.47985303341,2018,03
+1244,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,33408.26453909531,34694.26066118544,2018,03
+1298,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,4791.207150099653,5130.118489540027,2018,03
+1301,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,3855.664847993975,4160.814595644426,2018,03
+1304,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,11936.06958621289,14162.954052046553,2018,03
+1320,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,4042.1208963942636,4380.643298492428,2018,03
+1338,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,8074.207575647624,8321.673803046002,2018,03
+1344,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,24514.791319896147,23045.198939202462,2018,03
+1346,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,5619.503589078006,5665.282721728305,2018,03
+1371,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,4095.5089445978856,4482.301030447333,2018,03
+1380,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,4999.343872165062,5088.154303591814,2018,03
+1484,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,30411.337013540855,31316.909021919077,2018,03
+1557,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-03,19265.1557392726,22027.504395836302,2018,03
+1638,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,6381.298069613472,6657.376165793178,2018,04
+1716,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,8614.361146171,8702.152530318146,2018,04
+1733,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,12693.268732900151,12204.419296307711,2018,04
+1746,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,6684.562381286472,6794.279390141023,2018,04
+1765,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,4975.819554150143,5161.47985303341,2018,04
+1766,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,33472.56024201018,34694.26066118544,2018,04
+1820,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,4783.198120702475,5130.118489540027,2018,04
+1823,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,3879.487967792345,4160.814595644426,2018,04
+1826,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,11987.017326449317,14162.954052046553,2018,04
+1842,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,4032.3989535054825,4380.643298492428,2018,04
+1860,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,8137.794999070716,8321.673803046002,2018,04
+1866,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,24527.919966366375,23045.198939202462,2018,04
+1868,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,5638.0532655718025,5665.282721728305,2018,04
+1893,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,4067.59828251576,4482.301030447333,2018,04
+1902,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,5030.445977025506,5088.154303591814,2018,04
+2006,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,30452.861107683693,31316.909021919077,2018,04
+2079,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-04,19205.80440188271,22027.504395836302,2018,04
+2160,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,6473.652879630046,6657.376165793178,2018,05
+2238,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,8715.215367137382,8702.152530318146,2018,05
+2255,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,12673.258992907306,12204.419296307711,2018,05
+2268,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,6786.142307070517,6794.279390141023,2018,05
+2287,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,5053.377563812277,5161.47985303341,2018,05
+2288,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,33449.15822816341,34694.26066118544,2018,05
+2342,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,4825.073261424496,5130.118489540027,2018,05
+2345,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,3955.265397947203,4160.814595644426,2018,05
+2348,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,12069.348674786113,14162.954052046553,2018,05
+2364,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,4060.1889365604143,4380.643298492428,2018,05
+2382,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,8250.409321122552,8321.673803046002,2018,05
+2388,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,24874.06346747608,23045.198939202462,2018,05
+2390,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,5669.4913125566345,5665.282721728305,2018,05
+2415,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,4120.08589634852,4482.301030447333,2018,05
+2424,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,5070.321415206386,5088.154303591814,2018,05
+2528,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,30465.890515477146,31316.909021919077,2018,05
+2601,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,19157.783682615314,22027.504395836302,2018,05
+2602,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-05,12721.438433747515,12892.479201184382,2018,05
+2682,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,6551.584711111057,6657.376165793178,2018,06
+2760,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,8834.177044076718,8702.152530318146,2018,06
+2777,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,12724.489743182405,12204.419296307711,2018,06
+2790,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,6890.854404906712,6794.279390141023,2018,06
+2809,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,5105.951773024981,5161.47985303341,2018,06
+2810,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,33560.20512101749,34694.26066118544,2018,06
+2864,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,4872.305276079481,5130.118489540027,2018,06
+2867,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,4050.658841695288,4160.814595644426,2018,06
+2870,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,12177.160466875968,14162.954052046553,2018,06
+2886,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,4047.1097248252795,4380.643298492428,2018,06
+2904,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,8343.337877951253,8321.673803046002,2018,06
+2910,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,25427.089568669682,23045.198939202462,2018,06
+2912,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,5713.098456578022,5665.282721728305,2018,06
+2937,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,4198.682894151828,4482.301030447333,2018,06
+2946,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,5123.767600313076,5088.154303591814,2018,06
+3050,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,30515.173756452212,31316.909021919077,2018,06
+3123,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,19195.82004907039,22027.504395836302,2018,06
+3124,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-06,12832.90786956769,12892.479201184382,2018,06
+3204,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,6627.665672711351,6657.376165793178,2018,07
+3282,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,8916.88669525103,8702.152530318146,2018,07
+3299,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,12685.471811040874,12204.419296307711,2018,07
+3312,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,6960.291171602086,6794.279390141023,2018,07
+3331,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,5160.666316368147,5161.47985303341,2018,07
+3332,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,34106.874726367576,34694.26066118544,2018,07
+3386,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,4920.617062168459,5130.118489540027,2018,07
+3389,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,4076.6885780346624,4160.814595644426,2018,07
+3392,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,12435.643376063963,14162.954052046553,2018,07
+3408,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,4031.0116544877155,4380.643298492428,2018,07
+3426,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,8316.170882128949,8321.673803046002,2018,07
+3432,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,25281.167779158724,23045.198939202462,2018,07
+3434,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,5753.784743212166,5665.282721728305,2018,07
+3459,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,4244.405232599184,4482.301030447333,2018,07
+3468,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,5155.0914424781,5088.154303591814,2018,07
+3572,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,31007.07815292066,31316.909021919077,2018,07
+3645,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,19710.472266354063,22027.504395836302,2018,07
+3646,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-07,12718.47284192886,12892.479201184382,2018,07
+3726,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,6717.955664206638,6657.376165793178,2018,08
+3804,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,9110.267136094919,8702.152530318146,2018,08
+3821,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,12842.299358320664,12204.419296307711,2018,08
+3834,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,7044.701956032834,6794.279390141023,2018,08
+3853,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,5275.226646766339,5161.47985303341,2018,08
+3854,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,35462.72185590298,34694.26066118544,2018,08
+3908,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,5016.026943507576,5130.118489540027,2018,08
+3911,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,4104.441548597527,4160.814595644426,2018,08
+3914,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,12902.737157381,14162.954052046553,2018,08
+3925,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,10098.246776581234,9781.367785903847,2018,08
+3930,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,4070.225123563368,4380.643298492428,2018,08
+3948,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,8419.476779405293,8321.673803046002,2018,08
+3954,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,25522.042651479045,23045.198939202462,2018,08
+3956,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,5861.389532851515,5665.282721728305,2018,08
+3981,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,4290.103984282877,4482.301030447333,2018,08
+3990,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,5243.99434273516,5088.154303591814,2018,08
+4094,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,32437.761773383114,31316.909021919077,2018,08
+4167,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,20827.163968292076,22027.504395836302,2018,08
+4168,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-08,12577.93914505675,12892.479201184382,2018,08
+4248,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,6731.532043870488,6657.376165793178,2018,09
+4326,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,9118.197514655893,8702.152530318146,2018,09
+4343,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,12819.692948216849,12204.419296307711,2018,09
+4356,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,7025.331552215653,6794.279390141023,2018,09
+4375,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,5367.7323558363105,5161.47985303341,2018,09
+4376,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,36509.756661291096,34694.26066118544,2018,09
+4430,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,5034.305584054604,5130.118489540027,2018,09
+4433,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,4073.596002526287,4160.814595644426,2018,09
+4436,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,13185.63555727202,14162.954052046553,2018,09
+4447,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,10369.838668487982,9781.367785903847,2018,09
+4452,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,4070.1175465917245,4380.643298492428,2018,09
+4470,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,8439.815697307182,8321.673803046002,2018,09
+4476,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,25560.202973745614,23045.198939202462,2018,09
+4478,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,5874.44125532246,5665.282721728305,2018,09
+4503,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,4284.519319693801,4482.301030447333,2018,09
+4512,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,5279.444395729047,5088.154303591814,2018,09
+4616,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,33588.04964560671,31316.909021919077,2018,09
+4689,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,21809.97147068762,22027.504395836302,2018,09
+4690,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-09,12315.96127537025,12892.479201184382,2018,09
+4770,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,6672.695042477359,6657.376165793178,2018,10
+4848,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,8986.84047507877,8702.152530318146,2018,10
+4865,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,12921.44526201875,12204.419296307711,2018,10
+4878,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,6920.287554419684,6794.279390141023,2018,10
+4897,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,5389.612317701075,5161.47985303341,2018,10
+4898,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,36755.194592086846,34694.26066118544,2018,10
+4952,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,5052.946183030409,5130.118489540027,2018,10
+4955,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,4058.8030334419277,4160.814595644426,2018,10
+4958,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,13277.679921783347,14162.954052046553,2018,10
+4969,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,10306.472552858697,9781.367785903847,2018,10
+4974,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,4043.714365612001,4380.643298492428,2018,10
+4992,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,8406.519465944071,8321.673803046002,2018,10
+4998,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,25594.65482724592,23045.198939202462,2018,10
+5000,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,5862.334484670144,5665.282721728305,2018,10
+5025,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,4301.69132131237,4482.301030447333,2018,10
+5034,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,5243.0521793470925,5088.154303591814,2018,10
+5138,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,33892.61815264408,31316.909021919077,2018,10
+5211,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,22136.313463392715,22027.504395836302,2018,10
+5212,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-10,12101.904362322448,12892.479201184382,2018,10
+5292,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,6628.2734052677815,6657.376165793178,2018,11
+5370,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,8910.810455625982,8702.152530318146,2018,11
+5387,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,13000.30579120736,12204.419296307711,2018,11
+5400,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,6802.1265885936355,6794.279390141023,2018,11
+5419,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,5413.5509120922925,5161.47985303341,2018,11
+5420,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,36805.07372772682,34694.26066118544,2018,11
+5474,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,5059.266800903308,5130.118489540027,2018,11
+5477,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,4075.239202922878,4160.814595644426,2018,11
+5480,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,13313.257937572776,14162.954052046553,2018,11
+5491,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,10197.123284695552,9781.367785903847,2018,11
+5496,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,4026.2773529156852,4380.643298492428,2018,11
+5514,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,8309.232251597952,8321.673803046002,2018,11
+5520,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,25279.857929714148,23045.198939202462,2018,11
+5522,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,5861.020359391897,5665.282721728305,2018,11
+5547,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,4312.989410040792,4482.301030447333,2018,11
+5556,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,5212.483849778976,5088.154303591814,2018,11
+5660,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,33827.72090329717,31316.909021919077,2018,11
+5733,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,22156.0784676725,22027.504395836302,2018,11
+5734,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-11,12037.910503395467,12892.479201184382,2018,11
+5814,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,6578.102679701321,6657.376165793178,2018,12
+5892,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,8913.508895281799,8702.152530318146,2018,12
+5909,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,13084.622833440088,12204.419296307711,2018,12
+5922,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,6706.386022113003,6794.279390141023,2018,12
+5941,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,5425.9314167138555,5161.47985303341,2018,12
+5942,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,37165.09655586517,34694.26066118544,2018,12
+5996,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,5163.543578345972,5130.118489540027,2018,12
+5999,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,4122.425193598711,4160.814595644426,2018,12
+6002,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,13478.330484241586,14162.954052046553,2018,12
+6013,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,10116.063764190092,9781.367785903847,2018,12
+6018,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,4070.752591121543,4380.643298492428,2018,12
+6036,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,8259.57801840528,8321.673803046002,2018,12
+6042,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,25208.533609594844,23045.198939202462,2018,12
+6044,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,5930.928700225089,5665.282721728305,2018,12
+6069,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,4377.7517359626245,4482.301030447333,2018,12
+6078,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,5215.058344510119,5088.154303591814,2018,12
+6182,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,34131.1707049797,31316.909021919077,2018,12
+6255,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,22236.547237547817,22027.504395836302,2018,12
+6256,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2018-12,12094.639656104233,12892.479201184382,2018,12
+6336,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,6524.4614215526035,6657.376165793178,2019,01
+6414,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,8925.633619381484,8702.152530318146,2019,01
+6431,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,12997.867243900613,12204.419296307711,2019,01
+6444,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,6648.402851636925,6794.279390141023,2019,01
+6463,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,5438.0232449518035,5161.47985303341,2019,01
+6464,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,37134.151275404074,34694.26066118544,2019,01
+6518,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,5269.688567580184,5130.118489540027,2019,01
+6521,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,4190.750210253286,4160.814595644426,2019,01
+6524,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,13577.009569236554,14162.954052046553,2019,01
+6535,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,10075.760440713557,9781.367785903847,2019,01
+6540,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,4044.7953525095736,4380.643298492428,2019,01
+6558,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,8178.889400610955,8321.673803046002,2019,01
+6564,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,24857.246219509863,23045.198939202462,2019,01
+6566,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,5946.8257897198455,5665.282721728305,2019,01
+6591,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,4458.919221658317,4482.301030447333,2019,01
+6600,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,5212.505249636843,5088.154303591814,2019,01
+6704,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,34163.22461175908,31316.909021919077,2019,01
+6777,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,22394.082743824263,22027.504395836302,2019,01
+6778,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-01,12035.321894367902,12892.479201184382,2019,01
+6858,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,6547.186428878359,6657.376165793178,2019,02
+6936,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,8887.789434403572,8702.152530318146,2019,02
+6953,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,13013.858896125146,12204.419296307711,2019,02
+6966,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,6669.658581158648,6794.279390141023,2019,02
+6985,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,5481.73927458774,5161.47985303341,2019,02
+6986,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,37159.27587291948,34694.26066118544,2019,02
+7040,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,5418.678604165241,5130.118489540027,2019,02
+7043,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,4260.468777445938,4160.814595644426,2019,02
+7046,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,13759.456168288227,14162.954052046553,2019,02
+7057,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,10129.859558579667,9781.367785903847,2019,02
+7062,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,4096.715179527394,4380.643298492428,2019,02
+7080,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,8196.432713990709,8321.673803046002,2019,02
+7086,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,24674.482018068167,23045.198939202462,2019,02
+7088,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,6016.55104006644,5665.282721728305,2019,02
+7113,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,4596.807308723435,4482.301030447333,2019,02
+7122,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,5245.424403641244,5088.154303591814,2019,02
+7226,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,34141.34832391107,31316.909021919077,2019,02
+7299,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,22627.14889312694,22027.504395836302,2019,02
+7300,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-02,12088.714816517573,12892.479201184382,2019,02
+7380,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,6604.075678845682,6657.376165793178,2019,03
+7458,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,8918.386234955899,8702.152530318146,2019,03
+7475,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,13089.4053143017,12204.419296307711,2019,03
+7488,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,6701.913586713931,6794.279390141023,2019,03
+7507,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,5552.69836838584,5161.47985303341,2019,03
+7508,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,37239.90524919663,34694.26066118544,2019,03
+7562,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,5515.016410778551,5130.118489540027,2019,03
+7565,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,4408.79279510575,4160.814595644426,2019,03
+7568,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,13992.059992674423,14162.954052046553,2019,03
+7579,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,10203.707107039223,9781.367785903847,2019,03
+7584,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,4227.836787423119,4380.643298492428,2019,03
+7602,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,8206.679760498291,8321.673803046002,2019,03
+7608,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,24511.841182192795,23045.198939202462,2019,03
+7610,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,6111.780710611437,5665.282721728305,2019,03
+7635,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,4766.303888267151,4482.301030447333,2019,03
+7644,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,5331.796106091716,5088.154303591814,2019,03
+7748,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,34138.629444900325,31316.909021919077,2019,03
+7821,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,22915.785913102925,22027.504395836302,2019,03
+7822,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-03,12107.530281206411,12892.479201184382,2019,03
+7902,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,6618.043238452283,6657.376165793178,2019,04
+7980,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,8807.149717198055,8702.152530318146,2019,04
+7997,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,13101.848674042625,12204.419296307711,2019,04
+8010,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,6671.97147770684,6794.279390141023,2019,04
+8029,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,5571.406639490094,5161.47985303341,2019,04
+8030,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,36856.17928969422,34694.26066118544,2019,04
+8084,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,5499.188747892619,5130.118489540027,2019,04
+8087,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,4473.855096454435,4160.814595644426,2019,04
+8090,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,13999.26719546774,14162.954052046553,2019,04
+8101,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,10178.468871922392,9781.367785903847,2019,04
+8106,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,4351.265703322368,4380.643298492428,2019,04
+8124,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,8158.163141511182,8321.673803046002,2019,04
+8130,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,24241.618674805097,23045.198939202462,2019,04
+8132,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,6128.547678227062,5665.282721728305,2019,04
+8157,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,4837.68050653409,4482.301030447333,2019,04
+8166,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,5368.458960316122,5088.154303591814,2019,04
+8270,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,33877.46954135708,31316.909021919077,2019,04
+8343,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,22865.123698382897,22027.504395836302,2019,04
+8344,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-04,12050.497242570724,12892.479201184382,2019,04
+8424,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,6745.603783740522,6657.376165793178,2019,05
+8502,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,8958.840993865404,8702.152530318146,2019,05
+8519,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,13304.714610627574,12204.419296307711,2019,05
+8532,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,6785.718748383611,6794.279390141023,2019,05
+8551,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,5682.008478257793,5161.47985303341,2019,05
+8552,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,37244.455090578886,34694.26066118544,2019,05
+8606,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,5563.366578110545,5130.118489540027,2019,05
+8609,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,4594.109559290356,4160.814595644426,2019,05
+8612,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,14235.775371132413,14162.954052046553,2019,05
+8623,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,10271.372361542259,9781.367785903847,2019,05
+8628,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,4489.545741074456,4380.643298492428,2019,05
+8646,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,8244.95735373537,8321.673803046002,2019,05
+8652,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,24488.543471713783,23045.198939202462,2019,05
+8654,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,6243.708809596079,5665.282721728305,2019,05
+8679,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,4940.419021509641,4482.301030447333,2019,05
+8688,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,5467.628052116123,5088.154303591814,2019,05
+8792,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,34422.15918425311,31316.909021919077,2019,05
+8865,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,23337.78516003675,22027.504395836302,2019,05
+8866,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-05,12209.511740550593,12892.479201184382,2019,05
+8946,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,6878.2810617938685,6657.376165793178,2019,06
+9024,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,9082.246778162913,8702.152530318146,2019,06
+9041,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,13494.166586529547,12204.419296307711,2019,06
+9054,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,6954.280929448507,6794.279390141023,2019,06
+9073,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,5708.697520126654,5161.47985303341,2019,06
+9074,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,37304.179205148546,34694.26066118544,2019,06
+9128,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,5578.37125734082,5130.118489540027,2019,06
+9131,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,4649.536420121902,4160.814595644426,2019,06
+9134,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,14404.4866838316,14162.954052046553,2019,06
+9145,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,10384.261135786366,9781.367785903847,2019,06
+9150,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,4594.913180239727,4380.643298492428,2019,06
+9168,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,8300.563211987272,8321.673803046002,2019,06
+9174,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,24762.10790606852,23045.198939202462,2019,06
+9176,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,6298.881970603056,5665.282721728305,2019,06
+9201,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,4959.476591461985,4482.301030447333,2019,06
+9210,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,5499.27735401251,5088.154303591814,2019,06
+9314,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,34641.013687523795,31316.909021919077,2019,06
+9387,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,23603.648431159167,22027.504395836302,2019,06
+9388,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-06,12394.554680650925,12892.479201184382,2019,06
+9468,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,6984.5328170520115,6657.376165793178,2019,07
+9546,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,9141.722824479262,8702.152530318146,2019,07
+9563,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,13311.870028222505,12204.419296307711,2019,07
+9576,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,7100.451912738215,6794.279390141023,2019,07
+9595,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,5633.739352151099,5161.47985303341,2019,07
+9596,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,37002.11596174976,34694.26066118544,2019,07
+9650,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,5528.994705485211,5130.118489540027,2019,07
+9653,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,4600.798585352545,4160.814595644426,2019,07
+9656,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,14552.506043021272,14162.954052046553,2019,07
+9667,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,10297.56719678049,9781.367785903847,2019,07
+9672,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,4627.494593235038,4380.643298492428,2019,07
+9690,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,8316.642143179335,8321.673803046002,2019,07
+9696,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,24730.374381942653,23045.198939202462,2019,07
+9698,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,6220.434343304454,5665.282721728305,2019,07
+9723,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,4898.901451086924,4482.301030447333,2019,07
+9732,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,5457.719737857526,5088.154303591814,2019,07
+9836,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,33991.746229688484,31316.909021919077,2019,07
+9909,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,23497.742569392398,22027.504395836302,2019,07
+9910,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-07,12683.156808694652,12892.479201184382,2019,07
+9990,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,7016.2312165059275,6657.376165793178,2019,08
+10068,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,9092.81881894708,8702.152530318146,2019,08
+10085,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,13183.334639725565,12204.419296307711,2019,08
+10098,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,7181.597688568687,6794.279390141023,2019,08
+10117,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,5559.75438594077,5161.47985303341,2019,08
+10118,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,36822.9882297589,34694.26066118544,2019,08
+10172,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,5538.399981448688,5130.118489540027,2019,08
+10175,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,4544.114688383999,4160.814595644426,2019,08
+10178,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,14796.357728686622,14162.954052046553,2019,08
+10189,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,10262.864320774213,9781.367785903847,2019,08
+10194,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,4617.39535295941,4380.643298492428,2019,08
+10195,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,4852.262948979512,4714.560229205283,2019,08
+10212,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,8342.11720536865,8321.673803046002,2019,08
+10218,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,24816.648818588797,23045.198939202462,2019,08
+10220,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,6094.054159090229,5665.282721728305,2019,08
+10245,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,4905.635461850367,4482.301030447333,2019,08
+10254,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,5350.7535031098305,5088.154303591814,2019,08
+10358,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,33434.24439825128,31316.909021919077,2019,08
+10431,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,23329.395728705087,22027.504395836302,2019,08
+10432,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-08,12869.328091172047,12892.479201184382,2019,08
+10512,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,6973.2231490127815,6657.376165793178,2019,09
+10590,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,8979.772242421026,8702.152530318146,2019,09
+10607,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,12886.375455774503,12204.419296307711,2019,09
+10620,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,7143.212818653264,6794.279390141023,2019,09
+10639,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,5460.3365855125085,5161.47985303341,2019,09
+10640,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,36369.785769931565,34694.26066118544,2019,09
+10694,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,5513.159904181162,5130.118489540027,2019,09
+10697,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,4458.958319559953,4160.814595644426,2019,09
+10700,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,14963.585958241143,14162.954052046553,2019,09
+10711,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,10047.838940553693,9781.367785903847,2019,09
+10716,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,4518.6489383592825,4380.643298492428,2019,09
+10717,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,4775.0959589462145,4714.560229205283,2019,09
+10734,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,8298.899971108342,8321.673803046002,2019,09
+10740,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,24492.742211116187,23045.198939202462,2019,09
+10742,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,5908.476861507858,5665.282721728305,2019,09
+10767,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,4871.975176776277,4482.301030447333,2019,09
+10776,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,5228.998011071326,5088.154303591814,2019,09
+10880,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,32679.331691881715,31316.909021919077,2019,09
+10953,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,23048.332879047506,22027.504395836302,2019,09
+10954,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-09,12970.264766593831,12892.479201184382,2019,09
+11034,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,6914.559527711529,6657.376165793178,2019,10
+11112,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,8925.121010604053,8702.152530318146,2019,10
+11129,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,12840.946671457521,12204.419296307711,2019,10
+11142,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,7118.489034174732,6794.279390141023,2019,10
+11161,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,5399.37571859372,5161.47985303341,2019,10
+11162,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,36413.17052086717,34694.26066118544,2019,10
+11216,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,5508.200052746574,5130.118489540027,2019,10
+11219,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,4461.216155834387,4160.814595644426,2019,10
+11222,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,15192.051511068219,14162.954052046553,2019,10
+11233,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,9984.457062315809,9781.367785903847,2019,10
+11238,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,4486.520891178904,4380.643298492428,2019,10
+11239,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,4728.700161006471,4714.560229205283,2019,10
+11256,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,8295.112024412878,8321.673803046002,2019,10
+11262,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,24384.248690489007,23045.198939202462,2019,10
+11264,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,5817.124763137391,5665.282721728305,2019,10
+11289,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,4924.960078231544,4482.301030447333,2019,10
+11298,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,5156.754626047856,5088.154303591814,2019,10
+11402,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,32812.749636939545,31316.909021919077,2019,10
+11475,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,23046.858874728983,22027.504395836302,2019,10
+11476,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-10,12912.537056871839,12892.479201184382,2019,10
+11556,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,6961.930564595059,6657.376165793178,2019,11
+11634,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,9010.446208403093,8702.152530318146,2019,11
+11651,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,12773.74540411214,12204.419296307711,2019,11
+11664,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,7183.2995540232005,6794.279390141023,2019,11
+11683,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,5339.920706038834,5161.47985303341,2019,11
+11684,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,36641.15519133076,34694.26066118544,2019,11
+11738,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,5502.86434866313,5130.118489540027,2019,11
+11741,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,4491.362815396055,4160.814595644426,2019,11
+11744,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,15507.22721392845,14162.954052046553,2019,11
+11755,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,10000.817253802505,9781.367785903847,2019,11
+11760,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,4518.691529465982,4380.643298492428,2019,11
+11761,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,4704.167325700944,4714.560229205283,2019,11
+11778,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,8377.16458270878,8321.673803046002,2019,11
+11784,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,24369.240034482278,23045.198939202462,2019,11
+11786,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,5790.7220308360575,5665.282721728305,2019,11
+11811,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,4945.570338665526,4482.301030447333,2019,11
+11820,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,5171.931820323455,5088.154303591814,2019,11
+11924,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,33113.362215877154,31316.909021919077,2019,11
+11997,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,23213.83038368139,22027.504395836302,2019,11
+11998,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-11,13117.801593158494,12892.479201184382,2019,11
+12078,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,6905.945927968733,6657.376165793178,2019,12
+12156,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,8935.897322810142,8702.152530318146,2019,12
+12173,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,12531.164503492453,12204.419296307711,2019,12
+12186,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,7149.082738887877,6794.279390141023,2019,12
+12205,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,5245.100106614115,5161.47985303341,2019,12
+12206,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,36570.705009479534,34694.26066118544,2019,12
+12260,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,5450.2531383838195,5130.118489540027,2019,12
+12263,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,4446.547008495882,4160.814595644426,2019,12
+12266,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,15581.378302594861,14162.954052046553,2019,12
+12277,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,9922.515368485687,9781.367785903847,2019,12
+12282,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,4498.365229715697,4380.643298492428,2019,12
+12283,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,4624.585124707473,4714.560229205283,2019,12
+12300,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,8356.837656504129,8321.673803046002,2019,12
+12306,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,24010.475621018093,23045.198939202462,2019,12
+12308,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,5733.582216535181,5665.282721728305,2019,12
+12333,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,4931.502185107496,4482.301030447333,2019,12
+12342,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,5143.974988415771,5088.154303591814,2019,12
+12446,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,33063.51514031254,31316.909021919077,2019,12
+12519,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,23068.00887137867,22027.504395836302,2019,12
+12520,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2019-12,13138.066630761774,12892.479201184382,2019,12
+12600,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,6893.329616826812,6657.376165793178,2020,01
+12678,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,8868.005056859885,8702.152530318146,2020,01
+12695,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,12332.823977914271,12204.419296307711,2020,01
+12708,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,7140.25427418863,6794.279390141023,2020,01
+12727,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,5215.292266864875,5161.47985303341,2020,01
+12728,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,36583.89379755597,34694.26066118544,2020,01
+12782,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,5450.476319479874,5130.118489540027,2020,01
+12785,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,4398.815700307771,4160.814595644426,2020,01
+12788,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,15609.579623560545,14162.954052046553,2020,01
+12799,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,9788.20625726083,9781.367785903847,2020,01
+12804,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,4510.697623836117,4380.643298492428,2020,01
+12805,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,4647.986834738461,4714.560229205283,2020,01
+12822,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,8356.798944717253,8321.673803046002,2020,01
+12828,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,23926.50912442928,23045.198939202462,2020,01
+12830,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,5714.444740570764,5665.282721728305,2020,01
+12855,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,4901.231089887463,4482.301030447333,2020,01
+12864,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,5157.075366037486,5088.154303591814,2020,01
+12968,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,32970.048743601714,31316.909021919077,2020,01
+13041,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,23001.045275288314,22027.504395836302,2020,01
+13042,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-01,13284.328547307676,12892.479201184382,2020,01
+13122,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,6892.3820515757125,6657.376165793178,2020,02
+13200,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,8761.688842103487,8702.152530318146,2020,02
+13217,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,12259.237405917846,12204.419296307711,2020,02
+13230,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,7123.446756131878,6794.279390141023,2020,02
+13249,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,5292.538365932282,5161.47985303341,2020,02
+13250,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,36897.553842575886,34694.26066118544,2020,02
+13304,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,5497.857976630565,5130.118489540027,2020,02
+13307,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,4452.033087623131,4160.814595644426,2020,02
+13310,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,15705.505810691106,14162.954052046553,2020,02
+13321,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,9730.230548260597,9781.367785903847,2020,02
+13326,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,4608.9171381723,4380.643298492428,2020,02
+13327,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,4698.249334464055,4714.560229205283,2020,02
+13344,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,8344.380289107843,8321.673803046002,2020,02
+13350,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,24005.967998511973,23045.198939202462,2020,02
+13352,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,5706.5859474002,5665.282721728305,2020,02
+13377,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,4935.777026658223,4482.301030447333,2020,02
+13386,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,5209.584408865945,5088.154303591814,2020,02
+13490,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,33151.64084389725,31316.909021919077,2020,02
+13563,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,23179.582542682198,22027.504395836302,2020,02
+13564,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-02,13462.915425148789,12892.479201184382,2020,02
+13644,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,6769.840640668583,6657.376165793178,2020,03
+13722,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,8509.867303887044,8702.152530318146,2020,03
+13739,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,12011.440981048934,12204.419296307711,2020,03
+13752,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,7001.1926164846745,6794.279390141023,2020,03
+13771,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,5269.207365458819,5161.47985303341,2020,03
+13772,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,36390.28580930717,34694.26066118544,2020,03
+13826,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,5457.139362333797,5130.118489540027,2020,03
+13829,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,4422.557891995587,4160.814595644426,2020,03
+13832,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,15537.937565659473,14162.954052046553,2020,03
+13843,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,9469.063725956164,9781.367785903847,2020,03
+13848,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,4624.329870399334,4380.643298492428,2020,03
+13849,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,4704.357421036307,4714.560229205283,2020,03
+13866,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,8192.441218968972,8321.673803046002,2020,03
+13872,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,23763.77708524517,23045.198939202462,2020,03
+13874,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,5585.991596161064,5665.282721728305,2020,03
+13899,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,4878.332735616002,4482.301030447333,2020,03
+13908,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,5135.676160274133,5088.154303591814,2020,03
+14012,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,32662.724744689876,31316.909021919077,2020,03
+14085,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,22855.50231326464,22027.504395836302,2020,03
+14086,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-03,13351.184015124387,12892.479201184382,2020,03
+14166,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,6619.514334288456,6657.376165793178,2020,04
+14244,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,8378.949258213457,8702.152530318146,2020,04
+14261,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,11884.477763795672,12204.419296307711,2020,04
+14274,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,6861.039750280025,6794.279390141023,2020,04
+14293,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,5246.212171151335,5161.47985303341,2020,04
+14294,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,35868.50982905693,34694.26066118544,2020,04
+14348,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,5453.447208108447,5130.118489540027,2020,04
+14351,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,4429.131393896325,4160.814595644426,2020,04
+14354,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,15454.47923211927,14162.954052046553,2020,04
+14365,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,9365.312928379364,9781.367785903847,2020,04
+14370,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,4653.8299565234565,4380.643298492428,2020,04
+14371,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,4668.387091103593,4714.560229205283,2020,04
+14388,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,8151.477394187441,8321.673803046002,2020,04
+14394,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,23466.737615486443,23045.198939202462,2020,04
+14396,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,5496.097058544989,5665.282721728305,2020,04
+14421,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,4871.913601806166,4482.301030447333,2020,04
+14430,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,5044.3007218341045,5088.154303591814,2020,04
+14534,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,32235.326727696487,31316.909021919077,2020,04
+14607,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,22563.8787338745,22027.504395836302,2020,04
+14608,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-04,13190.724304782334,12892.479201184382,2020,04
+14688,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,6473.782377683126,6657.376165793178,2020,05
+14766,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,8333.678637392239,8702.152530318146,2020,05
+14783,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,11737.539069374177,12204.419296307711,2020,05
+14796,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,6792.376218044883,6794.279390141023,2020,05
+14815,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,5194.975557311529,5161.47985303341,2020,05
+14816,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,35237.853503426726,34694.26066118544,2020,05
+14870,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,5431.004699495921,5130.118489540027,2020,05
+14873,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,4434.25376513888,4160.814595644426,2020,05
+14876,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,15373.889231542316,14162.954052046553,2020,05
+14887,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,9207.528525860798,9781.367785903847,2020,05
+14892,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,4597.894018640713,4380.643298492428,2020,05
+14893,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,4657.812235171102,4714.560229205283,2020,05
+14910,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,8075.877075670181,8321.673803046002,2020,05
+14916,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,23139.355558614854,23045.198939202462,2020,05
+14918,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,5472.689908486837,5665.282721728305,2020,05
+14943,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,4880.737639642671,4482.301030447333,2020,05
+14952,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,5004.9839498475385,5088.154303591814,2020,05
+15056,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,31699.394700537883,31316.909021919077,2020,05
+15129,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,22123.479569791965,22027.504395836302,2020,05
+15130,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-05,13141.038223413829,12892.479201184382,2020,05
+15210,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,6355.1875912647065,6657.376165793178,2020,06
+15288,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,8313.631619315127,8702.152530318146,2020,06
+15305,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,11643.258362223836,12204.419296307711,2020,06
+15318,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,6692.154246398981,6794.279390141023,2020,06
+15337,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,5144.76112875389,5161.47985303341,2020,06
+15338,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,34606.507491119126,34694.26066118544,2020,06
+15392,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,5409.880550160806,5130.118489540027,2020,06
+15395,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,4425.8715977519,4160.814595644426,2020,06
+15398,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,15311.520535180445,14162.954052046553,2020,06
+15409,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,9193.0328408238,9781.367785903847,2020,06
+15414,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,4554.845600289657,4380.643298492428,2020,06
+15415,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,4630.285735178033,4714.560229205283,2020,06
+15432,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,8068.55188286235,8321.673803046002,2020,06
+15438,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,22764.815967075534,23045.198939202462,2020,06
+15440,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,5447.255353829761,5665.282721728305,2020,06
+15465,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,4899.760515249604,4482.301030447333,2020,06
+15474,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,4985.321194549492,5088.154303591814,2020,06
+15578,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,31028.316005526387,31316.909021919077,2020,06
+15651,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,21793.12861564525,22027.504395836302,2020,06
+15652,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-06,13104.062202238658,12892.479201184382,2020,06
+15732,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,6265.248541454159,6657.376165793178,2020,07
+15810,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,8231.951721719874,8702.152530318146,2020,07
+15827,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,11498.753447490812,12204.419296307711,2020,07
+15840,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,6605.9066074048515,6794.279390141023,2020,07
+15859,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,5078.9105449728995,5161.47985303341,2020,07
+15860,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,33853.9574524409,34694.26066118544,2020,07
+15914,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,5325.024395071242,5130.118489540027,2020,07
+15917,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,4371.231983602961,4160.814595644426,2020,07
+15920,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,15080.693002637461,14162.954052046553,2020,07
+15931,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,9164.094400124053,9781.367785903847,2020,07
+15936,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,4484.196929127465,4380.643298492428,2020,07
+15937,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,4601.096886554698,4714.560229205283,2020,07
+15954,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,7933.055671891672,8321.673803046002,2020,07
+15960,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,22345.115609224973,23045.198939202462,2020,07
+15962,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,5403.3053285788,5665.282721728305,2020,07
+15987,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,4856.761562446093,4482.301030447333,2020,07
+15996,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,4932.29013790147,5088.154303591814,2020,07
+16100,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,30150.670444629057,31316.909021919077,2020,07
+16173,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,21268.198180516127,22027.504395836302,2020,07
+16174,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-07,13101.772649715642,12892.479201184382,2020,07
+16254,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,6229.896619729627,6657.376165793178,2020,08
+16332,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,8187.6157104401445,8702.152530318146,2020,08
+16349,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,11412.655901330178,12204.419296307711,2020,08
+16362,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,6504.351890095654,6794.279390141023,2020,08
+16381,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,4941.482961722976,5161.47985303341,2020,08
+16382,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,33517.4359878814,34694.26066118544,2020,08
+16436,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,5165.779527531611,5130.118489540027,2020,08
+16439,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,4243.450907365059,4160.814595644426,2020,08
+16442,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,14837.697363658093,14162.954052046553,2020,08
+16453,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,9247.003953380865,9781.367785903847,2020,08
+16458,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,4408.446093368296,4380.643298492428,2020,08
+16459,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,4545.6037233809575,4714.560229205283,2020,08
+16476,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,7857.6113373996,8321.673803046002,2020,08
+16482,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,21948.948577347095,23045.198939202462,2020,08
+16484,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,5331.954300655283,5665.282721728305,2020,08
+16509,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,4725.461007049978,4482.301030447333,2020,08
+16518,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,4850.658253707957,5088.154303591814,2020,08
+16622,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,29542.8224359616,31316.909021919077,2020,08
+16648,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,28064.117223644924,28082.898175174807,2020,08
+16695,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,21172.199209186583,22027.504395836302,2020,08
+16696,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-08,12907.287289901991,12892.479201184382,2020,08
+16776,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,6170.835069620987,6657.376165793178,2020,09
+16854,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,8103.753209844441,8702.152530318146,2020,09
+16871,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,11134.181250762653,12204.419296307711,2020,09
+16884,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,6387.914873134585,6794.279390141023,2020,09
+16903,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,4835.958012503406,5161.47985303341,2020,09
+16904,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,33017.63438632498,34694.26066118544,2020,09
+16958,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,4994.978727699704,5130.118489540027,2020,09
+16961,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,4086.9496267461623,4160.814595644426,2020,09
+16964,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,14481.553461705496,14162.954052046553,2020,09
+16975,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,9197.48935525499,9781.367785903847,2020,09
+16980,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,4289.41980155984,4380.643298492428,2020,09
+16981,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,4464.461885431038,4714.560229205283,2020,09
+16998,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,7710.079433964145,8321.673803046002,2020,09
+17004,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,21555.180863171867,23045.198939202462,2020,09
+17006,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,5274.680992088953,5665.282721728305,2020,09
+17031,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,4541.635864644443,4482.301030447333,2020,09
+17040,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,4769.845511641181,5088.154303591814,2020,09
+17144,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,29043.2035120157,31316.909021919077,2020,09
+17170,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,27760.830876243646,28082.898175174807,2020,09
+17200,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,9023.250561684326,9169.685192802224,2020,09
+17217,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,21110.933980923925,22027.504395836302,2020,09
+17218,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-09,12650.71813652519,12892.479201184382,2020,09
+17298,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,6143.675618583353,6657.376165793178,2020,10
+17376,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,8097.674523461478,8702.152530318146,2020,10
+17393,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,10821.364788718052,12204.419296307711,2020,10
+17406,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,6307.717513767966,6794.279390141023,2020,10
+17425,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,4779.444544224428,5161.47985303341,2020,10
+17426,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,32610.95412039687,34694.26066118544,2020,10
+17480,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,4842.722407305986,5130.118489540027,2020,10
+17483,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,4003.6337473790886,4160.814595644426,2020,10
+17486,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,14220.048051015941,14162.954052046553,2020,10
+17497,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,9140.542770072692,9781.367785903847,2020,10
+17502,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,4203.757130397301,4380.643298492428,2020,10
+17503,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,4395.0962152691945,4714.560229205283,2020,10
+17520,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,7625.3555147532425,8321.673803046002,2020,10
+17526,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,20846.147645608977,23045.198939202462,2020,10
+17528,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,5233.146486471068,5665.282721728305,2020,10
+17553,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,4375.773447732341,4482.301030447333,2020,10
+17562,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,4769.272367296766,5088.154303591814,2020,10
+17666,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,28558.92944214288,31316.909021919077,2020,10
+17692,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,27503.939939443764,28082.898175174807,2020,10
+17714,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,17831.123813597616,18657.33024745773,2020,10
+17722,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,8798.234062315032,9169.685192802224,2020,10
+17739,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,21089.513702134012,22027.504395836302,2020,10
+17740,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-10,12334.293800596673,12892.479201184382,2020,10
+17820,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,6160.368029608539,6657.376165793178,2020,11
+17898,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,8070.583910004599,8702.152530318146,2020,11
+17915,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,10582.187538000142,12204.419296307711,2020,11
+17928,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,6284.191740413458,6794.279390141023,2020,11
+17947,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,4786.361398704193,5161.47985303341,2020,11
+17948,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,32100.94049737477,34694.26066118544,2020,11
+18002,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,4776.412147937639,5130.118489540027,2020,11
+18005,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,3961.221209160512,4160.814595644426,2020,11
+18008,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,14018.135284599191,14162.954052046553,2020,11
+18019,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,9063.146668771353,9781.367785903847,2020,11
+18024,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,4171.303078550599,4380.643298492428,2020,11
+18025,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,4373.583258891028,4714.560229205283,2020,11
+18042,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,7619.347637633097,8321.673803046002,2020,11
+18048,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,20255.36589028148,23045.198939202462,2020,11
+18050,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,5196.522197674891,5665.282721728305,2020,11
+18075,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,4287.697568041134,4482.301030447333,2020,11
+18084,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,4810.759713147231,5088.154303591814,2020,11
+18188,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,28130.40759483241,31316.909021919077,2020,11
+18214,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,27179.148487898878,28082.898175174807,2020,11
+18236,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,17682.412464051573,18657.33024745773,2020,11
+18244,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,8624.708522006475,9169.685192802224,2020,11
+18261,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,20991.385624139195,22027.504395836302,2020,11
+18262,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-11,12193.080292973573,12892.479201184382,2020,11
+18342,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,6133.909343831366,6657.376165793178,2020,12
+18420,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,8017.423435612923,8702.152530318146,2020,12
+18437,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,10441.17561328162,12204.419296307711,2020,12
+18450,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,6238.755929471566,6794.279390141023,2020,12
+18469,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,4719.852165830264,5161.47985303341,2020,12
+18470,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,31596.14991015965,34694.26066118544,2020,12
+18524,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,4681.666579769609,5130.118489540027,2020,12
+18527,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,3931.3994570449718,4160.814595644426,2020,12
+18530,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,13792.708174103753,14162.954052046553,2020,12
+18541,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,8989.844009246044,9781.367785903847,2020,12
+18546,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,4148.328702109922,4380.643298492428,2020,12
+18547,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,4369.93678716332,4714.560229205283,2020,12
+18564,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,7618.800900364038,8321.673803046002,2020,12
+18570,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,19420.690925296592,23045.198939202462,2020,12
+18572,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,5115.644784355503,5665.282721728305,2020,12
+18597,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,4206.386887865648,4482.301030447333,2020,12
+18606,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,4789.259947094569,5088.154303591814,2020,12
+18710,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,27641.266467330446,31316.909021919077,2020,12
+18736,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,26640.02131301512,28082.898175174807,2020,12
+18758,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,17496.809784034038,18657.33024745773,2020,12
+18766,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,8487.771557010226,9169.685192802224,2020,12
+18783,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,20675.331678133385,22027.504395836302,2020,12
+18784,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2020-12,11992.997526919826,12892.479201184382,2020,12
+18864,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,6165.76397502524,6657.376165793178,2021,01
+18942,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,7980.371072798335,8702.152530318146,2021,01
+18959,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,10431.77708765585,12204.419296307711,2021,01
+18972,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,6222.798857660395,6794.279390141023,2021,01
+18991,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,4686.922608753904,5161.47985303341,2021,01
+18992,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,31565.153850824943,34694.26066118544,2021,01
+19046,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,4643.912150508015,5130.118489540027,2021,01
+19049,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,3882.95455405637,4160.814595644426,2021,01
+19052,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,13720.539626309814,14162.954052046553,2021,01
+19063,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,8954.119709650433,9781.367785903847,2021,01
+19068,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,4159.55422404432,4380.643298492428,2021,01
+19069,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,4389.364678870082,4714.560229205283,2021,01
+19086,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,7690.267266222481,8321.673803046002,2021,01
+19092,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,19151.897358643917,23045.198939202462,2021,01
+19094,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,5096.792664989334,5665.282721728305,2021,01
+19119,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,4166.2512618977435,4482.301030447333,2021,01
+19128,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,4740.158723403477,5088.154303591814,2021,01
+19232,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,27746.608258434564,31316.909021919077,2021,01
+19258,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,26328.934060605352,28082.898175174807,2021,01
+19280,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,17520.881816008965,18657.33024745773,2021,01
+19288,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,8478.223130315291,9169.685192802224,2021,01
+19305,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,20884.552457346137,22027.504395836302,2021,01
+19306,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-01,12019.77216651027,12892.479201184382,2021,01
+19386,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,6269.869702095045,6657.376165793178,2021,02
+19464,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,8073.503501289243,8702.152530318146,2021,02
+19481,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,10572.491472407499,12204.419296307711,2021,02
+19494,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,6285.201267761161,6794.279390141023,2021,02
+19513,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,4717.503229095518,5161.47985303341,2021,02
+19514,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,31850.748613538814,34694.26066118544,2021,02
+19568,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,4667.1824315523845,5130.118489540027,2021,02
+19571,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,3899.7826941353824,4160.814595644426,2021,02
+19574,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,13842.195296924558,14162.954052046553,2021,02
+19585,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,9101.549954875838,9781.367785903847,2021,02
+19590,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,4251.028392219959,4380.643298492428,2021,02
+19591,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,4498.878603976529,4714.560229205283,2021,02
+19608,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,7852.869006889914,8321.673803046002,2021,02
+19614,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,19051.64854018933,23045.198939202462,2021,02
+19616,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,5173.427093903091,5665.282721728305,2021,02
+19641,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,4170.014163807705,4482.301030447333,2021,02
+19650,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,4772.577687315102,5088.154303591814,2021,02
+19754,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,28224.651536281162,31316.909021919077,2021,02
+19780,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,26345.858052524818,28082.898175174807,2021,02
+19802,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,17742.267519967994,18657.33024745773,2021,02
+19810,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,8576.819208407293,9169.685192802224,2021,02
+19827,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,21201.720510948297,22027.504395836302,2021,02
+19828,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-02,12153.521307304547,12892.479201184382,2021,02
+19908,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,6369.3524147367525,6657.376165793178,2021,03
+19986,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,8110.076850585867,8702.152530318146,2021,03
+20003,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,10681.339553444745,12204.419296307711,2021,03
+20016,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,6330.791914041335,6794.279390141023,2021,03
+20035,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,4730.788879026253,5161.47985303341,2021,03
+20036,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,31841.287122733123,34694.26066118544,2021,03
+20090,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,4700.415535752405,5130.118489540027,2021,03
+20093,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,3886.292013992803,4160.814595644426,2021,03
+20096,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,13856.157479901387,14162.954052046553,2021,03
+20107,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,9229.517329358903,9781.367785903847,2021,03
+20112,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,4333.216471594127,4380.643298492428,2021,03
+20113,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,4541.443175349383,4714.560229205283,2021,03
+20130,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,7964.379140487777,8321.673803046002,2021,03
+20136,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,19196.596466383686,23045.198939202462,2021,03
+20138,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,5208.228186325996,5665.282721728305,2021,03
+20163,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,4151.229101994915,4482.301030447333,2021,03
+20172,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,4770.764443967374,5088.154303591814,2021,03
+20276,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,28451.709612586896,31316.909021919077,2021,03
+20302,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,26378.27661896823,28082.898175174807,2021,03
+20324,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,17867.136869144168,18657.33024745773,2021,03
+20332,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,8555.549182735052,9169.685192802224,2021,03
+20333,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,11140.386394750927,12808.518533632248,2021,03
+20349,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,21400.242324211744,22027.504395836302,2021,03
+20350,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-03,12181.432314311995,12892.479201184382,2021,03
+20430,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,6532.171527169818,6657.376165793178,2021,04
+20508,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,8215.934824465905,8702.152530318146,2021,04
+20525,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,10887.981393770886,12204.419296307711,2021,04
+20538,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,6466.826603254171,6794.279390141023,2021,04
+20557,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,4764.03017610389,5161.47985303341,2021,04
+20558,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,32014.142987070136,34694.26066118544,2021,04
+20612,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,4784.649116527018,5130.118489540027,2021,04
+20615,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,3904.1635299090185,4160.814595644426,2021,04
+20618,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,13981.788916900132,14162.954052046553,2021,04
+20629,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,9426.149903478383,9781.367785903847,2021,04
+20634,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,4421.927277639352,4380.643298492428,2021,04
+20635,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,4646.46580330346,4714.560229205283,2021,04
+20652,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,8142.1980360373955,8321.673803046002,2021,04
+20658,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,19498.02417488688,23045.198939202462,2021,04
+20660,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,5306.561154136175,5665.282721728305,2021,04
+20685,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,4174.921967906338,4482.301030447333,2021,04
+20694,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,4862.962976232819,5088.154303591814,2021,04
+20798,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,28741.336245215596,31316.909021919077,2021,04
+20824,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,26823.519558841792,28082.898175174807,2021,04
+20846,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,18026.606357614353,18657.33024745773,2021,04
+20854,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,8755.352032818842,9169.685192802224,2021,04
+20855,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,11394.54918276346,12808.518533632248,2021,04
+20871,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,21566.28187763726,22027.504395836302,2021,04
+20872,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-04,12325.58673504998,12892.479201184382,2021,04
+20952,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,6651.58845531385,6657.376165793178,2021,05
+21030,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,8309.942332178898,8702.152530318146,2021,05
+21047,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,10994.074807892917,12204.419296307711,2021,05
+21060,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,6536.7701697837165,6794.279390141023,2021,05
+21079,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,4804.4948043765435,5161.47985303341,2021,05
+21080,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,32132.592274025756,34694.26066118544,2021,05
+21134,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,4822.3066777273925,5130.118489540027,2021,05
+21137,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,3892.3627021051925,4160.814595644426,2021,05
+21140,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,14043.141195960447,14162.954052046553,2021,05
+21151,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,9444.435013642586,9781.367785903847,2021,05
+21156,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,4474.7452178675385,4380.643298492428,2021,05
+21157,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,4730.546064928545,4714.560229205283,2021,05
+21174,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,8265.74817558033,8321.673803046002,2021,05
+21180,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,19733.396038450323,23045.198939202462,2021,05
+21182,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,5349.495890008421,5665.282721728305,2021,05
+21207,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,4154.42103842715,4482.301030447333,2021,05
+21216,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,4890.079680632057,5088.154303591814,2021,05
+21320,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,28809.671313756753,31316.909021919077,2021,05
+21346,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,27208.70443829575,28082.898175174807,2021,05
+21368,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,18126.539560957648,18657.33024745773,2021,05
+21376,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,8956.442823095773,9169.685192802224,2021,05
+21377,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,11564.269356003831,12808.518533632248,2021,05
+21393,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,21837.92218443775,22027.504395836302,2021,05
+21394,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-05,12551.82174664029,12892.479201184382,2021,05
+21474,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,6824.1792014887,6657.376165793178,2021,06
+21552,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,8527.376396739171,8702.152530318146,2021,06
+21569,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,11197.107498244875,12204.419296307711,2021,06
+21582,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,6672.88627760214,6794.279390141023,2021,06
+21601,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,4924.937799682176,5161.47985303341,2021,06
+21602,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,32569.474527138667,34694.26066118544,2021,06
+21656,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,4903.129437841854,5130.118489540027,2021,06
+21659,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,3904.427853021391,4160.814595644426,2021,06
+21662,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,14250.716116350695,14162.954052046553,2021,06
+21673,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,9498.310598647195,9781.367785903847,2021,06
+21678,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,4552.467946106696,4380.643298492428,2021,06
+21679,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,4879.200243849129,4714.560229205283,2021,06
+21696,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,8417.175888995762,8321.673803046002,2021,06
+21702,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,20070.696811960508,23045.198939202462,2021,06
+21704,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,5468.460525490998,5665.282721728305,2021,06
+21711,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,5446.207306174806,5515.713965312474,2021,06
+21729,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,4156.7034239304285,4482.301030447333,2021,06
+21738,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,5002.970628860356,5088.154303591814,2021,06
+21842,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,29195.234021172695,31316.909021919077,2021,06
+21868,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,27752.05774482199,28082.898175174807,2021,06
+21890,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,18454.677887950285,18657.33024745773,2021,06
+21898,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,9286.02047295298,9169.685192802224,2021,06
+21899,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,11951.13057432174,12808.518533632248,2021,06
+21915,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,22458.59518421856,22027.504395836302,2021,06
+21916,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-06,13027.468409950421,12892.479201184382,2021,06
+21996,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,6943.008045707058,6657.376165793178,2021,07
+22074,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,8788.629425890942,8702.152530318146,2021,07
+22091,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,11562.744513824113,12204.419296307711,2021,07
+22104,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,6814.695676250627,6794.279390141023,2021,07
+22123,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,5040.352412235298,5161.47985303341,2021,07
+22124,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,33009.32900125585,34694.26066118544,2021,07
+22178,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,4986.624893506412,5130.118489540027,2021,07
+22181,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,3954.1558292264926,4160.814595644426,2021,07
+22184,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,14486.904411835203,14162.954052046553,2021,07
+22195,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,9626.046117246082,9781.367785903847,2021,07
+22200,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,4647.079288921267,4380.643298492428,2021,07
+22201,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,4987.098766555138,4714.560229205283,2021,07
+22218,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,8605.845868322587,8321.673803046002,2021,07
+22224,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,20591.471923687684,23045.198939202462,2021,07
+22226,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,5543.169765134329,5665.282721728305,2021,07
+22233,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,5555.044262771376,5515.713965312474,2021,07
+22251,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,4197.010578307404,4482.301030447333,2021,07
+22260,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,5118.93924192179,5088.154303591814,2021,07
+22364,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,29709.536509481833,31316.909021919077,2021,07
+22390,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,28241.74760086372,28082.898175174807,2021,07
+22412,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,18874.678293137313,18657.33024745773,2021,07
+22420,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,9500.065064832288,9169.685192802224,2021,07
+22421,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,12410.614083670123,12808.518533632248,2021,07
+22437,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,23048.565942023317,22027.504395836302,2021,07
+22438,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-07,13502.424505789017,12892.479201184382,2021,07
+22518,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,7011.143961496863,6657.376165793178,2021,08
+22596,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,8906.7048651862,8702.152530318146,2021,08
+22613,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,11880.934184559406,12204.419296307711,2021,08
+22626,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,6938.5486011074345,6794.279390141023,2021,08
+22645,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,5090.227462564953,5161.47985303341,2021,08
+22646,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,33207.402129984046,34694.26066118544,2021,08
+22700,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,5043.330340597051,5130.118489540027,2021,08
+22703,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,3973.8371478162762,4160.814595644426,2021,08
+22706,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,14623.249448456358,14162.954052046553,2021,08
+22717,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,9790.77272147765,9781.367785903847,2021,08
+22722,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,4675.449241835999,4380.643298492428,2021,08
+22723,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,4992.027311893714,4714.560229205283,2021,08
+22740,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,8768.076280440639,8321.673803046002,2021,08
+22746,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,21069.64823019333,23045.198939202462,2021,08
+22748,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,5601.966780853375,5665.282721728305,2021,08
+22755,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,5572.2122009597915,5515.713965312474,2021,08
+22773,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,4213.850042067797,4482.301030447333,2021,08
+22782,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,5159.839404567936,5088.154303591814,2021,08
+22886,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,30024.541186092378,31316.909021919077,2021,08
+22912,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,28519.202408640314,28082.898175174807,2021,08
+22934,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,19126.8960159481,18657.33024745773,2021,08
+22942,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,9565.04008739141,9169.685192802224,2021,08
+22943,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,12835.195437945395,12808.518533632248,2021,08
+22959,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,23235.322712248937,22027.504395836302,2021,08
+22960,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-08,13678.073430875958,12892.479201184382,2021,08
+23040,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,7092.656842794995,6657.376165793178,2021,09
+23069,274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,9351.044678904183,9323.873494342082,2021,09
+23118,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,9036.998679421615,8702.152530318146,2021,09
+23135,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,12246.474458813955,12204.419296307711,2021,09
+23148,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,7045.451151509316,6794.279390141023,2021,09
+23167,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,5112.608491400333,5161.47985303341,2021,09
+23168,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,33666.45239056829,34694.26066118544,2021,09
+23222,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,5074.52545712369,5130.118489540027,2021,09
+23225,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,4009.0467870282637,4160.814595644426,2021,09
+23228,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,14772.352000892732,14162.954052046553,2021,09
+23239,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,10001.499450105783,9781.367785903847,2021,09
+23244,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,4698.240898766149,4380.643298492428,2021,09
+23245,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,4990.808412341038,4714.560229205283,2021,09
+23262,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,8967.692738403332,8321.673803046002,2021,09
+23268,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,21652.009828485854,23045.198939202462,2021,09
+23270,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,5690.645048215553,5665.282721728305,2021,09
+23277,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,5520.499377524884,5515.713965312474,2021,09
+23295,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,4254.284256552489,4482.301030447333,2021,09
+23304,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,5165.714030535854,5088.154303591814,2021,09
+23408,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,30358.71374713353,31316.909021919077,2021,09
+23434,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,29107.528039506957,28082.898175174807,2021,09
+23456,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,19398.585740245646,18657.33024745773,2021,09
+23464,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,9639.715805842878,9169.685192802224,2021,09
+23465,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,13132.56044844469,12808.518533632248,2021,09
+23481,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,23396.019360721704,22027.504395836302,2021,09
+23482,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-09,13896.065699991505,12892.479201184382,2021,09
+23562,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,7102.393466904556,6657.376165793178,2021,10
+23591,274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,9273.97986622788,9323.873494342082,2021,10
+23640,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,8996.252019122097,8702.152530318146,2021,10
+23657,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,12233.207843978656,12204.419296307711,2021,10
+23670,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,7053.610447400274,6794.279390141023,2021,10
+23689,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,5063.990612962599,5161.47985303341,2021,10
+23690,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,33698.91685279817,34694.26066118544,2021,10
+23744,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,5030.44397118446,5130.118489540027,2021,10
+23747,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,4017.0781519386414,4160.814595644426,2021,10
+23750,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,14810.332305086338,14162.954052046553,2021,10
+23761,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,10016.830042244554,9781.367785903847,2021,10
+23766,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,4670.383051157713,4380.643298492428,2021,10
+23767,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,4923.632391728549,4714.560229205283,2021,10
+23784,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,9092.22141129326,8321.673803046002,2021,10
+23790,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,21729.606073278235,23045.198939202462,2021,10
+23792,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,5674.557916172848,5665.282721728305,2021,10
+23799,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,5434.569614612654,5515.713965312474,2021,10
+23817,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,4263.616799498433,4482.301030447333,2021,10
+23826,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,5064.863992429211,5088.154303591814,2021,10
+23876,417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,14730.96053441936,14964.820433382984,2021,10
+23930,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,30256.174402759516,31316.909021919077,2021,10
+23956,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,29229.03921036038,28082.898175174807,2021,10
+23978,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,19439.352650567438,18657.33024745773,2021,10
+23986,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,9581.095567729768,9169.685192802224,2021,10
+23987,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,13352.812087405422,12808.518533632248,2021,10
+24003,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,23402.0765772636,22027.504395836302,2021,10
+24004,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-10,13947.685853324972,12892.479201184382,2021,10
+24084,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,7089.23211026134,6657.376165793178,2021,11
+24113,274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,9273.502950552594,9323.873494342082,2021,11
+24162,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,9063.247933987048,8702.152530318146,2021,11
+24179,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,12220.596063366454,12204.419296307711,2021,11
+24192,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,7000.184520838509,6794.279390141023,2021,11
+24211,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,5037.997447198943,5161.47985303341,2021,11
+24212,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,33757.91472858822,34694.26066118544,2021,11
+24266,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,5023.27586991533,5130.118489540027,2021,11
+24269,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,4042.871666040143,4160.814595644426,2021,11
+24272,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,14844.200637885222,14162.954052046553,2021,11
+24283,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,10079.67359502605,9781.367785903847,2021,11
+24288,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,4674.226120809802,4380.643298492428,2021,11
+24289,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,4906.245089065917,4714.560229205283,2021,11
+24306,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,9190.572979301463,8321.673803046002,2021,11
+24312,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,21805.504748217216,23045.198939202462,2021,11
+24314,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,5661.899653918913,5665.282721728305,2021,11
+24321,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,5437.271960773898,5515.713965312474,2021,11
+24339,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,4314.5298191496495,4482.301030447333,2021,11
+24348,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,5034.897989487367,5088.154303591814,2021,11
+24398,417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,14784.064383509707,14964.820433382984,2021,11
+24452,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,30174.220100900628,31316.909021919077,2021,11
+24478,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,29394.20684708158,28082.898175174807,2021,11
+24500,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,19501.008822571614,18657.33024745773,2021,11
+24508,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,9578.716544198565,9169.685192802224,2021,11
+24509,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,13575.045533782923,12808.518533632248,2021,11
+24525,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,23400.997181800878,22027.504395836302,2021,11
+24526,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-11,14104.087397601304,12892.479201184382,2021,11
+24606,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,7073.329739144374,6657.376165793178,2021,12
+24635,274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,9354.77702146724,9323.873494342082,2021,12
+24684,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,9082.03667191073,8702.152530318146,2021,12
+24701,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,12203.665852623551,12204.419296307711,2021,12
+24714,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,7007.981994893062,6794.279390141023,2021,12
+24733,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,5080.203230432136,5161.47985303341,2021,12
+24734,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,33855.26632628363,34694.26066118544,2021,12
+24788,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,5049.0051490706755,5130.118489540027,2021,12
+24791,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,4048.4122412632364,4160.814595644426,2021,12
+24794,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,14963.672138649064,14162.954052046553,2021,12
+24805,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,10078.280058773233,9781.367785903847,2021,12
+24810,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,4698.017425440946,4380.643298492428,2021,12
+24811,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,4909.71554875545,4714.560229205283,2021,12
+24828,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,9307.731113596683,8321.673803046002,2021,12
+24834,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,21771.488164203805,23045.198939202462,2021,12
+24836,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,5647.06597141999,5665.282721728305,2021,12
+24843,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,5501.768277970708,5515.713965312474,2021,12
+24861,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,4346.36965777677,4482.301030447333,2021,12
+24870,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,5032.33142130822,5088.154303591814,2021,12
+24920,417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,14880.87215315877,14964.820433382984,2021,12
+24974,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,30218.596323389935,31316.909021919077,2021,12
+25000,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,29399.620455132295,28082.898175174807,2021,12
+25022,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,19546.632041941943,18657.33024745773,2021,12
+25030,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,9580.075436732526,9169.685192802224,2021,12
+25031,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,13776.29692361714,12808.518533632248,2021,12
+25047,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,23398.25977022794,22027.504395836302,2021,12
+25048,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2021-12,14224.900082679564,12892.479201184382,2021,12
+25128,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,7082.444754862031,6657.376165793178,2022,01
+25157,274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,9356.803245723784,9323.873494342082,2022,01
+25206,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,9168.887771448333,8702.152530318146,2022,01
+25223,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,12294.061731815782,12204.419296307711,2022,01
+25236,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,7006.619631026948,6794.279390141023,2022,01
+25255,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,5142.125661485751,5161.47985303341,2022,01
+25256,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,34122.90365807578,34694.26066118544,2022,01
+25310,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,5082.296896060271,5130.118489540027,2022,01
+25313,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,4049.961088537872,4160.814595644426,2022,01
+25316,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,14987.112553292935,14162.954052046553,2022,01
+25327,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,10162.597228536297,9781.367785903847,2022,01
+25332,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,4707.3347593079725,4380.643298492428,2022,01
+25333,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,4943.876437464543,4714.560229205283,2022,01
+25350,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,9343.086240621109,8321.673803046002,2022,01
+25356,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,21931.43326770229,23045.198939202462,2022,01
+25358,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,5679.950828767854,5665.282721728305,2022,01
+25365,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,5534.245979484217,5515.713965312474,2022,01
+25383,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,4357.074134476787,4482.301030447333,2022,01
+25392,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,5036.13743626617,5088.154303591814,2022,01
+25442,417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,14938.820245710886,14964.820433382984,2022,01
+25496,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,30408.937645346516,31316.909021919077,2022,01
+25522,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,29640.413985141597,28082.898175174807,2022,01
+25544,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,19582.077579542947,18657.33024745773,2022,01
+25552,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,9647.889269307263,9169.685192802224,2022,01
+25553,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,13704.920100912212,12808.518533632248,2022,01
+25569,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,23442.30379968594,22027.504395836302,2022,01
+25570,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-01,14324.873536450646,12892.479201184382,2022,01
+25650,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,7154.405922888732,6657.376165793178,2022,02
+25679,274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,9367.11896043647,9323.873494342082,2022,02
+25728,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,9312.274393352704,8702.152530318146,2022,02
+25745,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,12545.766685914265,12204.419296307711,2022,02
+25758,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,7119.516361686544,6794.279390141023,2022,02
+25777,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,5274.382551490646,5161.47985303341,2022,02
+25778,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,34815.42645339245,34694.26066118544,2022,02
+25832,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,5181.848622448167,5130.118489540027,2022,02
+25835,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,4084.134817882324,4160.814595644426,2022,02
+25838,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,15245.398316230303,14162.954052046553,2022,02
+25849,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,10330.31210539808,9781.367785903847,2022,02
+25854,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,4760.219875473411,4380.643298492428,2022,02
+25855,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,5045.8578104271055,4714.560229205283,2022,02
+25872,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,9486.64680693201,8321.673803046002,2022,02
+25878,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,22401.637645979183,23045.198939202462,2022,02
+25880,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,5802.1844037759,5665.282721728305,2022,02
+25887,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,5611.235936023625,5515.713965312474,2022,02
+25905,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,4421.029325559831,4482.301030447333,2022,02
+25914,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,5101.922364131829,5088.154303591814,2022,02
+25964,417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,15210.48476652714,14964.820433382984,2022,02
+26018,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,30961.056924766886,31316.909021919077,2022,02
+26044,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,30172.44523603593,28082.898175174807,2022,02
+26066,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,19882.303588983006,18657.33024745773,2022,02
+26074,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,9839.932314632115,9169.685192802224,2022,02
+26075,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,13900.72289413812,12808.518533632248,2022,02
+26091,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,23897.492028137618,22027.504395836302,2022,02
+26092,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-02,14654.551256456918,12892.479201184382,2022,02
+26172,268384,182,Outer Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,7080.058151247152,6657.376165793178,2022,03
+26201,274552,262,Mission,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,9289.887737082423,9323.873494342082,2022,03
+26250,268383,401,Outer Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,9251.712370142657,8702.152530318146,2022,03
+26267,268219,481,Inner Richmond,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,12430.092887596655,12204.419296307711,2022,03
+26280,268396,537,Parkside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,7012.938139833752,6794.279390141023,2022,03
+26299,268150,622,Excelsior,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,5241.57290791065,5161.47985303341,2022,03
+26300,268385,630,Pacific Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,34645.24519285504,34694.26066118544,2022,03
+26354,117447,1011,Portola,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,5157.358095451395,5130.118489540027,2022,03
+26357,272885,1036,Bayview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,4034.5711598178746,4160.814595644426,2022,03
+26360,268338,1055,Noe Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,15157.46413330165,14162.954052046553,2022,03
+26371,268220,1124,Inner Sunset,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,10237.35810280724,9781.367785903847,2022,03
+26376,268570,1158,Visitacion Valley,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,4701.6310481240325,4380.643298492428,2022,03
+26377,273404,1158,Crocker Amazon,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,5039.098068338056,4714.560229205283,2022,03
+26394,417516,1281,Golden Gate Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,9348.61313002899,8321.673803046002,2022,03
+26400,274422,1340,Marina,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,22334.567431872765,23045.198939202462,2022,03
+26402,115774,1361,Ingleside,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,5739.105155202835,5665.282721728305,2022,03
+26409,417496,1418,Mission Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,5544.084736828786,5515.713965312474,2022,03
+26427,417527,1606,Silver Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,4377.209265007466,4482.301030447333,2022,03
+26436,274872,1706,Oceanview,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,5039.31968626558,5088.154303591814,2022,03
+26486,417524,2459,Buena Vista,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,15243.72051697204,14964.820433382984,2022,03
+26540,268419,4112,Presidio Heights,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,30781.722778917334,31316.909021919077,2022,03
+26566,268096,5050,Cow Hollow,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,29968.351406429072,28082.898175174807,2022,03
+26588,256657,6282,Lake,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,19731.953647974435,18657.33024745773,2022,03
+26596,417494,7258,Ingleside Terrace,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,9749.117019234147,9169.685192802224,2022,03
+26597,255961,7423,Forest Hill,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,13772.237919463263,12808.518533632248,2022,03
+26613,268462,9922,Seacliff,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,23842.680786523408,22027.504395836302,2022,03
+26614,417511,10079,St. Francis Wood,Neighborhood,CA,CA,San Francisco,San Francisco-Oakland-Hayward,San Francisco County,2022-03,14661.395907470082,12892.479201184382,2022,03

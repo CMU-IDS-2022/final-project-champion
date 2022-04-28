@@ -1,0 +1,307 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+221,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-01,53955.0,36466.175023565025,2018,01
+460,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-01,233499.0,83758.58125848025,2018,01
+517,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-01,313657.0,194251.83762046686,2018,01
+743,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,55722.0,36466.175023565025,2018,02
+982,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,239564.0,83758.58125848025,2018,02
+1039,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,327218.0,194251.83762046686,2018,02
+1041,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-02,491067.0,295140.0012845887,2018,02
+1265,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,57970.0,36466.175023565025,2018,03
+1504,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,247108.0,83758.58125848025,2018,03
+1561,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,337315.0,194251.83762046686,2018,03
+1563,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-03,497472.0,295140.0012845887,2018,03
+1787,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,59477.0,36466.175023565025,2018,04
+2026,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,251796.0,83758.58125848025,2018,04
+2083,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,334829.0,194251.83762046686,2018,04
+2085,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-04,501307.0,295140.0012845887,2018,04
+2309,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,61214.0,36466.175023565025,2018,05
+2548,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,257435.0,83758.58125848025,2018,05
+2600,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,536714.0,292286.3760342726,2018,05
+2605,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,339099.0,194251.83762046686,2018,05
+2607,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-05,504570.0,295140.0012845887,2018,05
+2831,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,62651.0,36466.175023565025,2018,06
+3070,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,258613.0,83758.58125848025,2018,06
+3122,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,540418.0,292286.3760342726,2018,06
+3127,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,343494.0,194251.83762046686,2018,06
+3129,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-06,508564.0,295140.0012845887,2018,06
+3353,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,62614.0,36466.175023565025,2018,07
+3592,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,261467.0,83758.58125848025,2018,07
+3644,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,538570.0,292286.3760342726,2018,07
+3649,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,350990.0,194251.83762046686,2018,07
+3651,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-07,515805.0,295140.0012845887,2018,07
+3875,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,61546.0,36466.175023565025,2018,08
+4114,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,266046.0,83758.58125848025,2018,08
+4166,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,534233.0,292286.3760342726,2018,08
+4171,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,351134.0,194251.83762046686,2018,08
+4173,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-08,521198.0,295140.0012845887,2018,08
+4397,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,60028.0,36466.175023565025,2018,09
+4636,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,273296.0,83758.58125848025,2018,09
+4688,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,537210.0,292286.3760342726,2018,09
+4693,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,351567.0,194251.83762046686,2018,09
+4695,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-09,523944.0,295140.0012845887,2018,09
+4919,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,59960.0,36466.175023565025,2018,10
+5158,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,278261.0,83758.58125848025,2018,10
+5210,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,544321.0,292286.3760342726,2018,10
+5215,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,350841.0,194251.83762046686,2018,10
+5217,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-10,520681.0,295140.0012845887,2018,10
+5441,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,60966.0,36466.175023565025,2018,11
+5680,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,282013.0,83758.58125848025,2018,11
+5732,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,558280.0,292286.3760342726,2018,11
+5737,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,348923.0,194251.83762046686,2018,11
+5739,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-11,518524.0,295140.0012845887,2018,11
+5963,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,61902.0,36466.175023565025,2018,12
+6202,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,284559.0,83758.58125848025,2018,12
+6254,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,561891.0,292286.3760342726,2018,12
+6259,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,346875.0,194251.83762046686,2018,12
+6261,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2018-12,521051.0,295140.0012845887,2018,12
+6485,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,62520.0,36466.175023565025,2019,01
+6724,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,288827.0,83758.58125848025,2019,01
+6776,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,565892.0,292286.3760342726,2019,01
+6781,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,345442.0,194251.83762046686,2019,01
+6783,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-01,525932.0,295140.0012845887,2019,01
+7007,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,62930.0,36466.175023565025,2019,02
+7246,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,292999.0,83758.58125848025,2019,02
+7298,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,572164.0,292286.3760342726,2019,02
+7303,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,346582.0,194251.83762046686,2019,02
+7305,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-02,529449.0,295140.0012845887,2019,02
+7529,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,63240.0,36466.175023565025,2019,03
+7768,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,299251.0,83758.58125848025,2019,03
+7820,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,582157.0,292286.3760342726,2019,03
+7825,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,349057.0,194251.83762046686,2019,03
+7827,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-03,531635.0,295140.0012845887,2019,03
+8051,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,62632.0,36466.175023565025,2019,04
+8290,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,304961.0,83758.58125848025,2019,04
+8342,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,587165.0,292286.3760342726,2019,04
+8347,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,350364.0,194251.83762046686,2019,04
+8349,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-04,533867.0,295140.0012845887,2019,04
+8573,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,61914.0,36466.175023565025,2019,05
+8812,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,314590.0,83758.58125848025,2019,05
+8864,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,583069.0,292286.3760342726,2019,05
+8869,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,356085.0,194251.83762046686,2019,05
+8871,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-05,544640.0,295140.0012845887,2019,05
+9095,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,61717.0,36466.175023565025,2019,06
+9334,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,319159.0,83758.58125848025,2019,06
+9386,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,577485.0,292286.3760342726,2019,06
+9391,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,358395.0,194251.83762046686,2019,06
+9393,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-06,549810.0,295140.0012845887,2019,06
+9617,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,63012.0,36466.175023565025,2019,07
+9856,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,322912.0,83758.58125848025,2019,07
+9908,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,573184.0,292286.3760342726,2019,07
+9913,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,361122.0,194251.83762046686,2019,07
+9915,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-07,550650.0,295140.0012845887,2019,07
+10139,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,64539.0,36466.175023565025,2019,08
+10378,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,319929.0,83758.58125848025,2019,08
+10430,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,570513.0,292286.3760342726,2019,08
+10435,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,360585.0,194251.83762046686,2019,08
+10437,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-08,545591.0,295140.0012845887,2019,08
+10661,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,65997.0,36466.175023565025,2019,09
+10900,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,320699.0,83758.58125848025,2019,09
+10952,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,568888.0,292286.3760342726,2019,09
+10957,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,362789.0,194251.83762046686,2019,09
+10959,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-09,551071.0,295140.0012845887,2019,09
+11183,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,67941.0,36466.175023565025,2019,10
+11422,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,319840.0,83758.58125848025,2019,10
+11474,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,567035.0,292286.3760342726,2019,10
+11479,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,365107.0,194251.83762046686,2019,10
+11481,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-10,555972.0,295140.0012845887,2019,10
+11705,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,70413.0,36466.175023565025,2019,11
+11944,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,318234.0,83758.58125848025,2019,11
+11996,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,563009.0,292286.3760342726,2019,11
+12001,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,358523.0,194251.83762046686,2019,11
+12003,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-11,563536.0,295140.0012845887,2019,11
+12227,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,73626.0,36466.175023565025,2019,12
+12466,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,315594.0,83758.58125848025,2019,12
+12518,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,556081.0,292286.3760342726,2019,12
+12523,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,349732.0,194251.83762046686,2019,12
+12525,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2019-12,561200.0,295140.0012845887,2019,12
+12749,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,76370.0,36466.175023565025,2020,01
+12988,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,313185.0,83758.58125848025,2020,01
+13040,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,554354.0,292286.3760342726,2020,01
+13045,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,342792.0,194251.83762046686,2020,01
+13047,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-01,566199.0,295140.0012845887,2020,01
+13271,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,78390.0,36466.175023565025,2020,02
+13510,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,312772.0,83758.58125848025,2020,02
+13562,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,555112.0,292286.3760342726,2020,02
+13567,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,339138.0,194251.83762046686,2020,02
+13569,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-02,565995.0,295140.0012845887,2020,02
+13793,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,80124.0,36466.175023565025,2020,03
+14032,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,313293.0,83758.58125848025,2020,03
+14084,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,559474.0,292286.3760342726,2020,03
+14089,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,343293.0,194251.83762046686,2020,03
+14091,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-03,573432.0,295140.0012845887,2020,03
+14315,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,80730.0,36466.175023565025,2020,04
+14554,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,314707.0,83758.58125848025,2020,04
+14606,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,561580.0,292286.3760342726,2020,04
+14611,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,343690.0,194251.83762046686,2020,04
+14613,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-04,585337.0,295140.0012845887,2020,04
+14837,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,1943.32663289356,36466.175023565025,2020,05
+15076,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,7640.425324411452,83758.58125848025,2020,05
+15128,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,13661.330425595315,292286.3760342726,2020,05
+15133,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,8502.81069000081,194251.83762046686,2020,05
+15135,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-05,14624.621542545981,295140.0012845887,2020,05
+15359,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,1903.1847834841158,36466.175023565025,2020,06
+15598,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,7583.984804961188,83758.58125848025,2020,06
+15650,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,13515.194233402206,292286.3760342726,2020,06
+15655,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,8453.528416870231,194251.83762046686,2020,06
+15657,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-06,14638.811780181983,295140.0012845887,2020,06
+15881,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,1642.693118447254,36466.175023565025,2020,07
+16120,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,6599.8852677091445,83758.58125848025,2020,07
+16172,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,11635.888238204052,292286.3760342726,2020,07
+16177,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,7419.7857568184045,194251.83762046686,2020,07
+16179,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-07,12555.503767993723,295140.0012845887,2020,07
+16403,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,1775.281116849369,36466.175023565025,2020,08
+16477,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,1809.3006578507325,2344.7002394508672,2020,08
+16481,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,2910.8376768750786,2836.8819797269325,2020,08
+16642,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,7088.482222127663,83758.58125848025,2020,08
+16694,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,12237.154497757778,292286.3760342726,2020,08
+16699,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,7959.517202618018,194251.83762046686,2020,08
+16701,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-08,13074.21484753192,295140.0012845887,2020,08
+16925,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,1880.4933000051583,36466.175023565025,2020,09
+16999,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,1872.5412315496471,2344.7002394508672,2020,09
+17003,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,2966.3493868700434,2836.8819797269325,2020,09
+17164,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,7380.613220943293,83758.58125848025,2020,09
+17216,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,12588.648426892318,292286.3760342726,2020,09
+17221,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,8147.725795991138,194251.83762046686,2020,09
+17223,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-09,13317.094353891445,295140.0012845887,2020,09
+17447,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,1914.2255508607261,36466.175023565025,2020,10
+17521,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,1820.6956895730098,2344.7002394508672,2020,10
+17525,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,2800.9559581334715,2836.8819797269325,2020,10
+17686,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,7201.493308857822,83758.58125848025,2020,10
+17738,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,12231.799849444682,292286.3760342726,2020,10
+17743,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,7878.235079208134,194251.83762046686,2020,10
+17745,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-10,12893.52525739615,295140.0012845887,2020,10
+17969,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,2021.9868620350412,36466.175023565025,2020,11
+18043,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,1838.1104080484183,2344.7002394508672,2020,11
+18047,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,2809.5397662853475,2836.8819797269325,2020,11
+18208,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,7258.922586640652,83758.58125848025,2020,11
+18260,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,12664.951386150362,292286.3760342726,2020,11
+18265,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,7884.272604467801,194251.83762046686,2020,11
+18267,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-11,13005.863085199437,295140.0012845887,2020,11
+18491,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,1979.2273963667838,36466.175023565025,2020,12
+18565,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,1762.8058237917626,2344.7002394508672,2020,12
+18569,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,2646.2810317466196,2836.8819797269325,2020,12
+18648,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,1364.5556603786833,1434.0832918656224,2020,12
+18730,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,6893.215850115834,83758.58125848025,2020,12
+18782,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,12271.891047861762,292286.3760342726,2020,12
+18787,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,7545.353057427596,194251.83762046686,2020,12
+18789,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2020-12,12461.88571623915,295140.0012845887,2020,12
+19013,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,1942.3665992999681,36466.175023565025,2021,01
+19087,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,1766.1673081421513,2344.7002394508672,2021,01
+19091,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,2560.5947304257875,2836.8819797269325,2021,01
+19170,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,1358.5474227086909,1434.0832918656224,2021,01
+19252,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,6729.3856761653005,83758.58125848025,2021,01
+19304,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,12228.576684924936,292286.3760342726,2021,01
+19309,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,7388.503015539272,194251.83762046686,2021,01
+19311,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-01,12310.752662998764,295140.0012845887,2021,01
+19535,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,2047.423607132639,36466.175023565025,2021,02
+19609,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,1899.927609630639,2344.7002394508672,2021,02
+19613,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,2686.322936425202,2836.8819797269325,2021,02
+19692,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,1471.0642474023653,1434.0832918656224,2021,02
+19774,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,7091.578394020961,83758.58125848025,2021,02
+19826,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,12987.960054611518,292286.3760342726,2021,02
+19831,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,7874.161324269921,194251.83762046686,2021,02
+19833,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-02,13150.309815703762,295140.0012845887,2021,02
+20057,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,2044.722041455932,36466.175023565025,2021,03
+20131,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,1931.045552263328,2344.7002394508672,2021,03
+20135,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,2698.4028335813173,2836.8819797269325,2021,03
+20214,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,1499.0625995510595,1434.0832918656224,2021,03
+20296,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,6952.522104604384,83758.58125848025,2021,03
+20348,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,13088.12250334916,292286.3760342726,2021,03
+20353,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,7894.5740050384775,194251.83762046686,2021,03
+20355,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-03,13091.667210023696,295140.0012845887,2021,03
+20579,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,2013.5605867100667,36466.175023565025,2021,04
+20653,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,1911.5608820758723,2344.7002394508672,2021,04
+20657,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,2729.0639776997123,2836.8819797269325,2021,04
+20736,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,1472.1820509000524,1434.0832918656224,2021,04
+20818,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,6596.03955390714,83758.58125848025,2021,04
+20870,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,12786.270047168824,292286.3760342726,2021,04
+20875,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,7628.099820061102,194251.83762046686,2021,04
+20877,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-04,12604.46148795982,295140.0012845887,2021,04
+21101,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,1927.017787148959,36466.175023565025,2021,05
+21175,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,1859.3764571492336,2344.7002394508672,2021,05
+21179,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,2691.4215960329393,2836.8819797269325,2021,05
+21258,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,1420.1382403272964,1434.0832918656224,2021,05
+21340,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,6200.729991363938,83758.58125848025,2021,05
+21392,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,12296.014237586143,292286.3760342726,2021,05
+21397,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,7364.97410187099,194251.83762046686,2021,05
+21399,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-05,12230.973792736693,295140.0012845887,2021,05
+21623,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,1999.1282449301762,36466.175023565025,2021,06
+21697,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,1942.0593178695156,2344.7002394508672,2021,06
+21701,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,2865.6620874202013,2836.8819797269325,2021,06
+21780,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,1460.6474831581318,1434.0832918656224,2021,06
+21862,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,6305.538290941932,83758.58125848025,2021,06
+21914,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,12664.434163687967,292286.3760342726,2021,06
+21919,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,7653.670467904977,194251.83762046686,2021,06
+21921,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-06,12743.733862335655,295140.0012845887,2021,06
+22145,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,2085.923320941522,36466.175023565025,2021,07
+22219,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,2040.0141405636405,2344.7002394508672,2021,07
+22223,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,3060.844476738313,2836.8819797269325,2021,07
+22302,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,1525.6763526338902,1434.0832918656224,2021,07
+22384,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,6553.700152121146,83758.58125848025,2021,07
+22436,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,13249.408828018768,292286.3760342726,2021,07
+22441,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,8112.733301637193,194251.83762046686,2021,07
+22443,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-07,13484.359228357724,295140.0012845887,2021,07
+22667,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,2098.475610066228,36466.175023565025,2021,08
+22741,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,2046.011331600877,2344.7002394508672,2021,08
+22745,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,3135.437996703862,2836.8819797269325,2021,08
+22824,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,1504.8994253023773,1434.0832918656224,2021,08
+22906,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,6509.8693143556775,83758.58125848025,2021,08
+22958,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,13154.109084081645,292286.3760342726,2021,08
+22963,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,8096.235485243,194251.83762046686,2021,08
+22965,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-08,13448.451645639258,295140.0012845887,2021,08
+23189,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,2076.4403453920213,36466.175023565025,2021,09
+23263,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,1995.9467645443467,2344.7002394508672,2021,09
+23267,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,3075.7185322852415,2836.8819797269325,2021,09
+23346,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,1468.7321875219523,1434.0832918656224,2021,09
+23428,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,6360.07716122885,83758.58125848025,2021,09
+23480,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,12541.2490691353,292286.3760342726,2021,09
+23485,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,7842.537363566605,194251.83762046686,2021,09
+23487,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-09,13005.061168092745,295140.0012845887,2021,09
+23711,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,2044.0835855339938,36466.175023565025,2021,10
+23785,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,1971.3819211674997,2344.7002394508672,2021,10
+23789,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,3017.029316068309,2836.8819797269325,2021,10
+23868,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,1427.0708429154424,1434.0832918656224,2021,10
+23950,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,6369.258182436752,83758.58125848025,2021,10
+24002,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,12275.379836316579,292286.3760342726,2021,10
+24007,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,7829.717937876066,194251.83762046686,2021,10
+24009,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-10,12891.495027523199,295140.0012845887,2021,10
+24233,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,2046.0465164201096,36466.175023565025,2021,11
+24307,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,1971.847605348898,2344.7002394508672,2021,11
+24311,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,2905.9760216807936,2836.8819797269325,2021,11
+24390,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,1382.5540995650438,1434.0832918656224,2021,11
+24472,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,6325.093100444304,83758.58125848025,2021,11
+24524,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,12018.678522865339,292286.3760342726,2021,11
+24529,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,7644.015151572738,194251.83762046686,2021,11
+24531,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-11,12677.48244940858,295140.0012845887,2021,11
+24755,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,2013.5771763968596,36466.175023565025,2021,12
+24829,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,1974.3018267677674,2344.7002394508672,2021,12
+24833,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,2785.3429689548284,2836.8819797269325,2021,12
+24912,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,1318.4483149632606,1434.0832918656224,2021,12
+24994,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,6132.040682674193,83758.58125848025,2021,12
+25046,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,11752.363903982514,292286.3760342726,2021,12
+25051,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,7314.663183599706,194251.83762046686,2021,12
+25053,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2021-12,12366.769680708732,295140.0012845887,2021,12
+25277,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,2091.863849570108,36466.175023565025,2022,01
+25351,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,2031.7996732159081,2344.7002394508672,2022,01
+25355,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,2797.461141689268,2836.8819797269325,2022,01
+25434,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,1364.474131517333,1434.0832918656224,2022,01
+25516,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,6218.366833129249,83758.58125848025,2022,01
+25568,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,12028.913935217844,292286.3760342726,2022,01
+25573,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,7250.205974077137,194251.83762046686,2022,01
+25575,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-01,12529.93069163407,295140.0012845887,2022,01
+25799,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,2089.55444501757,36466.175023565025,2022,02
+25873,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,2020.3679096341048,2344.7002394508672,2022,02
+25877,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,2779.4479825937933,2836.8819797269325,2022,02
+25956,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,1414.7089788872504,1434.0832918656224,2022,02
+26038,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,6227.964355613387,83758.58125848025,2022,02
+26090,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,12181.759768135948,292286.3760342726,2022,02
+26095,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,7189.086408526639,194251.83762046686,2022,02
+26097,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-02,12551.30235025288,295140.0012845887,2022,02
+26321,270064,762,Southwest Detroit,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,2094.3237248582022,36466.175023565025,2022,03
+26395,270034,1294,Morningside,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,2004.789406744338,2344.7002394508672,2022,03
+26399,272839,1335,Bagley,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,2814.9491763285137,2836.8819797269325,2022,03
+26478,269990,2257,Fitzgerald,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,1492.5706321171294,1434.0832918656224,2022,03
+26560,270070,4808,University District,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,6358.701411636568,83758.58125848025,2022,03
+26612,270008,9536,Indian Village,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,12600.574866421204,292286.3760342726,2022,03
+26617,270058,11651,Sherwood Forest,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,7331.312499625231,194251.83762046686,2022,03
+26619,270047,11824,Palmer Woods,Neighborhood,MI,MI,Detroit,Detroit-Warren-Dearborn,Wayne County,2022-03,12842.79280508131,295140.0012845887,2022,03

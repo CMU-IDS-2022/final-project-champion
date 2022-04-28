@@ -1,9 +1,11 @@
 import os
 import pandas as pd
+import numpy
 
+top10cities = set(["Boston", "Chicago", "Detroit", "Los Angeles", "New York", "Philadelphia", "Pittsburgh", "San Francisco", "Seattle", "Washington"])
 
-create general city ratio index
-city_index_df = pd.readCsv("data/top10_cities_index_ratio_updated.csv")
+# create general city ratio index
+city_index_df = pd.read_csv("data/top10_cities_index_ratio_updated.csv")
 # maps cities to a ratio
 city_time_ratio = {}
 for i, row in city_index_df.iterrows():
@@ -16,7 +18,7 @@ def filterTop10Cities(df):
   for index, row in df.iterrows():
     if row['City'] not in top10cities:
       df.drop(index, inplace=True)
-
+  return df
 
 # rename column name to index format
 def getNewDateColumns(df):
@@ -40,6 +42,7 @@ def convertPriceToRental(df):
       if city_time in city_time_ratio:
         newValue = row[column] * city_time_ratio[city_time]
         df.at[index, column] = newValue
+  return df
 
 
 def reformateColumns(housing_df):
@@ -57,30 +60,30 @@ def splitDataIntoMultipleFiles(housing_df):
     outdir = "data/" + city.replace(" ", "")
     if not os.path.exists(outdir):
       os.mkdir(outdir)
-    df.to_csv(f"{outdir}/1brRental")
+    # TODO: change to output file name before running script
+    df.to_csv(f"{outdir}/condoRental")
 
 
 if __name__ == "__main__":
   # TODO: change to unprocessed file name before running script
   # housing_df = pd.read_csv("data/neighborhood_1br_rental_price.csv")
-  housing_df = pd.read_csv("data/neighborhood_1br_rental_price.csv")
+  housing_df = pd.read_csv("data/neighborhood_condo_rental_price.csv")
 
-  filterTop10Cities(housing_df)
+  housing_df = filterTop10Cities(housing_df)
 
   housing_df.columns = getNewDateColumns(housing_df) # convert columns type
 
-  convertPriceToRental(housing_df) # convert prices to rental price
+  housing_df = convertPriceToRental(housing_df) # convert prices to rental price
 
   housing_df = reformateColumns(housing_df) # reformat column names and styles
 
   # create a meanPrices column
   housing_df['MeanPrices'] = housing_df.groupby('Neighborhood')['Prices'].transform('mean')
-  housing_df
+
+  print(housing_df.head())
 
   # create separate year and month columns
   housing_df[['Year', 'Month']] = housing_df['Date'].str.split('-', expand= True)
-  housing_df
+  print(housing_df.head())
 
   splitDataIntoMultipleFiles(housing_df)
-
-

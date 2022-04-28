@@ -1,0 +1,1210 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+140,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,4559.279224916363,5077.440210711737,2018,01
+239,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,4814.357990719107,5229.343932797617,2018,01
+268,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,6494.523947905439,7039.4725658585885,2018,01
+278,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1445.1183950638488,1688.9459868768818,2018,01
+308,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,6594.360885186168,7157.7904998743625,2018,01
+332,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,851.1311623929201,1125.3358442379024,2018,01
+340,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,6069.685162594723,7031.9597632049845,2018,01
+350,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,3091.9669652439434,3434.9626253114748,2018,01
+351,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,2005.610973439334,2518.0420567689725,2018,01
+361,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1812.682119232158,2105.12721294609,2018,01
+373,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,2102.780038017515,2270.588577939292,2018,01
+393,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,3805.281673643783,4507.471778520467,2018,01
+395,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1485.7569211142875,1849.8181503044145,2018,01
+409,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,2376.977080961108,2859.8545661489966,2018,01
+413,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,5615.038882604044,4352.343468828388,2018,01
+454,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,598.6139089192011,767.6519006025321,2018,01
+462,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1763.9690681583932,1897.2517246215473,2018,01
+464,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1546.329153835923,1810.5575120339774,2018,01
+480,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,805.4936987868766,1101.258901437079,2018,01
+506,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,2806.726170182826,3089.7955678182925,2018,01
+662,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,4565.695332826919,5077.440210711737,2018,02
+761,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,4787.004457953783,5229.343932797617,2018,02
+790,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,6433.717658976299,7039.4725658585885,2018,02
+800,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1464.7197881825311,1688.9459868768818,2018,02
+830,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,6514.809658740799,7157.7904998743625,2018,02
+854,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,851.4749126547534,1125.3358442379024,2018,02
+862,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,6044.367295551166,7031.9597632049845,2018,02
+872,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,3110.4790705622595,3434.9626253114748,2018,02
+873,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,2010.4414880049085,2518.0420567689725,2018,02
+883,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1833.3513952914047,2105.12721294609,2018,02
+895,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,2109.1230343322227,2270.588577939292,2018,02
+915,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,3812.4651252518483,4507.471778520467,2018,02
+917,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1500.736903293413,1849.8181503044145,2018,02
+931,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,2381.8813602771306,2859.8545661489966,2018,02
+935,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,5573.015589356258,4352.343468828388,2018,02
+976,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,628.3560166448433,767.6519006025321,2018,02
+984,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1787.384997887517,1897.2517246215473,2018,02
+986,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1569.1605068765855,1810.5575120339774,2018,02
+1002,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,829.641765400657,1101.258901437079,2018,02
+1028,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,2800.0365006634665,3089.7955678182925,2018,02
+1184,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,4573.996525003516,5077.440210711737,2018,03
+1283,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,4747.602858406029,5229.343932797617,2018,03
+1312,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,6381.538548955809,7039.4725658585885,2018,03
+1322,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1483.0451177915324,1688.9459868768818,2018,03
+1352,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,6448.930711743214,7157.7904998743625,2018,03
+1376,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,861.5021073436037,1125.3358442379024,2018,03
+1384,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,6034.379184678693,7031.9597632049845,2018,03
+1394,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,3108.230310009439,3434.9626253114748,2018,03
+1395,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,2016.0703968904365,2518.0420567689725,2018,03
+1405,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1846.0531003671892,2105.12721294609,2018,03
+1417,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,2133.149399444511,2270.588577939292,2018,03
+1437,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,3818.5753319552455,4507.471778520467,2018,03
+1439,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1510.1228019697567,1849.8181503044145,2018,03
+1453,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,2390.5028879481133,2859.8545661489966,2018,03
+1457,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,5529.835222992973,4352.343468828388,2018,03
+1498,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,646.6218498295322,767.6519006025321,2018,03
+1506,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1775.0008306633054,1897.2517246215473,2018,03
+1508,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1574.6543957593308,1810.5575120339774,2018,03
+1524,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,864.2027687577048,1101.258901437079,2018,03
+1550,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,2778.6963149611934,3089.7955678182925,2018,03
+1706,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,4617.796255254456,5077.440210711737,2018,04
+1805,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,4733.4802942818,5229.343932797617,2018,04
+1834,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,6366.624776813149,7039.4725658585885,2018,04
+1844,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1500.2464588109485,1688.9459868768818,2018,04
+1874,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,6425.746033407842,7157.7904998743625,2018,04
+1898,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,868.9451879625722,1125.3358442379024,2018,04
+1906,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,6053.947141852521,7031.9597632049845,2018,04
+1916,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,3120.857092311516,3434.9626253114748,2018,04
+1917,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,2017.441564940977,2518.0420567689725,2018,04
+1927,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1878.6331984699311,2105.12721294609,2018,04
+1939,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,2158.8529782946603,2270.588577939292,2018,04
+1959,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,3847.9183960821183,4507.471778520467,2018,04
+1961,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1535.0399245059257,1849.8181503044145,2018,04
+1975,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,2420.566164529133,2859.8545661489966,2018,04
+1979,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,5521.757772514971,4352.343468828388,2018,04
+2020,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,644.6106852174772,767.6519006025321,2018,04
+2028,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1750.4063958676882,1897.2517246215473,2018,04
+2030,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1578.3556943783046,1810.5575120339774,2018,04
+2046,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,907.8839166727083,1101.258901437079,2018,04
+2072,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,2754.5763035656205,3089.7955678182925,2018,04
+2228,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,4642.729719046993,5077.440210711737,2018,05
+2327,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,4753.658433362998,5229.343932797617,2018,05
+2356,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,6437.91677072967,7039.4725658585885,2018,05
+2366,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1500.237059354075,1688.9459868768818,2018,05
+2396,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,6491.807576637686,7157.7904998743625,2018,05
+2420,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,871.782852802815,1125.3358442379024,2018,05
+2428,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,6166.929082788198,7031.9597632049845,2018,05
+2438,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,3125.4805760381255,3434.9626253114748,2018,05
+2439,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,2014.7661554062554,2518.0420567689725,2018,05
+2449,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1883.0665645904182,2105.12721294609,2018,05
+2461,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,2183.7611271161577,2270.588577939292,2018,05
+2481,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,3876.5033436165645,4507.471778520467,2018,05
+2483,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1544.1901134241423,1849.8181503044145,2018,05
+2497,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,2462.3993769096805,2859.8545661489966,2018,05
+2501,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,5569.928171081754,4352.343468828388,2018,05
+2542,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,623.9684773541131,767.6519006025321,2018,05
+2550,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1726.6422727254849,1897.2517246215473,2018,05
+2552,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1562.2748714521651,1810.5575120339774,2018,05
+2568,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,923.0939211685975,1101.258901437079,2018,05
+2594,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,2763.3687568368264,3089.7955678182925,2018,05
+2750,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,4726.941085208382,5077.440210711737,2018,06
+2849,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,4843.330062479907,5229.343932797617,2018,06
+2878,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,6573.471319335491,7039.4725658585885,2018,06
+2888,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1521.0791789545242,1688.9459868768818,2018,06
+2918,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,6636.271970253298,7157.7904998743625,2018,06
+2942,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,889.349881082753,1125.3358442379024,2018,06
+2950,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,6339.106897939917,7031.9597632049845,2018,06
+2960,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,3173.3844058581553,3434.9626253114748,2018,06
+2961,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,2040.7281993019658,2518.0420567689725,2018,06
+2971,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1915.388303936371,2105.12721294609,2018,06
+2983,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,2218.7730474329423,2270.588577939292,2018,06
+3003,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,3959.640983575478,4507.471778520467,2018,06
+3005,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1582.8342039922582,1849.8181503044145,2018,06
+3019,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,2544.629733334866,2859.8545661489966,2018,06
+3023,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,5677.71247272919,4352.343468828388,2018,06
+3064,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,607.8060988570077,767.6519006025321,2018,06
+3072,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1783.45014870687,1897.2517246215473,2018,06
+3074,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1581.8877322904684,1810.5575120339774,2018,06
+3090,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,959.154422593804,1101.258901437079,2018,06
+3116,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,2818.4394896545577,3089.7955678182925,2018,06
+3272,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,4739.112332984855,5077.440210711737,2018,07
+3371,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,4856.332468817728,5229.343932797617,2018,07
+3400,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,6608.508773915681,7039.4725658585885,2018,07
+3410,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1522.7052853751745,1688.9459868768818,2018,07
+3440,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,6674.012549527545,7157.7904998743625,2018,07
+3464,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,892.0168637770753,1125.3358442379024,2018,07
+3472,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,6400.866322727836,7031.9597632049845,2018,07
+3482,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,3169.1630141373435,3434.9626253114748,2018,07
+3483,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,2042.8956137687073,2518.0420567689725,2018,07
+3493,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1918.2396700284455,2105.12721294609,2018,07
+3505,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,2226.0170653688833,2270.588577939292,2018,07
+3525,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,3966.3665508425693,4507.471778520467,2018,07
+3527,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1590.8292120115138,1849.8181503044145,2018,07
+3541,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,2578.879128337349,2859.8545661489966,2018,07
+3545,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,5691.004165172941,4352.343468828388,2018,07
+3586,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,597.6745186897193,767.6519006025321,2018,07
+3594,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1813.3432790141353,1897.2517246215473,2018,07
+3596,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1585.1823348035944,1810.5575120339774,2018,07
+3612,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,980.397268333663,1101.258901437079,2018,07
+3638,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,2838.3824998027258,3089.7955678182925,2018,07
+3794,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,4696.947265250501,5077.440210711737,2018,08
+3893,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,4808.177005118486,5229.343932797617,2018,08
+3922,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,6545.316457846822,7039.4725658585885,2018,08
+3932,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1520.6824786583968,1688.9459868768818,2018,08
+3962,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,6634.790469279957,7157.7904998743625,2018,08
+3986,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,884.8462674362127,1125.3358442379024,2018,08
+3994,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,6355.6158093314225,7031.9597632049845,2018,08
+4004,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,3150.984487021015,3434.9626253114748,2018,08
+4005,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,2017.1102721467319,2518.0420567689725,2018,08
+4015,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1908.242173852267,2105.12721294609,2018,08
+4027,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,2194.6627795377376,2270.588577939292,2018,08
+4047,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,3936.981741626181,4507.471778520467,2018,08
+4049,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1598.0172945791567,1849.8181503044145,2018,08
+4063,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,2575.307516639445,2859.8545661489966,2018,08
+4067,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,5627.335643485162,4352.343468828388,2018,08
+4108,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,592.7094156693809,767.6519006025321,2018,08
+4116,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1794.1319469135492,1897.2517246215473,2018,08
+4118,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1580.9132843951784,1810.5575120339774,2018,08
+4134,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,997.614652571794,1101.258901437079,2018,08
+4160,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,2809.0384675217606,3089.7955678182925,2018,08
+4316,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,4622.157323127995,5077.440210711737,2018,09
+4415,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,4727.9857076608405,5229.343932797617,2018,09
+4444,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,6464.190062597482,7039.4725658585885,2018,09
+4454,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1497.3674741527395,1688.9459868768818,2018,09
+4484,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,6565.974834132146,7157.7904998743625,2018,09
+4508,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,864.7178491981037,1125.3358442379024,2018,09
+4516,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,6295.465915016834,7031.9597632049845,2018,09
+4526,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,3115.357682133845,3434.9626253114748,2018,09
+4527,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1983.7086322775162,2518.0420567689725,2018,09
+4537,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1884.8335040089357,2105.12721294609,2018,09
+4549,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,2162.1638224429194,2270.588577939292,2018,09
+4569,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,3876.479924411143,4507.471778520467,2018,09
+4571,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1586.3972838170519,1849.8181503044145,2018,09
+4585,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,2556.521575322103,2859.8545661489966,2018,09
+4589,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,5532.251542536129,4352.343468828388,2018,09
+4630,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,594.314415639266,767.6519006025321,2018,09
+4638,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1722.0429189799668,1897.2517246215473,2018,09
+4640,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1556.6767282804167,1810.5575120339774,2018,09
+4656,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,977.5082804582529,1101.258901437079,2018,09
+4682,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,2774.7360298152794,3089.7955678182925,2018,09
+4838,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,4609.20473307529,5077.440210711737,2018,10
+4937,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,4713.021862683551,5229.343932797617,2018,10
+4966,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,6455.245074970292,7039.4725658585885,2018,10
+4976,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1495.2320136550813,1688.9459868768818,2018,10
+5006,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,6559.376431639752,7157.7904998743625,2018,10
+5030,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,863.5570638803849,1125.3358442379024,2018,10
+5038,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,6317.133553043984,7031.9597632049845,2018,10
+5048,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,3107.6445355488463,3434.9626253114748,2018,10
+5049,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1978.2339208354015,2518.0420567689725,2018,10
+5059,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1881.4956286335891,2105.12721294609,2018,10
+5071,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,2149.906638603627,2270.588577939292,2018,10
+5091,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,3880.232865212206,4507.471778520467,2018,10
+5093,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1594.4753938170056,1849.8181503044145,2018,10
+5107,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,2594.28480284494,2859.8545661489966,2018,10
+5111,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,5497.280236258652,4352.343468828388,2018,10
+5152,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,589.6034376919808,767.6519006025321,2018,10
+5160,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1685.4179424455974,1897.2517246215473,2018,10
+5162,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1544.4347343211118,1810.5575120339774,2018,10
+5178,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,941.6075744703521,1101.258901437079,2018,10
+5204,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,2794.7703964191915,3089.7955678182925,2018,10
+5360,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,4611.192556261028,5077.440210711737,2018,11
+5459,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,4726.439743189524,5229.343932797617,2018,11
+5488,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,6480.466082068037,7039.4725658585885,2018,11
+5498,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1496.4907256304775,1688.9459868768818,2018,11
+5528,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,6577.598770794425,7157.7904998743625,2018,11
+5552,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,861.4653268421539,1125.3358442379024,2018,11
+5560,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,6358.789205335815,7031.9597632049845,2018,11
+5570,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,3102.973519594795,3434.9626253114748,2018,11
+5571,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1984.7121243399463,2518.0420567689725,2018,11
+5581,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1884.8648710414848,2105.12721294609,2018,11
+5593,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,2138.4156427061557,2270.588577939292,2018,11
+5613,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,3904.039784708305,4507.471778520467,2018,11
+5615,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1602.2804391940879,1849.8181503044145,2018,11
+5629,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,2639.3137099461105,2859.8545661489966,2018,11
+5633,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,5501.621939066111,4352.343468828388,2018,11
+5674,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,578.297959653959,767.6519006025321,2018,11
+5682,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1667.9346195173878,1897.2517246215473,2018,11
+5684,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1532.5892141225754,1810.5575120339774,2018,11
+5700,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,907.7782345894274,1101.258901437079,2018,11
+5726,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,2810.5661922285794,3089.7955678182925,2018,11
+5882,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,4550.464086938878,5077.440210711737,2018,12
+5981,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,4677.751708879337,5229.343932797617,2018,12
+6010,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,6401.871439729082,7039.4725658585885,2018,12
+6020,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1485.686281046178,1688.9459868768818,2018,12
+6050,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,6484.247597533779,7157.7904998743625,2018,12
+6074,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,850.7785638967674,1125.3358442379024,2018,12
+6082,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,6297.069473733237,7031.9597632049845,2018,12
+6092,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,3051.730995637384,3434.9626253114748,2018,12
+6093,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1945.8642071157149,2518.0420567689725,2018,12
+6103,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1861.7952128558725,2105.12721294609,2018,12
+6115,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,2095.680233396119,2270.588577939292,2018,12
+6135,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,3860.906821197083,4507.471778520467,2018,12
+6137,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1586.3844010901546,1849.8181503044145,2018,12
+6151,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,2662.6436510049048,2859.8545661489966,2018,12
+6155,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,5434.9369360363,4352.343468828388,2018,12
+6196,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,555.3187547203581,767.6519006025321,2018,12
+6204,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1650.199205641712,1897.2517246215473,2018,12
+6206,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1496.8436122278208,1810.5575120339774,2018,12
+6222,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,871.9219202279573,1101.258901437079,2018,12
+6248,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,2785.528188226171,3089.7955678182925,2018,12
+6404,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,4592.195868961652,5077.440210711737,2019,01
+6503,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,4737.890086724415,5229.343932797617,2019,01
+6532,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,6493.161393764363,7039.4725658585885,2019,01
+6542,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1509.1396444483048,1688.9459868768818,2019,01
+6572,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,6580.890040097427,7157.7904998743625,2019,01
+6596,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,870.8889541828123,1125.3358442379024,2019,01
+6604,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,6403.923900934171,7031.9597632049845,2019,01
+6614,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,3094.876959070854,3434.9626253114748,2019,01
+6615,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1962.5005959456182,2518.0420567689725,2019,01
+6625,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1888.7309352059922,2105.12721294609,2019,01
+6637,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,2113.264537938734,2270.588577939292,2019,01
+6657,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,3910.4645336388976,4507.471778520467,2019,01
+6659,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1603.3778856689817,1849.8181503044145,2019,01
+6673,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,2685.125982330557,2859.8545661489966,2019,01
+6677,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,5516.8773562621045,4352.343468828388,2019,01
+6718,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,550.0392130533473,767.6519006025321,2019,01
+6726,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1668.4738345451126,1897.2517246215473,2019,01
+6728,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1508.7344113890758,1810.5575120339774,2019,01
+6744,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,873.7600735173489,1101.258901437079,2019,01
+6745,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,733.4028613644304,791.9195607563308,2019,01
+6770,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,2795.1596908811766,3089.7955678182925,2019,01
+6926,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,4656.091282219564,5077.440210711737,2019,02
+7025,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,4821.6410008814255,5229.343932797617,2019,02
+7054,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,6606.47308847641,7039.4725658585885,2019,02
+7064,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1530.0912928051364,1688.9459868768818,2019,02
+7094,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,6709.437469093394,7157.7904998743625,2019,02
+7118,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,892.6599732887585,1125.3358442379024,2019,02
+7126,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,6548.4788519278645,7031.9597632049845,2019,02
+7136,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,3153.5117513222403,3434.9626253114748,2019,02
+7137,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1996.528038943889,2518.0420567689725,2019,02
+7147,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1925.1089686081557,2105.12721294609,2019,02
+7159,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,2149.2017651739116,2270.588577939292,2019,02
+7179,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,3968.314658059346,4507.471778520467,2019,02
+7181,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1615.7366795422179,1849.8181503044145,2019,02
+7195,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,2713.654607963961,2859.8545661489966,2019,02
+7199,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,5619.229454949172,4352.343468828388,2019,02
+7240,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,562.2836126712895,767.6519006025321,2019,02
+7248,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1658.7815229831617,1897.2517246215473,2019,02
+7250,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1526.6065857870474,1810.5575120339774,2019,02
+7266,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,870.4711013510771,1101.258901437079,2019,02
+7267,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,721.0555761829677,791.9195607563308,2019,02
+7292,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,2824.3637499286474,3089.7955678182925,2019,02
+7448,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,4670.062554297189,5077.440210711737,2019,03
+7547,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,4861.911592732836,5229.343932797617,2019,03
+7576,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,6674.0354413840905,7039.4725658585885,2019,03
+7586,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1540.5349781814168,1688.9459868768818,2019,03
+7616,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,6771.29261090089,7157.7904998743625,2019,03
+7640,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,900.0123933631654,1125.3358442379024,2019,03
+7648,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,6607.604577467315,7031.9597632049845,2019,03
+7658,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,3190.917164230497,3434.9626253114748,2019,03
+7659,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,2021.90229406985,2518.0420567689725,2019,03
+7669,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1935.9112800411135,2105.12721294609,2019,03
+7681,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,2161.874412643339,2270.588577939292,2019,03
+7701,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,4010.4883306652714,4507.471778520467,2019,03
+7703,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1623.0277851753383,1849.8181503044145,2019,03
+7717,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,2696.9159728103127,2859.8545661489966,2019,03
+7721,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,5672.557509138934,4352.343468828388,2019,03
+7762,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,588.3388046898826,767.6519006025321,2019,03
+7770,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1611.016397612189,1897.2517246215473,2019,03
+7772,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1551.6783895629956,1810.5575120339774,2019,03
+7788,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,856.7275609549403,1101.258901437079,2019,03
+7789,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,701.2370803473094,791.9195607563308,2019,03
+7814,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,2815.6971981428296,3089.7955678182925,2019,03
+7970,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,4775.144835548321,5077.440210711737,2019,04
+8069,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,4980.543814804977,5229.343932797617,2019,04
+8098,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,6829.646195964996,7039.4725658585885,2019,04
+8108,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1575.1174104902989,1688.9459868768818,2019,04
+8138,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,6936.303605275758,7157.7904998743625,2019,04
+8162,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,919.3771753942424,1125.3358442379024,2019,04
+8170,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,6791.7453006840005,7031.9597632049845,2019,04
+8180,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,3254.4420895355674,3434.9626253114748,2019,04
+8181,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2076.597501591624,2518.0420567689725,2019,04
+8191,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1990.8694997625769,2105.12721294609,2019,04
+8194,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1219.7662270293158,1414.0940789684378,2019,04
+8203,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2196.573624754387,2270.588577939292,2019,04
+8223,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,4109.738660547544,4507.471778520467,2019,04
+8225,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1663.1878545803788,1849.8181503044145,2019,04
+8239,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2749.398973232595,2859.8545661489966,2019,04
+8243,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,5792.778937662037,4352.343468828388,2019,04
+8284,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,633.3479230605169,767.6519006025321,2019,04
+8292,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1604.4024261904854,1897.2517246215473,2019,04
+8294,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1589.4233605442666,1810.5575120339774,2019,04
+8310,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,858.8506213390606,1101.258901437079,2019,04
+8311,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,689.0908689734372,791.9195607563308,2019,04
+8336,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2873.5484130673117,3089.7955678182925,2019,04
+8492,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,4808.989706577421,5077.440210711737,2019,05
+8591,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,5012.456561576278,5229.343932797617,2019,05
+8620,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,6891.914160451195,7039.4725658585885,2019,05
+8630,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1595.7360309502358,1688.9459868768818,2019,05
+8660,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,6995.261543139589,7157.7904998743625,2019,05
+8684,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,946.2750378509668,1125.3358442379024,2019,05
+8692,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,6901.181970359821,7031.9597632049845,2019,05
+8702,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,3270.569428808439,3434.9626253114748,2019,05
+8703,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2068.1230833172644,2518.0420567689725,2019,05
+8713,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2014.0081152166488,2105.12721294609,2019,05
+8716,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1249.4725692324114,1414.0940789684378,2019,05
+8725,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2175.512135302396,2270.588577939292,2019,05
+8745,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,4155.152498848128,4507.471778520467,2019,05
+8747,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1685.5388485233877,1849.8181503044145,2019,05
+8761,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2797.0250304235524,2859.8545661489966,2019,05
+8765,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,5815.338236167818,4352.343468828388,2019,05
+8806,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,666.4143039077325,767.6519006025321,2019,05
+8814,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1620.0674226225426,1897.2517246215473,2019,05
+8816,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1619.7147937577265,1810.5575120339774,2019,05
+8832,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,852.168339773906,1101.258901437079,2019,05
+8833,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,684.0276636170056,791.9195607563308,2019,05
+8858,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2892.4427845364676,3089.7955678182925,2019,05
+9014,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,4850.240930702898,5077.440210711737,2019,06
+9113,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,5043.602382509628,5229.343932797617,2019,06
+9142,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,6917.498478104321,7039.4725658585885,2019,06
+9152,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1608.5090176531558,1688.9459868768818,2019,06
+9182,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,7037.08000729537,7157.7904998743625,2019,06
+9206,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,987.5332772509709,1125.3358442379024,2019,06
+9214,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,6981.105289684013,7031.9597632049845,2019,06
+9224,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,3311.713874211988,3434.9626253114748,2019,06
+9225,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2069.554409804215,2518.0420567689725,2019,06
+9235,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2043.2037915296603,2105.12721294609,2019,06
+9238,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1265.8334241341915,1414.0940789684378,2019,06
+9247,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2169.8929342978536,2270.588577939292,2019,06
+9267,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,4185.181709144757,4507.471778520467,2019,06
+9269,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1697.299930775275,1849.8181503044145,2019,06
+9283,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2812.3904562695107,2859.8545661489966,2019,06
+9287,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,5825.973399152122,4352.343468828388,2019,06
+9328,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,687.5485790217025,767.6519006025321,2019,06
+9336,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1652.5744132783811,1897.2517246215473,2019,06
+9338,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1632.5085169327265,1810.5575120339774,2019,06
+9354,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,848.817256546896,1101.258901437079,2019,06
+9355,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,696.7902852250639,791.9195607563308,2019,06
+9380,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2936.710394511989,3089.7955678182925,2019,06
+9536,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,4909.567376932462,5077.440210711737,2019,07
+9635,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,5108.966916741569,5229.343932797617,2019,07
+9664,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,7005.291465109519,7039.4725658585885,2019,07
+9674,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1635.172885103991,1688.9459868768818,2019,07
+9704,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,7114.898748619166,7157.7904998743625,2019,07
+9728,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1037.931733627463,1125.3358442379024,2019,07
+9736,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,7077.98607943056,7031.9597632049845,2019,07
+9746,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,3383.126376068824,3434.9626253114748,2019,07
+9747,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2082.7572365006245,2518.0420567689725,2019,07
+9757,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2069.2797352504363,2105.12721294609,2019,07
+9760,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1295.1714564067602,1414.0940789684378,2019,07
+9769,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2176.817064237897,2270.588577939292,2019,07
+9789,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,4248.0482103594695,4507.471778520467,2019,07
+9791,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1715.8646364997371,1849.8181503044145,2019,07
+9805,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2870.0329793532796,2859.8545661489966,2019,07
+9809,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,5901.841567420757,4352.343468828388,2019,07
+9850,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,703.8210125131967,767.6519006025321,2019,07
+9858,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1707.1562375187295,1897.2517246215473,2019,07
+9860,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1667.9365265058348,1810.5575120339774,2019,07
+9876,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,862.4141801338113,1101.258901437079,2019,07
+9877,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,705.2526550681896,791.9195607563308,2019,07
+9902,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,3016.407032173318,3089.7955678182925,2019,07
+10058,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,4959.619799778856,5077.440210711737,2019,08
+10157,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,5167.256669376403,5229.343932797617,2019,08
+10186,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,7062.677181157388,7039.4725658585885,2019,08
+10196,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1654.1103145950067,1688.9459868768818,2019,08
+10226,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,7169.441113088283,7157.7904998743625,2019,08
+10250,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1071.3430177309301,1125.3358442379024,2019,08
+10258,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,7096.8008343604015,7031.9597632049845,2019,08
+10268,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,3445.4228965392713,3434.9626253114748,2019,08
+10269,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2096.109500467819,2518.0420567689725,2019,08
+10279,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2084.695124685933,2105.12721294609,2019,08
+10282,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1312.5521214115936,1414.0940789684378,2019,08
+10291,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2199.96010138192,2270.588577939292,2019,08
+10311,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,4285.24340646241,4507.471778520467,2019,08
+10313,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1729.9120629436356,1849.8181503044145,2019,08
+10327,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2859.7882202517258,2859.8545661489966,2019,08
+10331,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,5979.809503820592,4352.343468828388,2019,08
+10372,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,710.0348297365078,767.6519006025321,2019,08
+10380,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1740.7842099242887,1897.2517246215473,2019,08
+10382,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1698.0492281322029,1810.5575120339774,2019,08
+10398,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,887.812353991585,1101.258901437079,2019,08
+10399,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,719.6662836973908,791.9195607563308,2019,08
+10424,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,3051.397174097575,3089.7955678182925,2019,08
+10580,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,4959.473169855039,5077.440210711737,2019,09
+10679,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,5176.460391992442,5229.343932797617,2019,09
+10708,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,7064.811472889263,7039.4725658585885,2019,09
+10718,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1660.46972089948,1688.9459868768818,2019,09
+10748,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,7164.345117184177,7157.7904998743625,2019,09
+10772,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1077.8087594769536,1125.3358442379024,2019,09
+10780,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,7080.654134387276,7031.9597632049845,2019,09
+10790,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,3441.1350187468756,3434.9626253114748,2019,09
+10791,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2097.8693559760127,2518.0420567689725,2019,09
+10801,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2082.719118494522,2105.12721294609,2019,09
+10804,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1316.695045176877,1414.0940789684378,2019,09
+10813,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2193.8947185872166,2270.588577939292,2019,09
+10833,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,4304.993989438901,4507.471778520467,2019,09
+10835,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1726.2500024690244,1849.8181503044145,2019,09
+10849,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2863.9672878554197,2859.8545661489966,2019,09
+10853,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,6002.282203376884,4352.343468828388,2019,09
+10894,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,707.3157490368403,767.6519006025321,2019,09
+10902,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1734.8360602738912,1897.2517246215473,2019,09
+10904,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1705.3295648498543,1810.5575120339774,2019,09
+10920,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,909.4758649004625,1101.258901437079,2019,09
+10921,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,740.5613341500934,791.9195607563308,2019,09
+10946,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,3065.1395454554713,3089.7955678182925,2019,09
+11102,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,4945.232336227601,5077.440210711737,2019,10
+11201,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,5157.1790183370795,5229.343932797617,2019,10
+11230,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,7034.468402282097,7039.4725658585885,2019,10
+11240,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1660.2336674118617,1688.9459868768818,2019,10
+11270,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,7139.199005233779,7157.7904998743625,2019,10
+11294,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1066.8124150010992,1125.3358442379024,2019,10
+11302,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,7027.048795533477,7031.9597632049845,2019,10
+11312,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,3436.3457588331967,3434.9626253114748,2019,10
+11313,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2090.589269766713,2518.0420567689725,2019,10
+11323,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2083.1420466158024,2105.12721294609,2019,10
+11326,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1310.8585620391627,1414.0940789684378,2019,10
+11335,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2170.860945756752,2270.588577939292,2019,10
+11355,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,4296.799210454858,4507.471778520467,2019,10
+11357,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1721.7446007794576,1849.8181503044145,2019,10
+11371,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2850.454578780215,2859.8545661489966,2019,10
+11375,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,6003.198297028422,4352.343468828388,2019,10
+11416,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,695.8965158420824,767.6519006025321,2019,10
+11424,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1717.4180310873342,1897.2517246215473,2019,10
+11426,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1702.8549816129946,1810.5575120339774,2019,10
+11442,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,937.5400358809028,1101.258901437079,2019,10
+11443,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,770.8566371249821,791.9195607563308,2019,10
+11468,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,3028.0832783104656,3089.7955678182925,2019,10
+11624,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,4963.272800720716,5077.440210711737,2019,11
+11723,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,5192.91905070576,5229.343932797617,2019,11
+11752,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,7069.849525588537,7039.4725658585885,2019,11
+11762,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1667.3027757396344,1688.9459868768818,2019,11
+11792,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,7193.0498285819185,7157.7904998743625,2019,11
+11816,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1069.4571919600608,1125.3358442379024,2019,11
+11824,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,7068.198986389689,7031.9597632049845,2019,11
+11834,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,3438.8384850199604,3434.9626253114748,2019,11
+11835,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2104.151630961133,2518.0420567689725,2019,11
+11845,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2097.0054416923754,2105.12721294609,2019,11
+11848,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1304.6083129043923,1414.0940789684378,2019,11
+11857,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2163.4142870002365,2270.588577939292,2019,11
+11877,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,4332.44409563231,4507.471778520467,2019,11
+11879,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1737.750370595516,1849.8181503044145,2019,11
+11893,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2866.912821284874,2859.8545661489966,2019,11
+11897,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,6047.787705036753,4352.343468828388,2019,11
+11938,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,703.4708716165007,767.6519006025321,2019,11
+11946,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1690.1429187315216,1897.2517246215473,2019,11
+11948,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1705.1545266406022,1810.5575120339774,2019,11
+11964,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,941.7386531709486,1101.258901437079,2019,11
+11965,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,790.0919064432222,791.9195607563308,2019,11
+11990,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,3073.7373700567887,3089.7955678182925,2019,11
+12146,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,5043.200200296559,5077.440210711737,2019,12
+12245,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,5295.019361168353,5229.343932797617,2019,12
+12274,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,7206.043789745358,7039.4725658585885,2019,12
+12284,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1689.0772308000967,1688.9459868768818,2019,12
+12314,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,7340.393222767994,7157.7904998743625,2019,12
+12338,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1090.959060650241,1125.3358442379024,2019,12
+12346,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,7221.751680675389,7031.9597632049845,2019,12
+12356,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,3475.973050588985,3434.9626253114748,2019,12
+12357,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2089.0099919985205,2518.0420567689725,2019,12
+12367,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2127.9402651975206,2105.12721294609,2019,12
+12370,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1323.07128198341,1414.0940789684378,2019,12
+12379,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2166.1916301443644,2270.588577939292,2019,12
+12399,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,4378.49322075711,4507.471778520467,2019,12
+12401,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1780.6461438238318,1849.8181503044145,2019,12
+12415,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2873.139723126207,2859.8545661489966,2019,12
+12419,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,6164.040524154729,4352.343468828388,2019,12
+12460,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,717.4665208337468,767.6519006025321,2019,12
+12468,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1694.4433960260458,1897.2517246215473,2019,12
+12470,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1727.784301286059,1810.5575120339774,2019,12
+12486,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,968.5695730012106,1101.258901437079,2019,12
+12487,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,798.3217036316702,791.9195607563308,2019,12
+12512,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,3096.919043172634,3089.7955678182925,2019,12
+12668,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,4975.703937875616,5077.440210711737,2020,01
+12767,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,5264.145248088483,5229.343932797617,2020,01
+12796,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,7130.090168522841,7039.4725658585885,2020,01
+12806,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1653.377009966213,1688.9459868768818,2020,01
+12836,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,7276.5485728693675,7157.7904998743625,2020,01
+12860,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1096.2139838644068,1125.3358442379024,2020,01
+12868,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,7160.532691858481,7031.9597632049845,2020,01
+12878,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,3420.7878944735166,3434.9626253114748,2020,01
+12879,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2026.231701717626,2518.0420567689725,2020,01
+12883,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1410.4761802068415,5154.216423321288,2020,01
+12889,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2091.893657991226,2105.12721294609,2020,01
+12892,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1297.8214898912781,1414.0940789684378,2020,01
+12901,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2130.0358654468605,2270.588577939292,2020,01
+12921,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,4303.639338547786,4507.471778520467,2020,01
+12923,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1767.7488303109094,1849.8181503044145,2020,01
+12937,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2798.2186548684067,2859.8545661489966,2020,01
+12941,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,6100.031359131892,4352.343468828388,2020,01
+12982,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,716.9474555148487,767.6519006025321,2020,01
+12990,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1674.101308030589,1897.2517246215473,2020,01
+12992,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1696.4879341018916,1810.5575120339774,2020,01
+13008,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,966.3331912353076,1101.258901437079,2020,01
+13009,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,794.54711895907,791.9195607563308,2020,01
+13034,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,3041.658371179474,3089.7955678182925,2020,01
+13190,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,5042.581032954467,5077.440210711737,2020,02
+13289,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,5350.524070381739,5229.343932797617,2020,02
+13318,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,7230.030543022374,7039.4725658585885,2020,02
+13328,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1665.655097377933,1688.9459868768818,2020,02
+13358,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,7354.6921089143425,7157.7904998743625,2020,02
+13382,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1126.0926179005544,1125.3358442379024,2020,02
+13390,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,7256.305577603956,7031.9597632049845,2020,02
+13400,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,3485.778336454243,3434.9626253114748,2020,02
+13401,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2022.5614824119052,2518.0420567689725,2020,02
+13405,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1406.4362927869329,5154.216423321288,2020,02
+13411,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2106.3804061698834,2105.12721294609,2020,02
+13414,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1315.1680242578373,1414.0940789684378,2020,02
+13423,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2146.5240974364597,2270.588577939292,2020,02
+13443,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,4353.810936728193,4507.471778520467,2020,02
+13445,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1801.4263033729994,1849.8181503044145,2020,02
+13459,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2816.19260219408,2859.8545661489966,2020,02
+13463,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,6179.029159759069,4352.343468828388,2020,02
+13504,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,740.7867555169404,767.6519006025321,2020,02
+13512,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1746.4850865055248,1897.2517246215473,2020,02
+13514,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1702.064919537011,1810.5575120339774,2020,02
+13530,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1022.7214632988783,1101.258901437079,2020,02
+13531,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,833.2414011762509,791.9195607563308,2020,02
+13556,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,3070.693488430039,3089.7955678182925,2020,02
+13712,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,5088.122244589695,5077.440210711737,2020,03
+13811,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,5396.8789771601605,5229.343932797617,2020,03
+13840,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,7293.065034487384,7039.4725658585885,2020,03
+13850,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1676.753031894929,1688.9459868768818,2020,03
+13880,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,7411.8628980528,7157.7904998743625,2020,03
+13904,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1153.529278407212,1125.3358442379024,2020,03
+13912,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,7306.123787101015,7031.9597632049845,2020,03
+13922,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,3559.2549878918126,3434.9626253114748,2020,03
+13923,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2031.5832507994037,2518.0420567689725,2020,03
+13927,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1399.0338275434822,5154.216423321288,2020,03
+13933,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2122.7462188690715,2105.12721294609,2020,03
+13936,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1324.6449191690706,1414.0940789684378,2020,03
+13945,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2179.496614910423,2270.588577939292,2020,03
+13965,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,4414.952743661654,4507.471778520467,2020,03
+13967,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1834.7547422152115,1849.8181503044145,2020,03
+13981,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2852.8224530176412,2859.8545661489966,2020,03
+13985,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,6235.646336055568,4352.343468828388,2020,03
+14026,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,757.3616700673336,767.6519006025321,2020,03
+14034,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1839.2241462787501,1897.2517246215473,2020,03
+14036,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1715.3683151517166,1810.5575120339774,2020,03
+14052,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1059.5338485030384,1101.258901437079,2020,03
+14053,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,878.8080693741057,791.9195607563308,2020,03
+14078,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,3135.7927473285135,3089.7955678182925,2020,03
+14088,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,3757.7940091422975,3872.10347432485,2020,03
+14234,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,5135.072322002516,5077.440210711737,2020,04
+14333,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,5367.463409553912,5229.343932797617,2020,04
+14362,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,7264.051699152871,7039.4725658585885,2020,04
+14372,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1692.4321489678866,1688.9459868768818,2020,04
+14402,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,7371.611211932418,7157.7904998743625,2020,04
+14426,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1181.8486593168116,1125.3358442379024,2020,04
+14434,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,7276.789614945917,7031.9597632049845,2020,04
+14444,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,3595.7250888290328,3434.9626253114748,2020,04
+14445,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2037.542294973848,2518.0420567689725,2020,04
+14449,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1399.230159449977,5154.216423321288,2020,04
+14455,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2139.4548183693296,2105.12721294609,2020,04
+14458,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1337.7754639054765,1414.0940789684378,2020,04
+14467,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2214.4291790515754,2270.588577939292,2020,04
+14487,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,4448.374500567298,4507.471778520467,2020,04
+14489,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1873.2001886157698,1849.8181503044145,2020,04
+14503,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2862.7017209320306,2859.8545661489966,2020,04
+14507,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,6232.252928762807,4352.343468828388,2020,04
+14548,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,773.5915603613532,767.6519006025321,2020,04
+14556,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1862.4672299656004,1897.2517246215473,2020,04
+14558,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1749.5642304887542,1810.5575120339774,2020,04
+14574,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1089.7034042045175,1101.258901437079,2020,04
+14575,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,896.6389072170657,791.9195607563308,2020,04
+14600,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,3179.4757524554107,3089.7955678182925,2020,04
+14610,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,3755.303122710001,3872.10347432485,2020,04
+14756,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,5072.670759753007,5077.440210711737,2020,05
+14855,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,5229.497975682465,5229.343932797617,2020,05
+14884,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,7072.830049081251,7039.4725658585885,2020,05
+14894,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1666.292583485966,1688.9459868768818,2020,05
+14924,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,7198.464809755305,7157.7904998743625,2020,05
+14948,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1165.7838728160025,1125.3358442379024,2020,05
+14956,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,7081.7434798153545,7031.9597632049845,2020,05
+14966,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,3531.7671119872443,3434.9626253114748,2020,05
+14967,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2034.4017949369925,2518.0420567689725,2020,05
+14971,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1393.2812106638619,5154.216423321288,2020,05
+14977,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2130.929060149423,2105.12721294609,2020,05
+14980,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1308.0983118402908,1414.0940789684378,2020,05
+14989,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2228.0026030370796,2270.588577939292,2020,05
+15009,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,4361.298866445815,4507.471778520467,2020,05
+15011,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1870.2726674153469,1849.8181503044145,2020,05
+15025,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2825.2479853616437,2859.8545661489966,2020,05
+15029,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,6100.246380736837,4352.343468828388,2020,05
+15070,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,746.2881413820521,767.6519006025321,2020,05
+15078,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1825.2047592092033,1897.2517246215473,2020,05
+15080,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1757.1567701318872,1810.5575120339774,2020,05
+15096,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1087.2291431185067,1101.258901437079,2020,05
+15097,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,865.3675699533953,791.9195607563308,2020,05
+15122,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,3145.4850632070334,3089.7955678182925,2020,05
+15132,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,3687.1193781935926,3872.10347432485,2020,05
+15278,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,5074.840661612801,5077.440210711737,2020,06
+15377,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,5161.843097396366,5229.343932797617,2020,06
+15406,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,6960.505422560889,7039.4725658585885,2020,06
+15416,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1669.1862593133928,1688.9459868768818,2020,06
+15446,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,7087.944580991576,7157.7904998743625,2020,06
+15470,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1164.9009598724701,1125.3358442379024,2020,06
+15478,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,6971.612505176408,7031.9597632049845,2020,06
+15488,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,3501.845756759956,3434.9626253114748,2020,06
+15489,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2057.77887091866,2518.0420567689725,2020,06
+15493,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1397.8665372645753,5154.216423321288,2020,06
+15499,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2142.0776089602887,2105.12721294609,2020,06
+15502,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1295.7197404805756,1414.0940789684378,2020,06
+15511,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2247.6496984916726,2270.588577939292,2020,06
+15531,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,4331.835292964168,4507.471778520467,2020,06
+15533,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1883.0615384600758,1849.8181503044145,2020,06
+15546,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,835.0132989003756,1070.0676589044808,2020,06
+15547,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2775.866376594321,2859.8545661489966,2020,06
+15551,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,6028.13160260886,4352.343468828388,2020,06
+15592,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,737.4061567709094,767.6519006025321,2020,06
+15600,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1772.2556016106882,1897.2517246215473,2020,06
+15602,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1778.5216038099034,1810.5575120339774,2020,06
+15618,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1102.1495967403878,1101.258901437079,2020,06
+15619,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,844.8142032148916,791.9195607563308,2020,06
+15644,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,3100.045216320775,3089.7955678182925,2020,06
+15654,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,3664.871423307468,3872.10347432485,2020,06
+15800,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,5078.393928214211,5077.440210711737,2020,07
+15899,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,5156.424347026891,5229.343932797617,2020,07
+15928,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,6953.238575812966,7039.4725658585885,2020,07
+15938,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1674.2588016916595,1688.9459868768818,2020,07
+15968,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,7078.965897049048,7157.7904998743625,2020,07
+15992,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1174.3391181222344,1125.3358442379024,2020,07
+16000,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,6956.629221274748,7031.9597632049845,2020,07
+16010,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,3501.5068078887302,3434.9626253114748,2020,07
+16011,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2053.2545784291938,2518.0420567689725,2020,07
+16015,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1418.8392915424106,5154.216423321288,2020,07
+16021,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2146.1692016480297,2105.12721294609,2020,07
+16024,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1295.4635469975642,1414.0940789684378,2020,07
+16033,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2269.6543218529337,2270.588577939292,2020,07
+16053,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,4324.084688627745,4507.471778520467,2020,07
+16055,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1888.489261190926,1849.8181503044145,2020,07
+16068,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,848.9009562595169,1070.0676589044808,2020,07
+16069,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2732.7326372596617,2859.8545661489966,2020,07
+16073,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,6023.326714004203,4352.343468828388,2020,07
+16114,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,744.310481329544,767.6519006025321,2020,07
+16122,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1775.4677457981884,1897.2517246215473,2020,07
+16124,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1794.84546690504,1810.5575120339774,2020,07
+16140,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1128.7750410699525,1101.258901437079,2020,07
+16141,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,842.81237784965,791.9195607563308,2020,07
+16144,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2554.732865154438,2344.7002394508672,2020,07
+16166,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,3089.7347916873023,3089.7955678182925,2020,07
+16176,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,3660.96740561421,3872.10347432485,2020,07
+16322,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,5120.7163222495,5077.440210711737,2020,08
+16421,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,5192.214307949636,5229.343932797617,2020,08
+16450,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,6997.653824592001,7039.4725658585885,2020,08
+16460,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1694.5140250954369,1688.9459868768818,2020,08
+16490,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,7102.525379620337,7157.7904998743625,2020,08
+16514,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1205.719733538309,1125.3358442379024,2020,08
+16522,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,7023.552727904719,7031.9597632049845,2020,08
+16532,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,3511.409870037557,3434.9626253114748,2020,08
+16533,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2046.7373003019184,2518.0420567689725,2020,08
+16537,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1450.0671085383194,5154.216423321288,2020,08
+16543,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2150.043338113937,2105.12721294609,2020,08
+16546,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1329.1603135833109,1414.0940789684378,2020,08
+16555,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2284.035323212269,2270.588577939292,2020,08
+16575,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,4351.3143812080625,4507.471778520467,2020,08
+16577,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1900.5288513768323,1849.8181503044145,2020,08
+16590,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,882.5444945421093,1070.0676589044808,2020,08
+16591,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2684.0837919923765,2859.8545661489966,2020,08
+16595,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,6040.435063754799,4352.343468828388,2020,08
+16636,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,781.4012232890495,767.6519006025321,2020,08
+16644,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1799.430826286094,1897.2517246215473,2020,08
+16646,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1826.8680991177373,1810.5575120339774,2020,08
+16662,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1170.9978285729344,1101.258901437079,2020,08
+16663,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,855.695421820643,791.9195607563308,2020,08
+16666,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2510.619054884932,2344.7002394508672,2020,08
+16688,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,3060.767142549759,3089.7955678182925,2020,08
+16698,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,3671.8346631639993,3872.10347432485,2020,08
+16844,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,5096.371882972938,5077.440210711737,2020,09
+16943,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,5172.614990262618,5229.343932797617,2020,09
+16972,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,6961.433039892949,7039.4725658585885,2020,09
+16982,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1679.7298508352258,1688.9459868768818,2020,09
+17012,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,7061.110367456176,7157.7904998743625,2020,09
+17036,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1220.8724134427334,1125.3358442379024,2020,09
+17044,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,7011.639108336954,7031.9597632049845,2020,09
+17054,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,3482.89881510984,3434.9626253114748,2020,09
+17055,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2043.3453759863824,2518.0420567689725,2020,09
+17059,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1466.626293523347,5154.216423321288,2020,09
+17065,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2129.6456325887752,2105.12721294609,2020,09
+17068,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1342.9569988496883,1414.0940789684378,2020,09
+17077,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2273.809910236843,2270.588577939292,2020,09
+17097,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,4302.034149756577,4507.471778520467,2020,09
+17099,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1892.7891425251296,1849.8181503044145,2020,09
+17112,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,912.0665814209791,1070.0676589044808,2020,09
+17113,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2637.814972861379,2859.8545661489966,2020,09
+17117,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,5986.296800282039,4352.343468828388,2020,09
+17158,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,820.1977095741357,767.6519006025321,2020,09
+17166,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1808.932348255755,1897.2517246215473,2020,09
+17168,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1828.10821569531,1810.5575120339774,2020,09
+17184,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1203.8567083555567,1101.258901437079,2020,09
+17185,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,845.6150297121609,791.9195607563308,2020,09
+17188,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2465.0993690394585,2344.7002394508672,2020,09
+17210,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,3024.3246776979877,3089.7955678182925,2020,09
+17212,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1945.013723331194,2283.3688288449334,2020,09
+17220,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,3644.2735665817745,3872.10347432485,2020,09
+17366,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,5135.43388646195,5077.440210711737,2020,10
+17465,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,5217.961453307186,5229.343932797617,2020,10
+17494,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,7004.853141310017,7039.4725658585885,2020,10
+17504,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1690.353484343959,1688.9459868768818,2020,10
+17534,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,7114.576793900019,7157.7904998743625,2020,10
+17558,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1237.0180860400735,1125.3358442379024,2020,10
+17566,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,7088.987190947794,7031.9597632049845,2020,10
+17576,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,3472.715417587495,3434.9626253114748,2020,10
+17577,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2081.2642971956084,2518.0420567689725,2020,10
+17581,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1509.9621460711421,5154.216423321288,2020,10
+17587,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2143.3289602735595,2105.12721294609,2020,10
+17590,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1362.9119096894224,1414.0940789684378,2020,10
+17599,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2288.3337841380003,2270.588577939292,2020,10
+17619,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,4317.31277252282,4507.471778520467,2020,10
+17621,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1902.461884526343,1849.8181503044145,2020,10
+17634,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,943.3302072178877,1070.0676589044808,2020,10
+17635,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2642.664193729986,2859.8545661489966,2020,10
+17639,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,6006.920076334724,4352.343468828388,2020,10
+17680,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,862.9621746183627,767.6519006025321,2020,10
+17688,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1813.0870139751944,1897.2517246215473,2020,10
+17690,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1843.8120947068535,1810.5575120339774,2020,10
+17706,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1257.094731649589,1101.258901437079,2020,10
+17707,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,840.1466075264823,791.9195607563308,2020,10
+17710,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2454.459906356833,2344.7002394508672,2020,10
+17732,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,3010.320509765017,3089.7955678182925,2020,10
+17734,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1992.363470747177,2283.3688288449334,2020,10
+17742,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,3661.8063430046186,3872.10347432485,2020,10
+17888,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,5174.44113131932,5077.440210711737,2020,11
+17987,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,5269.267048343275,5229.343932797617,2020,11
+18016,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,7075.976531100814,7039.4725658585885,2020,11
+18026,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1710.109239882736,1688.9459868768818,2020,11
+18056,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,7213.893218788249,7157.7904998743625,2020,11
+18080,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1262.4459536613435,1125.3358442379024,2020,11
+18088,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,7173.188610475911,7031.9597632049845,2020,11
+18098,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,3490.693304077772,3434.9626253114748,2020,11
+18099,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2120.773898879278,2518.0420567689725,2020,11
+18103,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1539.354413172442,5154.216423321288,2020,11
+18109,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2173.5666483331156,2105.12721294609,2020,11
+18112,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1390.616959951257,1414.0940789684378,2020,11
+18121,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2310.862758998825,2270.588577939292,2020,11
+18141,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,4352.884559768984,4507.471778520467,2020,11
+18143,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1929.6449167092333,1849.8181503044145,2020,11
+18156,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,978.5013743968775,1070.0676589044808,2020,11
+18157,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2679.004781225016,2859.8545661489966,2020,11
+18161,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,6068.9198731831275,4352.343468828388,2020,11
+18202,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,923.2088358132719,767.6519006025321,2020,11
+18210,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1797.5494162960129,1897.2517246215473,2020,11
+18212,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1870.174408880771,1810.5575120339774,2020,11
+18228,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1328.2096369213891,1101.258901437079,2020,11
+18229,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,848.1714593130737,791.9195607563308,2020,11
+18232,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2478.2000418289117,2344.7002394508672,2020,11
+18254,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,3057.8976448134954,3089.7955678182925,2020,11
+18256,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2052.667755875254,2283.3688288449334,2020,11
+18264,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,3695.9906714903123,3872.10347432485,2020,11
+18410,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,5159.094342604738,5077.440210711737,2020,12
+18509,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,5257.797931263954,5229.343932797617,2020,12
+18538,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,7075.254263508479,7039.4725658585885,2020,12
+18548,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1711.227133725091,1688.9459868768818,2020,12
+18578,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,7220.051135011435,7157.7904998743625,2020,12
+18602,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1268.5609344902093,1125.3358442379024,2020,12
+18610,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,7164.328864522949,7031.9597632049845,2020,12
+18620,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,3474.193912789275,3434.9626253114748,2020,12
+18621,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2118.351420641899,2518.0420567689725,2020,12
+18625,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1552.5772782068195,5154.216423321288,2020,12
+18631,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2165.5567351831974,2105.12721294609,2020,12
+18634,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1403.4357247227065,1414.0940789684378,2020,12
+18643,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2298.3022864288973,2270.588577939292,2020,12
+18663,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,4361.621068642811,4507.471778520467,2020,12
+18665,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1934.8748109455887,1849.8181503044145,2020,12
+18678,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1010.8109518779337,1070.0676589044808,2020,12
+18679,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2695.63379808659,2859.8545661489966,2020,12
+18683,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,6088.209756515564,4352.343468828388,2020,12
+18724,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,965.1745502742752,767.6519006025321,2020,12
+18732,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1778.4921208262144,1897.2517246215473,2020,12
+18734,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1893.5399893193057,1810.5575120339774,2020,12
+18750,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1375.7469974935884,1101.258901437079,2020,12
+18751,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,847.0405783104417,791.9195607563308,2020,12
+18754,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2475.8221992026297,2344.7002394508672,2020,12
+18776,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,3063.2163067344177,3089.7955678182925,2020,12
+18778,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2070.4306128378307,2283.3688288449334,2020,12
+18786,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,3692.7900351666026,3872.10347432485,2020,12
+18932,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,5211.59932790126,5077.440210711737,2021,01
+19031,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,5318.947726043218,5229.343932797617,2021,01
+19060,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,7166.941058706715,7039.4725658585885,2021,01
+19070,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1742.1189824602595,1688.9459868768818,2021,01
+19100,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,7307.56694606991,7157.7904998743625,2021,01
+19124,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1277.0054375169143,1125.3358442379024,2021,01
+19132,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,7233.530317333812,7031.9597632049845,2021,01
+19142,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,3525.5541574354784,3434.9626253114748,2021,01
+19143,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2132.741686221272,2518.0420567689725,2021,01
+19147,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1574.1117976307096,5154.216423321288,2021,01
+19153,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2171.8125266435286,2105.12721294609,2021,01
+19156,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1422.3619903578651,1414.0940789684378,2021,01
+19165,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2300.5089097584723,2270.588577939292,2021,01
+19185,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,4439.9266619347645,4507.471778520467,2021,01
+19187,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1959.1039810676548,1849.8181503044145,2021,01
+19200,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1033.1104939817092,1070.0676589044808,2021,01
+19201,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2803.1763969545764,2859.8545661489966,2021,01
+19205,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,6185.148001103263,4352.343468828388,2021,01
+19246,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1017.3158989173926,767.6519006025321,2021,01
+19254,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1849.4759506483729,1897.2517246215473,2021,01
+19256,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1922.4413236150526,1810.5575120339774,2021,01
+19272,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1405.9932022011399,1101.258901437079,2021,01
+19273,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,855.1963357965705,791.9195607563308,2021,01
+19276,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2516.902575181148,2344.7002394508672,2021,01
+19298,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,3100.4712980837894,3089.7955678182925,2021,01
+19300,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2105.206127924121,2283.3688288449334,2021,01
+19308,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,3745.2987109048977,3872.10347432485,2021,01
+19454,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,5311.2877062089565,5077.440210711737,2021,02
+19553,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,5409.306216813012,5229.343932797617,2021,02
+19582,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,7286.691750777415,7039.4725658585885,2021,02
+19592,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1780.8210727891758,1688.9459868768818,2021,02
+19622,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,7421.511560020626,7157.7904998743625,2021,02
+19646,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1296.5360624280884,1125.3358442379024,2021,02
+19654,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,7342.473587496455,7031.9597632049845,2021,02
+19664,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,3595.050662216908,3434.9626253114748,2021,02
+19665,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2174.980983731276,2518.0420567689725,2021,02
+19669,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1612.817778366631,5154.216423321288,2021,02
+19675,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2192.0400993516373,2105.12721294609,2021,02
+19678,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1441.1274300352713,1414.0940789684378,2021,02
+19687,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2315.997813159256,2270.588577939292,2021,02
+19707,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,4540.096240394109,4507.471778520467,2021,02
+19709,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1982.5358108146163,1849.8181503044145,2021,02
+19722,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1058.7210853095337,1070.0676589044808,2021,02
+19723,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2941.6891304739024,2859.8545661489966,2021,02
+19727,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,6314.754913223012,4352.343468828388,2021,02
+19768,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1053.874253880106,767.6519006025321,2021,02
+19776,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1976.4859265839555,1897.2517246215473,2021,02
+19778,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1954.5280491974222,1810.5575120339774,2021,02
+19794,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1422.510404312594,1101.258901437079,2021,02
+19795,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,866.1720517193863,791.9195607563308,2021,02
+19798,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2589.9476495954204,2344.7002394508672,2021,02
+19820,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,3127.720906802694,3089.7955678182925,2021,02
+19822,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2130.4680300856553,2283.3688288449334,2021,02
+19830,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,3817.7366012307484,3872.10347432485,2021,02
+19976,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,5300.724390323894,5077.440210711737,2021,03
+20075,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,5389.16856363455,5229.343932797617,2021,03
+20104,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,7256.881725690984,7039.4725658585885,2021,03
+20114,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1783.9772066404296,1688.9459868768818,2021,03
+20144,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,7395.872777455341,7157.7904998743625,2021,03
+20168,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1294.6655851517442,1125.3358442379024,2021,03
+20176,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,7325.386724857621,7031.9597632049845,2021,03
+20186,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,3592.1387019200574,3434.9626253114748,2021,03
+20187,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2213.0510822419774,2518.0420567689725,2021,03
+20191,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1619.7555955936186,5154.216423321288,2021,03
+20197,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2185.582189862065,2105.12721294609,2021,03
+20200,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1429.454402365318,1414.0940789684378,2021,03
+20209,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2307.1639842017507,2270.588577939292,2021,03
+20229,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,4554.261742293947,4507.471778520467,2021,03
+20231,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1959.0903235637586,1849.8181503044145,2021,03
+20244,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1047.8400492209769,1070.0676589044808,2021,03
+20245,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,3032.56400354451,2859.8545661489966,2021,03
+20249,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,6306.207630470757,4352.343468828388,2021,03
+20290,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1047.1539701106449,767.6519006025321,2021,03
+20298,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2090.9290006029055,1897.2517246215473,2021,03
+20300,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1932.6677018271027,1810.5575120339774,2021,03
+20316,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1381.7976321638907,1101.258901437079,2021,03
+20317,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,855.6178344837468,791.9195607563308,2021,03
+20320,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2627.6229606488855,2344.7002394508672,2021,03
+20342,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,3113.2726348861743,3089.7955678182925,2021,03
+20344,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2126.879545984295,2283.3688288449334,2021,03
+20352,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,3818.7849360181885,3872.10347432485,2021,03
+20498,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,5308.259013319647,5077.440210711737,2021,04
+20597,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,5422.2614549703185,5229.343932797617,2021,04
+20626,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,7262.56824706623,7039.4725658585885,2021,04
+20636,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1782.2530040642225,1688.9459868768818,2021,04
+20666,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,7427.128144449685,7157.7904998743625,2021,04
+20690,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1316.0256338486504,1125.3358442379024,2021,04
+20698,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,7351.771178440392,7031.9597632049845,2021,04
+20708,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,3597.760285883625,3434.9626253114748,2021,04
+20709,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2272.7578796816074,2518.0420567689725,2021,04
+20713,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1629.1173117253277,5154.216423321288,2021,04
+20719,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2192.21509475321,2105.12721294609,2021,04
+20722,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1440.3141387679075,1414.0940789684378,2021,04
+20731,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2311.369125495136,2270.588577939292,2021,04
+20751,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,4586.23213958945,4507.471778520467,2021,04
+20753,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1984.491384452325,1849.8181503044145,2021,04
+20766,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1046.8679400160013,1070.0676589044808,2021,04
+20767,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,3077.3556556402496,2859.8545661489966,2021,04
+20771,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,6354.373897122974,4352.343468828388,2021,04
+20812,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1038.575764219612,767.6519006025321,2021,04
+20820,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2201.9620382331764,1897.2517246215473,2021,04
+20822,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1954.8141237073526,1810.5575120339774,2021,04
+20838,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1366.4718426409268,1101.258901437079,2021,04
+20839,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,855.429070314218,791.9195607563308,2021,04
+20842,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2668.5060343563505,2344.7002394508672,2021,04
+20864,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,3158.3434283306824,3089.7955678182925,2021,04
+20866,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2155.717540809349,2283.3688288449334,2021,04
+20874,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,3829.8042888711334,3872.10347432485,2021,04
+21020,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,5419.704857072916,5077.440210711737,2021,05
+21119,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,5556.501529563937,5229.343932797617,2021,05
+21148,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,7400.575582156126,7039.4725658585885,2021,05
+21158,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1834.9371158594872,1688.9459868768818,2021,05
+21188,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,7557.627942558799,7157.7904998743625,2021,05
+21212,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1364.9639757492257,1125.3358442379024,2021,05
+21220,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,7503.964525410393,7031.9597632049845,2021,05
+21230,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,3669.85707315234,3434.9626253114748,2021,05
+21231,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2368.31973896637,2518.0420567689725,2021,05
+21235,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1654.7378490673016,5154.216423321288,2021,05
+21241,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2251.3412109378305,2105.12721294609,2021,05
+21244,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1489.6295416298794,1414.0940789684378,2021,05
+21253,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2370.069912763057,2270.588577939292,2021,05
+21273,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,4685.223833013412,4507.471778520467,2021,05
+21275,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2069.0314404496403,1849.8181503044145,2021,05
+21288,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1067.4687474457678,1070.0676589044808,2021,05
+21289,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,3145.302532578744,2859.8545661489966,2021,05
+21293,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,6482.111827361599,4352.343468828388,2021,05
+21334,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1034.4814030915518,767.6519006025321,2021,05
+21342,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2309.165580495026,1897.2517246215473,2021,05
+21344,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2025.482998332085,1810.5575120339774,2021,05
+21360,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1380.9900769855524,1101.258901437079,2021,05
+21361,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,867.2540126748082,791.9195607563308,2021,05
+21364,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2741.2097090604266,2344.7002394508672,2021,05
+21386,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,3263.241940338798,3089.7955678182925,2021,05
+21388,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2242.6075005210314,2283.3688288449334,2021,05
+21396,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,3903.2221586605406,3872.10347432485,2021,05
+21542,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,5443.186811762177,5077.440210711737,2021,06
+21641,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,5604.652075936157,5229.343932797617,2021,06
+21670,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,7390.111646856134,7039.4725658585885,2021,06
+21680,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1846.925018931705,1688.9459868768818,2021,06
+21710,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,7553.785402485382,7157.7904998743625,2021,06
+21734,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1382.1348766084373,1125.3358442379024,2021,06
+21742,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,7526.885807327166,7031.9597632049845,2021,06
+21752,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,3666.5188983978423,3434.9626253114748,2021,06
+21753,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2397.287858906763,2518.0420567689725,2021,06
+21757,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1649.0746464908696,5154.216423321288,2021,06
+21763,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2264.795294896901,2105.12721294609,2021,06
+21766,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1518.562109302971,1414.0940789684378,2021,06
+21775,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2402.5425454727438,2270.588577939292,2021,06
+21795,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,4676.8910467029655,4507.471778520467,2021,06
+21797,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2127.386510444471,1849.8181503044145,2021,06
+21810,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1077.989218109875,1070.0676589044808,2021,06
+21811,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,3164.1505547226907,2859.8545661489966,2021,06
+21815,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,6506.757373014675,4352.343468828388,2021,06
+21856,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1007.7574975017604,767.6519006025321,2021,06
+21864,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2352.5172524323616,1897.2517246215473,2021,06
+21866,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2072.554998451629,1810.5575120339774,2021,06
+21882,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1379.5371491112455,1101.258901437079,2021,06
+21883,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,862.7924568441439,791.9195607563308,2021,06
+21886,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2740.314813332348,2344.7002394508672,2021,06
+21908,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,3312.457948349007,3089.7955678182925,2021,06
+21910,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2269.0007364803023,2283.3688288449334,2021,06
+21918,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,3897.3274096059795,3872.10347432485,2021,06
+22064,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,5568.236609615142,5077.440210711737,2021,07
+22163,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,5717.009838394017,5229.343932797617,2021,07
+22192,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,7498.279903036154,7039.4725658585885,2021,07
+22202,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1904.5583190707694,1688.9459868768818,2021,07
+22232,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,7644.468812126901,7157.7904998743625,2021,07
+22256,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1412.0876299867696,1125.3358442379024,2021,07
+22264,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,7666.448323137803,7031.9597632049845,2021,07
+22274,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,3723.7658555702956,3434.9626253114748,2021,07
+22275,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2501.715278293616,2518.0420567689725,2021,07
+22279,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1677.965509980111,5154.216423321288,2021,07
+22285,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2327.4059005172094,2105.12721294609,2021,07
+22288,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1562.4558019395045,1414.0940789684378,2021,07
+22297,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2497.689539373497,2270.588577939292,2021,07
+22317,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,4762.773248599803,4507.471778520467,2021,07
+22319,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2203.580312292036,1849.8181503044145,2021,07
+22332,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1115.0102733625092,1070.0676589044808,2021,07
+22333,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,3270.0770200239635,2859.8545661489966,2021,07
+22337,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,6608.037209677639,4352.343468828388,2021,07
+22378,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,984.7963833340121,767.6519006025321,2021,07
+22386,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2425.993858520707,1897.2517246215473,2021,07
+22388,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2156.1925889018266,1810.5575120339774,2021,07
+22404,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1388.3340645364935,1101.258901437079,2021,07
+22405,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,845.2175328515103,791.9195607563308,2021,07
+22408,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2810.349576097454,2344.7002394508672,2021,07
+22430,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,3418.5346718112187,3089.7955678182925,2021,07
+22432,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2362.00849119289,2283.3688288449334,2021,07
+22440,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,3978.9823507116275,3872.10347432485,2021,07
+22586,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,5626.183888035561,5077.440210711737,2021,08
+22685,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,5760.34869062903,5229.343932797617,2021,08
+22714,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,7529.4416988390285,7039.4725658585885,2021,08
+22724,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1915.2552484709872,1688.9459868768818,2021,08
+22754,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,7679.989915601514,7157.7904998743625,2021,08
+22778,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1404.8180337957517,1125.3358442379024,2021,08
+22786,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,7738.594753368604,7031.9597632049845,2021,08
+22796,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,3732.167346786805,3434.9626253114748,2021,08
+22797,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2556.179530579876,2518.0420567689725,2021,08
+22801,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1679.7863349324273,5154.216423321288,2021,08
+22807,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2339.739269956373,2105.12721294609,2021,08
+22810,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1567.3551551975452,1414.0940789684378,2021,08
+22819,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2527.619485150865,2270.588577939292,2021,08
+22839,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,4800.067294619284,4507.471778520467,2021,08
+22841,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2245.2615815817057,1849.8181503044145,2021,08
+22854,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1141.7191749034007,1070.0676589044808,2021,08
+22855,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,3316.5320755583316,2859.8545661489966,2021,08
+22859,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,6679.244899805581,4352.343468828388,2021,08
+22900,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,947.5842500287574,767.6519006025321,2021,08
+22908,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2443.381430631834,1897.2517246215473,2021,08
+22910,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2205.2843444036607,1810.5575120339774,2021,08
+22926,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1368.945183188174,1101.258901437079,2021,08
+22927,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,794.8942431848004,791.9195607563308,2021,08
+22930,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2846.456084330727,2344.7002394508672,2021,08
+22952,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,3472.558496433583,3089.7955678182925,2021,08
+22954,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2403.0884714099066,2283.3688288449334,2021,08
+22962,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,4014.474052186686,3872.10347432485,2021,08
+23108,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,5742.255846814235,5077.440210711737,2021,09
+23207,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,5861.96053935597,5229.343932797617,2021,09
+23236,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,7664.123912285086,7039.4725658585885,2021,09
+23246,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1968.4781288619301,1688.9459868768818,2021,09
+23276,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,7795.628401544042,7157.7904998743625,2021,09
+23300,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1424.7604767502733,1125.3358442379024,2021,09
+23308,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,7862.571888499965,7031.9597632049845,2021,09
+23318,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,3785.1529992222836,3434.9626253114748,2021,09
+23319,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2622.179936131532,2518.0420567689725,2021,09
+23323,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1692.603733218413,5154.216423321288,2021,09
+23329,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2390.0046408122903,2105.12721294609,2021,09
+23332,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1590.945278974748,1414.0940789684378,2021,09
+23341,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2558.8058443646655,2270.588577939292,2021,09
+23361,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,4916.564638347663,4507.471778520467,2021,09
+23363,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2304.356483436044,1849.8181503044145,2021,09
+23376,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1175.9511067635835,1070.0676589044808,2021,09
+23377,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,3377.7048056753624,2859.8545661489966,2021,09
+23381,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,6803.275893922419,4352.343468828388,2021,09
+23422,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,921.2158476766151,767.6519006025321,2021,09
+23430,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2421.9212715804565,1897.2517246215473,2021,09
+23432,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2268.5672321593624,1810.5575120339774,2021,09
+23448,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1390.3920526847696,1101.258901437079,2021,09
+23449,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,755.2562985465955,791.9195607563308,2021,09
+23452,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2937.1790615657765,2344.7002394508672,2021,09
+23474,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,3568.009016167637,3089.7955678182925,2021,09
+23476,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2474.153998752355,2283.3688288449334,2021,09
+23484,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,4104.293316162278,3872.10347432485,2021,09
+23630,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,5749.9285910460285,5077.440210711737,2021,10
+23729,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,5854.764126687145,5229.343932797617,2021,10
+23758,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,7656.765907667361,7039.4725658585885,2021,10
+23768,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1972.1980621048278,1688.9459868768818,2021,10
+23798,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,7804.934153621119,7157.7904998743625,2021,10
+23822,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1413.0493710654534,1125.3358442379024,2021,10
+23830,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,7854.501538469999,7031.9597632049845,2021,10
+23840,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,3777.6874717966134,3434.9626253114748,2021,10
+23841,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2601.9432474095115,2518.0420567689725,2021,10
+23845,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1688.7701021445787,5154.216423321288,2021,10
+23851,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2391.987998973002,2105.12721294609,2021,10
+23854,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1589.8247838830025,1414.0940789684378,2021,10
+23863,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2534.70521042201,2270.588577939292,2021,10
+23883,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,4935.261581167882,4507.471778520467,2021,10
+23885,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2304.8661726150935,1849.8181503044145,2021,10
+23898,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1186.1812762350594,1070.0676589044808,2021,10
+23899,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,3376.4034956720534,2859.8545661489966,2021,10
+23903,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,6816.402393899523,4352.343468828388,2021,10
+23944,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,879.7521896362837,767.6519006025321,2021,10
+23952,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2330.1148822010764,1897.2517246215473,2021,10
+23954,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2275.406474288475,1810.5575120339774,2021,10
+23970,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1401.234490590703,1101.258901437079,2021,10
+23971,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,725.599000584893,791.9195607563308,2021,10
+23974,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2978.7449311217424,2344.7002394508672,2021,10
+23996,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,3581.028269608657,3089.7955678182925,2021,10
+23998,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2464.444561884482,2283.3688288449334,2021,10
+24006,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,4091.6860044138334,3872.10347432485,2021,10
+24152,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,5837.954856413552,5077.440210711737,2021,11
+24251,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,5943.3335755013095,5229.343932797617,2021,11
+24280,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,7780.824263813155,7039.4725658585885,2021,11
+24290,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2017.7908403907757,1688.9459868768818,2021,11
+24320,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,7942.963495443089,7157.7904998743625,2021,11
+24344,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1434.0843703133703,1125.3358442379024,2021,11
+24352,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,7955.120228833503,7031.9597632049845,2021,11
+24362,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,3835.392659071069,3434.9626253114748,2021,11
+24363,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2631.291343343179,2518.0420567689725,2021,11
+24367,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1724.790002738405,5154.216423321288,2021,11
+24373,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2431.468856307785,2105.12721294609,2021,11
+24376,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1628.478653351035,1414.0940789684378,2021,11
+24385,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2570.5862195357718,2270.588577939292,2021,11
+24405,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,5043.202956630205,4507.471778520467,2021,11
+24407,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2331.893602908918,1849.8181503044145,2021,11
+24420,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1213.866846714159,1070.0676589044808,2021,11
+24421,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,3466.004249727175,2859.8545661489966,2021,11
+24425,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,6921.012459201715,4352.343468828388,2021,11
+24466,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,866.9330497274331,767.6519006025321,2021,11
+24474,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2317.6249316287126,1897.2517246215473,2021,11
+24476,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2314.8235594691123,1810.5575120339774,2021,11
+24492,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1419.6673397599147,1101.258901437079,2021,11
+24493,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,751.5008081229801,791.9195607563308,2021,11
+24496,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,3050.2753850328886,2344.7002394508672,2021,11
+24518,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,3673.9952238073847,3089.7955678182925,2021,11
+24520,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2514.026428363287,2283.3688288449334,2021,11
+24528,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,4144.294120009394,3872.10347432485,2021,11
+24674,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,5830.261617332761,5077.440210711737,2021,12
+24773,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,5938.821880804254,5229.343932797617,2021,12
+24802,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,7781.58583976803,7039.4725658585885,2021,12
+24812,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2022.5439090331483,1688.9459868768818,2021,12
+24842,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,7961.097526133328,7157.7904998743625,2021,12
+24866,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1427.6561647458368,1125.3358442379024,2021,12
+24874,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,7963.330172444658,7031.9597632049845,2021,12
+24884,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,3824.566399649074,3434.9626253114748,2021,12
+24885,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2628.023742797471,2518.0420567689725,2021,12
+24889,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1741.9746892425744,5154.216423321288,2021,12
+24895,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2414.381990339582,2105.12721294609,2021,12
+24898,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1627.4866632778192,1414.0940789684378,2021,12
+24907,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2563.683722158926,2270.588577939292,2021,12
+24927,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,5048.324841962442,4507.471778520467,2021,12
+24929,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2319.5377904473885,1849.8181503044145,2021,12
+24942,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1227.9035492247147,1070.0676589044808,2021,12
+24943,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,3475.8235843520492,2859.8545661489966,2021,12
+24947,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,6927.9101577274305,4352.343468828388,2021,12
+24988,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,862.0437788741539,767.6519006025321,2021,12
+24996,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2314.2244383731363,1897.2517246215473,2021,12
+24998,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2329.35970348367,1810.5575120339774,2021,12
+25014,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1405.9008437121713,1101.258901437079,2021,12
+25015,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,758.1478423864099,791.9195607563308,2021,12
+25018,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,3066.94643100294,2344.7002394508672,2021,12
+25040,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,3686.220211357423,3089.7955678182925,2021,12
+25042,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2516.9279546390794,2283.3688288449334,2021,12
+25050,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,4114.550810085881,3872.10347432485,2021,12
+25196,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,5855.112426544958,5077.440210711737,2022,01
+25295,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,5971.100712842245,5229.343932797617,2022,01
+25324,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,7832.313697201659,7039.4725658585885,2022,01
+25334,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2033.1229659259232,1688.9459868768818,2022,01
+25364,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,7995.263136484526,7157.7904998743625,2022,01
+25388,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1429.7224563686805,1125.3358442379024,2022,01
+25396,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,7993.517464619286,7031.9597632049845,2022,01
+25406,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,3824.973441590651,3434.9626253114748,2022,01
+25407,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2641.098339681724,2518.0420567689725,2022,01
+25411,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1749.7049692039473,5154.216423321288,2022,01
+25417,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2411.4607953991936,2105.12721294609,2022,01
+25420,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1642.273054856971,1414.0940789684378,2022,01
+25429,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2558.243421348808,2270.588577939292,2022,01
+25449,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,5051.553008931986,4507.471778520467,2022,01
+25451,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2326.4732336052957,1849.8181503044145,2022,01
+25464,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1245.2487969937238,1070.0676589044808,2022,01
+25465,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,3486.1239136207273,2859.8545661489966,2022,01
+25469,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,6956.510982347917,4352.343468828388,2022,01
+25510,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,877.0066264849415,767.6519006025321,2022,01
+25518,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2337.428829449212,1897.2517246215473,2022,01
+25520,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2342.5540532506047,1810.5575120339774,2022,01
+25536,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1371.1177580356425,1101.258901437079,2022,01
+25537,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,757.3808071876721,791.9195607563308,2022,01
+25540,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,3056.5424455023253,2344.7002394508672,2022,01
+25562,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,3693.6696794707455,3089.7955678182925,2022,01
+25564,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2515.659347079519,2283.3688288449334,2022,01
+25572,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,4109.509356255883,3872.10347432485,2022,01
+25718,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,5923.105281182877,5077.440210711737,2022,02
+25817,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,6037.99689070103,5229.343932797617,2022,02
+25846,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,7930.15998541838,7039.4725658585885,2022,02
+25856,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2040.3444904468881,1688.9459868768818,2022,02
+25886,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,8091.843472476856,7157.7904998743625,2022,02
+25910,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1451.1545595275845,1125.3358442379024,2022,02
+25918,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,8096.634537141963,7031.9597632049845,2022,02
+25928,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,3824.88370475483,3434.9626253114748,2022,02
+25929,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2650.6970920259687,2518.0420567689725,2022,02
+25933,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1771.4641340899761,5154.216423321288,2022,02
+25939,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2432.075943430473,2105.12721294609,2022,02
+25942,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1665.001723902412,1414.0940789684378,2022,02
+25951,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2582.998750492452,2270.588577939292,2022,02
+25971,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,5077.45247701373,4507.471778520467,2022,02
+25973,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2344.12019479244,1849.8181503044145,2022,02
+25986,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1243.7125618173384,1070.0676589044808,2022,02
+25987,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,3508.2635061912374,2859.8545661489966,2022,02
+25991,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,7049.586212593935,4352.343468828388,2022,02
+26032,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,912.9070541472526,767.6519006025321,2022,02
+26040,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2396.232630775475,1897.2517246215473,2022,02
+26042,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2374.5404663380923,1810.5575120339774,2022,02
+26058,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1340.6013828969078,1101.258901437079,2022,02
+26059,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,715.6620817670201,791.9195607563308,2022,02
+26062,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,3048.3725396742857,2344.7002394508672,2022,02
+26084,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,3699.5730241289575,3089.7955678182925,2022,02
+26086,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2517.8966365136457,2283.3688288449334,2022,02
+26094,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,4144.586923539641,3872.10347432485,2022,02
+26240,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,6019.599768100392,5077.440210711737,2022,03
+26339,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,6128.744453281286,5229.343932797617,2022,03
+26368,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,8057.591837699897,7039.4725658585885,2022,03
+26378,208709,1161,Brookline,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2048.927073335879,1688.9459868768818,2022,03
+26408,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,8215.867032625907,7157.7904998743625,2022,03
+26432,208967,1656,Carrick,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1463.5107817561045,1125.3358442379024,2022,03
+26440,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,8203.948049680079,7031.9597632049845,2022,03
+26450,208472,1960,Bloomfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,3853.9214224774873,3434.9626253114748,2022,03
+26451,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2661.2102755042397,2518.0420567689725,2022,03
+26455,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1790.0806468626574,5154.216423321288,2022,03
+26461,17799,2075,Dormont,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2472.1236968108733,2105.12721294609,2022,03
+26464,208228,2127,Beechview,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1690.3137113649132,1414.0940789684378,2022,03
+26473,211218,2207,Greenfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2616.152584052171,2270.588577939292,2022,03
+26493,273999,2581,Highland Park,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,5136.166121170151,4507.471778520467,2022,03
+26495,271156,2613,Brighton Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2382.3420112038552,1849.8181503044145,2022,03
+26508,215587,3230,Sheraden,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1248.7295111845456,1070.0676589044808,2022,03
+26509,38290,3247,East Liberty,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,3585.7143590030196,2859.8545661489966,2022,03
+26513,214645,3297,Point Breeze,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,7156.420895976618,4352.343468828388,2022,03
+26554,212283,4462,Knoxville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,945.3387737163622,767.6519006025321,2022,03
+26562,273806,4874,Garfield,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2479.6618331893906,1897.2517246215473,2022,03
+26564,271206,5000,Perry North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2407.625998716362,1810.5575120339774,2022,03
+26580,271207,5530,Perry South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1313.7149207133077,1101.258901437079,2022,03
+26581,271185,5689,Homewood North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,675.4888927791529,791.9195607563308,2022,03
+26584,213494,6064,Morningside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,3044.3546669839557,2344.7002394508672,2022,03
+26606,271208,8551,Point Breeze North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,3726.5945127740624,3089.7955678182925,2022,03
+26608,271226,8938,Upper Hill,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2525.4468136223604,2283.3688288449334,2022,03
+26616,271211,11457,Regent Square,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,4195.285201089666,3872.10347432485,2022,03

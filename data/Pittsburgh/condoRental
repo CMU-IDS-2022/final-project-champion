@@ -1,0 +1,592 @@
+,RegionID,SizeRank,Neighborhood,RegionType,StateName,State,City,Metro,CountyName,Date,Prices,MeanPrices,Year,Month
+152,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1250.8954896454702,1430.2370798467757,2018,01
+273,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,2012.6484848208058,2265.7186774525303,2018,01
+301,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1868.0781471089829,2083.2655271830426,2018,01
+343,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,3738.3278185107374,4089.025888745531,2018,01
+392,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,2016.840856210524,2261.9097348681134,2018,01
+403,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,1253.4304118811137,2024.7221872020289,2018,01
+406,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,3250.3818782427425,3398.032474738431,2018,01
+480,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,2432.7985503320274,2609.4951120982314,2018,01
+572,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,2545.1505582306886,2701.687296182633,2018,01
+598,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,4206.065287809267,4481.2281400433385,2018,01
+648,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-01,3537.8030609610914,3892.1564717795677,2018,01
+807,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1260.2691691632613,1430.2370798467757,2018,02
+928,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,2015.0684391788063,2265.7186774525303,2018,02
+956,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1883.0621462464237,2083.2655271830426,2018,02
+998,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,3753.8481619216386,4089.025888745531,2018,02
+1047,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,2035.0739852948507,2261.9097348681134,2018,02
+1058,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,1260.5722834983528,2024.7221872020289,2018,02
+1061,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,3275.819025227213,3398.032474738431,2018,02
+1135,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,2459.4162241680556,2609.4951120982314,2018,02
+1227,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,2563.0545813868675,2701.687296182633,2018,02
+1253,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,4208.555325069018,4481.2281400433385,2018,02
+1303,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-02,3586.6984363736383,3892.1564717795677,2018,02
+1462,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1265.988340387807,1430.2370798467757,2018,03
+1583,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,2042.5084507337422,2265.7186774525303,2018,03
+1611,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1895.4378924757027,2083.2655271830426,2018,03
+1653,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,3764.411079844145,4089.025888745531,2018,03
+1702,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,2053.017932486642,2261.9097348681134,2018,03
+1713,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,1270.4924039961927,2024.7221872020289,2018,03
+1716,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,3296.7346999627666,3398.032474738431,2018,03
+1790,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,2483.746776771815,2609.4951120982314,2018,03
+1882,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,2572.610974552254,2701.687296182633,2018,03
+1908,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,4200.461293165655,4481.2281400433385,2018,03
+1958,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-03,3625.851158542385,3892.1564717795677,2018,03
+2117,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1281.403315242924,1430.2370798467757,2018,04
+2238,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,2086.8056327279664,2265.7186774525303,2018,04
+2266,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1913.2305441942988,2083.2655271830426,2018,04
+2308,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,3790.8207410023515,4089.025888745531,2018,04
+2357,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,2090.1129285959746,2261.9097348681134,2018,04
+2368,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,1290.665526582171,2024.7221872020289,2018,04
+2371,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,3333.2104477611847,3398.032474738431,2018,04
+2445,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,2524.52757804049,2609.4951120982314,2018,04
+2537,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,2599.775244945769,2701.687296182633,2018,04
+2563,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,4205.757111547679,4481.2281400433385,2018,04
+2613,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-04,3713.2731217144683,3892.1564717795677,2018,04
+2772,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1283.9734946023013,1430.2370798467757,2018,05
+2893,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,2114.835149827982,2265.7186774525303,2018,05
+2921,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1920.3087550196947,2083.2655271830426,2018,05
+2963,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,3792.125536307387,4089.025888745531,2018,05
+3012,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,2107.725357701279,2261.9097348681134,2018,05
+3023,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,1295.639936545869,2024.7221872020289,2018,05
+3026,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,3314.6967894450477,3398.032474738431,2018,05
+3100,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,2514.5437625571467,2609.4951120982314,2018,05
+3192,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,2603.44275937333,2701.687296182633,2018,05
+3218,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,4207.6051218462835,4481.2281400433385,2018,05
+3268,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-05,3709.006569998199,3892.1564717795677,2018,05
+3427,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1316.1635485089244,1430.2370798467757,2018,06
+3548,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,2161.759394920365,2265.7186774525303,2018,06
+3576,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1958.1417828086483,2083.2655271830426,2018,06
+3618,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,3854.050797720564,4089.025888745531,2018,06
+3667,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,2148.6800574032504,2261.9097348681134,2018,06
+3678,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,1314.8565161588338,2024.7221872020289,2018,06
+3681,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,3342.9831208026835,3398.032474738431,2018,06
+3755,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,2548.18125572063,2609.4951120982314,2018,06
+3847,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,2652.5184933226983,2701.687296182633,2018,06
+3873,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,4260.618984744641,4481.2281400433385,2018,06
+3923,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-06,3767.534270160767,3892.1564717795677,2018,06
+4082,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1326.0674684901228,1430.2370798467757,2018,07
+4203,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,2166.620952145104,2265.7186774525303,2018,07
+4231,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1970.3355003978265,2083.2655271830426,2018,07
+4273,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,3864.4155709799097,4089.025888745531,2018,07
+4322,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,2159.1128642094545,2261.9097348681134,2018,07
+4333,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,1318.5864855650711,2024.7221872020289,2018,07
+4336,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,3322.2701840019863,3398.032474738431,2018,07
+4410,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,2547.365036015393,2609.4951120982314,2018,07
+4502,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,2663.103431268908,2701.687296182633,2018,07
+4528,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,4230.667509183794,4481.2281400433385,2018,07
+4578,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-07,3730.932428788228,3892.1564717795677,2018,07
+4737,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1329.532640995609,1430.2370798467757,2018,08
+4858,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,2148.4586934497415,2265.7186774525303,2018,08
+4886,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1960.3056358139584,2083.2655271830426,2018,08
+4928,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,3836.4330625111616,4089.025888745531,2018,08
+4977,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,2139.557809488937,2261.9097348681134,2018,08
+4988,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,1305.9162252604087,2024.7221872020289,2018,08
+4991,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,3271.034600341616,3398.032474738431,2018,08
+5065,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,2526.2229434807164,2609.4951120982314,2018,08
+5157,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,2642.900561069435,2701.687296182633,2018,08
+5183,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,4144.144224806396,4481.2281400433385,2018,08
+5233,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-08,3693.8310612858477,3892.1564717795677,2018,08
+5392,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1311.8623326296372,1430.2370798467757,2018,09
+5513,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,2120.637675044202,2265.7186774525303,2018,09
+5541,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1931.2823107097875,2083.2655271830426,2018,09
+5583,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,3772.5854417469936,4089.025888745531,2018,09
+5632,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,2106.7047911265545,2261.9097348681134,2018,09
+5643,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,1284.8052873939782,2024.7221872020289,2018,09
+5646,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,3196.5727701560195,3398.032474738431,2018,09
+5720,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,2489.4503423305255,2609.4951120982314,2018,09
+5812,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,2586.7783491041496,2701.687296182633,2018,09
+5838,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,4041.837324647654,4481.2281400433385,2018,09
+5888,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-09,3652.8944970008174,3892.1564717795677,2018,09
+6047,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1311.3655402064503,1430.2370798467757,2018,10
+6168,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,2117.261938356873,2265.7186774525303,2018,10
+6196,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1931.3006178335838,2083.2655271830426,2018,10
+6238,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,3766.779439060518,4089.025888745531,2018,10
+6287,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,2095.3969720151294,2261.9097348681134,2018,10
+6298,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,1275.7531399372638,2024.7221872020289,2018,10
+6301,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,3169.3901530743915,3398.032474738431,2018,10
+6375,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,2468.358308069559,2609.4951120982314,2018,10
+6467,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,2558.288347278733,2701.687296182633,2018,10
+6493,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,4081.416741144677,4481.2281400433385,2018,10
+6543,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-10,3667.5535159575493,3892.1564717795677,2018,10
+6702,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1313.6839428617452,1430.2370798467757,2018,11
+6823,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,2115.1765338215105,2265.7186774525303,2018,11
+6851,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1937.1550411638057,2083.2655271830426,2018,11
+6893,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,3775.6809028755933,4089.025888745531,2018,11
+6942,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,2101.064278257716,2261.9097348681134,2018,11
+6953,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,1271.1470640384464,2024.7221872020289,2018,11
+6956,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,3170.1676932810988,3398.032474738431,2018,11
+7030,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,2463.545653904326,2609.4951120982314,2018,11
+7122,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,2544.6258694400844,2701.687296182633,2018,11
+7148,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,4159.678682966879,4481.2281400433385,2018,11
+7198,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-11,3691.6599090534214,3892.1564717795677,2018,11
+7357,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1299.8675562171925,1430.2370798467757,2018,12
+7478,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,2074.066644716278,2265.7186774525303,2018,12
+7506,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1913.8200099748738,2083.2655271830426,2018,12
+7548,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,3736.0216590742803,4089.025888745531,2018,12
+7597,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,2075.2977985018383,2261.9097348681134,2018,12
+7608,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,1258.70085151251,2024.7221872020289,2018,12
+7611,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,3134.0900540839475,3398.032474738431,2018,12
+7685,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,2419.952461026273,2609.4951120982314,2018,12
+7777,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,2502.6535066354927,2701.687296182633,2018,12
+7803,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,4150.569947966477,4481.2281400433385,2018,12
+7853,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2018-12,3625.0810235087647,3892.1564717795677,2018,12
+8012,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1323.2066461021109,1430.2370798467757,2019,01
+8133,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,2091.545770360062,2265.7186774525303,2019,01
+8161,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1939.8334105687509,2083.2655271830426,2019,01
+8203,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,3783.152377201156,4089.025888745531,2019,01
+8252,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,2106.1341604923023,2261.9097348681134,2019,01
+8263,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,1281.6228366412395,2024.7221872020289,2019,01
+8266,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,3181.967578885132,3398.032474738431,2019,01
+8340,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,2442.2792941126622,2609.4951120982314,2019,01
+8432,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,2537.8022103508943,2701.687296182633,2019,01
+8458,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,4198.766300330297,4481.2281400433385,2019,01
+8508,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-01,3641.7519054702225,3892.1564717795677,2019,01
+8667,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1344.9052500963437,1430.2370798467757,2019,02
+8788,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,2129.643847034887,2265.7186774525303,2019,02
+8816,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1971.7953308830024,2083.2655271830426,2019,02
+8858,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,3850.644813826027,4089.025888745531,2019,02
+8907,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,2150.1861949065215,2261.9097348681134,2019,02
+8918,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,1306.799978853541,2024.7221872020289,2019,02
+8921,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,3207.237221773627,3398.032474738431,2019,02
+8995,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,2464.559038543417,2609.4951120982314,2019,02
+9087,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,2572.97698564371,2701.687296182633,2019,02
+9113,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,4227.089001222633,4481.2281400433385,2019,02
+9163,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-02,3640.447286494901,3892.1564717795677,2019,02
+9322,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1364.2130692160904,1430.2370798467757,2019,03
+9443,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,2158.3674381723467,2265.7186774525303,2019,03
+9471,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1995.468473994744,2083.2655271830426,2019,03
+9513,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,3895.012428771665,4089.025888745531,2019,03
+9562,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,2185.195792875439,2261.9097348681134,2019,03
+9573,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,1312.362451662466,2024.7221872020289,2019,03
+9576,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,3193.5035579028536,3398.032474738431,2019,03
+9650,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,2466.6918662258313,2609.4951120982314,2019,03
+9742,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,2585.797486696915,2701.687296182633,2019,03
+9768,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,4253.284940728261,4481.2281400433385,2019,03
+9818,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-03,3611.7453333134217,3892.1564717795677,2019,03
+9977,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1404.9896882675785,1430.2370798467757,2019,04
+10098,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2218.463343814379,2265.7186774525303,2019,04
+10126,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2044.1802546688311,2083.2655271830426,2019,04
+10168,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,3992.5896228722345,4089.025888745531,2019,04
+10217,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2251.176761597763,2261.9097348681134,2019,04
+10228,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,1341.5732246030002,2024.7221872020289,2019,04
+10231,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,3251.453456305974,3398.032474738431,2019,04
+10305,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2512.1571390251993,2609.4951120982314,2019,04
+10397,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,2641.9248503365684,2701.687296182633,2019,04
+10423,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,4320.136644935982,4481.2281400433385,2019,04
+10473,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-04,3666.254208874538,3892.1564717795677,2019,04
+10632,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1427.1975170996966,1430.2370798467757,2019,05
+10753,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2231.9960460333145,2265.7186774525303,2019,05
+10781,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2072.987553298573,2083.2655271830426,2019,05
+10823,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,4036.4431561258243,4089.025888745531,2019,05
+10872,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2272.5754907844525,2261.9097348681134,2019,05
+10883,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,1359.2667309109036,2024.7221872020289,2019,05
+10886,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,3297.947895543387,3398.032474738431,2019,05
+10960,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2528.131958352674,2609.4951120982314,2019,05
+11052,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,2663.188813577218,2701.687296182633,2019,05
+11078,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,4419.78689924392,4481.2281400433385,2019,05
+11128,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-05,3704.1763478114676,3892.1564717795677,2019,05
+11287,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1431.2979447888954,1430.2370798467757,2019,06
+11408,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2253.5113856310077,2265.7186774525303,2019,06
+11436,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2088.616559194319,2083.2655271830426,2019,06
+11478,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,4063.140547774341,4089.025888745531,2019,06
+11527,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2289.411164131345,2261.9097348681134,2019,06
+11538,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,1372.1492165343093,2024.7221872020289,2019,06
+11541,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,3341.7177696941335,3398.032474738431,2019,06
+11615,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2533.276460503411,2609.4951120982314,2019,06
+11707,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,2682.1113356512833,2701.687296182633,2019,06
+11733,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,4529.89192487092,4481.2281400433385,2019,06
+11783,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-06,3737.058428700747,3892.1564717795677,2019,06
+11942,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1441.7825965288994,1430.2370798467757,2019,07
+12063,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2284.9106365110547,2265.7186774525303,2019,07
+12091,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2119.7154994011735,2083.2655271830426,2019,07
+12133,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,4119.647198787145,4089.025888745531,2019,07
+12182,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2312.841344446999,2261.9097348681134,2019,07
+12193,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,1396.1980033288387,2024.7221872020289,2019,07
+12196,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,3377.919574164996,3398.032474738431,2019,07
+12270,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2575.6161438561094,2609.4951120982314,2019,07
+12362,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,2709.834913072291,2701.687296182633,2019,07
+12388,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,4703.456442725427,4481.2281400433385,2019,07
+12438,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-07,3807.603834253024,3892.1564717795677,2019,07
+12597,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1448.86292785035,1430.2370798467757,2019,08
+12718,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2318.8276829945735,2265.7186774525303,2019,08
+12746,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2136.2895736710448,2083.2655271830426,2019,08
+12788,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,4170.89746163292,4089.025888745531,2019,08
+12837,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2341.086634801118,2261.9097348681134,2019,08
+12848,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,1409.9694992602194,2024.7221872020289,2019,08
+12851,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,3393.221886522272,3398.032474738431,2019,08
+12925,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2618.7537326256966,2609.4951120982314,2019,08
+13017,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,2727.0616380923057,2701.687296182633,2019,08
+13043,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,4797.438246298223,4481.2281400433385,2019,08
+13093,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-08,3853.9049902409574,3892.1564717795677,2019,08
+13252,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1453.3610813977841,1430.2370798467757,2019,09
+13373,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2328.7881493258287,2265.7186774525303,2019,09
+13401,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2141.1135438878364,2083.2655271830426,2019,09
+13443,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,4181.354757048818,4089.025888745531,2019,09
+13492,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2344.5846492227397,2261.9097348681134,2019,09
+13503,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,1418.4813756055403,2024.7221872020289,2019,09
+13506,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,3389.027803423576,3398.032474738431,2019,09
+13580,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2647.312429245947,2609.4951120982314,2019,09
+13672,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,2728.926139993283,2701.687296182633,2019,09
+13698,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,4808.774006899296,4481.2281400433385,2019,09
+13748,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-09,3868.5452833450577,3892.1564717795677,2019,09
+13907,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1448.1028759537826,1430.2370798467757,2019,10
+14028,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2319.6305048937948,2265.7186774525303,2019,10
+14056,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2132.989652749525,2083.2655271830426,2019,10
+14098,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,4169.06414439548,4089.025888745531,2019,10
+14147,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2341.9629688790965,2261.9097348681134,2019,10
+14158,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,1418.0562302620983,2024.7221872020289,2019,10
+14161,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,3372.97532104473,3398.032474738431,2019,10
+14235,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2629.6522370030284,2609.4951120982314,2019,10
+14327,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,2712.6947586895126,2701.687296182633,2019,10
+14353,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,4765.440351851289,4481.2281400433385,2019,10
+14403,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-10,3848.382481002248,3892.1564717795677,2019,10
+14562,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1454.8350426677462,1430.2370798467757,2019,11
+14683,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2330.174071420213,2265.7186774525303,2019,11
+14711,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2142.7963783486985,2083.2655271830426,2019,11
+14753,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,4193.227107787532,4089.025888745531,2019,11
+14802,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2346.7716723024887,2261.9097348681134,2019,11
+14813,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,1437.8132808740345,2024.7221872020289,2019,11
+14816,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,3409.9125550379053,3398.032474738431,2019,11
+14890,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2640.3094647949147,2609.4951120982314,2019,11
+14982,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,2725.4828199891267,2701.687296182633,2019,11
+15008,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,4763.539115881285,4481.2281400433385,2019,11
+15058,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-11,3880.7403876211742,3892.1564717795677,2019,11
+15217,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1474.7189252664716,1430.2370798467757,2019,12
+15338,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2347.6182353918784,2265.7186774525303,2019,12
+15366,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2168.7119607790823,2083.2655271830426,2019,12
+15408,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,4264.650536994816,4089.025888745531,2019,12
+15457,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2376.0114805128883,2261.9097348681134,2019,12
+15468,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,1468.162345570988,2024.7221872020289,2019,12
+15471,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,3468.979365580469,3398.032474738431,2019,12
+15545,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2666.109906670655,2609.4951120982314,2019,12
+15637,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,2745.6444734164384,2701.687296182633,2019,12
+15663,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,4843.3593712234315,4481.2281400433385,2019,12
+15713,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2019-12,3956.853995715765,3892.1564717795677,2019,12
+15872,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1454.3360653126736,1430.2370798467757,2020,01
+15993,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2315.1936311414524,2265.7186774525303,2020,01
+16021,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2138.92292671466,2083.2655271830426,2020,01
+16063,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,4221.947790778822,4089.025888745531,2020,01
+16112,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2338.822436382766,2261.9097348681134,2020,01
+16123,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,1454.1077235534804,2024.7221872020289,2020,01
+16126,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,3426.2041610015795,3398.032474738431,2020,01
+16200,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2625.1630024110545,2609.4951120982314,2020,01
+16292,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,2708.516878186945,2701.687296182633,2020,01
+16318,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,4767.940338020896,4481.2281400433385,2020,01
+16368,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-01,3928.190684411938,3892.1564717795677,2020,01
+16527,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1461.4142965421659,1430.2370798467757,2020,02
+16648,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2334.670634877838,2265.7186774525303,2020,02
+16676,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2162.3608526165385,2083.2655271830426,2020,02
+16718,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,4264.667110967157,4089.025888745531,2020,02
+16767,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2356.6599970355433,2261.9097348681134,2020,02
+16778,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,1469.7097397317311,2024.7221872020289,2020,02
+16781,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,3422.725610835996,3398.032474738431,2020,02
+16855,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2607.6017518808576,2609.4951120982314,2020,02
+16947,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,2729.118038869465,2701.687296182633,2020,02
+16973,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,4781.237785595408,4481.2281400433385,2020,02
+17023,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-02,3969.167238324234,3892.1564717795677,2020,02
+17182,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1460.6306761393294,1430.2370798467757,2020,03
+17303,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2356.930116971975,2265.7186774525303,2020,03
+17331,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2177.7769059394727,2083.2655271830426,2020,03
+17373,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,4296.302020970757,4089.025888745531,2020,03
+17422,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2370.310740248619,2261.9097348681134,2020,03
+17433,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,1481.9569066400416,2024.7221872020289,2020,03
+17436,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,3411.424390522711,3398.032474738431,2020,03
+17510,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2581.92690672205,2609.4951120982314,2020,03
+17602,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,2756.5187506444386,2701.687296182633,2020,03
+17628,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,4729.346810987158,4481.2281400433385,2020,03
+17678,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-03,4004.172207221029,3892.1564717795677,2020,03
+17837,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1458.6247155449162,1430.2370798467757,2020,04
+17958,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2368.102706117283,2265.7186774525303,2020,04
+17986,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2184.3180337039707,2083.2655271830426,2020,04
+18028,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,4313.867628023401,4089.025888745531,2020,04
+18077,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2384.602215816001,2261.9097348681134,2020,04
+18088,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,1495.7532108925886,2024.7221872020289,2020,04
+18091,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,3400.4992848297647,3398.032474738431,2020,04
+18165,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2572.3508172594957,2609.4951120982314,2020,04
+18257,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,2783.3679580216954,2701.687296182633,2020,04
+18283,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,4702.194717214577,4481.2281400433385,2020,04
+18333,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-04,4039.4736080338516,3892.1564717795677,2020,04
+18492,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1441.1715535253395,1430.2370798467757,2020,05
+18613,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2326.496467880324,2265.7186774525303,2020,05
+18641,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2143.1201569348827,2083.2655271830426,2020,05
+18683,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,4238.522958938776,4089.025888745531,2020,05
+18732,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2350.4325346831424,2261.9097348681134,2020,05
+18743,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,1483.5444918670346,2024.7221872020289,2020,05
+18746,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,3359.635016523538,3398.032474738431,2020,05
+18820,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2547.065183880734,2609.4951120982314,2020,05
+18912,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,2774.4168476818663,2701.687296182633,2020,05
+18938,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,4675.32658804947,4481.2281400433385,2020,05
+18988,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-05,4034.4609333581116,3892.1564717795677,2020,05
+19147,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1445.1355771784802,1430.2370798467757,2020,06
+19268,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2309.332370286571,2265.7186774525303,2020,06
+19296,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2134.660708397952,2083.2655271830426,2020,06
+19338,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,4211.073171862383,4089.025888745531,2020,06
+19387,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2335.7299597264137,2261.9097348681134,2020,06
+19398,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,1476.5203928585145,2024.7221872020289,2020,06
+19401,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,3358.741592831232,3398.032474738431,2020,06
+19475,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2561.159893074273,2609.4951120982314,2020,06
+19567,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,2781.346844990136,2701.687296182633,2020,06
+19593,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,4676.364938667081,4481.2281400433385,2020,06
+19643,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-06,4067.594509259945,3892.1564717795677,2020,06
+19802,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1451.0230795143266,1430.2370798467757,2020,07
+19923,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2292.9239935301644,2265.7186774525303,2020,07
+19951,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2122.079212520368,2083.2655271830426,2020,07
+19993,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,4174.139773327267,4089.025888745531,2020,07
+20042,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2302.038631868288,2261.9097348681134,2020,07
+20053,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,1456.3369136654528,2024.7221872020289,2020,07
+20056,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,3347.041031972543,3398.032474738431,2020,07
+20130,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2560.967277777715,2609.4951120982314,2020,07
+20222,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,2766.5206015790873,2701.687296182633,2020,07
+20248,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,4589.767281545722,4481.2281400433385,2020,07
+20298,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-07,4074.5623494832626,3892.1564717795677,2020,07
+20457,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1452.6189920932413,1430.2370798467757,2020,08
+20578,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2289.745388897218,2265.7186774525303,2020,08
+20606,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2121.4930096891894,2083.2655271830426,2020,08
+20648,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,4173.0535508945595,4089.025888745531,2020,08
+20697,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2288.568988676864,2261.9097348681134,2020,08
+20708,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,1433.5522592910406,2024.7221872020289,2020,08
+20711,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,3342.3430599077446,3398.032474738431,2020,08
+20785,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2565.2402220392196,2609.4951120982314,2020,08
+20877,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,2764.7215024814177,2701.687296182633,2020,08
+20903,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,4471.3343513815735,4481.2281400433385,2020,08
+20953,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-08,4072.5618243789268,3892.1564717795677,2020,08
+21112,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1431.8954865217888,1430.2370798467757,2020,09
+21233,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2248.4368557207927,2265.7186774525303,2020,09
+21261,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2090.116432165131,2083.2655271830426,2020,09
+21303,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,4127.5921866776325,4089.025888745531,2020,09
+21352,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2253.819555352948,2261.9097348681134,2020,09
+21363,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,1403.530075960231,2024.7221872020289,2020,09
+21366,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,3318.3369388557085,3398.032474738431,2020,09
+21440,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2541.9799012855788,2609.4951120982314,2020,09
+21532,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,2746.726109168584,2701.687296182633,2020,09
+21558,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,4308.372986823392,4481.2281400433385,2020,09
+21608,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-09,4033.2621462489815,3892.1564717795677,2020,09
+21767,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1432.0170055521708,1430.2370798467757,2020,10
+21888,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2243.475166269778,2265.7186774525303,2020,10
+21916,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2088.576866409743,2083.2655271830426,2020,10
+21958,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,4146.91147478504,4089.025888745531,2020,10
+22007,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2258.1266404815324,2261.9097348681134,2020,10
+22018,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,1415.7414913588862,2024.7221872020289,2020,10
+22021,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,3331.1518027649995,3398.032474738431,2020,10
+22095,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2552.2271132449714,2609.4951120982314,2020,10
+22187,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,2757.9885896076444,2701.687296182633,2020,10
+22213,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,4277.826654485391,4481.2281400433385,2020,10
+22263,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-10,4048.652666605194,3892.1564717795677,2020,10
+22422,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1439.3541074602965,1430.2370798467757,2020,11
+22543,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2262.4490107827974,2265.7186774525303,2020,11
+22571,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2091.685443551071,2083.2655271830426,2020,11
+22613,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,4159.011053869054,4089.025888745531,2020,11
+22662,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2266.8280120206073,2261.9097348681134,2020,11
+22673,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,1434.7478526652349,2024.7221872020289,2020,11
+22676,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,3381.060943746731,3398.032474738431,2020,11
+22750,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2571.697399595088,2609.4951120982314,2020,11
+22842,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,2759.1728438062414,2701.687296182633,2020,11
+22868,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,4214.924169474386,4481.2281400433385,2020,11
+22918,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-11,4069.875216297823,3892.1564717795677,2020,11
+23077,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1431.2278967608997,1430.2370798467757,2020,12
+23198,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2248.2867212410574,2265.7186774525303,2020,12
+23226,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2068.5513654729652,2083.2655271830426,2020,12
+23268,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,4109.0605672858055,4089.025888745531,2020,12
+23317,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2242.088653097304,2261.9097348681134,2020,12
+23328,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,1439.6672691012816,2024.7221872020289,2020,12
+23331,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,3369.568108810506,3398.032474738431,2020,12
+23405,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2563.8192501225662,2609.4951120982314,2020,12
+23497,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,2722.0553264045375,2701.687296182633,2020,12
+23523,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,4172.644643264005,4481.2281400433385,2020,12
+23527,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,5273.556023846403,5553.997032573811,2020,12
+23573,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2020-12,4030.545957197759,3892.1564717795677,2020,12
+23732,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1436.3140254987807,1430.2370798467757,2021,01
+23853,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2269.9909753992583,2265.7186774525303,2021,01
+23881,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2071.47442625665,2083.2655271830426,2021,01
+23923,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,4112.850850415698,4089.025888745531,2021,01
+23972,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2248.0002369646213,2261.9097348681134,2021,01
+23983,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,1430.623514851626,2024.7221872020289,2021,01
+23986,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,3405.2135693220043,3398.032474738431,2021,01
+24060,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2582.0263559156792,2609.4951120982314,2021,01
+24152,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,2708.494527030231,2701.687296182633,2021,01
+24178,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,4187.298841367255,4481.2281400433385,2021,01
+24182,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,5345.729120278697,5553.997032573811,2021,01
+24228,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-01,4031.3154312936654,3892.1564717795677,2021,01
+24387,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1455.304411966348,1430.2370798467757,2021,02
+24508,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2299.3887604573415,2265.7186774525303,2021,02
+24536,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2097.674022431901,2083.2655271830426,2021,02
+24578,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,4159.282425995184,4089.025888745531,2021,02
+24627,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2268.6546561610944,2261.9097348681134,2021,02
+24638,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,1427.1754795634183,2024.7221872020289,2021,02
+24641,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,3434.386855387497,3398.032474738431,2021,02
+24715,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2622.4646954532072,2609.4951120982314,2021,02
+24807,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2722.1882521136863,2701.687296182633,2021,02
+24833,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,4261.680394997972,4481.2281400433385,2021,02
+24837,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,5451.473650249035,5553.997032573811,2021,02
+24849,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,2740.1128733464457,2864.3720501223747,2021,02
+24883,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-02,4041.071669453887,3892.1564717795677,2021,02
+25042,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1453.5958110601205,1430.2370798467757,2021,03
+25163,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2297.0786212798726,2265.7186774525303,2021,03
+25191,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2087.7558847176206,2083.2655271830426,2021,03
+25233,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,4127.409047812099,4089.025888745531,2021,03
+25282,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2249.7305866780944,2261.9097348681134,2021,03
+25293,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,1392.740593973684,2024.7221872020289,2021,03
+25296,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,3408.183740462326,3398.032474738431,2021,03
+25370,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2617.0058864165,2609.4951120982314,2021,03
+25462,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2681.394410921145,2701.687296182633,2021,03
+25488,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,4219.480864418634,4481.2281400433385,2021,03
+25492,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,5381.433021665559,5553.997032573811,2021,03
+25504,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,2731.3323941644258,2864.3720501223747,2021,03
+25538,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-03,3991.9770314325883,3892.1564717795677,2021,03
+25697,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1458.1821089050193,1430.2370798467757,2021,04
+25818,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2299.568392344237,2265.7186774525303,2021,04
+25846,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2090.646638068642,2083.2655271830426,2021,04
+25888,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,4128.083008746211,4089.025888745531,2021,04
+25937,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2247.213870649386,2261.9097348681134,2021,04
+25948,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,1379.6417689057805,2024.7221872020289,2021,04
+25951,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,3406.6123697185567,3398.032474738431,2021,04
+26025,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2650.929017755954,2609.4951120982314,2021,04
+26117,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2662.096499091649,2701.687296182633,2021,04
+26143,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,4210.876404855672,4481.2281400433385,2021,04
+26147,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,5380.02184740481,5553.997032573811,2021,04
+26159,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,2749.639283815141,2864.3720501223747,2021,04
+26193,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-04,4003.169809468712,3892.1564717795677,2021,04
+26352,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1486.1978283030428,1430.2370798467757,2021,05
+26473,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2341.9212841996805,2265.7186774525303,2021,05
+26501,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2132.8269911955313,2083.2655271830426,2021,05
+26543,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,4201.197826829755,4089.025888745531,2021,05
+26592,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2288.1806535014207,2261.9097348681134,2021,05
+26603,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,1384.4046317457546,2024.7221872020289,2021,05
+26606,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,3468.123805234255,3398.032474738431,2021,05
+26680,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2729.5418837491825,2609.4951120982314,2021,05
+26772,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2691.3211765715405,2701.687296182633,2021,05
+26798,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,4282.9498175583185,4481.2281400433385,2021,05
+26802,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,5483.200132902708,5553.997032573811,2021,05
+26814,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,2800.80999026426,2864.3720501223747,2021,05
+26848,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-05,4068.776588830451,3892.1564717795677,2021,05
+27007,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1487.1947613157083,1430.2370798467757,2021,06
+27128,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2351.628778858403,2265.7186774525303,2021,06
+27156,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2135.645083855738,2083.2655271830426,2021,06
+27198,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,4207.650074856822,4089.025888745531,2021,06
+27247,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2295.908793291604,2261.9097348681134,2021,06
+27258,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,1367.8431445473402,2024.7221872020289,2021,06
+27261,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,3473.127817132968,3398.032474738431,2021,06
+27335,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2772.0290890961087,2609.4951120982314,2021,06
+27427,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2690.3910601289895,2701.687296182633,2021,06
+27453,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,4293.8573964900115,4481.2281400433385,2021,06
+27457,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,5461.345519283263,5553.997032573811,2021,06
+27469,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,2792.1001302144755,2864.3720501223747,2021,06
+27503,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-06,4031.3176862119426,3892.1564717795677,2021,06
+27662,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1521.1152160373545,1430.2370798467757,2021,07
+27783,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2403.9972892940423,2265.7186774525303,2021,07
+27811,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2180.219085804314,2083.2655271830426,2021,07
+27853,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,4278.661085239778,4089.025888745531,2021,07
+27902,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2346.2381707197983,2261.9097348681134,2021,07
+27913,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,1382.568387608527,2024.7221872020289,2021,07
+27916,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,3545.353976902836,3398.032474738431,2021,07
+27990,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2865.959359485533,2609.4951120982314,2021,07
+28082,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2753.3154316931464,2701.687296182633,2021,07
+28108,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,4455.554782704312,4481.2281400433385,2021,07
+28112,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,5567.605455631903,5553.997032573811,2021,07
+28124,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,2837.65977953436,2864.3720501223747,2021,07
+28158,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-07,4042.123336359166,3892.1564717795677,2021,07
+28317,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1536.3375976431814,1430.2370798467757,2021,08
+28438,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2426.3324402622,2265.7186774525303,2021,08
+28466,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2189.8992945355676,2083.2655271830426,2021,08
+28508,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,4286.293665912754,4089.025888745531,2021,08
+28557,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2353.1275912226165,2261.9097348681134,2021,08
+28568,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,1385.209134962209,2024.7221872020289,2021,08
+28571,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,3601.842406889199,3398.032474738431,2021,08
+28645,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2884.4365929069236,2609.4951120982314,2021,08
+28737,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2774.9578409337496,2701.687296182633,2021,08
+28763,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,4554.8109977203785,4481.2281400433385,2021,08
+28767,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,5589.073748337094,5553.997032573811,2021,08
+28779,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,2859.3494899606153,2864.3720501223747,2021,08
+28813,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-08,4038.050809139288,3892.1564717795677,2021,08
+28972,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1569.2776640042855,1430.2370798467757,2021,09
+29093,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2472.0227579355883,2265.7186774525303,2021,09
+29121,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2228.6974344408227,2083.2655271830426,2021,09
+29163,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,4344.880948201359,4089.025888745531,2021,09
+29212,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2384.087415292568,2261.9097348681134,2021,09
+29223,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,1404.1238278659705,2024.7221872020289,2021,09
+29226,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,3689.229835306666,3398.032474738431,2021,09
+29300,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2913.882693450793,2609.4951120982314,2021,09
+29392,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2822.36929203816,2701.687296182633,2021,09
+29418,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,4767.949577490681,4481.2281400433385,2021,09
+29422,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,5692.067724653543,5553.997032573811,2021,09
+29434,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,2922.7108820373187,2864.3720501223747,2021,09
+29468,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-09,4099.926871562073,3892.1564717795677,2021,09
+29627,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1567.0647772541647,1430.2370798467757,2021,10
+29748,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2445.7835954203533,2265.7186774525303,2021,10
+29776,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2217.3654433848174,2083.2655271830426,2021,10
+29818,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,4312.052470411548,4089.025888745531,2021,10
+29867,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2365.852312208521,2261.9097348681134,2021,10
+29878,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,1389.9104615642475,2024.7221872020289,2021,10
+29881,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,3698.8153943416282,3398.032474738431,2021,10
+29955,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2844.5788685877687,2609.4951120982314,2021,10
+30047,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2815.4980731335177,2701.687296182633,2021,10
+30073,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,4813.711261997982,4481.2281400433385,2021,10
+30077,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,5636.007997896995,5553.997032573811,2021,10
+30089,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,2908.0364882805065,2864.3720501223747,2021,10
+30123,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-10,4078.243563873684,3892.1564717795677,2021,10
+30282,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1597.1050305667295,1430.2370798467757,2021,11
+30403,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2455.895774297568,2265.7186774525303,2021,11
+30431,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2245.757954263273,2083.2655271830426,2021,11
+30473,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,4362.460794831328,4089.025888745531,2021,11
+30522,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2407.2426596876926,2261.9097348681134,2021,11
+30533,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,1397.7363483671584,2024.7221872020289,2021,11
+30536,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,3755.8982696573726,3398.032474738431,2021,11
+30610,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2874.7227296979545,2609.4951120982314,2021,11
+30702,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2871.249377300693,2701.687296182633,2021,11
+30728,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,4985.299204982398,4481.2281400433385,2021,11
+30732,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,5700.102910516225,5553.997032573811,2021,11
+30744,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,2942.7410929749717,2864.3720501223747,2021,11
+30778,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-11,4120.966806044874,3892.1564717795677,2021,11
+30937,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1596.4892249553889,1430.2370798467757,2021,12
+31058,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2423.2693072455386,2265.7186774525303,2021,12
+31086,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2234.437620580616,2083.2655271830426,2021,12
+31128,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,4332.683816170052,4089.025888745531,2021,12
+31177,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2406.386001224583,2261.9097348681134,2021,12
+31188,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,1379.905225420552,2024.7221872020289,2021,12
+31191,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,3743.6719123687617,3398.032474738431,2021,12
+31265,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2847.593257748623,2609.4951120982314,2021,12
+31357,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2873.0696559678395,2701.687296182633,2021,12
+31383,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,5046.395074026679,4481.2281400433385,2021,12
+31387,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,5673.162930759506,5553.997032573811,2021,12
+31399,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,2923.4945786659973,2864.3720501223747,2021,12
+31433,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2021-12,4076.898701168824,3892.1564717795677,2021,12
+31592,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1602.29458933235,1430.2370798467757,2022,01
+31713,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2418.2370980090886,2265.7186774525303,2022,01
+31741,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2237.727747648296,2083.2655271830426,2022,01
+31783,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,4330.341146893068,4089.025888745531,2022,01
+31832,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2417.3685617608658,2261.9097348681134,2022,01
+31843,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,1372.5366538866992,2024.7221872020289,2022,01
+31846,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,3718.4272622294857,3398.032474738431,2022,01
+31920,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2828.555980028297,2609.4951120982314,2022,01
+32012,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2869.2137956876663,2701.687296182633,2022,01
+32038,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,5100.406023052307,4481.2281400433385,2022,01
+32042,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,5697.795573822346,5553.997032573811,2022,01
+32054,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,2928.1194719285045,2864.3720501223747,2022,01
+32088,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-01,4072.0075089440156,3892.1564717795677,2022,01
+32247,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1612.2743919195773,1430.2370798467757,2022,02
+32368,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2418.7361163237047,2265.7186774525303,2022,02
+32396,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2256.360871265454,2083.2655271830426,2022,02
+32438,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,4353.446598138315,4089.025888745531,2022,02
+32487,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2432.656678541395,2261.9097348681134,2022,02
+32498,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,1383.8149073272843,2024.7221872020289,2022,02
+32501,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,3732.6322243404175,3398.032474738431,2022,02
+32575,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2798.1269482001962,2609.4951120982314,2022,02
+32667,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2863.545050401122,2701.687296182633,2022,02
+32693,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,5137.703744771893,4481.2281400433385,2022,02
+32697,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,5754.948305682064,5553.997032573811,2022,02
+32709,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,2961.484318813683,2864.3720501223747,2022,02
+32743,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-02,4085.8985164476358,3892.1564717795677,2022,02
+32902,9632,363,Mount Lebanon,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1635.3477770906843,1430.2370798467757,2022,03
+33023,271220,904,Squirrel Hill South,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2442.4331937081997,2265.7186774525303,2022,03
+33051,54374,1106,Shadyside,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2279.434898576808,2083.2655271830426,2022,03
+33093,271219,1391,Squirrel Hill North,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,4401.552912414205,4089.025888745531,2022,03
+33142,274732,1771,North Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2452.19597873418,2261.9097348681134,2022,03
+33153,214069,1963,Oakland,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,1390.3711793002967,2024.7221872020289,2022,03
+33156,213615,1984,Mount Washington,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,3786.1894275032037,3398.032474738431,2022,03
+33230,271217,3167,Southside Flats,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2798.2400758469817,2609.4951120982314,2022,03
+33322,271161,5414,Central Business District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,2868.1282687411135,2701.687296182633,2022,03
+33348,210000,6896,Duquesne Heights,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,5129.03868915732,4481.2281400433385,2022,03
+33352,271227,7266,Upper Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,5776.42855825083,5553.997032573811,2022,03
+33364,271192,7752,Lower Lawrenceville,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,3003.6179277125357,2864.3720501223747,2022,03
+33398,216117,12768,Strip District,Neighborhood,PA,PA,Pittsburgh,Pittsburgh,Allegheny County,2022-03,4126.132853517388,3892.1564717795677,2022,03

@@ -124,7 +124,7 @@ st.title("Find Your Next Destination after CMU")
 st.sidebar.header("Select Level")
 page_selection = st.sidebar.radio(
     'Select Page',
-    ('Introduction', 'Data Processing', 'US National Wide', 'City Wide')
+    ('Introduction', 'Data Processing', 'US National Wide', 'US City Wide')
 )
 
 def setPageSelection(selection):
@@ -749,7 +749,7 @@ elif page_selection == "US National Wide":
 
 elif page_selection == "Introduction":
   IntroStory.showStory()
-  col1, col2, col3 = st.columns([1,5,1])
+  col1, col2, col3 = st.columns([1,1,1])
   with col1:
     st.write("")
   with col2:
@@ -758,7 +758,7 @@ elif page_selection == "Introduction":
     st.write("")
 
 # draw neighborhood level data
-elif page_selection == "City Wide":
+elif page_selection == "US City Wide":
     Neighborhood.loadNeighborhoodData()
         
     
