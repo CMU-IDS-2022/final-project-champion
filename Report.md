@@ -9,7 +9,9 @@ Short (~250 words) abstract of the concrete data science problem and how the sol
 ## Introduction
 The housing prices in the United States have always been fluctuating. There is much attention focused on sales of housing prices but not so much on housing rental cost. This is even more evident in recent years due to the pandemic as more people are working from home, causing the prices for cities to drop as people start to [rent in suburban areas](https://www.census.gov/library/stories/2021/10/zillow-and-census-bureau-data-show-pandemics-impact-on-housing-market.html). With such ongoing changes, young adults like us are unsure where and what price to pay to rent a house to be worth. 
 
-Using the top 10 cities most CMU students will head to after graduation, we have decided to analyze how rental prices in these cities have changed pre-pandemic, during the pandemic and post pandemic days. We also considered other important factors such as safety, transportation and income data. The two main points that made us unique is the low level neighborhood level analysis in cities and having the functionality of all data being visualized on a single platform.
+![image](images/IntroImage.jpeg)
+
+Using the top 10 cities most CMU students will head to [after graduation](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html), we have decided to analyze how rental prices in these cities have changed pre-pandemic, during the pandemic and post pandemic days. We also considered other important factors such as safety, transportation and income data. The two main points that made us unique is the low level neighborhood level analysis in cities and having the functionality of all data being visualized on a single platform.
 
 We hope this can allow users to make a more informed decision on where to rent and how much to pay given a preference in a city and type of housing.
 
@@ -24,15 +26,78 @@ Hence, we decided to refer to these visualizations and interfaces and come up wi
 There are 2 main important aspects to be covered under methods. The first one is on data collection and analysis while the second one is on the specific implementations based on our initial research question.
 
 ### Data Collection and Processing
-As mentioned earlier, most housing related data only exists on the city level. For our use case, we wanted to find a breakdown of rental prices on the neighborhood level with multiple bedroom types. We spent a considerable amount of time and effort searching through multiple sources gathering and processing data. The entire process to find what we need and pre-process them for visualizations was both tedious and difficult. As such, we want to dedicate a section explaining them.
+As mentioned earlier, most housing related data only exists on the city level. For our use case, we wanted to find a breakdown of rental prices on the neighborhood level with multiple bedroom types. We spent a considerable amount of time and effort searching through multiple sources gathering and processing data. The entire process to find what we need and pre-process them for visualizations was both tedious and difficult. As such, we want to dedicate a section explaining it.
 
 #### 1. Neighborhood and Bedroom Level Rental Price Data Over the Years
-This is the most difficult data to find and also the foundation of what we want to build. After much effort into our research, we eventually had 2 options; either we scrape data from rental websites or construct estimation of the data based on what is available on [Zillow](https://www.zillow.com/research/data/). Since the former option is both tedious and only provides current year data, we chose the latter option instead. 
+This is the most difficult data to find and also the foundation of what we want to build. After much effort into our research, we can either scrape data from rental websites or construct estimation of the data based on what is available on [Zillow](https://www.zillow.com/research/data/). 
 
-### 
+![image](https://user-images.githubusercontent.com/79838132/163627104-e83e8411-7da0-41ff-b4d1-976349d8c9e4.png)
+
+After our initial analysis of both methods, we found a way to map housing price data to rental price data on neighborhood level using the Zillow data. Hence, we chose the latter option. As described in our data processing page on the website, we gathered the city level data for both rental and housing prices from Zillow. Based on the formula above, we deduced a ratio for each housing price to be mapped to the rental price across the time frame. Using this ratio, we mapped all the neighborhoods housing prices data available on Zillow to be rental prices instead. You can find all the data files under the `data` directory and this is the [ratio file](data/top10_cities_index_ratio_updated.csv) and an example of the mapped [rental data for 1 bedroom](data/neighborhood_1br_rental_price.csv). After mapping the data, we then split the file into multiple bedrooms and place them into each city folder. The scripts to create these are `data_processing.py` and `neighborhood_data_processing.py` respectively.
+
+#### 2. Geographical Data
+In order to generate graphs on the neighborhood level, we searched neighborhood level `geoJson` files for each city to be added to the `GeoJsonData` folder. These data are obtained in each city’s official data website. For example, San Francisco has its own open data sources [here](https://datasf.org/opendata/). However, since each city has its own way of naming neighborhoods, it is different compared to the neighborhood data from Zillow. This resulted in certain cities not being able to show a complete city level graph. We tried to automate this mapping but the naming conventions may differ based on name ordering, additional symbols, additional words etc. With the help of code to identify different neighborhood names, we managed to manually map them correctly for 3 cities namely, Pittsburgh, San Francisco and Philadelphia. The code to preprocess and visualize this part can be found at `DrawGeoGraph.py`
+
+#### 3. Google Trend Data
+For each neighborhood in each city, we managed to query Google for the times it appears from 2018 to 2022 using a pytrends library. This allows us to consolidate the number of times each neighborhood is being searched over time to generate the word cloud. The code to generate the word cloud data based on google trend can be found at `Word_cloud_data_processing.py`.
+
+#### 4. Safety, Transportation, Income data
+The safety, transportation and income data on the neighborhood level has been another headache in our project. We found multiple sources of these data but they are segregated from place to place with no consolidated file containing them. As such, we downloaded data from multiple sources across websites for each city to obtain the values needed for our visualization. As safety and transportation are very subjective across websites, we deduced our own formula to normalize the data to form a final value of 1 to 10.
+
+### Actual Implementations
+
+
+
 
 ## Results
+The visualizations your system produces and any data to help evaluate your approach. For example, you might describe a case study that illustrates how your visualization(s) address your chosen problem.
+
+In general, our final visualization provides a starting story to explain our use case. It is followed by an explanation tab of the datasets we are using to form our visualizations. All these are optional but we believe it provides users with a better understanding of what this website is about. It is followed by 2 main sections mainly national wide and city wide analysis across the United States based on 10 cities. Each of these analyses has 3 main areas, namely rental price, crime rate (safety) and income level.
+
+Now I will run through a specific case study of how this application will be used from the perspective of a CMU graduating student. We believe anyone looking for rentals in these 10 cities would find this application useful but focusing it on our targeted audience would make the explanation easier and clearer.
+
+### Step by step case study
+<table>
+  <tr>
+    <td>Rental Cost Overview</td>
+    <td>Crime Rate Overview</td>
+    <td>Income Level Overview</td>
+  </tr>
+  <tr>
+    <td><img src="images/RentalOverview.png"></td>
+    <td><img src="images/CrimeOverview.png"></td>
+    <td><img src="images/IncomeOverview.png"></td>
+  </tr>
+</table>
+
+1. As a student who is graduating from CMU soon, the student may have received multiple offers from multiple locations or even the option to work remotely anywhere in the United States. Given such circumstances, the student has a clear overview of what the average rental would be across all cities. If the student wants to find the cheapest rental, Detroit would be the best choice. However, in terms of crime rate, it is actually the highest, which makes it more dangerous than others. In terms of salary expectations, it is slightly above average. Given these options, the student can make a quick decision on what factors to prioritize to decide a city to live in. Eventually, the student may decide to choose Seattle which has a slightly above average ranking across these 3 factors.
+
+1. On top of that, the student may want to check how these factors vary based on historical data. By selecting the year option, the student is able to view how these factors vary in the past. Specifically for rental cost, the student can view rental cost across bedroom types. If the 1 bedroom is too expensive in Seattle, the student can consider looking at the rental price for multiple bedrooms to share with roommates. If the student can also view the historical trend of rental price in any city, this allows the student to make a more informed decision on whether it is a good choice to rent in this city at this point in time. For example, the rental prices in Seattle have skyrocketed due to the pandemic while the rental cost in San Francisco is at an all time low.
+
+1. After the student decides on a city to learn more about, the student can click on the city view to decide which neighborhood to stay in. Given that the student wants to stay alone in a 1 bedroom in San Francisco, the map rental cost view shows clearly that the rental cost in the Glen Park neighborhood is the most expensive (\~$5k). However, right beside it, the Diamond Heights neighborhood only costs half the rental price (\~$2.5k). If distance is not that important, the student can consider living in Diamond Heights instead for cheaper rent.
+
+1. Similar to the national view, the student can view historical prices in San Francisco to decide what would be the best price to pay for housing. The student can also select specific periods to analyze deeper. At the same time, the student may want to view a list of top cheapest or most expensive neighborhoods in San Francisco. The student can easily obtain these data and view the historical prices to determine which neighborhoods would be the best option to stay in based on current prices.
+
+1. With so many choices of neighborhoods, the student may be overwhelmed initially. After the initial research, the student can shortlist a few specific neighborhoods to do comparisons. We have also generated a word cloud based on popular google searches of the neighborhood names in the city hoping to provide the student some popular neighborhoods to consider. For example, Crocker Amazon really stands out in the word cloud for San Francisco and the student can consider checking it out using the neighborhood comparison graph.
+
+1. Although rental price plays a huge role in determining a location to stay, we believe that it is not the only factor. We have an option for the student to view other factors such as safety, transportation and income level of a neighborhood. Similar to the city view, the student can look for the top few neighborhoods based on these factors or make use of the neighborhoods selected previously to analyze these factors between neighborhoods. We also provide historical data to try to present a general trend to the student.
 
 ## Discussion
 
 ## Future Work
+
+Despite spending a lot of time and effort on this project, we believe there are 3 main areas each where we can extend it or refine it further.
+
+### [Extension] Overview of All the Metrics Combined
+Currently, our visualizations show multiple factors into different tabs through a radio button. Although it is informative, from an user experience point of view, it breaks the flow of what the user is doing. Hence, combining all the metrics into a single view will be much helpful to the user. 
+
+Inside this general view, we can also add our own top recommended neighborhoods based on a city. This will be accompanied with slider options to tune how important the user cares about rental prices, safety or transportation. Based on the importance of each factor, the recommendations generated will change. As such, the user will be able to obtain the information much quicker before diving deeper into other areas.
+
+### [Extension] Comparisons between Cities Tab
+With the option to compare between neighborhoods, we thought that it would be great to have an option for the user to compare between cities. Similarly to the concept of comparing phone models before making a decision, we thought it would be great to allow the user to select 2 different cities to do comparisons with.
+
+### [Extension] Machine Learning to Predict Future Prices
+Since we have past data and this is a data science related course, we thought that it would be both interesting and helpful to the user to have some future prices predictions. By having this price output, the user will know immediately if the user is being overcharged or making a gain from a rental deal.
+
+### [Refinement] Selection of City or Neighborhood in the Map View
+If you notice, each page always begins with a map view. Originally, we wanted to allow the user to choose a select city or neighborhood based on the map and all the data will change according to that selection. This can allow the user to navigate more easily without having to have multiple similar inputs at different places. We spent a lot of time on this but eventually decided to move on first given other more crucial tasks.
