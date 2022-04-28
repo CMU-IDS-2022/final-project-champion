@@ -1,3 +1,4 @@
+from turtle import width
 import streamlit as st
 import altair as alt
 import pandas as pd
@@ -14,14 +15,14 @@ df = pd.DataFrame(data=cityStudentMapping)
 def showStory():
   st.header("Which city in the United States are you heading to after graduation?")
 
-  st.markdown("According to thie [CMU webpage](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html), here are the top 10 cities students head to after graduation.")
+  st.markdown("According to this [CMU webpage](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html), here are the top 10 cities students head to after graduation.")
 
   col1, col2, col3 = st.columns([1,6,1])
   with col1:
     st.write("")
   with col2:
     image = Image.open('data/top10CMUGradPlaces.png')
-    st.image(image, caption='Top 10 cities CMU students go to after graduation')
+    st.image(image, caption='Top 10 cities CMU students go to after graduation', width=800)
   with col3:
     st.write("")
 
