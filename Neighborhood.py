@@ -337,11 +337,12 @@ def loadNeighborhoodData():
       # show graph of all counts --> not useful at the moment cos there are too many
       neighborhoods = list(word_trend_df.columns[2:])
 
-      for neigh in neighborhoodSelections:
-        if neigh not in neighborhoods:
-          neighborhoodSelections.remove(neigh)
+      newSelection = [n for n in neighborhoodSelections if n in neighborhoods]
+      # for neigh in neighborhoodSelections:
+      #   if neigh not in neighborhoods:
+      #     neighborhoodSelections.remove(neigh)
 
-      newNeighborhoodSelections = st.multiselect("Which neighborhood popularity would you like to find out more?", neighborhoods, default=neighborhoodSelections)
+      newNeighborhoodSelections = st.multiselect("Which neighborhood popularity would you like to find out more?", neighborhoods, default=newSelection)
       # st.write(neighborhoods)
       lineChart = alt.Chart(word_trend_df).transform_fold(neighborhoods
         ).mark_line().encode(
