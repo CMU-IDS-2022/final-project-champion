@@ -10,6 +10,7 @@ import geocoder
 from vega_datasets import data
 
 import Neighborhood
+import IntroStory
 
 
 
@@ -123,7 +124,7 @@ st.title("Find Your Next Destination after CMU")
 st.sidebar.header("Select View Level")
 page_selection = st.sidebar.radio(
     'View Level',
-    ('Data Processing', 'US National Wide', 'City Wide')
+    ('Introduction', 'Data Processing', 'US National Wide', 'City Wide')
 )
 
 # Data process and validate the assumption
@@ -743,7 +744,8 @@ elif page_selection == "US National Wide":
         with g2:
             st.write(bar_medianincome)
 
-
+elif page_selection == "Introduction":
+    IntroStory.showStory()
 
 # draw neighborhood level data
 elif page_selection == "City Wide":
