@@ -21,7 +21,7 @@ city_neighborhood_mapping = {
   "Detroit": "name",
   "Chicago": "pri_neigh",
   "Philadelphia": "name",
-  "Los Angeles": "name",
+  "LosAngeles": "name",
   "Pittsburgh": "hood",
   "Seattle": "S_HOOD",
   "Washington": "NBH_NAMES"

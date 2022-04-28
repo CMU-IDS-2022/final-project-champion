@@ -127,7 +127,7 @@ def showGeneralNeighborhoodPriceChart(df, city):
         alt.value("green")  # The negative color
     )
   ).properties(
-    title=f"Average price changes for {city} from 2018 to March 2022"
+    title=f"Average price changes for {city} month by month"
   ).interactive() # width=600
 
   # st.write(df)
@@ -200,6 +200,7 @@ def visualizeCityBedroomType(city, bedroom):
   # TODO: add this to data preprocessing column
   # first graph chart
   df['PriceChange'] = df.groupby('Neighborhood')['Prices'].pct_change()
+  
   df['MeanPriceChange'] = df.groupby('Date')['PriceChange'].transform(np.mean)
   df['TotalMeanPrices'] = df.groupby('Date')['Prices'].transform(np.mean)
   # st.write(df)
@@ -283,8 +284,11 @@ def loadNeighborhoodData():
     df = visualizeCityBedroomType(trimmedCitySelection, bedroomTypes[bedroomSelection])
     visualizeTopCitiesGraph(df)
 
+    # show neighborhoods
+    # st.write(set(df['Neighborhood']))
+
     st.subheader("Specific neighborhood visualizations")
-    neighborhoodSelections = st.multiselect("Which neighborhood would you like to see?", set(df['Neighborhood']))
+    neighborhoodSelections = st.multiselect("Which neighborhood would you like to find out more?", set(df['Neighborhood']))
     # st.write(neighborhoodSelections)
     visualizeCityBedroomNeighborhood(df, neighborhoodSelections)
 
