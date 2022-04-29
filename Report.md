@@ -44,13 +44,20 @@ For each neighborhood in each city, we managed to query Google for the times it 
 #### 4. Safety, Transportation, Income data
 The safety, transportation and income data on the neighborhood level has been another headache in our project. We found multiple sources of these data but they are segregated from place to place with no consolidated file containing them. As such, we downloaded data from multiple sources across websites for each city to obtain the values needed for our visualization. As safety and transportation are very subjective across websites, we deduced our own formula to normalize the data to form a final value of 1 to 10.
 
+#### 5. Data Processing Pipeline to Improve Performance
+We tried to preprocess multiple columns for each csv file to ensure that the data can be used easily without having to recalculate again. We also tried to split the large csv file into city level to ensure that the loading speed of each visualization will be optimized.
+
 ### Actual Implementations
 
+We have split our work into 2 parts. The general structure we used to complete this project and the technology we put into place for all the visualizations.
 
+#### General Structure
+The core logic of all the code exists in `app.py`. It has the implementations of the data processing and national wide level pages. The file then links to other files such as `IntroStory.py` which showcases the starting story. It also links to `Neighborhood.py` and `NeighborhoodOthers.py` to showcase neighborhood level data. We tried to segregate the files to ensure that our individual changes will not cause major conflicts.
 
+#### Technology Used
+We started out with working all our individual changes on Google collab notebook. We then convert the codes into the file split by functions to make it neater. We mainly use Streamlit to handle showing the visualizations and Altair to draw the graph and make interactions between graphs. We also used external modules like `plotly` to draw geographical graphs from `geojson` as `Streamlit` faced difficulties in visualizing the `Altair` chart and `wordcloud` to generate word cloud graphs.
 
 ## Results
-The visualizations your system produces and any data to help evaluate your approach. For example, you might describe a case study that illustrates how your visualization(s) address your chosen problem.
 
 In general, our final visualization provides a starting story to explain our use case. It is followed by an explanation tab of the datasets we are using to form our visualizations. All these are optional but we believe it provides users with a better understanding of what this website is about. It is followed by 2 main sections mainly national wide and city wide analysis across the United States based on 10 cities. Each of these analyses has 3 main areas, namely rental price, crime rate (safety) and income level.
 
@@ -83,15 +90,39 @@ Now I will run through a specific case study of how this application will be use
 1. Although rental price plays a huge role in determining a location to stay, we believe that it is not the only factor. We have an option for the student to view other factors such as safety, transportation and income level of a neighborhood. Similar to the city view, the student can look for the top few neighborhoods based on these factors or make use of the neighborhoods selected previously to analyze these factors between neighborhoods. We also provide historical data to try to present a general trend to the student.
 
 ## Discussion
+We have certainly learned a lot from this project. Initially, we had 2 different approaches to tackle this project. The first approach is to use a well structured dataset to try to find novel visualizations and interactions and the second approach is to really try to solve a problem which bothers us from data collection to visualization.
+
+In general, our team members tend to take the safer route of approach 1. However, this time, we tried to do something novel which we thought might be helpful to other students like us. Despite suffering from the data collection process, we are definitely proud that we managed to use all the data to generate some useful and unique visualizations and interactions to help users find out which neighborhood in a city to consider moving to after graduation.
+
+### Possible Takeaways from Our Work
+Before embarking on this project, we noticed that information regarding moving to a city and neighborhood requires deep research and analysis. There is no website for me to do simple comparisons before zooming in into a city to do research on. As such, we hope that this can be the all-in-one platform for the audience to do all the initial research before deciding on moving to a city.
+
+On top of that, having analyzed Pittsburgh, one of our project members who is staying in a 1 bedroom apartment in Shadyside realized that he is paying slightly higher rent compared to the average during the period when he moved in. However, looking at how it has increased to more than his current rental cost, he definitely made the right decision to sign a yearly lease instead. As such, we believe that by showing historical rental prices at neighborhood level will help the audience to make a more informed decision on what rental price to pay and how long to sign the lease.
+
+### Possible New Insights from Our Work
+One important insight we believe is useful and not found anywhere else is the detailed bottom up analysis of neighborhood data in each of these 10 cities. As discussed earlier, these are data which are being scraped by us from multiple sources. 
+
+On top of that, the neighborhood map graph with rental data is not available anywhere as well. This visualization allows users to check neighborhood level mean prices with the location it is in. We believe these are new useful insights which can help the audience make a more informed decision on whether it is worth it to move to a more expensive neighborhood given that nearby neighborhoods are much cheaper. Other neighborhood level visualizations elsewhere are mainly self drawn or man-made with no interactions.
+
+In addition, we believe this project is useful for a variety of audiences at any of the 6 stages shared in the case study. Depending on which stage the audience is at while finding a rental apartment, so long as the city is within those 10 cities, this website will provide insights of historical prices in the area to make a more informed decision to decide what price to put in or how long to sign the lease for.
 
 ## Future Work
 
-Despite spending a lot of time and effort on this project, we believe there are 3 main areas each where we can extend it or refine it further.
+Despite spending a lot of time and effort on this project, we believe there are 3 main areas each where we can refine it or extend it further.
 
-### [Extension] Overview of All the Metrics Combined
-Currently, our visualizations show multiple factors into different tabs through a radio button. Although it is informative, from an user experience point of view, it breaks the flow of what the user is doing. Hence, combining all the metrics into a single view will be much helpful to the user. 
+### [Refinement] Selection of City or Neighborhood in the Map View
+If you notice, each page always begins with a map view. Originally, we wanted to allow the user to choose a select city or neighborhood based on the map and all the data will change according to that selection. This can allow the user to navigate more easily without having to have multiple similar inputs at different places. We spent a lot of time on this but eventually decided to move on first given other more crucial tasks.
 
-Inside this general view, we can also add our own top recommended neighborhoods based on a city. This will be accompanied with slider options to tune how important the user cares about rental prices, safety or transportation. Based on the importance of each factor, the recommendations generated will change. As such, the user will be able to obtain the information much quicker before diving deeper into other areas.
+### [Refinement] Pandemic Period Selection
+As our goal was to show how price has changed from pre-pandemic, pandemic and post-pandemic period so we defined the pandemic period to be the whole of 2020 across all cities. However, the covid cases, government policies vary across cities, which actually affect the period for these periods. As such, we could have given the user an option to enter the period to design themselves or add a covid case chart to link these analyses together. This would make the graphs even more linked to our use case.
+
+### [Refinement] Be more Consistent across Visualizations
+As we split the visualizations into various parts and different people have different ways to showcase the visualizations due to distinct data types being used. We could have spend more time to see if we can reuse certain visualization components across different pages to show a more consistent look.
+
+### [Extension] Creating a General View of All the Metrics Combined with Recommendations
+Currently, our visualizations show multiple factors into different tabs through a radio button. Although it is informative, from an user experience point of view, it breaks the flow of what the user is doing. Hence, combining all the metrics into a single general view will be much helpful to the user. 
+
+By creating this general view tab, we can also add our own top recommended neighborhoods based on a city. This will be accompanied with slider options to tune how important the user cares about rental prices, safety or transportation. Based on the importance of each factor, the recommendations generated will change. As such, the user will be able to obtain the information much quicker before diving deeper into other areas.
 
 ### [Extension] Comparisons between Cities Tab
 With the option to compare between neighborhoods, we thought that it would be great to have an option for the user to compare between cities. Similarly to the concept of comparing phone models before making a decision, we thought it would be great to allow the user to select 2 different cities to do comparisons with.
@@ -99,5 +130,3 @@ With the option to compare between neighborhoods, we thought that it would be gr
 ### [Extension] Machine Learning to Predict Future Prices
 Since we have past data and this is a data science related course, we thought that it would be both interesting and helpful to the user to have some future prices predictions. By having this price output, the user will know immediately if the user is being overcharged or making a gain from a rental deal.
 
-### [Refinement] Selection of City or Neighborhood in the Map View
-If you notice, each page always begins with a map view. Originally, we wanted to allow the user to choose a select city or neighborhood based on the map and all the data will change according to that selection. This can allow the user to navigate more easily without having to have multiple similar inputs at different places. We spent a lot of time on this but eventually decided to move on first given other more crucial tasks.
