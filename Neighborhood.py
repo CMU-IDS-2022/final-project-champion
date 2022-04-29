@@ -155,11 +155,11 @@ def showGeneralNeighborhoodPriceChart(df, city):
   #   y2="max(MeanPrices):Q",
   # )
 
-  interactData = st.checkbox("Select area to zoom in price graph")
-  if interactData:
-    st.altair_chart(barChart.add_selection(brush) + getCovidMarkings() + getCovidText(0.025) | lineChart)
-  else:
-    st.altair_chart(barChart.add_selection(brush) + getCovidMarkings() + getCovidText(0.025) | getCovidMarkings() + lineChart)
+  # interactData = st.checkbox("Select area to zoom in price graph")
+  # if interactData:
+    # st.altair_chart(barChart.add_selection(brush) + getCovidMarkings() + getCovidText(0.025) | lineChart)
+  # else:
+  st.altair_chart(barChart.add_selection(brush) + getCovidMarkings() + getCovidText(0.025) | getCovidMarkings() + lineChart)
 
   # st.altair_chart(barChart.add_selection(brush)
   #   + getCovidMarkings() | 
